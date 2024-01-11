@@ -1,0 +1,162 @@
+Grebe et al., WebKartographie
+
+5
+
+nets für einen plattformunabhängigen 
+Dokumentenaustausch entwickelt wor­
+den. Erst nachträglich ist ein Plugin 
+entwickelt worden, das die Anzeige 
+von PDF-Dateien im Browserfenster 
+erlaubt. Auch beim PDF-Format handelt 
+es sich um ein vektorbasiertes Format, 
+das stufenloses Zoomen oder Verweise 
+per Hyperlink ermöglicht. PDF-Dateien 
+können mit der Software Adobe Acro­
+bat (PDF-Writer oder Distiller) erzeugt 
+werden, über das Druckmenü können 
+auf diese Weise beispielsweise Karten 
+aus jeglichen Softwareprodukten in 
+das PDF-Format konvertiert werden. 
+Zum Anzeigen der Dateien kann das 
+kostenlose Programm Acrobat Reader 
+von der Adobe-Homepage herunter­
+geladen werden.
+
+Zusammenfassung
+
+Aus wissenschaftlicher Perspektive lässt 
+
+sich die Produktion von Web-Karten im 
+Vergleich mit analogen kartographi­
+schen Produkten nur schwer formalisie­
+ren. In welchem Umfang die neue Pro­
+duktionsumgebung die kartographische 
+Theorie beeinflussen wird, ist zum jet­
+zigen Zeitpunkt kaum vorhersehbar. 
+Grundsätzlich besteht ein Bedarf, 
+die grafische Semiologie mit neuen 
+infografischen Regeln zu ergänzen, 
+z. B. mit Audio-, Animations- und Inter­
+aktivitätsregeln. Die tägliche Praxis­
+erfahrung kann dazu beitragen, ein 
+wissenschaftliches Fundament zu grün­
+den, das in Zukunft die Publikation von 
+Web-Karten auf eine sichere Grundlage 
+stellt.
+
+Wer heute vor der Aufgabe steht, 
+eine Thematische Karte ins Internet zu 
+stellen, kann in der Vielzahl von Pro­
+
+dukten und Formaten leicht den 
+Überblick verlieren. Es gibt viele Wege, 
+die über die Kombination unterschied­
+licher Softwareprodukte und unter­
+schiedlicher Dateiformate führen kön­
+nen. Immer wieder müssen Entschei­
+dungen im Hinblick auf Technik und 
+Software getroffen werden, von denen 
+die Qualität des Ergebnisses abhängt. 
+Gerade in der Anfangsphase getrof­
+fene Fehlentscheidungen können meist 
+nur mit hohem Zeitaufwand modifiziert 
+werden. Entscheidend ist dabei: Einzig 
+und allein das Ziel bestimmt den Weg.
+
+Als Beispiel sind hier drei Fragen 
+aufgeführt, die in Abhängigkeit vom 
+jeweiligen Einzelfall vor der Auswahl 
+des geeigneten Grafikformates beant­
+wortet und abgewogen werden 
+müssen:
+1. Welchen Speicherbedarf hat eine 
+Grafik in dem entsprechenden Format? 
+Je größer die Grafik, umso länger 
+muss der Nutzer warten, bis sie her­
+untergeladen ist und in seinem Browser 
+angezeigt werden kann.
+2. Welche Qualität hat eine Grafik in 
+dem entsprechenden Format? Soll bei­
+spielsweise ein kontinuierlicher Farb­
+verlauf dargestellt werden, ist es nicht 
+wünschenswert, dass beim Abspei­
+chern in einem bestimmten Grafikfomat 
+aus dem Verlauf eine Farbabstufung 
+wird, deren einzelne Farbbereiche 
+deutlich zu erkennen sind.
+3. Welche Funktionalität kann ich einer 
+Grafik in dem entsprechenden Format 
+hinzufügen? Bestimmte Formate lassen 
+sich animieren oder zoomen, was bei 
+anderen Formaten nicht möglich ist.
+
+Weitere Fragen ergeben sich aus 
+den Veröffentlichungsparametern 
+(Abb. 2).
+
+In einem sich dynamisch ändernden
+
+Arbeitsfeld „Internet", das von sinn­
+vollen technischen Neuerungen, aber 
+auch von modischen Trends abhängig 
+ist, kommt dem Kartographen die Auf­
+gabe zu, sich ständig zu orientieren, 
+um den Überblick zu behalten und 
+sachgerechte Entscheidungen hinsicht­
+lich seiner Produkte zu treffen. Zur Ver­
+öffentlichung qualitativ hochwertiger 
+Thematischer Karten im Internet ist 
+demnach heutzutage neben dem karto­
+graphischen Wissen der Erwerb und 
+die Anwendung von Medienkompetenz 
+unerlässlich.
+
+Literatur
+
+Baumgardt, Michael 12000): Webdesign mit Adobe 
+Photoshop 5.5. Webgrafiken professionell gestalten 
+mit Mac und PC. Addison-Wesley, München.
+Celeste, Anthony (2000): The Future of Web Design 
+Part I, II and III. In: Corel Designer.com, Focus. 
+(http://www.designer.com/focus/articles/web_future_3/ 
+web_future_all.htm)
+Dickmann, Frank (2000 a): Webmapping (Teil I): 
+Kartenpräsentation im World Wide Web. In: Geogra­
+phische Rundschau 52, Heft 3, Westermann, Braun­
+schweig, S. 42-47.
+Dickmann, Frank (2000 b): Webmapping (Teil II): 
+Kartenentwurf mit dem World Wide Web. In.- Geogra­
+fische Rundschau 52, Heft 5, Westermann, Braun­
+schweig, S. 51-56.
+Gartner, Georg (1996): Internet für Kartographen. In: 
+Kartographische Nachrichten 46, Heft 5, Kirschbaum 
+Verlag, Bonn, S. 185-190.
+McKelvey, Roy (1999): Hypergraphics. Design und 
+Architektur von Websites. Rowohlt Taschenbuch 
+Verlag, Reinbeck.
+Müller, J. C. und U. Grebe (2000): Lingo, eine Skript­
+sprache für die Herstellung animierter und interaktiver 
+Karten. In: Buziek, G., Dransch, D. und W.-D. Rase 
+(Hrsg.): Dynamische Visualisierung. Grundlagen mit 
+Anwendungsbeispielen aus der Kartographie. Springer 
+Verlag, Heidelberg (Erscheinungstermin: Juli 2000). 
+(Aktuelle Informationen von der Springer-Homepage). 
+Schlimm, Reinhold (1998): Aufbau eines Kartographi­
+schen Informationssystems im World Wide Web. In: 
+Kartographische Nachrichten 48, Heft I, Kirschbaum 
+Verlag, Bonn, S. 1-8.
+
+Anschrift der Verfasser: Dipl.-Geogr. Ulrich Grebe,
+Dipl. Geogr. Holger Scharlach, Prof. Dr. Jean-Claude 
+Müller, Ruhr-Universität Bochum, Arbeitsgruppe Karto- 
+grafie/Fernerkundung, Universitätsstraße 150,
+D-44801 Bochum, http://www.ruhr-uni-bochum.de/ 
+kartografie/ sowie www.webkartographie.de
+
+KN
+4/2000
+
+Designer.com
+http://www.designer.com/focus/articles/web_future_3/
+http://www.ruhr-uni-bochum.de/
+http://www.webkartographie.de

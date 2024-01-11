@@ -1,0 +1,103 @@
+GEOÖKO BAND/VOLUME XXI, 137-140 BENSHEIM 2000
+
+TM-SATELLITENBILDINTERPRETATION:
+DIAMOND AREA N° 1 / WANNEN-NAMIB (SÜDNAMIBIA)
+
+- klimatische und prozessmorphologische Differenzierung eines 
+ariden Küstenabschnitts
+
+INGRID STENGEL, WÜRZBURG
+
+Landsat TM satellite image interpretation: Diamond Area N° 1 / "Wannen Namib" 
+(southern Namibia) - climatological and geomorphological zones of an arid coastal area
+
+EINLEITUNG
+
+Das Landsat-TM-(Thematic Mapper)-Satellitenbild umfasst einen ca. 57 x 82 km großen Aus­
+schnitt der Szene 178/979 mit der namibischen Atlantikküste südlich des Hafenstädtchens Lüde- 
+ritz. Das National Remote Sensing Centre (Windhoek/ Namibia) stellte dankenswerterweise die 
+TM-Rohdaten zur Verfügung; die Analyse bezieht Ergebnisse aus früheren, DFG-geförderten Ge­
+ländearbeiten ein.
+Ziel der digitalen Bearbeitung war die farbliche wie textureile Differenzierung des geologisch und 
+prozessmorphologisch kleingekammerten Gebietes. Verwendet wurde die Software ENVI 2.6. Die 
+Spektralkanäle 5, 4 und 2 wurden mit den Farben R-G-B belegt. Die Information umfasst das 
+mittlere Infrarot (Band 5: 1.55-1.75 gm), das nahe IR (Band 4: 0.76-0.90 gm) und das sichtbare 
+grüne Licht (Band 2: 0.52-0.60 gm). So wurde unter den herrschenden ariden Bedingungen die 
+maximale Differenzierung von geologisch-lithologischer Information, Vegetationsanteilen und 
+Oberflächenbeschaffenheit erzielt; gleichzeitig wurden die jeweils sehr ähnlich reflektierenden 
+Kanalpaare 7-4 bzw. 5-3 vermieden. Die Rohdaten wurden zunächst mit einer eigendefinierten 
+3x3-Matrix hochpassgefiltert. Zur folgenden Histogrammspreizung wurden bandspezifische, inter­
+aktiv definierte Grauwertfunktionen verwendet. Die Kontraste im anstehenden, teils stark relie- 
+fierten Gestein und in den dunkleren Partien wurden optimiert, ohne die hellen, flacheren, schutt- 
+oder dünensand-bedeckten Bereiche in die Sättigung zu bringen oder auf ihre Differenzierung zu 
+verzichten. Zuletzt wurden die Daten geocodiert.
+
+INTERPRETATION VON SATELLITENBILD UND LANDSCHAFT
+
+Auffälligstes Merkmal des Ausschnitts ist die farbliche und damit spektrale, küstenparalle Zonie- 
+rung. Sie ist nicht mit einem einzelnen Parameter oder Gradienten korrelierbar, sondern resultiert 
+aus der Interaktion klimatischer, prozessmorphologischer, topographischer und geologischer Fak­
+toren.
+Klimatisch ist das Gebiet geprägt durch die upwelling-Prozesse im Bereich des kalten Benguela- 
+Stroms, die zu Temperaturinversion, Niederschlagsarmut (Jahresmittel 0-50 mm), hoher Luft-
+
+
+
+140 STENGEL
+
+marinen und äolischen küstenparallelen Materialversatz nordwärts verfrachtet und entlang der Kü­
+ste seifenartig angereichert (PALLETT, 1995; CORBETT, 1996). Mit den ersten Diamantfunden 
+1908 bei Grasplatz östlieh von Kolmanskop setzte entlang der südwestafrikanischen Küste ein 
+Diamantenboom ein.
+Der Diamantabbau bestand zunächst in der Siebung der Deflationsrückstände in den Windgassen 
+(Korrasionswannen). Die Mächtigkeit dieser vorzeitlich von den höffigen Strandsanden ausge­
+wehten, und daher durch Anreicherung extrem diamanthaltigen äolischen Sedimente in den Korra­
+sionswannen betrug durchschnittlich nur wenige Zentimeter. Entsprechend flächenhaft waren die 
+Schürf- und Siebungsaktivitäten. Resultat der jahrzehntelangen Diamantensuche sind Zehntausen­
+de kleiner Hügel aus gesiebtem Schutt, Kies und Sand auf den Böden und Flanken der im anste­
+henden Fels ausgebildeten Windgassen. Vermutlich wurde in der ersten Hälfte des 20. Jh. de facto 
+jeder Feinmaterialbereich der Wannen-Namib, sei er äolischer oder alluvialer oder mariner Her­
+kunft, anthropogen umgegraben, gesiebt und umverteilt. Beispiele für Minensiedlungen in der 
+Wannen-Namib zwischen Lüderitz und Oranjemund sind die in den späten 1950er Jahren aufge­
+lassenen Orte Kolmanskop und Pomona.
+Später erfolgte auch der Abbau mariner Sande im Bereich von Nehrungshaken und abgeschnürten 
+Buchten, so in der ebenfalls seit den 1950er Jahren aufgelassenen Minensiedlung direkt östlich des 
+Bogenfels-Brandungstors, oder bis heute in Elizabeth Bay. Heute findet Diamantengewinnung fast 
+ausschließlich off-shore aus marinen Sedimenten statt. (Die auch aus Satellitenperspektive erkenn­
+baren großflächigen On-Shore-Aktivitäten in den Fluss- und Strandsanden bei Oranjemund liegen 
+außerhalb des Bildausschnitts.)
+
+BUSCHE, D. & STENGEL, I. (1993): Rezente und vorzeitliche äolische Abtragung in der Sahara 
+von Ost-Niger. Petermanns Geogr. Mitteilungen, 137: 195-218.
+
+CORBETT, I.B. (1996): A review of diamondiferous marine deposits off westem Southern Africa. 
+Africa Geoscience Review, 3 (2): 157-174.
+
+GEOL. SURVEY OF NAMIBIA [ed.] (1999): Geological Map of South West Africa / Namibia 
+1:250.000: Blatt 2615 Luderitz.
+
+HAGEDORN, H. (1968): Über äolische Abtragung und Formung in der Südost-Sahara. Erdkunde, 
+22: 257-269.
+
+JASPER, M.J.U.; CHARLESWORTH, E.G. & STANISTREET, I.G. (1995): Evidence for the 
+Pan-African Adamastor Orogeny from the Gariep Belt (Damara Orogen) in Southern Namibia. 
+25th Congr. Geol. Soc. S. Afr. Johannesburg, Abstr.-Bd. 2: 1150-1153.
+
+KAISER, E. (1926): Höhenschichtenkarte der Deflationslandschaft in der Namib Südwestafrikas. 
+Abh. Bayer. Akad. Wiss., Math. Phys. Kl. 30, Mitt. der Geogr. Gesellschaft München.
+
+KAISER, E. (1928): Die Diamantenwüste Süd west-Afrikas. Berlin, Reimer. 2 Bde.
+MAINGUET, M. (1968): Le Borkou. Aspects d’un modele eolien. - Ann. de Geogr., 77: 296-322. 
+PALLETT, J. [ed.] (1995): The Sperrgebiet: Namibia’s least known wildemess. An environmental
+
+profile of the Sperrgebiet or Diamond Area 1, in south-westem Namibia. Desert Research 
+Foundation of Namibia and NAMDEB Diamond Corporation (Pty) Ltd. [eds.], Oranjemund.
+
+STENGEL, I. (1992): Zur äolischen Morphodynamik von Dünen und Sandoberflächen. Würzbur­
+ger Geographische Arbeiten, 83, 363 S.
+
+SURVEYOR GENERAL [ed.]: Topogr. maps of Namibia. Windhoek. 1:250.000: 2615 Lüderitz; 
+1.50.000: 2615 CA, CB, CC, CD, DA, DB, DC, DD; 2715 AA/AB, AD, BA, BB, BC, BD.
+
+Anschrift der Autorin: Dr. Ingrid Stengel, Geographisches Institut, Universität Würzburg, 
+Am Hubland, 97074 Würzburg

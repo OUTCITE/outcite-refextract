@@ -1,0 +1,48 @@
+{
+  "reference":   "Ahmad, Feroz. 1996. The Making of Modern Turkey. London: Routledge.",
+  "title":     "The Making of Modern Turkey",
+  "year":      1996,
+  "place":     "London",
+  "start":    21,
+  "end":      39,
+  "source":     "Journal of the Economic and Social History of the Orient",
+  "volume":    102,
+  "issue":    12,
+  "type":      "inproceedings",
+  "doi":      "10.12759/hsr.45.2020.1.129-152",
+  "publishers":   [
+    {
+      "publisher_type":   "Institution",
+      "publisher_string": "Routledge"
+    }
+  ],
+  "editors":    [
+    {
+      "editor_type":   "Person",
+      "editor_string": "Some Editor",
+      "surnames":       "Editor",
+      "initials":     ["S"],
+      "firstnames":   ["Some"]
+    }
+  ],
+  "authors":    [
+    {
+      "author_type":   "Person",
+      "author_string": "Ahmad, Feroz",
+      "surnames":      "Ahmad",
+      "initials":      ["F"],
+      "firstnames":    ["Feroz"]
+    },
+    {
+      "author_type":   "Person",
+      "author_string": "Virginia H. Aksan Gül",
+      "surnames":      "Aksan Gül",
+      "initials":      ["V","H"],
+      "firstnames":    ["Virginia"]
+    },
+    {
+      "author_type":   "Institution",
+      "author_string": "HHU Düsseldorf"
+    }
+  ]
+}

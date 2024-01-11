@@ -1,0 +1,143 @@
+[
+  {
+    "author": [
+      {
+        "family": "Talal",
+        "given": "Basma Bint"
+      }
+    ],
+    "title": "Rethinking an NGO, Development, Donors and Civil Society in Jordan",
+    "publisher": "Tauris",
+    "language": "io",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "117–118",
+    "publisher-place": "London and New York, I.B"
+  },
+  {
+    "author": [
+      {
+        "family": "Putnam",
+        "given": "Robert D."
+      }
+    ],
+    "title": "Making Democracy Work, Civic Traditions in Modern Italy",
+    "publisher": "Princeton, Princeton University Press",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "181"
+  },
+  {
+    "author": [
+      {
+        "family": "al-Ghanuchi",
+        "given": "Rachid"
+      }
+    ],
+    "title": "Secularism in the Arab Maghreb",
+    "editor": [
+      {
+        "family": "Exposito",
+        "given": "John L."
+      },
+      {
+        "family": "Tammimi",
+        "given": "Azzam"
+      }
+    ],
+    "container-title": "Islam and Secularism in the Middle East",
+    "publisher": "Hurst \u0026 Company",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "111–112",
+    "publisher-place": "London"
+  },
+  {
+    "author": [
+      {
+        "given": "Ayubi"
+      }
+    ],
+    "publisher": "The Failure of Political Islam",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "page": "231",
+    "publisher-place": "Oliver Roy"
+  },
+  {
+    "author": [
+      {
+        "family": "Burgat",
+        "given": "Francois"
+      }
+    ],
+    "title": "Face to Face with Political Islam",
+    "publisher": "Tauris",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "43–48",
+    "publisher-place": "London and New York, I.B"
+  },
+  {
+    "author": [
+      {
+        "family": "Singerman",
+        "given": "Diane"
+      }
+    ],
+    "title": "The Networked World of Islamist Social Movements",
+    "editor": [
+      {
+        "given": "Wiktorowicz"
+      }
+    ],
+    "language": "en",
+    "type": null,
+    "page": "143–163"
+  },
+  {
+    "author": [
+      {
+        "given": "Wiktorowicz"
+      }
+    ],
+    "title": "The Limits of Democracy in the Middle East",
+    "language": "en",
+    "type": null,
+    "page": "609–611"
+  }
+]

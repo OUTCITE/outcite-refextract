@@ -1,0 +1,142 @@
+Hoffmann et al.f Automatisierte Aktualisierung von Karten
+
+Prozess - beginnend bei der Daten­
+aufnahme mittels SAR-Technologie und 
+endend in der Datenpräsentation mit 
+Hilfe eines digitalen Kartenproduktions­
+ablaufes - garantiert werden. Dieser 
+Gesamtprozess kommt nicht ohne 
+die am Ende notwendige Qualitäts­
+kontrolle aus, die bei Kartenprojekten 
+
+in Schwellenländern durch entspre­
+chende Aus- und Weiterbildung vor 
+Ort garantiert wird.
+
+Al-Nakib, N. (1996): Interpretation und digitale Bear­
+beitung von Kartenobjekten aus SAR-Daten für die 
+Kartenherstellung der Maßstäbe 125 000 und 
+I •• 100 000, Diplomarbeit, Fachhochschule München. 
+Huber, R., Schmieder, A. (1997): Automatic extraction 
+of cartographic features from airborne interferometric 
+SAR data, Proceedings of EUROPTO Symposium on
+
+Die automatisierte Aktualisierung 
+von Karten: Neue Methoden mit Daten 
+der digitalen Kamera HRSC-A
+
+Andrea Hoffmann, Jan Willem van der Vegt, Frank Lehmann, Berlin und Amsterdam
+
+il Einleitung
+Auf dem Luftbildsektor vollziehen sich 
+
+se|t einigen Jahren dramatische Verän­
+derungen. Digitale flugzeuggetragene 
+Kamera Systeme und hochauflösende 
+Satellitensysteme bieten völlig neue 
+Potenziale der Datenakquisition und
+
+■auswertung. Es ist absehbar, dass 
+diese digitalen Datensätze in abseh­
+barer Zeit das herkömmliche Luftbild 
+
+ersetzen werden und die Photogram­
+
+Aerospace Remote Sensing, London, UK, p. 188-196. 
+Keim, A. (1997): Untersuchung zur Fortführung von 
+ATKIS-DLM 25-Daten durch visuelle Interpretation von 
+SAR-Bildern, Diplomarbeit, Fachhochschule München. 
+Schmieder, A., 1997: Gewinnung von Höhendaten 
+aus InSAR-Daten durch automatische Klassifikation zur 
+Geländemodellbearbeitung, Diplomarbeit, Fachhoch­
+schule München.
+Schmieder, A., Huber, R. (20001: Automatic generation 
+of contour lines for topographic maps by means of 
+airborne high-resolution interferometric radar data, 
+Proceedings of the ASPRS Annual Conference Procee­
+dings, Washington, DC, USA, May 2000.
+Schwäbisch, M., Moreira, J. (19991: The high resolution 
+airborne interferometric SAR AeS-1. Fourth international 
+airborne remote sensing conference and exhibition, 
+Ottawa, Canada, 21-24June 1999.
+Wimmer, Ch., Siegmund, R., Schwäbisch, M., Moreira, 
+J. (2000): Generating of high-precision DEMs of the 
+Wadden Sea with airborne interferometric SAR. Janu­
+ary 2000, IGARSS 2000, Hawaii, USA, July 2000. 
+Wintges, T, Al-Nakib, N. (2000): Topographic map 
+production based on SAR ortho image maps, Procee­
+dings of Convención International Informática 2000,
+II Congreso International de Geomatica, La Habana, 
+Cuba, May 2000.
+
+Anschrift der Verfasser: Prof. Dr. Theodor Wintges, 
+Fachhochschule München, Fb VK 08, Karlslr. 6, 
+D-80333 München; Dipl.-Ing. (FH) Nuri Al-Nakib, 
+c/o Aero-Sensing Radarsysteme GmbH, c/o DLR 
+Oberpfaffenhofen, D-82234 Wesseling.
+
+metrie und Fernerkundung erheblich 
+und grundsätzlich verändern. Die neue 
+Generation von digitalen Kameras 
+wird zwei zentrale Bereiche der Karto­
+graphie einschneidend beeinflussen: 
+die Orthokartenherstellung und die 
+Kartenaktualisierung.
+
+Durch die automatisierte Prozessie- 
+rung können Orthokarten den Anfor­
+derungen an schnelle aktuelle Karten­
+produkte gerecht werden, mit ihrer 
+hochgenauen Navigation bieten die 
+digitalen Systeme die automatisierte
+
+Erstellung geometrisch sehr genauer 
+Datensätze, die mit herkömmlichen 
+Mitteln nur sehr aufwendig erreicht 
+werden könnten. Bei der Prozessierung 
+sind weder visuelle Interpretation noch 
+die Verwendung eingemessener Punkte 
+
+notwendig. (Der Vorteil des Einsatzes 
+digitaler Daten zur Orthobildgenerie- 
+rung wurde bereits in KN 2/2000 
+diskutiert [Hoffmann/Lehmann 2000]).
+
+Als Grundlage für Aktualisierungen 
+von Kartenwerken dienen zunehmend 
+digitale Daten in Nachfolge von Luft­
+bildern. Für eine angestrebte automati­
+sierte Aktualisierung von Kartenwerken/ 
+Vektordatensätzen werden Ansätze 
+zur Interpretation der hochauflösenden 
+Daten benötigt.
+
+Dieser Artikel diskutiert einen Ansatz 
+zur automatisierten Aktualisierung, 
+der in Kooperation mit der nationalen 
+Kartenbehörde der Niederlande (TDN) 
+getestet wurde. Ziel des Pilotprojektes 
+war zunächst eine automatisierte 
+Hauserkennung zur Aktualisierung des 
+nationalen Top lOVector-Datensatzes. 
+Grundlage waren Daten der digitalen 
+Kamera HRSC-A, die seit drei Jahren 
+Operationen im Einsatz ist, und ein 
+neues Auswertekonzept mit Hilfe des 
+Softwarepaketes eCognition. Die Kom­
+bination dieser neuartigen digitalen 
+Daten mit neuen Auswertemethoden 
+zeigte überzeugende Ergebnisse. Von 
+entscheidender Bedeutung für die 
+Machbarkeit der Hauserkennung war 
+die Einbeziehung eines Oberflächen­
+modells (DOM).
+
+2
+Interpretation 
+hochauflösender Daten
+
+In der Fernerkundung ist ein grund-
+
+MN
+S/2000

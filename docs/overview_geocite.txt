@@ -1,0 +1,1778 @@
+field                                                      count    %
+-------------------------------------------------------  -------  ---
+anystyle_references_from_cermine_fulltext                   3133  100
+anystyle_references_from_cermine_fulltext.any_id               0    0
+anystyle_references_from_cermine_fulltext.any_ref            139   78
+anystyle_references_from_cermine_fulltext.any_url              0    0
+anystyle_references_from_cermine_refstrings                 3580  100
+anystyle_references_from_cermine_refstrings.any_id             0    0
+anystyle_references_from_cermine_refstrings.any_ref          130   73
+anystyle_references_from_cermine_refstrings.any_url            0    0
+anystyle_references_from_grobid_fulltext                    3770  100
+anystyle_references_from_grobid_fulltext.any_id                0    0
+anystyle_references_from_grobid_fulltext.any_ref             128   72
+anystyle_references_from_grobid_fulltext.any_url               0    0
+anystyle_references_from_grobid_refstrings                  4026  100
+anystyle_references_from_grobid_refstrings.any_id              0    0
+anystyle_references_from_grobid_refstrings.any_ref           134   75
+anystyle_references_from_grobid_refstrings.any_url             0    0
+anystyle_references_from_pdftotext_fulltext                 3644  100
+anystyle_references_from_pdftotext_fulltext.any_id             0    0
+anystyle_references_from_pdftotext_fulltext.any_ref          153   86
+anystyle_references_from_pdftotext_fulltext.any_url            0    0
+cermine_references_from_cermine_xml                         3580  100
+cermine_references_from_cermine_xml.any_id                     0    0
+cermine_references_from_cermine_xml.any_ref                  130   73
+cermine_references_from_cermine_xml.any_url                    0    0
+cermine_references_from_grobid_refstrings                   4026  100
+cermine_references_from_grobid_refstrings.any_id               0    0
+cermine_references_from_grobid_refstrings.any_ref            134   75
+cermine_references_from_grobid_refstrings.any_url              0    0
+exparser_references_from_cermine_layout                     3229  100
+exparser_references_from_cermine_layout.any_id                 0    0
+exparser_references_from_cermine_layout.any_ref              174   98
+exparser_references_from_cermine_layout.any_url                0    0
+grobid_references_from_grobid_xml                           4026  100
+grobid_references_from_grobid_xml.any_id                       0    0
+grobid_references_from_grobid_xml.any_ref                    134   75
+grobid_references_from_grobid_xml.any_url                      0    0
+has_anystyle_references_from_cermine_fulltext                139   78
+has_anystyle_references_from_cermine_refstrings              130   73
+has_anystyle_references_from_gold_fulltext                   178  100
+has_anystyle_references_from_gold_refstrings                 178  100
+has_anystyle_references_from_grobid_fulltext                 128   72
+has_anystyle_references_from_grobid_refstrings               134   75
+has_anystyle_references_from_pdftotext_fulltext              153   86
+has_anystyle_refstrings_from_cermine_fulltext                139   78
+has_anystyle_refstrings_from_grobid_fulltext                 128   72
+has_anystyle_refstrings_from_pdftotext_fulltext              153   86
+has_anystyle_xml_from_cermine_fulltext                       177   99
+has_anystyle_xml_from_gold_fulltext                          178  100
+has_anystyle_xml_from_grobid_fulltext                        176   99
+has_bing_urls                                                 14    8
+has_block_ids                                                168   94
+has_cermine_fulltext                                         178  100
+has_cermine_layout                                           178  100
+has_cermine_references_from_cermine_refstrings               129   72
+has_cermine_references_from_cermine_xml                      130   73
+has_cermine_references_from_gold_refstrings                  178  100
+has_cermine_references_from_grobid_refstrings                134   75
+has_cermine_xml                                              178  100
+has_duplicates                                               178  100
+has_exparser_references_from_cermine_layout                  174   98
+has_fulltext                                                 177   99
+has_gold_fulltext                                            178  100
+has_gold_refobjects                                          178  100
+has_gold_refstrings                                          178  100
+has_grobid_references_from_grobid_xml                        134   75
+has_outliers                                                 178  100
+has_outliers_grobid_references_from_grobid_xml               178  100
+has_pdf                                                      178  100
+has_pdftotext_fulltext                                       178  100
+has_results_anystyle_references_from_cermine_fulltext        136   76
+has_results_anystyle_references_from_cermine_refstrings      128   72
+has_results_anystyle_references_from_grobid_fulltext          27   15
+has_results_anystyle_references_from_grobid_refstrings       133   75
+has_results_anystyle_references_from_pdftotext_fulltext      151   85
+has_results_cermine_references_from_cermine_xml              128   72
+has_results_cermine_references_from_grobid_refstrings        133   75
+has_results_exparser_references_from_cermine_layout          171   96
+has_results_grobid_references_from_grobid_xml                133   75
+has_xml                                                      177   99
+ZGDi_1998_0003 17 19 23 exparser_references_from_cermine_layout
+GOKO_2000_0010 7 7 16 exparser_references_from_cermine_layout
+disP_2002_012 8 9 66 exparser_references_from_cermine_layout
+ZTou_2017_0010 39 40 46 exparser_references_from_cermine_layout
+Stan_2000_0004 5 5 16 exparser_references_from_cermine_layout
+MOGG_2009_012 26 26 30 exparser_references_from_cermine_layout
+ZTou_2010_0005 32 39 50 exparser_references_from_cermine_layout
+MOGG_2009_004 51 54 70 exparser_references_from_cermine_layout
+Stan_1997_0012 14 15 18 exparser_references_from_cermine_layout
+EiGe_1959_0003 4 10 13 exparser_references_from_cermine_layout
+GaS_2000_0003 11 14 24 exparser_references_from_cermine_layout
+disP_2002_009 2 4 4 exparser_references_from_cermine_layout
+Erdk_2002_0025 72 75 88 exparser_references_from_cermine_layout
+ZTou_2014_0007 29 37 41 exparser_references_from_cermine_layout
+GeRev_2008_0008 40 41 51 exparser_references_from_cermine_layout
+GeRev_2008_0005 11 11 18 exparser_references_from_cermine_layout
+GaS_2016_0001 16 24 70 exparser_references_from_cermine_layout
+GaS_2016_0003 20 21 25 exparser_references_from_cermine_layout
+Stan_1997_0003 4 6 9 exparser_references_from_cermine_layout
+Erde_1999_0018 1 1 44 exparser_references_from_cermine_layout
+GOKO_2000_0001 2 2 3 exparser_references_from_cermine_layout
+EiGe_1976_0015 13 18 17 exparser_references_from_cermine_layout
+Erdk_1970_0008 5 8 9 exparser_references_from_cermine_layout
+KaNa_2000_005 8 8 11 exparser_references_from_cermine_layout
+Raum_2004_0004 8 10 9 exparser_references_from_cermine_layout
+GOKO_2000_0007 3 3 9 exparser_references_from_cermine_layout
+ZGDi_1998_0006 13 15 24 exparser_references_from_cermine_layout
+GeRev_2008_0002 20 29 30 exparser_references_from_cermine_layout
+ZGDi_1998_0002 6 7 14 exparser_references_from_cermine_layout
+MOGG_2009_008 33 35 40 exparser_references_from_cermine_layout
+Prax_2001_0011 7 7 19 exparser_references_from_cermine_layout
+GeRev_2001_0004 35 36 52 exparser_references_from_cermine_layout
+ZGDi_2018_0007 6 7 105 exparser_references_from_cermine_layout
+EiGe_1990_0009 21 23 28 exparser_references_from_cermine_layout
+MOGG_2009_007 6 6 8 exparser_references_from_cermine_layout
+Stan_2003_0015 6 9 6 exparser_references_from_cermine_layout
+GOKO_2000_0006 6 6 23 exparser_references_from_cermine_layout
+MOGG_2009_011 27 29 31 exparser_references_from_cermine_layout
+GaS_2000_0001 9 9 22 exparser_references_from_cermine_layout
+GaS_2009_0001 12 17 40 exparser_references_from_cermine_layout
+ZGDi_1998_0007 16 18 23 exparser_references_from_cermine_layout
+Prax_2001_0006 2 2 3 exparser_references_from_cermine_layout
+Erde_1968_0001 2 2 2 exparser_references_from_cermine_layout
+Erdk_1970_0020 2 6 13 exparser_references_from_cermine_layout
+Raum_2012_0001 1 3 1 exparser_references_from_cermine_layout
+Erde_1968_0002 2 4 4 exparser_references_from_cermine_layout
+disP_2002_008 9 10 49 exparser_references_from_cermine_layout
+KaNa_2000_003 3 4 5 exparser_references_from_cermine_layout
+Raum_2004_0002 3 4 3 exparser_references_from_cermine_layout
+Prax_2001_0007 3 4 7 exparser_references_from_cermine_layout
+KaNa_2000_009 5 5 17 exparser_references_from_cermine_layout
+GeoR_2015_0004 7 7 8 exparser_references_from_cermine_layout
+KaNa_2000_007 14 16 16 exparser_references_from_cermine_layout
+EuRe_1999_0002 33 34 44 exparser_references_from_cermine_layout
+GaS_2009_0002 8 8 10 exparser_references_from_cermine_layout
+disP_2002_010 13 13 16 exparser_references_from_cermine_layout
+KaNa_2000_008 6 7 8 exparser_references_from_cermine_layout
+Raum_2012_0002 1 2 1 exparser_references_from_cermine_layout
+KaNa_2000_004 2 2 3 exparser_references_from_cermine_layout
+GaS_2000_0005 2 2 2 exparser_references_from_cermine_layout
+Prax_2001_0005 10 10 15 exparser_references_from_cermine_layout
+Raum_2004_0001 3 4 3 exparser_references_from_cermine_layout
+Raum_2012_0003 3 4 4 exparser_references_from_cermine_layout
+KaNa_2000_012 7 8 8 exparser_references_from_cermine_layout
+GaS_2016_0005 29 29 57 exparser_references_from_cermine_layout
+Erde_1982_0003 30 32 45 exparser_references_from_cermine_layout
+Erde_1953_0017 4 4 7 exparser_references_from_cermine_layout
+Stan_2003_0012 7 13 9 exparser_references_from_cermine_layout
+MOGG_2009_006 12 12 20 exparser_references_from_cermine_layout
+Erde_1999_0010 3 3 24 exparser_references_from_cermine_layout
+disP_2002_006 18 19 20 exparser_references_from_cermine_layout
+ZGDi_2018_0008 4 4 4 exparser_references_from_cermine_layout
+RaRa_2003_019 22 27 44 exparser_references_from_cermine_layout
+GeoR_2015_0002 12 13 29 exparser_references_from_cermine_layout
+disP_2002_011 10 12 15 exparser_references_from_cermine_layout
+disP_2002_004 6 6 12 exparser_references_from_cermine_layout
+GeoR_2015_0010 23 23 26 exparser_references_from_cermine_layout
+disP_2002_007 12 14 15 exparser_references_from_cermine_layout
+Stan_1997_0009 7 12 9 exparser_references_from_cermine_layout
+RaRa_2003_034 9 14 12 exparser_references_from_cermine_layout
+GeRev_2012_0006 28 29 46 exparser_references_from_cermine_layout
+ZTou_2017_0004 22 26 29 exparser_references_from_cermine_layout
+ZTou_2014_0016 14 15 20 exparser_references_from_cermine_layout
+MOGG_2009_001 7 7 10 exparser_references_from_cermine_layout
+GaS_2009_0003 18 18 51 exparser_references_from_cermine_layout
+GeoR_2015_0012 26 29 30 exparser_references_from_cermine_layout
+KaNa_2000_011 10 11 21 exparser_references_from_cermine_layout
+GeRev_1999_0005 4 5 4 exparser_references_from_cermine_layout
+ZTou_2017_0014 17 18 20 exparser_references_from_cermine_layout
+GOKO_2000_0008 9 10 11 exparser_references_from_cermine_layout
+ZGDi_2018_0002 9 11 68 exparser_references_from_cermine_layout
+ZTou_2010_0012 14 15 14 exparser_references_from_cermine_layout
+ZTou_2010_0007 6 11 12 exparser_references_from_cermine_layout
+disP_2002_003 25 27 30 exparser_references_from_cermine_layout
+Raum_2012_0004 4 4 12 exparser_references_from_cermine_layout
+Erde_1953_0009 1 1 12 exparser_references_from_cermine_layout
+disP_2002_013 4 4 12 exparser_references_from_cermine_layout
+Raum_2004_0003 7 8 11 exparser_references_from_cermine_layout
+GaS_2009_0005 25 25 30 exparser_references_from_cermine_layout
+Erdk_1970_0012 5 8 15 exparser_references_from_cermine_layout
+GeRev_2001_0001 37 40 45 exparser_references_from_cermine_layout
+GeoR_2015_0007 21 21 26 exparser_references_from_cermine_layout
+disP_2002_005 6 6 10 exparser_references_from_cermine_layout
+GeoR_2015_0003 18 19 22 exparser_references_from_cermine_layout
+GeoR_2015_0008 13 14 31 exparser_references_from_cermine_layout
+ZTou_2014_0004 39 58 41 exparser_references_from_cermine_layout
+GaS_2000_0004 3 3 8 exparser_references_from_cermine_layout
+Prax_2001_0004 5 5 14 exparser_references_from_cermine_layout
+EuRe_1999_0007 33 33 35 exparser_references_from_cermine_layout
+GeoR_2015_0005 15 15 18 exparser_references_from_cermine_layout
+GeoR_2015_0001 15 15 22 exparser_references_from_cermine_layout
+GeRev_2001_0007 42 42 50 exparser_references_from_cermine_layout
+Prax_2001_0012 6 6 7 exparser_references_from_cermine_layout
+Prax_2001_0010 5 8 6 exparser_references_from_cermine_layout
+EuRe_1994_0003 2 4 4 exparser_references_from_cermine_layout
+KaNa_2000_013 11 16 13 exparser_references_from_cermine_layout
+GeoR_2015_0009 21 22 32 exparser_references_from_cermine_layout
+Prax_2001_0002 12 17 25 exparser_references_from_cermine_layout
+ZGDi_2018_0005 3 3 4 exparser_references_from_cermine_layout
+GeoR_2015_0006 14 23 21 exparser_references_from_cermine_layout
+KaNa_2000_010 1 2 3 exparser_references_from_cermine_layout
+Prax_2001_0001 3 4 4 exparser_references_from_cermine_layout
+KaNa_2000_006 3 5 3 exparser_references_from_cermine_layout
+EuRe_1994_0015 20 20 24 exparser_references_from_cermine_layout
+RaRa_2017_004 67 72 82 exparser_references_from_cermine_layout
+ZTou_2014_0011 45 50 49 exparser_references_from_cermine_layout
+GeRev_1999_0003 38 38 49 exparser_references_from_cermine_layout
+EiGe_1959_0017 10 10 15 exparser_references_from_cermine_layout
+GeRev_2005_0002 18 18 33 exparser_references_from_cermine_layout
+ZGDi_2018_0003 11 13 58 exparser_references_from_cermine_layout
+GaS_2016_0004 41 45 58 exparser_references_from_cermine_layout
+RaRa_2014_003 52 52 55 exparser_references_from_cermine_layout
+Stan_2003_0008 14 16 23 exparser_references_from_cermine_layout
+ZTou_2010_0003 5 6 5 exparser_references_from_cermine_layout
+Erde_1982_0001 21 22 28 exparser_references_from_cermine_layout
+EiGe_1959_0010 11 11 16 exparser_references_from_cermine_layout
+GeRev_2012_0003 7 7 8 exparser_references_from_cermine_layout
+GeRev_2005_0004 31 31 39 exparser_references_from_cermine_layout
+ZGDi_2018_0001 51 65 65 exparser_references_from_cermine_layout
+RaRa_2014_013 29 30 35 exparser_references_from_cermine_layout
+ZGDi_1998_0008 72 76 94 exparser_references_from_cermine_layout
+EuRe_1999_0014 25 25 30 exparser_references_from_cermine_layout
+MOGG_2009_003 96 99 110 exparser_references_from_cermine_layout
+GOKO_2018_0001 7 7 92 exparser_references_from_cermine_layout
+MOGG_2009_009 39 40 52 exparser_references_from_cermine_layout
+GOKO_2000_0009 15 15 104 exparser_references_from_cermine_layout
+ZGDi_2018_0006 10 13 35 exparser_references_from_cermine_layout
+EiGe_2005_0008 36 43 60 exparser_references_from_cermine_layout
+MOGG_2009_005 33 36 42 exparser_references_from_cermine_layout
+GaS_2016_0002 22 31 37 exparser_references_from_cermine_layout
+GeRev_2012_0010 52 52 64 exparser_references_from_cermine_layout
+ZTou_2017_0001 73 79 92 exparser_references_from_cermine_layout
+GOKO_2000_0004 10 12 14 exparser_references_from_cermine_layout
+EuRe_2001_0007 23 27 26 exparser_references_from_cermine_layout
+GOKO_2000_0003 10 10 14 exparser_references_from_cermine_layout
+GOKO_2000_0005 4 4 33 exparser_references_from_cermine_layout
+EiGe_1976_0008 7 7 9 exparser_references_from_cermine_layout
+RaRa_2017_030 43 44 54 exparser_references_from_cermine_layout
+Erde_1999_0003 2 2 7 exparser_references_from_cermine_layout
+Erde_1953_0001 6 6 13 exparser_references_from_cermine_layout
+GOKO_2000_0002 12 12 20 exparser_references_from_cermine_layout
+EuRe_2001_0002 14 14 18 exparser_references_from_cermine_layout
+EuRe_2005_0003 23 24 28 exparser_references_from_cermine_layout
+Stan_2003_0003 10 14 11 exparser_references_from_cermine_layout
+GeRev_1999_0001 23 24 29 exparser_references_from_cermine_layout
+Erde_1982_0002 16 17 27 exparser_references_from_cermine_layout
+RaRa_2017_009 44 46 50 exparser_references_from_cermine_layout
+ZGDi_2018_0004 22 22 45 exparser_references_from_cermine_layout
+EuRe_1994_0008 22 22 30 exparser_references_from_cermine_layout
+ZGDi_1998_0004 35 36 43 exparser_references_from_cermine_layout
+EiGe_1976_0001 30 36 42 exparser_references_from_cermine_layout
+------------------------------------------------------------
+---exparser_references_from_cermine_layout---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 90 REC: 61 F1: 73 TP: 2910 P: 3222 T: 4704
+        [AVG] PREC: 88 REC: 65 F1: 75
+REFOBJ: [ALL] PREC: 71 REC: 47 F1: 57 TP: 22815 P: 31799 T: 47573
+        [AVG] PREC: 67 REC: 50 F1: 57
+------------------------------------------------------------
+GOKO_2018_0002 13 13 32 cermine_references_from_cermine_xml
+GaS_2009_0004 16 21 19 cermine_references_from_cermine_xml
+GOKO_2018_0003 11 12 27 cermine_references_from_cermine_xml
+Erdk_1985_0012 2 5 25 cermine_references_from_cermine_xml
+GeoR_2015_0013 14 15 23 cermine_references_from_cermine_xml
+Erdk_1955_0006 4 5 6 cermine_references_from_cermine_xml
+GOKO_2018_0004 31 31 65 cermine_references_from_cermine_xml
+ZGDi_1998_0003 7 8 23 cermine_references_from_cermine_xml
+GOKO_2000_0010 9 9 16 cermine_references_from_cermine_xml
+ZTou_2017_0010 46 46 46 cermine_references_from_cermine_xml
+Stan_2000_0004 16 16 16 cermine_references_from_cermine_xml
+MOGG_2009_012 30 30 30 cermine_references_from_cermine_xml
+ZTou_2010_0005 24 39 50 cermine_references_from_cermine_xml
+MOGG_2009_004 70 70 70 cermine_references_from_cermine_xml
+Stan_1997_0012 12 60 18 cermine_references_from_cermine_xml
+EiGe_1959_0003 6 7 13 cermine_references_from_cermine_xml
+GaS_2000_0003 1 1 24 cermine_references_from_cermine_xml
+Erdk_2002_0025 88 88 88 cermine_references_from_cermine_xml
+ZTou_2014_0007 41 41 41 cermine_references_from_cermine_xml
+GeRev_2008_0008 50 50 51 cermine_references_from_cermine_xml
+GeRev_2008_0005 17 17 18 cermine_references_from_cermine_xml
+GaS_2016_0001 52 68 70 cermine_references_from_cermine_xml
+GaS_2016_0003 18 23 25 cermine_references_from_cermine_xml
+Stan_1997_0003 9 10 9 cermine_references_from_cermine_xml
+Erde_1999_0018 37 37 44 cermine_references_from_cermine_xml
+GOKO_2000_0001 3 3 3 cermine_references_from_cermine_xml
+EiGe_1976_0015 11 11 17 cermine_references_from_cermine_xml
+Erdk_1970_0008 9 11 9 cermine_references_from_cermine_xml
+KaNa_2000_005 4 5 11 cermine_references_from_cermine_xml
+Raum_2004_0004 9 9 9 cermine_references_from_cermine_xml
+GOKO_2000_0007 9 9 9 cermine_references_from_cermine_xml
+ZGDi_1998_0006 13 13 24 cermine_references_from_cermine_xml
+GeRev_2008_0002 28 39 30 cermine_references_from_cermine_xml
+ZGDi_1998_0002 4 4 14 cermine_references_from_cermine_xml
+MOGG_2009_008 40 40 40 cermine_references_from_cermine_xml
+Prax_2001_0011 2 2 19 cermine_references_from_cermine_xml
+GeRev_2001_0004 52 52 52 cermine_references_from_cermine_xml
+ZGDi_2018_0007 56 56 105 cermine_references_from_cermine_xml
+EiGe_1990_0009 23 23 28 cermine_references_from_cermine_xml
+MOGG_2009_007 7 7 8 cermine_references_from_cermine_xml
+Stan_2003_0015 6 7 6 cermine_references_from_cermine_xml
+GOKO_2000_0006 16 18 23 cermine_references_from_cermine_xml
+MOGG_2009_011 31 31 31 cermine_references_from_cermine_xml
+GaS_2000_0001 19 23 22 cermine_references_from_cermine_xml
+GaS_2009_0001 22 28 40 cermine_references_from_cermine_xml
+ZGDi_1998_0007 12 12 23 cermine_references_from_cermine_xml
+Erde_1968_0001 2 2 2 cermine_references_from_cermine_xml
+Erdk_1970_0020 3 4 13 cermine_references_from_cermine_xml
+Raum_2012_0001 1 1 1 cermine_references_from_cermine_xml
+Erde_1968_0002 2 6 4 cermine_references_from_cermine_xml
+disP_2002_008 1 1 49 cermine_references_from_cermine_xml
+EuRe_1999_0002 44 46 44 cermine_references_from_cermine_xml
+GaS_2009_0002 9 9 10 cermine_references_from_cermine_xml
+GaS_2016_0005 50 66 57 cermine_references_from_cermine_xml
+Erde_1982_0003 45 59 45 cermine_references_from_cermine_xml
+Erde_1953_0017 7 7 7 cermine_references_from_cermine_xml
+Stan_2003_0012 9 11 9 cermine_references_from_cermine_xml
+MOGG_2009_006 17 17 20 cermine_references_from_cermine_xml
+Stan_1997_0009 9 16 9 cermine_references_from_cermine_xml
+RaRa_2003_034 4 6 12 cermine_references_from_cermine_xml
+GeRev_2012_0006 45 46 46 cermine_references_from_cermine_xml
+ZTou_2017_0004 29 29 29 cermine_references_from_cermine_xml
+ZTou_2014_0016 20 21 20 cermine_references_from_cermine_xml
+MOGG_2009_001 9 9 10 cermine_references_from_cermine_xml
+GeRev_1999_0005 4 5 4 cermine_references_from_cermine_xml
+ZTou_2017_0014 20 20 20 cermine_references_from_cermine_xml
+GOKO_2000_0008 11 12 11 cermine_references_from_cermine_xml
+ZGDi_2018_0002 40 41 68 cermine_references_from_cermine_xml
+ZTou_2010_0012 14 15 14 cermine_references_from_cermine_xml
+ZTou_2010_0007 5 5 12 cermine_references_from_cermine_xml
+disP_2002_003 4 5 30 cermine_references_from_cermine_xml
+Raum_2012_0004 6 6 12 cermine_references_from_cermine_xml
+Erde_1953_0009 1 1 12 cermine_references_from_cermine_xml
+disP_2002_013 8 10 12 cermine_references_from_cermine_xml
+Raum_2004_0003 3 3 11 cermine_references_from_cermine_xml
+GaS_2009_0005 3 7 30 cermine_references_from_cermine_xml
+Erdk_1970_0012 15 16 15 cermine_references_from_cermine_xml
+GeRev_2001_0001 44 49 45 cermine_references_from_cermine_xml
+ZTou_2014_0004 17 105 41 cermine_references_from_cermine_xml
+EuRe_1999_0007 35 35 35 cermine_references_from_cermine_xml
+EuRe_1994_0015 24 24 24 cermine_references_from_cermine_xml
+RaRa_2017_004 82 83 82 cermine_references_from_cermine_xml
+ZTou_2014_0011 49 49 49 cermine_references_from_cermine_xml
+GeRev_1999_0003 49 49 49 cermine_references_from_cermine_xml
+EiGe_1959_0017 6 7 15 cermine_references_from_cermine_xml
+GeRev_2005_0002 33 33 33 cermine_references_from_cermine_xml
+ZGDi_2018_0003 29 29 58 cermine_references_from_cermine_xml
+GaS_2016_0004 56 72 58 cermine_references_from_cermine_xml
+RaRa_2014_003 55 55 55 cermine_references_from_cermine_xml
+Stan_2003_0008 16 16 23 cermine_references_from_cermine_xml
+ZTou_2010_0003 5 5 5 cermine_references_from_cermine_xml
+Erde_1982_0001 27 27 28 cermine_references_from_cermine_xml
+EiGe_1959_0010 15 17 16 cermine_references_from_cermine_xml
+GeRev_2012_0003 8 8 8 cermine_references_from_cermine_xml
+GeRev_2005_0004 38 38 39 cermine_references_from_cermine_xml
+ZGDi_2018_0001 27 27 65 cermine_references_from_cermine_xml
+RaRa_2014_013 35 35 35 cermine_references_from_cermine_xml
+ZGDi_1998_0008 63 63 94 cermine_references_from_cermine_xml
+EuRe_1999_0014 30 30 30 cermine_references_from_cermine_xml
+MOGG_2009_003 110 110 110 cermine_references_from_cermine_xml
+GOKO_2018_0001 75 77 92 cermine_references_from_cermine_xml
+MOGG_2009_009 52 52 52 cermine_references_from_cermine_xml
+GOKO_2000_0009 101 101 104 cermine_references_from_cermine_xml
+ZGDi_2018_0006 2 2 35 cermine_references_from_cermine_xml
+EiGe_2005_0008 49 50 60 cermine_references_from_cermine_xml
+MOGG_2009_005 42 42 42 cermine_references_from_cermine_xml
+GaS_2016_0002 20 30 37 cermine_references_from_cermine_xml
+GeRev_2012_0010 64 64 64 cermine_references_from_cermine_xml
+ZTou_2017_0001 80 82 92 cermine_references_from_cermine_xml
+GOKO_2000_0004 14 15 14 cermine_references_from_cermine_xml
+EuRe_2001_0007 26 32 26 cermine_references_from_cermine_xml
+GOKO_2000_0003 13 13 14 cermine_references_from_cermine_xml
+GOKO_2000_0005 24 24 33 cermine_references_from_cermine_xml
+EiGe_1976_0008 9 9 9 cermine_references_from_cermine_xml
+RaRa_2017_030 54 55 54 cermine_references_from_cermine_xml
+Erde_1999_0003 7 15 7 cermine_references_from_cermine_xml
+Erde_1953_0001 9 21 13 cermine_references_from_cermine_xml
+GOKO_2000_0002 20 21 20 cermine_references_from_cermine_xml
+EuRe_2001_0002 18 18 18 cermine_references_from_cermine_xml
+EuRe_2005_0003 28 28 28 cermine_references_from_cermine_xml
+Stan_2003_0003 11 12 11 cermine_references_from_cermine_xml
+GeRev_1999_0001 29 34 29 cermine_references_from_cermine_xml
+Erde_1982_0002 27 29 27 cermine_references_from_cermine_xml
+RaRa_2017_009 50 50 50 cermine_references_from_cermine_xml
+ZGDi_2018_0004 13 13 45 cermine_references_from_cermine_xml
+EuRe_1994_0008 30 32 30 cermine_references_from_cermine_xml
+ZGDi_1998_0004 21 21 43 cermine_references_from_cermine_xml
+EiGe_1976_0001 42 42 42 cermine_references_from_cermine_xml
+------------------------------------------------------------
+---cermine_references_from_cermine_xml---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 90 REC: 78 F1: 83 TP: 3223 P: 3577 T: 4098
+        [AVG] PREC: 90 REC: 77 F1: 83
+REFOBJ: [ALL] PREC: 82 REC: 43 F1: 57 TP: 18725 P: 22728 T: 42676
+        [AVG] PREC: 77 REC: 42 F1: 55
+------------------------------------------------------------
+GOKO_2018_0002 32 34 32 anystyle_references_from_grobid_refstrings
+GaS_2009_0004 19 20 19 anystyle_references_from_grobid_refstrings
+GOKO_2018_0003 27 29 27 anystyle_references_from_grobid_refstrings
+Erdk_1985_0012 20 23 25 anystyle_references_from_grobid_refstrings
+GeoR_2015_0013 20 21 23 anystyle_references_from_grobid_refstrings
+GOKO_2018_0004 65 66 65 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0003 15 16 23 anystyle_references_from_grobid_refstrings
+GOKO_2000_0010 16 16 16 anystyle_references_from_grobid_refstrings
+ZTou_2017_0010 46 49 46 anystyle_references_from_grobid_refstrings
+Stan_2000_0004 15 17 16 anystyle_references_from_grobid_refstrings
+MOGG_2009_012 28 29 30 anystyle_references_from_grobid_refstrings
+ZTou_2010_0005 47 64 50 anystyle_references_from_grobid_refstrings
+MOGG_2009_004 67 67 70 anystyle_references_from_grobid_refstrings
+Stan_1997_0012 11 11 18 anystyle_references_from_grobid_refstrings
+EiGe_1959_0003 6 8 13 anystyle_references_from_grobid_refstrings
+GaS_2000_0003 11 11 24 anystyle_references_from_grobid_refstrings
+disP_2002_009 4 7 4 anystyle_references_from_grobid_refstrings
+Erdk_2002_0025 84 87 88 anystyle_references_from_grobid_refstrings
+ZTou_2014_0007 35 38 41 anystyle_references_from_grobid_refstrings
+GeRev_2008_0008 42 42 51 anystyle_references_from_grobid_refstrings
+GeRev_2008_0005 17 17 18 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0006 24 24 24 anystyle_references_from_grobid_refstrings
+GeRev_2008_0002 26 38 30 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0002 7 9 14 anystyle_references_from_grobid_refstrings
+MOGG_2009_008 38 39 40 anystyle_references_from_grobid_refstrings
+Prax_2001_0011 10 11 19 anystyle_references_from_grobid_refstrings
+GeRev_2001_0004 47 47 52 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0007 71 78 105 anystyle_references_from_grobid_refstrings
+EiGe_1990_0009 26 46 28 anystyle_references_from_grobid_refstrings
+MOGG_2009_007 8 8 8 anystyle_references_from_grobid_refstrings
+Stan_2003_0015 5 7 6 anystyle_references_from_grobid_refstrings
+GOKO_2000_0006 16 19 23 anystyle_references_from_grobid_refstrings
+MOGG_2009_011 29 33 31 anystyle_references_from_grobid_refstrings
+GaS_2000_0001 9 9 22 anystyle_references_from_grobid_refstrings
+GaS_2009_0001 37 42 40 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0007 23 25 23 anystyle_references_from_grobid_refstrings
+EuRe_1999_0002 31 33 44 anystyle_references_from_grobid_refstrings
+GaS_2016_0005 21 21 57 anystyle_references_from_grobid_refstrings
+Erde_1982_0003 45 45 45 anystyle_references_from_grobid_refstrings
+Erde_1953_0017 7 7 7 anystyle_references_from_grobid_refstrings
+Stan_2003_0012 9 13 9 anystyle_references_from_grobid_refstrings
+MOGG_2009_006 13 13 20 anystyle_references_from_grobid_refstrings
+Erde_1999_0010 15 15 24 anystyle_references_from_grobid_refstrings
+disP_2002_006 17 21 20 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0008 4 6 4 anystyle_references_from_grobid_refstrings
+RaRa_2003_019 21 28 44 anystyle_references_from_grobid_refstrings
+GeoR_2015_0002 27 29 29 anystyle_references_from_grobid_refstrings
+disP_2002_011 15 15 15 anystyle_references_from_grobid_refstrings
+disP_2002_004 12 21 12 anystyle_references_from_grobid_refstrings
+GeoR_2015_0010 23 25 26 anystyle_references_from_grobid_refstrings
+disP_2002_007 12 13 15 anystyle_references_from_grobid_refstrings
+Stan_1997_0009 9 9 9 anystyle_references_from_grobid_refstrings
+RaRa_2003_034 9 9 12 anystyle_references_from_grobid_refstrings
+GeRev_2012_0006 43 43 46 anystyle_references_from_grobid_refstrings
+ZTou_2017_0004 28 30 29 anystyle_references_from_grobid_refstrings
+ZTou_2014_0016 17 21 20 anystyle_references_from_grobid_refstrings
+MOGG_2009_001 8 8 10 anystyle_references_from_grobid_refstrings
+GaS_2009_0003 18 18 51 anystyle_references_from_grobid_refstrings
+GeoR_2015_0012 20 20 30 anystyle_references_from_grobid_refstrings
+KaNa_2000_011 18 22 21 anystyle_references_from_grobid_refstrings
+GeRev_1999_0005 4 4 4 anystyle_references_from_grobid_refstrings
+ZTou_2017_0014 20 27 20 anystyle_references_from_grobid_refstrings
+GOKO_2000_0008 11 12 11 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0002 67 75 68 anystyle_references_from_grobid_refstrings
+ZTou_2010_0012 14 14 14 anystyle_references_from_grobid_refstrings
+ZTou_2010_0007 12 15 12 anystyle_references_from_grobid_refstrings
+disP_2002_003 7 7 30 anystyle_references_from_grobid_refstrings
+Raum_2012_0004 6 8 12 anystyle_references_from_grobid_refstrings
+Erde_1953_0009 5 12 12 anystyle_references_from_grobid_refstrings
+disP_2002_013 8 8 12 anystyle_references_from_grobid_refstrings
+Raum_2004_0003 11 12 11 anystyle_references_from_grobid_refstrings
+GaS_2009_0005 21 22 30 anystyle_references_from_grobid_refstrings
+Erdk_1970_0012 10 13 15 anystyle_references_from_grobid_refstrings
+GeRev_2001_0001 38 39 45 anystyle_references_from_grobid_refstrings
+GeoR_2015_0007 20 21 26 anystyle_references_from_grobid_refstrings
+disP_2002_005 4 4 10 anystyle_references_from_grobid_refstrings
+GeoR_2015_0003 20 28 22 anystyle_references_from_grobid_refstrings
+GeoR_2015_0008 15 17 31 anystyle_references_from_grobid_refstrings
+ZTou_2014_0004 41 63 41 anystyle_references_from_grobid_refstrings
+GaS_2000_0004 5 5 8 anystyle_references_from_grobid_refstrings
+Prax_2001_0004 7 7 14 anystyle_references_from_grobid_refstrings
+EuRe_1999_0007 33 33 35 anystyle_references_from_grobid_refstrings
+GeoR_2015_0005 14 16 18 anystyle_references_from_grobid_refstrings
+GeoR_2015_0001 15 18 22 anystyle_references_from_grobid_refstrings
+GeRev_2001_0007 44 44 50 anystyle_references_from_grobid_refstrings
+EuRe_1994_0015 12 12 24 anystyle_references_from_grobid_refstrings
+RaRa_2017_004 80 82 82 anystyle_references_from_grobid_refstrings
+ZTou_2014_0011 46 47 49 anystyle_references_from_grobid_refstrings
+GeRev_1999_0003 44 44 49 anystyle_references_from_grobid_refstrings
+EiGe_1959_0017 12 13 15 anystyle_references_from_grobid_refstrings
+GeRev_2005_0002 28 28 33 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0003 58 58 58 anystyle_references_from_grobid_refstrings
+GaS_2016_0004 57 61 58 anystyle_references_from_grobid_refstrings
+RaRa_2014_003 55 55 55 anystyle_references_from_grobid_refstrings
+Stan_2003_0008 17 20 23 anystyle_references_from_grobid_refstrings
+ZTou_2010_0003 5 5 5 anystyle_references_from_grobid_refstrings
+Erde_1982_0001 27 39 28 anystyle_references_from_grobid_refstrings
+EiGe_1959_0010 13 16 16 anystyle_references_from_grobid_refstrings
+GeRev_2012_0003 7 7 8 anystyle_references_from_grobid_refstrings
+GeRev_2005_0004 35 35 39 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0001 60 63 65 anystyle_references_from_grobid_refstrings
+RaRa_2014_013 31 31 35 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0008 94 94 94 anystyle_references_from_grobid_refstrings
+EuRe_1999_0014 26 27 30 anystyle_references_from_grobid_refstrings
+MOGG_2009_003 101 102 110 anystyle_references_from_grobid_refstrings
+GOKO_2018_0001 90 94 92 anystyle_references_from_grobid_refstrings
+MOGG_2009_009 51 51 52 anystyle_references_from_grobid_refstrings
+GOKO_2000_0009 103 106 104 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0006 33 35 35 anystyle_references_from_grobid_refstrings
+EiGe_2005_0008 59 90 60 anystyle_references_from_grobid_refstrings
+MOGG_2009_005 42 42 42 anystyle_references_from_grobid_refstrings
+GaS_2016_0002 19 23 37 anystyle_references_from_grobid_refstrings
+GeRev_2012_0010 54 55 64 anystyle_references_from_grobid_refstrings
+ZTou_2017_0001 68 74 92 anystyle_references_from_grobid_refstrings
+GOKO_2000_0004 10 13 14 anystyle_references_from_grobid_refstrings
+EuRe_2001_0007 23 24 26 anystyle_references_from_grobid_refstrings
+GOKO_2000_0003 13 16 14 anystyle_references_from_grobid_refstrings
+GOKO_2000_0005 26 29 33 anystyle_references_from_grobid_refstrings
+EiGe_1976_0008 9 14 9 anystyle_references_from_grobid_refstrings
+RaRa_2017_030 51 51 54 anystyle_references_from_grobid_refstrings
+Erde_1999_0003 5 6 7 anystyle_references_from_grobid_refstrings
+Erde_1953_0001 10 10 13 anystyle_references_from_grobid_refstrings
+GOKO_2000_0002 20 24 20 anystyle_references_from_grobid_refstrings
+EuRe_2001_0002 18 19 18 anystyle_references_from_grobid_refstrings
+EuRe_2005_0003 24 24 28 anystyle_references_from_grobid_refstrings
+Stan_2003_0003 11 12 11 anystyle_references_from_grobid_refstrings
+GeRev_1999_0001 29 32 29 anystyle_references_from_grobid_refstrings
+Erde_1982_0002 26 26 27 anystyle_references_from_grobid_refstrings
+RaRa_2017_009 50 51 50 anystyle_references_from_grobid_refstrings
+ZGDi_2018_0004 34 36 45 anystyle_references_from_grobid_refstrings
+EuRe_1994_0008 28 28 30 anystyle_references_from_grobid_refstrings
+ZGDi_1998_0004 32 32 43 anystyle_references_from_grobid_refstrings
+EiGe_1976_0001 41 52 42 anystyle_references_from_grobid_refstrings
+------------------------------------------------------------
+---anystyle_references_from_grobid_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 91 REC: 85 F1: 88 TP: 3684 P: 4024 T: 4303
+        [AVG] PREC: 90 REC: 83 F1: 87
+REFOBJ: [ALL] PREC: 73 REC: 74 F1: 74 TP: 33058 P: 44705 T: 44276
+        [AVG] PREC: 70 REC: 70 F1: 70
+------------------------------------------------------------
+GOKO_2018_0002 32 33 32 anystyle_references_from_cermine_fulltext
+GaS_2009_0004 16 16 19 anystyle_references_from_cermine_fulltext
+GOKO_2018_0003 27 28 27 anystyle_references_from_cermine_fulltext
+Erdk_1985_0012 2 2 25 anystyle_references_from_cermine_fulltext
+GeoR_2015_0013 12 12 23 anystyle_references_from_cermine_fulltext
+GOKO_2018_0004 64 65 65 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0003 22 31 23 anystyle_references_from_cermine_fulltext
+GOKO_2000_0010 15 16 16 anystyle_references_from_cermine_fulltext
+ZTou_2017_0010 46 48 46 anystyle_references_from_cermine_fulltext
+Stan_2000_0004 9 9 16 anystyle_references_from_cermine_fulltext
+MOGG_2009_012 28 29 30 anystyle_references_from_cermine_fulltext
+ZTou_2010_0005 31 38 50 anystyle_references_from_cermine_fulltext
+MOGG_2009_004 62 63 70 anystyle_references_from_cermine_fulltext
+Erdk_2002_0025 84 84 88 anystyle_references_from_cermine_fulltext
+ZTou_2014_0007 4 4 41 anystyle_references_from_cermine_fulltext
+GeRev_2008_0008 28 30 51 anystyle_references_from_cermine_fulltext
+GeRev_2008_0005 15 15 18 anystyle_references_from_cermine_fulltext
+GaS_2016_0001 35 36 70 anystyle_references_from_cermine_fulltext
+GaS_2016_0003 20 21 25 anystyle_references_from_cermine_fulltext
+Stan_1997_0003 3 4 9 anystyle_references_from_cermine_fulltext
+EiGe_1976_0015 16 16 17 anystyle_references_from_cermine_fulltext
+Erdk_1970_0008 4 4 9 anystyle_references_from_cermine_fulltext
+KaNa_2000_005 4 4 11 anystyle_references_from_cermine_fulltext
+Raum_2004_0004 7 8 9 anystyle_references_from_cermine_fulltext
+GOKO_2000_0007 9 9 9 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0006 22 22 24 anystyle_references_from_cermine_fulltext
+GeRev_2008_0002 14 16 30 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0002 10 11 14 anystyle_references_from_cermine_fulltext
+MOGG_2009_008 39 39 40 anystyle_references_from_cermine_fulltext
+Prax_2001_0011 1 1 19 anystyle_references_from_cermine_fulltext
+GeRev_2001_0004 50 50 52 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0007 12 12 105 anystyle_references_from_cermine_fulltext
+EiGe_1990_0009 8 8 28 anystyle_references_from_cermine_fulltext
+MOGG_2009_007 7 7 8 anystyle_references_from_cermine_fulltext
+Stan_2003_0015 6 7 6 anystyle_references_from_cermine_fulltext
+GOKO_2000_0006 23 23 23 anystyle_references_from_cermine_fulltext
+MOGG_2009_011 25 26 31 anystyle_references_from_cermine_fulltext
+GaS_2000_0001 4 5 22 anystyle_references_from_cermine_fulltext
+GaS_2009_0001 22 24 40 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0007 21 21 23 anystyle_references_from_cermine_fulltext
+Prax_2001_0006 1 1 3 anystyle_references_from_cermine_fulltext
+disP_2002_008 1 1 49 anystyle_references_from_cermine_fulltext
+KaNa_2000_009 16 16 17 anystyle_references_from_cermine_fulltext
+GeoR_2015_0004 2 2 8 anystyle_references_from_cermine_fulltext
+KaNa_2000_007 13 13 16 anystyle_references_from_cermine_fulltext
+EuRe_1999_0002 33 34 44 anystyle_references_from_cermine_fulltext
+GaS_2009_0002 5 32 10 anystyle_references_from_cermine_fulltext
+KaNa_2000_012 4 4 8 anystyle_references_from_cermine_fulltext
+GaS_2016_0005 30 30 57 anystyle_references_from_cermine_fulltext
+Erde_1982_0003 44 50 45 anystyle_references_from_cermine_fulltext
+Erde_1953_0017 7 7 7 anystyle_references_from_cermine_fulltext
+Stan_2003_0012 4 6 9 anystyle_references_from_cermine_fulltext
+MOGG_2009_006 11 11 20 anystyle_references_from_cermine_fulltext
+Erde_1999_0010 12 12 24 anystyle_references_from_cermine_fulltext
+disP_2002_006 6 6 20 anystyle_references_from_cermine_fulltext
+GeoR_2015_0002 9 9 29 anystyle_references_from_cermine_fulltext
+disP_2002_011 9 9 15 anystyle_references_from_cermine_fulltext
+Stan_1997_0009 7 7 9 anystyle_references_from_cermine_fulltext
+RaRa_2003_034 4 5 12 anystyle_references_from_cermine_fulltext
+GeRev_2012_0006 43 45 46 anystyle_references_from_cermine_fulltext
+ZTou_2017_0004 25 27 29 anystyle_references_from_cermine_fulltext
+ZTou_2014_0016 5 5 20 anystyle_references_from_cermine_fulltext
+MOGG_2009_001 9 9 10 anystyle_references_from_cermine_fulltext
+GaS_2009_0003 3 3 51 anystyle_references_from_cermine_fulltext
+GeoR_2015_0012 10 10 30 anystyle_references_from_cermine_fulltext
+KaNa_2000_011 20 20 21 anystyle_references_from_cermine_fulltext
+GeRev_1999_0005 4 4 4 anystyle_references_from_cermine_fulltext
+ZTou_2017_0014 18 19 20 anystyle_references_from_cermine_fulltext
+GOKO_2000_0008 10 10 11 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0002 21 22 68 anystyle_references_from_cermine_fulltext
+ZTou_2010_0012 3 3 14 anystyle_references_from_cermine_fulltext
+ZTou_2010_0007 5 5 12 anystyle_references_from_cermine_fulltext
+disP_2002_003 16 16 30 anystyle_references_from_cermine_fulltext
+GaS_2009_0005 23 23 30 anystyle_references_from_cermine_fulltext
+Erdk_1970_0012 12 12 15 anystyle_references_from_cermine_fulltext
+GeRev_2001_0001 20 21 45 anystyle_references_from_cermine_fulltext
+GeoR_2015_0007 19 20 26 anystyle_references_from_cermine_fulltext
+disP_2002_005 3 3 10 anystyle_references_from_cermine_fulltext
+GeoR_2015_0003 17 18 22 anystyle_references_from_cermine_fulltext
+GeoR_2015_0008 12 12 31 anystyle_references_from_cermine_fulltext
+ZTou_2014_0004 10 11 41 anystyle_references_from_cermine_fulltext
+EuRe_1999_0007 19 19 35 anystyle_references_from_cermine_fulltext
+GeoR_2015_0005 8 8 18 anystyle_references_from_cermine_fulltext
+GeoR_2015_0001 11 11 22 anystyle_references_from_cermine_fulltext
+GeRev_2001_0007 35 37 50 anystyle_references_from_cermine_fulltext
+EuRe_1994_0003 3 3 4 anystyle_references_from_cermine_fulltext
+KaNa_2000_013 8 9 13 anystyle_references_from_cermine_fulltext
+GeoR_2015_0009 14 14 32 anystyle_references_from_cermine_fulltext
+Prax_2001_0002 2 2 25 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0005 2 2 4 anystyle_references_from_cermine_fulltext
+GeoR_2015_0006 8 8 21 anystyle_references_from_cermine_fulltext
+EuRe_1994_0015 15 16 24 anystyle_references_from_cermine_fulltext
+RaRa_2017_004 81 85 82 anystyle_references_from_cermine_fulltext
+ZTou_2014_0011 35 35 49 anystyle_references_from_cermine_fulltext
+GeRev_1999_0003 46 46 49 anystyle_references_from_cermine_fulltext
+GeRev_2005_0002 31 34 33 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0003 18 19 58 anystyle_references_from_cermine_fulltext
+GaS_2016_0004 37 38 58 anystyle_references_from_cermine_fulltext
+RaRa_2014_003 54 55 55 anystyle_references_from_cermine_fulltext
+ZTou_2010_0003 3 3 5 anystyle_references_from_cermine_fulltext
+Erde_1982_0001 28 32 28 anystyle_references_from_cermine_fulltext
+EiGe_1959_0010 9 9 16 anystyle_references_from_cermine_fulltext
+GeRev_2012_0003 8 8 8 anystyle_references_from_cermine_fulltext
+GeRev_2005_0004 20 21 39 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0001 28 28 65 anystyle_references_from_cermine_fulltext
+RaRa_2014_013 27 28 35 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0008 90 91 94 anystyle_references_from_cermine_fulltext
+EuRe_1999_0014 8 8 30 anystyle_references_from_cermine_fulltext
+MOGG_2009_003 107 107 110 anystyle_references_from_cermine_fulltext
+GOKO_2018_0001 86 87 92 anystyle_references_from_cermine_fulltext
+MOGG_2009_009 48 50 52 anystyle_references_from_cermine_fulltext
+GOKO_2000_0009 104 104 104 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0006 5 5 35 anystyle_references_from_cermine_fulltext
+EiGe_2005_0008 29 32 60 anystyle_references_from_cermine_fulltext
+MOGG_2009_005 42 43 42 anystyle_references_from_cermine_fulltext
+GaS_2016_0002 8 15 37 anystyle_references_from_cermine_fulltext
+GeRev_2012_0010 57 57 64 anystyle_references_from_cermine_fulltext
+ZTou_2017_0001 81 90 92 anystyle_references_from_cermine_fulltext
+GOKO_2000_0004 12 13 14 anystyle_references_from_cermine_fulltext
+EuRe_2001_0007 2 2 26 anystyle_references_from_cermine_fulltext
+GOKO_2000_0003 14 14 14 anystyle_references_from_cermine_fulltext
+GOKO_2000_0005 31 32 33 anystyle_references_from_cermine_fulltext
+EiGe_1976_0008 9 12 9 anystyle_references_from_cermine_fulltext
+RaRa_2017_030 54 57 54 anystyle_references_from_cermine_fulltext
+Erde_1953_0001 9 9 13 anystyle_references_from_cermine_fulltext
+GOKO_2000_0002 20 20 20 anystyle_references_from_cermine_fulltext
+EuRe_2001_0002 9 9 18 anystyle_references_from_cermine_fulltext
+EuRe_2005_0003 13 13 28 anystyle_references_from_cermine_fulltext
+Stan_2003_0003 11 13 11 anystyle_references_from_cermine_fulltext
+GeRev_1999_0001 29 29 29 anystyle_references_from_cermine_fulltext
+Erde_1982_0002 25 29 27 anystyle_references_from_cermine_fulltext
+RaRa_2017_009 37 40 50 anystyle_references_from_cermine_fulltext
+ZGDi_2018_0004 16 16 45 anystyle_references_from_cermine_fulltext
+EuRe_1994_0008 18 18 30 anystyle_references_from_cermine_fulltext
+ZGDi_1998_0004 39 43 43 anystyle_references_from_cermine_fulltext
+EiGe_1976_0001 28 30 42 anystyle_references_from_cermine_fulltext
+------------------------------------------------------------
+---anystyle_references_from_cermine_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 95 REC: 67 F1: 79 TP: 2976 P: 3128 T: 4398
+        [AVG] PREC: 95 REC: 65 F1: 77
+REFOBJ: [ALL] PREC: 72 REC: 58 F1: 64 TP: 26607 P: 36809 T: 45730
+        [AVG] PREC: 68 REC: 53 F1: 60
+------------------------------------------------------------
+GOKO_2018_0002 32 34 32 grobid_references_from_grobid_xml
+GaS_2009_0004 19 20 19 grobid_references_from_grobid_xml
+GOKO_2018_0003 27 29 27 grobid_references_from_grobid_xml
+Erdk_1985_0012 20 23 25 grobid_references_from_grobid_xml
+GeoR_2015_0013 20 21 23 grobid_references_from_grobid_xml
+GOKO_2018_0004 65 66 65 grobid_references_from_grobid_xml
+ZGDi_1998_0003 15 16 23 grobid_references_from_grobid_xml
+GOKO_2000_0010 16 16 16 grobid_references_from_grobid_xml
+ZTou_2017_0010 46 49 46 grobid_references_from_grobid_xml
+Stan_2000_0004 15 17 16 grobid_references_from_grobid_xml
+MOGG_2009_012 28 29 30 grobid_references_from_grobid_xml
+ZTou_2010_0005 47 64 50 grobid_references_from_grobid_xml
+MOGG_2009_004 67 67 70 grobid_references_from_grobid_xml
+Stan_1997_0012 11 11 18 grobid_references_from_grobid_xml
+EiGe_1959_0003 6 8 13 grobid_references_from_grobid_xml
+GaS_2000_0003 11 11 24 grobid_references_from_grobid_xml
+disP_2002_009 4 7 4 grobid_references_from_grobid_xml
+Erdk_2002_0025 84 87 88 grobid_references_from_grobid_xml
+ZTou_2014_0007 35 38 41 grobid_references_from_grobid_xml
+GeRev_2008_0008 42 42 51 grobid_references_from_grobid_xml
+GeRev_2008_0005 17 17 18 grobid_references_from_grobid_xml
+ZGDi_1998_0006 24 24 24 grobid_references_from_grobid_xml
+GeRev_2008_0002 26 38 30 grobid_references_from_grobid_xml
+ZGDi_1998_0002 7 9 14 grobid_references_from_grobid_xml
+MOGG_2009_008 38 39 40 grobid_references_from_grobid_xml
+Prax_2001_0011 10 11 19 grobid_references_from_grobid_xml
+GeRev_2001_0004 47 47 52 grobid_references_from_grobid_xml
+ZGDi_2018_0007 71 78 105 grobid_references_from_grobid_xml
+EiGe_1990_0009 26 46 28 grobid_references_from_grobid_xml
+MOGG_2009_007 8 8 8 grobid_references_from_grobid_xml
+Stan_2003_0015 5 7 6 grobid_references_from_grobid_xml
+GOKO_2000_0006 16 19 23 grobid_references_from_grobid_xml
+MOGG_2009_011 29 33 31 grobid_references_from_grobid_xml
+GaS_2000_0001 9 9 22 grobid_references_from_grobid_xml
+GaS_2009_0001 37 42 40 grobid_references_from_grobid_xml
+ZGDi_1998_0007 23 25 23 grobid_references_from_grobid_xml
+EuRe_1999_0002 31 33 44 grobid_references_from_grobid_xml
+GaS_2016_0005 21 21 57 grobid_references_from_grobid_xml
+Erde_1982_0003 45 45 45 grobid_references_from_grobid_xml
+Erde_1953_0017 7 7 7 grobid_references_from_grobid_xml
+Stan_2003_0012 9 13 9 grobid_references_from_grobid_xml
+MOGG_2009_006 13 13 20 grobid_references_from_grobid_xml
+Erde_1999_0010 15 15 24 grobid_references_from_grobid_xml
+disP_2002_006 17 21 20 grobid_references_from_grobid_xml
+ZGDi_2018_0008 4 6 4 grobid_references_from_grobid_xml
+RaRa_2003_019 21 28 44 grobid_references_from_grobid_xml
+GeoR_2015_0002 27 29 29 grobid_references_from_grobid_xml
+disP_2002_011 15 15 15 grobid_references_from_grobid_xml
+disP_2002_004 12 21 12 grobid_references_from_grobid_xml
+GeoR_2015_0010 23 25 26 grobid_references_from_grobid_xml
+disP_2002_007 12 13 15 grobid_references_from_grobid_xml
+Stan_1997_0009 9 9 9 grobid_references_from_grobid_xml
+RaRa_2003_034 9 9 12 grobid_references_from_grobid_xml
+GeRev_2012_0006 43 43 46 grobid_references_from_grobid_xml
+ZTou_2017_0004 28 30 29 grobid_references_from_grobid_xml
+ZTou_2014_0016 17 21 20 grobid_references_from_grobid_xml
+MOGG_2009_001 8 8 10 grobid_references_from_grobid_xml
+GaS_2009_0003 18 18 51 grobid_references_from_grobid_xml
+GeoR_2015_0012 20 20 30 grobid_references_from_grobid_xml
+KaNa_2000_011 18 22 21 grobid_references_from_grobid_xml
+GeRev_1999_0005 4 4 4 grobid_references_from_grobid_xml
+ZTou_2017_0014 20 27 20 grobid_references_from_grobid_xml
+GOKO_2000_0008 11 12 11 grobid_references_from_grobid_xml
+ZGDi_2018_0002 67 75 68 grobid_references_from_grobid_xml
+ZTou_2010_0012 14 14 14 grobid_references_from_grobid_xml
+ZTou_2010_0007 12 15 12 grobid_references_from_grobid_xml
+disP_2002_003 7 7 30 grobid_references_from_grobid_xml
+Raum_2012_0004 6 8 12 grobid_references_from_grobid_xml
+Erde_1953_0009 5 12 12 grobid_references_from_grobid_xml
+disP_2002_013 8 8 12 grobid_references_from_grobid_xml
+Raum_2004_0003 11 12 11 grobid_references_from_grobid_xml
+GaS_2009_0005 21 22 30 grobid_references_from_grobid_xml
+Erdk_1970_0012 10 13 15 grobid_references_from_grobid_xml
+GeRev_2001_0001 38 39 45 grobid_references_from_grobid_xml
+GeoR_2015_0007 20 21 26 grobid_references_from_grobid_xml
+disP_2002_005 4 4 10 grobid_references_from_grobid_xml
+GeoR_2015_0003 20 28 22 grobid_references_from_grobid_xml
+GeoR_2015_0008 15 17 31 grobid_references_from_grobid_xml
+ZTou_2014_0004 41 63 41 grobid_references_from_grobid_xml
+GaS_2000_0004 5 5 8 grobid_references_from_grobid_xml
+Prax_2001_0004 7 7 14 grobid_references_from_grobid_xml
+EuRe_1999_0007 33 33 35 grobid_references_from_grobid_xml
+GeoR_2015_0005 14 16 18 grobid_references_from_grobid_xml
+GeoR_2015_0001 15 18 22 grobid_references_from_grobid_xml
+GeRev_2001_0007 44 44 50 grobid_references_from_grobid_xml
+EuRe_1994_0015 12 12 24 grobid_references_from_grobid_xml
+RaRa_2017_004 80 82 82 grobid_references_from_grobid_xml
+ZTou_2014_0011 46 47 49 grobid_references_from_grobid_xml
+GeRev_1999_0003 44 44 49 grobid_references_from_grobid_xml
+EiGe_1959_0017 12 13 15 grobid_references_from_grobid_xml
+GeRev_2005_0002 28 28 33 grobid_references_from_grobid_xml
+ZGDi_2018_0003 58 58 58 grobid_references_from_grobid_xml
+GaS_2016_0004 57 61 58 grobid_references_from_grobid_xml
+RaRa_2014_003 55 55 55 grobid_references_from_grobid_xml
+Stan_2003_0008 17 20 23 grobid_references_from_grobid_xml
+ZTou_2010_0003 5 5 5 grobid_references_from_grobid_xml
+Erde_1982_0001 27 39 28 grobid_references_from_grobid_xml
+EiGe_1959_0010 13 16 16 grobid_references_from_grobid_xml
+GeRev_2012_0003 7 7 8 grobid_references_from_grobid_xml
+GeRev_2005_0004 35 35 39 grobid_references_from_grobid_xml
+ZGDi_2018_0001 60 63 65 grobid_references_from_grobid_xml
+RaRa_2014_013 31 31 35 grobid_references_from_grobid_xml
+ZGDi_1998_0008 94 94 94 grobid_references_from_grobid_xml
+EuRe_1999_0014 26 27 30 grobid_references_from_grobid_xml
+MOGG_2009_003 101 102 110 grobid_references_from_grobid_xml
+GOKO_2018_0001 90 94 92 grobid_references_from_grobid_xml
+MOGG_2009_009 51 51 52 grobid_references_from_grobid_xml
+GOKO_2000_0009 103 106 104 grobid_references_from_grobid_xml
+ZGDi_2018_0006 33 35 35 grobid_references_from_grobid_xml
+EiGe_2005_0008 59 90 60 grobid_references_from_grobid_xml
+MOGG_2009_005 42 42 42 grobid_references_from_grobid_xml
+GaS_2016_0002 19 23 37 grobid_references_from_grobid_xml
+GeRev_2012_0010 54 55 64 grobid_references_from_grobid_xml
+ZTou_2017_0001 68 74 92 grobid_references_from_grobid_xml
+GOKO_2000_0004 10 13 14 grobid_references_from_grobid_xml
+EuRe_2001_0007 23 24 26 grobid_references_from_grobid_xml
+GOKO_2000_0003 13 16 14 grobid_references_from_grobid_xml
+GOKO_2000_0005 26 29 33 grobid_references_from_grobid_xml
+EiGe_1976_0008 9 14 9 grobid_references_from_grobid_xml
+RaRa_2017_030 51 51 54 grobid_references_from_grobid_xml
+Erde_1999_0003 5 6 7 grobid_references_from_grobid_xml
+Erde_1953_0001 10 10 13 grobid_references_from_grobid_xml
+GOKO_2000_0002 20 24 20 grobid_references_from_grobid_xml
+EuRe_2001_0002 18 19 18 grobid_references_from_grobid_xml
+EuRe_2005_0003 24 24 28 grobid_references_from_grobid_xml
+Stan_2003_0003 11 12 11 grobid_references_from_grobid_xml
+GeRev_1999_0001 29 32 29 grobid_references_from_grobid_xml
+Erde_1982_0002 26 26 27 grobid_references_from_grobid_xml
+RaRa_2017_009 50 51 50 grobid_references_from_grobid_xml
+ZGDi_2018_0004 34 36 45 grobid_references_from_grobid_xml
+EuRe_1994_0008 28 28 30 grobid_references_from_grobid_xml
+ZGDi_1998_0004 32 32 43 grobid_references_from_grobid_xml
+EiGe_1976_0001 41 52 42 grobid_references_from_grobid_xml
+------------------------------------------------------------
+---grobid_references_from_grobid_xml---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 91 REC: 85 F1: 88 TP: 3684 P: 4024 T: 4303
+        [AVG] PREC: 90 REC: 83 F1: 87
+REFOBJ: [ALL] PREC: 82 REC: 69 F1: 75 TP: 30567 P: 37160 T: 44276
+        [AVG] PREC: 77 REC: 64 F1: 70
+------------------------------------------------------------
+GOKO_2018_0002 13 13 32 anystyle_references_from_cermine_refstrings
+GaS_2009_0004 16 21 19 anystyle_references_from_cermine_refstrings
+GOKO_2018_0003 11 12 27 anystyle_references_from_cermine_refstrings
+Erdk_1985_0012 2 5 25 anystyle_references_from_cermine_refstrings
+GeoR_2015_0013 14 15 23 anystyle_references_from_cermine_refstrings
+Erdk_1955_0006 4 5 6 anystyle_references_from_cermine_refstrings
+GOKO_2018_0004 31 31 65 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0003 7 8 23 anystyle_references_from_cermine_refstrings
+GOKO_2000_0010 9 9 16 anystyle_references_from_cermine_refstrings
+ZTou_2017_0010 46 46 46 anystyle_references_from_cermine_refstrings
+Stan_2000_0004 16 16 16 anystyle_references_from_cermine_refstrings
+MOGG_2009_012 30 30 30 anystyle_references_from_cermine_refstrings
+ZTou_2010_0005 24 39 50 anystyle_references_from_cermine_refstrings
+MOGG_2009_004 70 70 70 anystyle_references_from_cermine_refstrings
+Stan_1997_0012 12 60 18 anystyle_references_from_cermine_refstrings
+EiGe_1959_0003 6 7 13 anystyle_references_from_cermine_refstrings
+GaS_2000_0003 1 1 24 anystyle_references_from_cermine_refstrings
+Erdk_2002_0025 88 88 88 anystyle_references_from_cermine_refstrings
+ZTou_2014_0007 41 41 41 anystyle_references_from_cermine_refstrings
+GeRev_2008_0008 50 50 51 anystyle_references_from_cermine_refstrings
+GeRev_2008_0005 17 17 18 anystyle_references_from_cermine_refstrings
+GaS_2016_0001 52 68 70 anystyle_references_from_cermine_refstrings
+GaS_2016_0003 18 23 25 anystyle_references_from_cermine_refstrings
+Stan_1997_0003 9 10 9 anystyle_references_from_cermine_refstrings
+Erde_1999_0018 37 37 44 anystyle_references_from_cermine_refstrings
+GOKO_2000_0001 3 3 3 anystyle_references_from_cermine_refstrings
+EiGe_1976_0015 11 11 17 anystyle_references_from_cermine_refstrings
+Erdk_1970_0008 9 11 9 anystyle_references_from_cermine_refstrings
+KaNa_2000_005 4 5 11 anystyle_references_from_cermine_refstrings
+Raum_2004_0004 9 9 9 anystyle_references_from_cermine_refstrings
+GOKO_2000_0007 9 9 9 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0006 13 13 24 anystyle_references_from_cermine_refstrings
+GeRev_2008_0002 28 39 30 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0002 4 4 14 anystyle_references_from_cermine_refstrings
+MOGG_2009_008 40 40 40 anystyle_references_from_cermine_refstrings
+Prax_2001_0011 2 2 19 anystyle_references_from_cermine_refstrings
+GeRev_2001_0004 52 52 52 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0007 56 56 105 anystyle_references_from_cermine_refstrings
+EiGe_1990_0009 23 23 28 anystyle_references_from_cermine_refstrings
+MOGG_2009_007 7 7 8 anystyle_references_from_cermine_refstrings
+Stan_2003_0015 6 7 6 anystyle_references_from_cermine_refstrings
+GOKO_2000_0006 16 18 23 anystyle_references_from_cermine_refstrings
+MOGG_2009_011 31 31 31 anystyle_references_from_cermine_refstrings
+GaS_2000_0001 19 23 22 anystyle_references_from_cermine_refstrings
+GaS_2009_0001 22 28 40 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0007 12 12 23 anystyle_references_from_cermine_refstrings
+Erde_1968_0001 2 2 2 anystyle_references_from_cermine_refstrings
+Erdk_1970_0020 3 4 13 anystyle_references_from_cermine_refstrings
+Raum_2012_0001 1 1 1 anystyle_references_from_cermine_refstrings
+Erde_1968_0002 2 6 4 anystyle_references_from_cermine_refstrings
+disP_2002_008 1 1 49 anystyle_references_from_cermine_refstrings
+EuRe_1999_0002 44 46 44 anystyle_references_from_cermine_refstrings
+GaS_2009_0002 9 9 10 anystyle_references_from_cermine_refstrings
+GaS_2016_0005 50 66 57 anystyle_references_from_cermine_refstrings
+Erde_1982_0003 45 59 45 anystyle_references_from_cermine_refstrings
+Erde_1953_0017 7 7 7 anystyle_references_from_cermine_refstrings
+Stan_2003_0012 9 11 9 anystyle_references_from_cermine_refstrings
+MOGG_2009_006 17 17 20 anystyle_references_from_cermine_refstrings
+Stan_1997_0009 9 16 9 anystyle_references_from_cermine_refstrings
+RaRa_2003_034 4 6 12 anystyle_references_from_cermine_refstrings
+GeRev_2012_0006 45 46 46 anystyle_references_from_cermine_refstrings
+ZTou_2017_0004 29 29 29 anystyle_references_from_cermine_refstrings
+ZTou_2014_0016 20 21 20 anystyle_references_from_cermine_refstrings
+MOGG_2009_001 9 9 10 anystyle_references_from_cermine_refstrings
+GeRev_1999_0005 4 5 4 anystyle_references_from_cermine_refstrings
+ZTou_2017_0014 20 20 20 anystyle_references_from_cermine_refstrings
+GOKO_2000_0008 11 12 11 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0002 40 41 68 anystyle_references_from_cermine_refstrings
+ZTou_2010_0012 14 15 14 anystyle_references_from_cermine_refstrings
+ZTou_2010_0007 5 5 12 anystyle_references_from_cermine_refstrings
+disP_2002_003 4 5 30 anystyle_references_from_cermine_refstrings
+Raum_2012_0004 6 6 12 anystyle_references_from_cermine_refstrings
+Erde_1953_0009 1 1 12 anystyle_references_from_cermine_refstrings
+disP_2002_013 8 10 12 anystyle_references_from_cermine_refstrings
+Raum_2004_0003 3 3 11 anystyle_references_from_cermine_refstrings
+GaS_2009_0005 3 7 30 anystyle_references_from_cermine_refstrings
+Erdk_1970_0012 15 16 15 anystyle_references_from_cermine_refstrings
+GeRev_2001_0001 44 49 45 anystyle_references_from_cermine_refstrings
+ZTou_2014_0004 17 105 41 anystyle_references_from_cermine_refstrings
+EuRe_1999_0007 35 35 35 anystyle_references_from_cermine_refstrings
+EuRe_1994_0015 24 24 24 anystyle_references_from_cermine_refstrings
+RaRa_2017_004 82 83 82 anystyle_references_from_cermine_refstrings
+ZTou_2014_0011 49 49 49 anystyle_references_from_cermine_refstrings
+GeRev_1999_0003 49 49 49 anystyle_references_from_cermine_refstrings
+EiGe_1959_0017 6 7 15 anystyle_references_from_cermine_refstrings
+GeRev_2005_0002 33 33 33 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0003 29 29 58 anystyle_references_from_cermine_refstrings
+GaS_2016_0004 56 72 58 anystyle_references_from_cermine_refstrings
+RaRa_2014_003 55 55 55 anystyle_references_from_cermine_refstrings
+Stan_2003_0008 16 16 23 anystyle_references_from_cermine_refstrings
+ZTou_2010_0003 5 5 5 anystyle_references_from_cermine_refstrings
+Erde_1982_0001 27 27 28 anystyle_references_from_cermine_refstrings
+EiGe_1959_0010 15 17 16 anystyle_references_from_cermine_refstrings
+GeRev_2012_0003 8 8 8 anystyle_references_from_cermine_refstrings
+GeRev_2005_0004 38 38 39 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0001 27 27 65 anystyle_references_from_cermine_refstrings
+RaRa_2014_013 35 35 35 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0008 63 63 94 anystyle_references_from_cermine_refstrings
+EuRe_1999_0014 30 30 30 anystyle_references_from_cermine_refstrings
+MOGG_2009_003 110 110 110 anystyle_references_from_cermine_refstrings
+GOKO_2018_0001 75 77 92 anystyle_references_from_cermine_refstrings
+MOGG_2009_009 52 52 52 anystyle_references_from_cermine_refstrings
+GOKO_2000_0009 101 101 104 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0006 2 2 35 anystyle_references_from_cermine_refstrings
+EiGe_2005_0008 49 50 60 anystyle_references_from_cermine_refstrings
+MOGG_2009_005 42 42 42 anystyle_references_from_cermine_refstrings
+GaS_2016_0002 20 30 37 anystyle_references_from_cermine_refstrings
+GeRev_2012_0010 64 64 64 anystyle_references_from_cermine_refstrings
+ZTou_2017_0001 80 82 92 anystyle_references_from_cermine_refstrings
+GOKO_2000_0004 14 15 14 anystyle_references_from_cermine_refstrings
+EuRe_2001_0007 26 32 26 anystyle_references_from_cermine_refstrings
+GOKO_2000_0003 13 13 14 anystyle_references_from_cermine_refstrings
+GOKO_2000_0005 24 24 33 anystyle_references_from_cermine_refstrings
+EiGe_1976_0008 9 9 9 anystyle_references_from_cermine_refstrings
+RaRa_2017_030 54 55 54 anystyle_references_from_cermine_refstrings
+Erde_1999_0003 7 15 7 anystyle_references_from_cermine_refstrings
+Erde_1953_0001 9 21 13 anystyle_references_from_cermine_refstrings
+GOKO_2000_0002 20 21 20 anystyle_references_from_cermine_refstrings
+EuRe_2001_0002 18 18 18 anystyle_references_from_cermine_refstrings
+EuRe_2005_0003 28 28 28 anystyle_references_from_cermine_refstrings
+Stan_2003_0003 11 12 11 anystyle_references_from_cermine_refstrings
+GeRev_1999_0001 29 34 29 anystyle_references_from_cermine_refstrings
+Erde_1982_0002 27 29 27 anystyle_references_from_cermine_refstrings
+RaRa_2017_009 50 50 50 anystyle_references_from_cermine_refstrings
+ZGDi_2018_0004 13 13 45 anystyle_references_from_cermine_refstrings
+EuRe_1994_0008 30 32 30 anystyle_references_from_cermine_refstrings
+ZGDi_1998_0004 21 21 43 anystyle_references_from_cermine_refstrings
+EiGe_1976_0001 42 42 42 anystyle_references_from_cermine_refstrings
+------------------------------------------------------------
+---anystyle_references_from_cermine_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 90 REC: 78 F1: 83 TP: 3223 P: 3577 T: 4098
+        [AVG] PREC: 90 REC: 77 F1: 83
+REFOBJ: [ALL] PREC: 72 REC: 65 F1: 69 TP: 28087 P: 38539 T: 42676
+        [AVG] PREC: 68 REC: 62 F1: 65
+------------------------------------------------------------
+GOKO_2018_0002 26 26 32 anystyle_references_from_pdftotext_fulltext
+GaS_2009_0004 11 12 19 anystyle_references_from_pdftotext_fulltext
+GOKO_2018_0003 27 29 27 anystyle_references_from_pdftotext_fulltext
+Erdk_1985_0012 1 1 25 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0013 17 17 23 anystyle_references_from_pdftotext_fulltext
+GOKO_2018_0004 64 64 65 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0003 23 30 23 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0010 15 16 16 anystyle_references_from_pdftotext_fulltext
+ZTou_2017_0010 46 48 46 anystyle_references_from_pdftotext_fulltext
+Stan_2000_0004 16 17 16 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_012 27 29 30 anystyle_references_from_pdftotext_fulltext
+ZTou_2010_0005 27 38 50 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_004 59 63 70 anystyle_references_from_pdftotext_fulltext
+Stan_1997_0012 12 13 18 anystyle_references_from_pdftotext_fulltext
+EiGe_1959_0003 6 8 13 anystyle_references_from_pdftotext_fulltext
+GaS_2000_0003 2 2 24 anystyle_references_from_pdftotext_fulltext
+Erdk_2002_0025 87 87 88 anystyle_references_from_pdftotext_fulltext
+ZTou_2014_0007 26 28 41 anystyle_references_from_pdftotext_fulltext
+GeRev_2008_0008 50 51 51 anystyle_references_from_pdftotext_fulltext
+GeRev_2008_0005 18 18 18 anystyle_references_from_pdftotext_fulltext
+GaS_2016_0001 24 26 70 anystyle_references_from_pdftotext_fulltext
+GaS_2016_0003 14 15 25 anystyle_references_from_pdftotext_fulltext
+Stan_1997_0003 7 10 9 anystyle_references_from_pdftotext_fulltext
+Erde_1999_0018 3 3 44 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0001 1 1 3 anystyle_references_from_pdftotext_fulltext
+EiGe_1976_0015 14 14 17 anystyle_references_from_pdftotext_fulltext
+Erdk_1970_0008 8 8 9 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_005 1 1 11 anystyle_references_from_pdftotext_fulltext
+Raum_2004_0004 8 8 9 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0007 9 9 9 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0006 23 23 24 anystyle_references_from_pdftotext_fulltext
+GeRev_2008_0002 30 30 30 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0002 8 9 14 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_008 40 40 40 anystyle_references_from_pdftotext_fulltext
+Prax_2001_0011 3 3 19 anystyle_references_from_pdftotext_fulltext
+GeRev_2001_0004 52 52 52 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0007 65 67 105 anystyle_references_from_pdftotext_fulltext
+EiGe_1990_0009 28 30 28 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_007 7 7 8 anystyle_references_from_pdftotext_fulltext
+Stan_2003_0015 6 8 6 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0006 22 22 23 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_011 25 26 31 anystyle_references_from_pdftotext_fulltext
+GaS_2000_0001 7 7 22 anystyle_references_from_pdftotext_fulltext
+GaS_2009_0001 16 18 40 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0007 22 22 23 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_009 8 11 17 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0004 6 6 8 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_007 12 13 16 anystyle_references_from_pdftotext_fulltext
+EuRe_1999_0002 42 42 44 anystyle_references_from_pdftotext_fulltext
+GaS_2009_0002 2 8 10 anystyle_references_from_pdftotext_fulltext
+GaS_2016_0005 20 20 57 anystyle_references_from_pdftotext_fulltext
+Erde_1982_0003 45 47 45 anystyle_references_from_pdftotext_fulltext
+Erde_1953_0017 7 7 7 anystyle_references_from_pdftotext_fulltext
+Stan_2003_0012 9 12 9 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_006 17 17 20 anystyle_references_from_pdftotext_fulltext
+Erde_1999_0010 14 14 24 anystyle_references_from_pdftotext_fulltext
+disP_2002_006 2 2 20 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0008 4 5 4 anystyle_references_from_pdftotext_fulltext
+RaRa_2003_019 6 6 44 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0002 14 17 29 anystyle_references_from_pdftotext_fulltext
+disP_2002_011 2 2 15 anystyle_references_from_pdftotext_fulltext
+disP_2002_004 1 1 12 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0010 9 9 26 anystyle_references_from_pdftotext_fulltext
+disP_2002_007 5 6 15 anystyle_references_from_pdftotext_fulltext
+Stan_1997_0009 9 11 9 anystyle_references_from_pdftotext_fulltext
+RaRa_2003_034 7 7 12 anystyle_references_from_pdftotext_fulltext
+GeRev_2012_0006 45 46 46 anystyle_references_from_pdftotext_fulltext
+ZTou_2017_0004 26 28 29 anystyle_references_from_pdftotext_fulltext
+ZTou_2014_0016 16 16 20 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_001 10 10 10 anystyle_references_from_pdftotext_fulltext
+GaS_2009_0003 8 8 51 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0012 12 13 30 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_011 16 18 21 anystyle_references_from_pdftotext_fulltext
+GeRev_1999_0005 4 4 4 anystyle_references_from_pdftotext_fulltext
+ZTou_2017_0014 18 19 20 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0008 10 10 11 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0002 27 27 68 anystyle_references_from_pdftotext_fulltext
+ZTou_2010_0012 12 12 14 anystyle_references_from_pdftotext_fulltext
+ZTou_2010_0007 7 7 12 anystyle_references_from_pdftotext_fulltext
+disP_2002_003 12 12 30 anystyle_references_from_pdftotext_fulltext
+GaS_2009_0005 25 25 30 anystyle_references_from_pdftotext_fulltext
+Erdk_1970_0012 12 12 15 anystyle_references_from_pdftotext_fulltext
+GeRev_2001_0001 41 41 45 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0007 20 20 26 anystyle_references_from_pdftotext_fulltext
+disP_2002_005 4 4 10 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0003 17 18 22 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0008 19 23 31 anystyle_references_from_pdftotext_fulltext
+ZTou_2014_0004 37 45 41 anystyle_references_from_pdftotext_fulltext
+EuRe_1999_0007 32 32 35 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0005 9 11 18 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0001 2 2 22 anystyle_references_from_pdftotext_fulltext
+GeRev_2001_0007 50 50 50 anystyle_references_from_pdftotext_fulltext
+Prax_2001_0012 3 3 7 anystyle_references_from_pdftotext_fulltext
+Prax_2001_0010 1 1 6 anystyle_references_from_pdftotext_fulltext
+EuRe_1994_0003 4 4 4 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_013 3 3 13 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0009 27 27 32 anystyle_references_from_pdftotext_fulltext
+Prax_2001_0002 2 2 25 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0005 4 4 4 anystyle_references_from_pdftotext_fulltext
+GeoR_2015_0006 17 19 21 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_010 1 1 3 anystyle_references_from_pdftotext_fulltext
+Prax_2001_0001 1 1 4 anystyle_references_from_pdftotext_fulltext
+KaNa_2000_006 1 1 3 anystyle_references_from_pdftotext_fulltext
+EuRe_1994_0015 22 22 24 anystyle_references_from_pdftotext_fulltext
+RaRa_2017_004 81 83 82 anystyle_references_from_pdftotext_fulltext
+ZTou_2014_0011 48 49 49 anystyle_references_from_pdftotext_fulltext
+GeRev_1999_0003 48 48 49 anystyle_references_from_pdftotext_fulltext
+EiGe_1959_0017 11 11 15 anystyle_references_from_pdftotext_fulltext
+GeRev_2005_0002 31 33 33 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0003 18 19 58 anystyle_references_from_pdftotext_fulltext
+GaS_2016_0004 30 30 58 anystyle_references_from_pdftotext_fulltext
+RaRa_2014_003 55 56 55 anystyle_references_from_pdftotext_fulltext
+Stan_2003_0008 5 5 23 anystyle_references_from_pdftotext_fulltext
+ZTou_2010_0003 4 4 5 anystyle_references_from_pdftotext_fulltext
+Erde_1982_0001 28 30 28 anystyle_references_from_pdftotext_fulltext
+EiGe_1959_0010 12 12 16 anystyle_references_from_pdftotext_fulltext
+GeRev_2012_0003 8 8 8 anystyle_references_from_pdftotext_fulltext
+GeRev_2005_0004 38 41 39 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0001 48 48 65 anystyle_references_from_pdftotext_fulltext
+RaRa_2014_013 35 37 35 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0008 91 92 94 anystyle_references_from_pdftotext_fulltext
+EuRe_1999_0014 27 28 30 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_003 108 108 110 anystyle_references_from_pdftotext_fulltext
+GOKO_2018_0001 89 90 92 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_009 50 53 52 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0009 102 102 104 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0006 13 15 35 anystyle_references_from_pdftotext_fulltext
+EiGe_2005_0008 46 48 60 anystyle_references_from_pdftotext_fulltext
+MOGG_2009_005 42 42 42 anystyle_references_from_pdftotext_fulltext
+GaS_2016_0002 11 11 37 anystyle_references_from_pdftotext_fulltext
+GeRev_2012_0010 64 64 64 anystyle_references_from_pdftotext_fulltext
+ZTou_2017_0001 81 87 92 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0004 12 13 14 anystyle_references_from_pdftotext_fulltext
+EuRe_2001_0007 17 17 26 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0003 14 14 14 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0005 32 32 33 anystyle_references_from_pdftotext_fulltext
+EiGe_1976_0008 9 10 9 anystyle_references_from_pdftotext_fulltext
+RaRa_2017_030 54 56 54 anystyle_references_from_pdftotext_fulltext
+Erde_1999_0003 3 3 7 anystyle_references_from_pdftotext_fulltext
+Erde_1953_0001 9 9 13 anystyle_references_from_pdftotext_fulltext
+GOKO_2000_0002 20 22 20 anystyle_references_from_pdftotext_fulltext
+EuRe_2001_0002 18 18 18 anystyle_references_from_pdftotext_fulltext
+EuRe_2005_0003 23 23 28 anystyle_references_from_pdftotext_fulltext
+Stan_2003_0003 11 12 11 anystyle_references_from_pdftotext_fulltext
+GeRev_1999_0001 29 29 29 anystyle_references_from_pdftotext_fulltext
+Erde_1982_0002 25 27 27 anystyle_references_from_pdftotext_fulltext
+RaRa_2017_009 50 55 50 anystyle_references_from_pdftotext_fulltext
+ZGDi_2018_0004 23 24 45 anystyle_references_from_pdftotext_fulltext
+EuRe_1994_0008 28 28 30 anystyle_references_from_pdftotext_fulltext
+ZGDi_1998_0004 41 45 43 anystyle_references_from_pdftotext_fulltext
+EiGe_1976_0001 30 30 42 anystyle_references_from_pdftotext_fulltext
+------------------------------------------------------------
+---anystyle_references_from_pdftotext_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 95 REC: 75 F1: 84 TP: 3493 P: 3641 T: 4609
+        [AVG] PREC: 95 REC: 72 F1: 82
+REFOBJ: [ALL] PREC: 74 REC: 65 F1: 69 TP: 31456 P: 42425 T: 47676
+        [AVG] PREC: 68 REC: 59 F1: 64
+------------------------------------------------------------
+GOKO_2018_0002 32 34 32 cermine_references_from_grobid_refstrings
+GaS_2009_0004 19 20 19 cermine_references_from_grobid_refstrings
+GOKO_2018_0003 27 29 27 cermine_references_from_grobid_refstrings
+Erdk_1985_0012 20 23 25 cermine_references_from_grobid_refstrings
+GeoR_2015_0013 20 21 23 cermine_references_from_grobid_refstrings
+GOKO_2018_0004 65 66 65 cermine_references_from_grobid_refstrings
+ZGDi_1998_0003 15 16 23 cermine_references_from_grobid_refstrings
+GOKO_2000_0010 16 16 16 cermine_references_from_grobid_refstrings
+ZTou_2017_0010 46 49 46 cermine_references_from_grobid_refstrings
+Stan_2000_0004 15 17 16 cermine_references_from_grobid_refstrings
+MOGG_2009_012 28 29 30 cermine_references_from_grobid_refstrings
+ZTou_2010_0005 47 64 50 cermine_references_from_grobid_refstrings
+MOGG_2009_004 67 67 70 cermine_references_from_grobid_refstrings
+Stan_1997_0012 11 11 18 cermine_references_from_grobid_refstrings
+EiGe_1959_0003 6 8 13 cermine_references_from_grobid_refstrings
+GaS_2000_0003 11 11 24 cermine_references_from_grobid_refstrings
+disP_2002_009 4 7 4 cermine_references_from_grobid_refstrings
+Erdk_2002_0025 84 87 88 cermine_references_from_grobid_refstrings
+ZTou_2014_0007 35 38 41 cermine_references_from_grobid_refstrings
+GeRev_2008_0008 42 42 51 cermine_references_from_grobid_refstrings
+GeRev_2008_0005 17 17 18 cermine_references_from_grobid_refstrings
+ZGDi_1998_0006 24 24 24 cermine_references_from_grobid_refstrings
+GeRev_2008_0002 26 38 30 cermine_references_from_grobid_refstrings
+ZGDi_1998_0002 7 9 14 cermine_references_from_grobid_refstrings
+MOGG_2009_008 38 39 40 cermine_references_from_grobid_refstrings
+Prax_2001_0011 10 11 19 cermine_references_from_grobid_refstrings
+GeRev_2001_0004 47 47 52 cermine_references_from_grobid_refstrings
+ZGDi_2018_0007 71 78 105 cermine_references_from_grobid_refstrings
+EiGe_1990_0009 26 46 28 cermine_references_from_grobid_refstrings
+MOGG_2009_007 8 8 8 cermine_references_from_grobid_refstrings
+Stan_2003_0015 5 7 6 cermine_references_from_grobid_refstrings
+GOKO_2000_0006 16 19 23 cermine_references_from_grobid_refstrings
+MOGG_2009_011 29 33 31 cermine_references_from_grobid_refstrings
+GaS_2000_0001 9 9 22 cermine_references_from_grobid_refstrings
+GaS_2009_0001 37 42 40 cermine_references_from_grobid_refstrings
+ZGDi_1998_0007 23 25 23 cermine_references_from_grobid_refstrings
+EuRe_1999_0002 31 33 44 cermine_references_from_grobid_refstrings
+GaS_2016_0005 21 21 57 cermine_references_from_grobid_refstrings
+Erde_1982_0003 45 45 45 cermine_references_from_grobid_refstrings
+Erde_1953_0017 7 7 7 cermine_references_from_grobid_refstrings
+Stan_2003_0012 9 13 9 cermine_references_from_grobid_refstrings
+MOGG_2009_006 13 13 20 cermine_references_from_grobid_refstrings
+Erde_1999_0010 15 15 24 cermine_references_from_grobid_refstrings
+disP_2002_006 17 21 20 cermine_references_from_grobid_refstrings
+ZGDi_2018_0008 4 6 4 cermine_references_from_grobid_refstrings
+RaRa_2003_019 21 28 44 cermine_references_from_grobid_refstrings
+GeoR_2015_0002 27 29 29 cermine_references_from_grobid_refstrings
+disP_2002_011 15 15 15 cermine_references_from_grobid_refstrings
+disP_2002_004 12 21 12 cermine_references_from_grobid_refstrings
+GeoR_2015_0010 23 25 26 cermine_references_from_grobid_refstrings
+disP_2002_007 12 13 15 cermine_references_from_grobid_refstrings
+Stan_1997_0009 9 9 9 cermine_references_from_grobid_refstrings
+RaRa_2003_034 9 9 12 cermine_references_from_grobid_refstrings
+GeRev_2012_0006 43 43 46 cermine_references_from_grobid_refstrings
+ZTou_2017_0004 28 30 29 cermine_references_from_grobid_refstrings
+ZTou_2014_0016 17 21 20 cermine_references_from_grobid_refstrings
+MOGG_2009_001 8 8 10 cermine_references_from_grobid_refstrings
+GaS_2009_0003 18 18 51 cermine_references_from_grobid_refstrings
+GeoR_2015_0012 20 20 30 cermine_references_from_grobid_refstrings
+KaNa_2000_011 18 22 21 cermine_references_from_grobid_refstrings
+GeRev_1999_0005 4 4 4 cermine_references_from_grobid_refstrings
+ZTou_2017_0014 20 27 20 cermine_references_from_grobid_refstrings
+GOKO_2000_0008 11 12 11 cermine_references_from_grobid_refstrings
+ZGDi_2018_0002 67 75 68 cermine_references_from_grobid_refstrings
+ZTou_2010_0012 14 14 14 cermine_references_from_grobid_refstrings
+ZTou_2010_0007 12 15 12 cermine_references_from_grobid_refstrings
+disP_2002_003 7 7 30 cermine_references_from_grobid_refstrings
+Raum_2012_0004 6 8 12 cermine_references_from_grobid_refstrings
+Erde_1953_0009 5 12 12 cermine_references_from_grobid_refstrings
+disP_2002_013 8 8 12 cermine_references_from_grobid_refstrings
+Raum_2004_0003 11 12 11 cermine_references_from_grobid_refstrings
+GaS_2009_0005 21 22 30 cermine_references_from_grobid_refstrings
+Erdk_1970_0012 10 13 15 cermine_references_from_grobid_refstrings
+GeRev_2001_0001 38 39 45 cermine_references_from_grobid_refstrings
+GeoR_2015_0007 20 21 26 cermine_references_from_grobid_refstrings
+disP_2002_005 4 4 10 cermine_references_from_grobid_refstrings
+GeoR_2015_0003 20 28 22 cermine_references_from_grobid_refstrings
+GeoR_2015_0008 15 17 31 cermine_references_from_grobid_refstrings
+ZTou_2014_0004 41 63 41 cermine_references_from_grobid_refstrings
+GaS_2000_0004 5 5 8 cermine_references_from_grobid_refstrings
+Prax_2001_0004 7 7 14 cermine_references_from_grobid_refstrings
+EuRe_1999_0007 33 33 35 cermine_references_from_grobid_refstrings
+GeoR_2015_0005 14 16 18 cermine_references_from_grobid_refstrings
+GeoR_2015_0001 15 18 22 cermine_references_from_grobid_refstrings
+GeRev_2001_0007 44 44 50 cermine_references_from_grobid_refstrings
+EuRe_1994_0015 12 12 24 cermine_references_from_grobid_refstrings
+RaRa_2017_004 80 82 82 cermine_references_from_grobid_refstrings
+ZTou_2014_0011 46 47 49 cermine_references_from_grobid_refstrings
+GeRev_1999_0003 44 44 49 cermine_references_from_grobid_refstrings
+EiGe_1959_0017 12 13 15 cermine_references_from_grobid_refstrings
+GeRev_2005_0002 28 28 33 cermine_references_from_grobid_refstrings
+ZGDi_2018_0003 58 58 58 cermine_references_from_grobid_refstrings
+GaS_2016_0004 57 61 58 cermine_references_from_grobid_refstrings
+RaRa_2014_003 55 55 55 cermine_references_from_grobid_refstrings
+Stan_2003_0008 17 20 23 cermine_references_from_grobid_refstrings
+ZTou_2010_0003 5 5 5 cermine_references_from_grobid_refstrings
+Erde_1982_0001 27 39 28 cermine_references_from_grobid_refstrings
+EiGe_1959_0010 13 16 16 cermine_references_from_grobid_refstrings
+GeRev_2012_0003 7 7 8 cermine_references_from_grobid_refstrings
+GeRev_2005_0004 35 35 39 cermine_references_from_grobid_refstrings
+ZGDi_2018_0001 60 63 65 cermine_references_from_grobid_refstrings
+RaRa_2014_013 31 31 35 cermine_references_from_grobid_refstrings
+ZGDi_1998_0008 94 94 94 cermine_references_from_grobid_refstrings
+EuRe_1999_0014 26 27 30 cermine_references_from_grobid_refstrings
+MOGG_2009_003 101 102 110 cermine_references_from_grobid_refstrings
+GOKO_2018_0001 90 94 92 cermine_references_from_grobid_refstrings
+MOGG_2009_009 51 51 52 cermine_references_from_grobid_refstrings
+GOKO_2000_0009 103 106 104 cermine_references_from_grobid_refstrings
+ZGDi_2018_0006 33 35 35 cermine_references_from_grobid_refstrings
+EiGe_2005_0008 59 90 60 cermine_references_from_grobid_refstrings
+MOGG_2009_005 42 42 42 cermine_references_from_grobid_refstrings
+GaS_2016_0002 19 23 37 cermine_references_from_grobid_refstrings
+GeRev_2012_0010 54 55 64 cermine_references_from_grobid_refstrings
+ZTou_2017_0001 68 74 92 cermine_references_from_grobid_refstrings
+GOKO_2000_0004 10 13 14 cermine_references_from_grobid_refstrings
+EuRe_2001_0007 23 24 26 cermine_references_from_grobid_refstrings
+GOKO_2000_0003 13 16 14 cermine_references_from_grobid_refstrings
+GOKO_2000_0005 26 29 33 cermine_references_from_grobid_refstrings
+EiGe_1976_0008 9 14 9 cermine_references_from_grobid_refstrings
+RaRa_2017_030 51 51 54 cermine_references_from_grobid_refstrings
+Erde_1999_0003 5 6 7 cermine_references_from_grobid_refstrings
+Erde_1953_0001 10 10 13 cermine_references_from_grobid_refstrings
+GOKO_2000_0002 20 24 20 cermine_references_from_grobid_refstrings
+EuRe_2001_0002 18 19 18 cermine_references_from_grobid_refstrings
+EuRe_2005_0003 24 24 28 cermine_references_from_grobid_refstrings
+Stan_2003_0003 11 12 11 cermine_references_from_grobid_refstrings
+GeRev_1999_0001 29 32 29 cermine_references_from_grobid_refstrings
+Erde_1982_0002 26 26 27 cermine_references_from_grobid_refstrings
+RaRa_2017_009 50 51 50 cermine_references_from_grobid_refstrings
+ZGDi_2018_0004 34 36 45 cermine_references_from_grobid_refstrings
+EuRe_1994_0008 28 28 30 cermine_references_from_grobid_refstrings
+ZGDi_1998_0004 32 32 43 cermine_references_from_grobid_refstrings
+EiGe_1976_0001 41 52 42 cermine_references_from_grobid_refstrings
+------------------------------------------------------------
+---cermine_references_from_grobid_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 91 REC: 85 F1: 88 TP: 3684 P: 4024 T: 4303
+        [AVG] PREC: 90 REC: 83 F1: 87
+REFOBJ: [ALL] PREC: 82 REC: 52 F1: 64 TP: 23110 P: 27924 T: 44276
+        [AVG] PREC: 78 REC: 48 F1: 60
+------------------------------------------------------------
+ZGDi_2018_0007 70 76 105 anystyle_references_from_grobid_fulltext
+GeoR_2015_0002 27 27 29 anystyle_references_from_grobid_fulltext
+disP_2002_011 14 14 15 anystyle_references_from_grobid_fulltext
+disP_2002_004 12 20 12 anystyle_references_from_grobid_fulltext
+disP_2002_013 6 6 12 anystyle_references_from_grobid_fulltext
+Raum_2004_0003 10 11 11 anystyle_references_from_grobid_fulltext
+GaS_2016_0004 56 59 58 anystyle_references_from_grobid_fulltext
+RaRa_2014_003 54 54 55 anystyle_references_from_grobid_fulltext
+GOKO_2000_0004 9 12 14 anystyle_references_from_grobid_fulltext
+EuRe_2001_0007 22 23 26 anystyle_references_from_grobid_fulltext
+GOKO_2000_0003 12 15 14 anystyle_references_from_grobid_fulltext
+GOKO_2000_0005 25 27 33 anystyle_references_from_grobid_fulltext
+EiGe_1976_0008 8 8 9 anystyle_references_from_grobid_fulltext
+RaRa_2017_030 1 70 54 anystyle_references_from_grobid_fulltext
+Erde_1999_0003 4 5 7 anystyle_references_from_grobid_fulltext
+Erde_1953_0001 9 9 13 anystyle_references_from_grobid_fulltext
+GOKO_2000_0002 19 22 20 anystyle_references_from_grobid_fulltext
+EuRe_2001_0002 17 19 18 anystyle_references_from_grobid_fulltext
+EuRe_2005_0003 22 22 28 anystyle_references_from_grobid_fulltext
+Stan_2003_0003 10 11 11 anystyle_references_from_grobid_fulltext
+GeRev_1999_0001 29 31 29 anystyle_references_from_grobid_fulltext
+Erde_1982_0002 25 25 27 anystyle_references_from_grobid_fulltext
+RaRa_2017_009 1 12 50 anystyle_references_from_grobid_fulltext
+ZGDi_2018_0004 34 35 45 anystyle_references_from_grobid_fulltext
+EuRe_1994_0008 27 27 30 anystyle_references_from_grobid_fulltext
+ZGDi_1998_0004 31 31 43 anystyle_references_from_grobid_fulltext
+EiGe_1976_0001 37 37 42 anystyle_references_from_grobid_fulltext
+------------------------------------------------------------
+---anystyle_references_from_grobid_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 83 REC: 72 F1: 77 TP: 591 P: 708 T: 810
+        [AVG] PREC: 86 REC: 77 F1: 81
+REFOBJ: [ALL] PREC: 64 REC: 60 F1: 62 TP: 5106 P: 7915 T: 8468
+        [AVG] PREC: 59 REC: 63 F1: 61
+------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+                                                                      str ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       90    73   61
+cermine_references_from_cermine_xml           90    83   78
+anystyle_references_from_grobid_refstrings    91    88   85
+anystyle_references_from_cermine_fulltext     95    79   67
+grobid_references_from_grobid_xml             91    88   85
+anystyle_references_from_cermine_refstrings   90    83   78
+anystyle_references_from_pdftotext_fulltext   95    84   75
+cermine_references_from_grobid_refstrings     91    88   85
+anystyle_references_from_grobid_fulltext      83    77   72
+--------------------------------------------------------------------------------------------------
+                                                                      str ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       88    56   65
+cermine_references_from_cermine_xml           90    62   77
+anystyle_references_from_grobid_refstrings    90    65   83
+anystyle_references_from_cermine_fulltext     95    58   65
+grobid_references_from_grobid_xml             90    65   83
+anystyle_references_from_cermine_refstrings   90    62   77
+anystyle_references_from_pdftotext_fulltext   95    61   72
+cermine_references_from_grobid_refstrings     90    65   83
+anystyle_references_from_grobid_fulltext      86    61   77
+--------------------------------------------------------------------------------------------------
+                                                                      obj ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       71    57   47
+cermine_references_from_cermine_xml           82    57   43
+anystyle_references_from_grobid_refstrings    73    74   74
+anystyle_references_from_cermine_fulltext     72    64   58
+grobid_references_from_grobid_xml             82    75   69
+anystyle_references_from_cermine_refstrings   72    69   65
+anystyle_references_from_pdftotext_fulltext   74    69   65
+cermine_references_from_grobid_refstrings     82    64   52
+anystyle_references_from_grobid_fulltext      64    62   60
+--------------------------------------------------------------------------------------------------
+                                                                      obj ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       67    43   50
+cermine_references_from_cermine_xml           77    41   42
+anystyle_references_from_grobid_refstrings    70    52   70
+anystyle_references_from_cermine_fulltext     68    45   53
+grobid_references_from_grobid_xml             77    52   64
+anystyle_references_from_cermine_refstrings   68    48   62
+anystyle_references_from_pdftotext_fulltext   68    48   59
+cermine_references_from_grobid_refstrings     78    45   48
+anystyle_references_from_grobid_fulltext      59    45   63
+--------------------------------------------------------------------------------------------------
+                                                                      _end ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       73    56   46
+cermine_references_from_cermine_xml           90    69   56
+anystyle_references_from_grobid_refstrings    93    88   84
+anystyle_references_from_cermine_fulltext     89    75   65
+grobid_references_from_grobid_xml             93    88   83
+anystyle_references_from_cermine_refstrings   92    82   74
+anystyle_references_from_pdftotext_fulltext   91    80   72
+cermine_references_from_grobid_refstrings     91    75   64
+anystyle_references_from_grobid_fulltext      91    79   70
+--------------------------------------------------------------------------------------------------
+                                                                      _end ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       60    51   45
+cermine_references_from_cermine_xml           73    58   49
+anystyle_references_from_grobid_refstrings    84    79   75
+anystyle_references_from_cermine_fulltext     76    65   58
+grobid_references_from_grobid_xml             83    78   74
+anystyle_references_from_cermine_refstrings   81    72   66
+anystyle_references_from_pdftotext_fulltext   77    69   62
+cermine_references_from_grobid_refstrings     76    64   56
+anystyle_references_from_grobid_fulltext      73    70   68
+--------------------------------------------------------------------------------------------------
+                                                                      _reference ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       90    73   61
+cermine_references_from_cermine_xml           90    83   78
+anystyle_references_from_grobid_refstrings    91    88   85
+anystyle_references_from_cermine_fulltext     95    79   67
+grobid_references_from_grobid_xml             91    88   85
+anystyle_references_from_cermine_refstrings   90    83   78
+anystyle_references_from_pdftotext_fulltext   95    84   75
+cermine_references_from_grobid_refstrings     91    88   85
+anystyle_references_from_grobid_fulltext      83    77   72
+--------------------------------------------------------------------------------------------------
+                                                                      _reference ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       88    74   65
+cermine_references_from_cermine_xml           90    83   77
+anystyle_references_from_grobid_refstrings    90    87   83
+anystyle_references_from_cermine_fulltext     95    77   65
+grobid_references_from_grobid_xml             90    87   83
+anystyle_references_from_cermine_refstrings   90    83   77
+anystyle_references_from_pdftotext_fulltext   95    81   72
+cermine_references_from_grobid_refstrings     90    87   83
+anystyle_references_from_grobid_fulltext      86    81   77
+--------------------------------------------------------------------------------------------------
+                                                                      _issue ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       58    53   49
+cermine_references_from_cermine_xml           85    53   39
+anystyle_references_from_grobid_refstrings    79    69   61
+anystyle_references_from_cermine_fulltext     77    58   46
+grobid_references_from_grobid_xml             88    58   43
+anystyle_references_from_cermine_refstrings   81    60   48
+anystyle_references_from_pdftotext_fulltext   79    62   51
+cermine_references_from_grobid_refstrings     86    63   50
+anystyle_references_from_grobid_fulltext      68    59   51
+--------------------------------------------------------------------------------------------------
+                                                                      _issue ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       40    37   36
+cermine_references_from_cermine_xml           28    22   19
+anystyle_references_from_grobid_refstrings    47    44   43
+anystyle_references_from_cermine_fulltext     41    36   33
+grobid_references_from_grobid_xml             37    29   24
+anystyle_references_from_cermine_refstrings   41    37   34
+anystyle_references_from_pdftotext_fulltext   47    42   38
+cermine_references_from_grobid_refstrings     31    27   26
+anystyle_references_from_grobid_fulltext      39    37   35
+--------------------------------------------------------------------------------------------------
+                                                                      _place ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       64    46   36
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    86    60   46
+anystyle_references_from_cermine_fulltext     84    48   34
+grobid_references_from_grobid_xml             82    56   42
+anystyle_references_from_cermine_refstrings   90    56   41
+anystyle_references_from_pdftotext_fulltext   86    57   42
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      78    53   40
+--------------------------------------------------------------------------------------------------
+                                                                      _place ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       55    42   34
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    80    58   46
+anystyle_references_from_cermine_fulltext     72    45   33
+grobid_references_from_grobid_xml             77    54   42
+anystyle_references_from_cermine_refstrings   72    50   39
+anystyle_references_from_pdftotext_fulltext   72    50   39
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      70    51   41
+--------------------------------------------------------------------------------------------------
+                                                                      editors_editor_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       55    39   30
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    68    54   44
+anystyle_references_from_cermine_fulltext     61    39   29
+grobid_references_from_grobid_xml             61    33   22
+anystyle_references_from_cermine_refstrings   61    47   38
+anystyle_references_from_pdftotext_fulltext   66    48   38
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      46    40   36
+--------------------------------------------------------------------------------------------------
+                                                                      editors_editor_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       45    34   28
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    57    46   39
+anystyle_references_from_cermine_fulltext     47    32   26
+grobid_references_from_grobid_xml             47    26   18
+anystyle_references_from_cermine_refstrings   48    38   32
+anystyle_references_from_pdftotext_fulltext   49    39   33
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      44    35   31
+--------------------------------------------------------------------------------------------------
+                                                                      _volume ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       66    57   50
+cermine_references_from_cermine_xml           67    58   51
+anystyle_references_from_grobid_refstrings    89    77   69
+anystyle_references_from_cermine_fulltext     87    70   59
+grobid_references_from_grobid_xml             83    73   65
+anystyle_references_from_cermine_refstrings   86    74   64
+anystyle_references_from_pdftotext_fulltext   89    73   62
+cermine_references_from_grobid_refstrings     67    62   57
+anystyle_references_from_grobid_fulltext      83    63   51
+--------------------------------------------------------------------------------------------------
+                                                                      _volume ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       54    50   46
+cermine_references_from_cermine_xml           57    50   45
+anystyle_references_from_grobid_refstrings    78    66   58
+anystyle_references_from_cermine_fulltext     70    57   48
+grobid_references_from_grobid_xml             73    65   58
+anystyle_references_from_cermine_refstrings   71    61   54
+anystyle_references_from_pdftotext_fulltext   72    59   51
+cermine_references_from_grobid_refstrings     58    53   50
+anystyle_references_from_grobid_fulltext      60    51   45
+--------------------------------------------------------------------------------------------------
+                                                                      _doi ---> all
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_cermine_xml          0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_pdftotext_fulltext  0    0     0
+cermine_references_from_grobid_refstrings    0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+--------------------------------------------------------------------------------------------------
+                                                                      _doi ---> avg
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_cermine_xml          0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_pdftotext_fulltext  0    0     0
+cermine_references_from_grobid_refstrings    0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+--------------------------------------------------------------------------------------------------
+                                                                      _start ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       68    56   47
+cermine_references_from_cermine_xml           69    61   55
+anystyle_references_from_grobid_refstrings    87    85   83
+anystyle_references_from_cermine_fulltext     85    74   66
+grobid_references_from_grobid_xml             89    85   81
+anystyle_references_from_cermine_refstrings   84    78   74
+anystyle_references_from_pdftotext_fulltext   86    78   72
+cermine_references_from_grobid_refstrings     71    67   63
+anystyle_references_from_grobid_fulltext      80    75   70
+--------------------------------------------------------------------------------------------------
+                                                                      _start ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       58    52   48
+cermine_references_from_cermine_xml           59    53   49
+anystyle_references_from_grobid_refstrings    80    78   76
+anystyle_references_from_cermine_fulltext     72    63   58
+grobid_references_from_grobid_xml             82    78   74
+anystyle_references_from_cermine_refstrings   74    70   67
+anystyle_references_from_pdftotext_fulltext   74    68   64
+cermine_references_from_grobid_refstrings     61    57   56
+anystyle_references_from_grobid_fulltext      71    70   69
+--------------------------------------------------------------------------------------------------
+                                                                      _title ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       88    71   59
+cermine_references_from_cermine_xml           89    78   69
+anystyle_references_from_grobid_refstrings    91    85   80
+anystyle_references_from_cermine_fulltext     89    72   61
+grobid_references_from_grobid_xml             87    80   74
+anystyle_references_from_cermine_refstrings   87    79   72
+anystyle_references_from_pdftotext_fulltext   92    79   70
+cermine_references_from_grobid_refstrings     91    82   75
+anystyle_references_from_grobid_fulltext      81    73   67
+--------------------------------------------------------------------------------------------------
+                                                                      _title ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       84    70   61
+cermine_references_from_cermine_xml           86    73   65
+anystyle_references_from_grobid_refstrings    89    83   78
+anystyle_references_from_cermine_fulltext     86    69   58
+grobid_references_from_grobid_xml             86    78   71
+anystyle_references_from_cermine_refstrings   85    75   68
+anystyle_references_from_pdftotext_fulltext   87    74   65
+cermine_references_from_grobid_refstrings     89    79   72
+anystyle_references_from_grobid_fulltext      80    74   70
+--------------------------------------------------------------------------------------------------
+                                                                      _source ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       68    56   47
+cermine_references_from_cermine_xml           62    48   39
+anystyle_references_from_grobid_refstrings    80    76   72
+anystyle_references_from_cermine_fulltext     80    67   57
+grobid_references_from_grobid_xml             77    63   53
+anystyle_references_from_cermine_refstrings   78    69   63
+anystyle_references_from_pdftotext_fulltext   82    72   65
+cermine_references_from_grobid_refstrings     63    53   46
+anystyle_references_from_grobid_fulltext      73    65   58
+--------------------------------------------------------------------------------------------------
+                                                                      _source ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       58    52   48
+cermine_references_from_cermine_xml           50    39   33
+anystyle_references_from_grobid_refstrings    72    69   67
+anystyle_references_from_cermine_fulltext     69    59   52
+grobid_references_from_grobid_xml             67    56   49
+anystyle_references_from_cermine_refstrings   67    61   56
+anystyle_references_from_pdftotext_fulltext   70    63   58
+cermine_references_from_grobid_refstrings     52    45   41
+anystyle_references_from_grobid_fulltext      66    62   60
+--------------------------------------------------------------------------------------------------
+                                                                      authors_author_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       65    55   48
+cermine_references_from_cermine_xml           79    54   41
+anystyle_references_from_grobid_refstrings    69    76   85
+anystyle_references_from_cermine_fulltext     67    68   68
+grobid_references_from_grobid_xml             77    81   85
+anystyle_references_from_cermine_refstrings   69    71   73
+anystyle_references_from_pdftotext_fulltext   69    72   76
+cermine_references_from_grobid_refstrings     79    67   58
+anystyle_references_from_grobid_fulltext      61    64   68
+--------------------------------------------------------------------------------------------------
+                                                                      authors_author_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       59    57   55
+cermine_references_from_cermine_xml           67    51   42
+anystyle_references_from_grobid_refstrings    67    73   80
+anystyle_references_from_cermine_fulltext     65    62   60
+grobid_references_from_grobid_xml             71    75   81
+anystyle_references_from_cermine_refstrings   64    67   70
+anystyle_references_from_pdftotext_fulltext   64    65   67
+cermine_references_from_grobid_refstrings     69    60   54
+anystyle_references_from_grobid_fulltext      54    60   69
+--------------------------------------------------------------------------------------------------
+                                                                      _year ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       89    68   55
+cermine_references_from_cermine_xml           92    80   72
+anystyle_references_from_grobid_refstrings    94    86   79
+anystyle_references_from_cermine_fulltext     95    76   63
+grobid_references_from_grobid_xml             91    85   79
+anystyle_references_from_cermine_refstrings   93    82   74
+anystyle_references_from_pdftotext_fulltext   95    81   70
+cermine_references_from_grobid_refstrings     93    84   77
+anystyle_references_from_grobid_fulltext      88    75   66
+--------------------------------------------------------------------------------------------------
+                                                                      _year ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       85    69   58
+cermine_references_from_cermine_xml           90    79   70
+anystyle_references_from_grobid_refstrings    92    84   78
+anystyle_references_from_cermine_fulltext     93    73   62
+grobid_references_from_grobid_xml             89    82   78
+anystyle_references_from_cermine_refstrings   91    80   73
+anystyle_references_from_pdftotext_fulltext   91    77   67
+cermine_references_from_grobid_refstrings     91    82   75
+anystyle_references_from_grobid_fulltext      85    76   70
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       63    46   36
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    56    63   71
+anystyle_references_from_cermine_fulltext     40    39   39
+grobid_references_from_grobid_xml             69    59   51
+anystyle_references_from_cermine_refstrings   49    50   51
+anystyle_references_from_pdftotext_fulltext   51    53   55
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      40    47   56
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+exparser_references_from_cermine_layout       16    11   11
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_grobid_refstrings    26    25   27
+anystyle_references_from_cermine_fulltext     22    19   18
+grobid_references_from_grobid_xml             25    18   17
+anystyle_references_from_cermine_refstrings   24    21   21
+anystyle_references_from_pdftotext_fulltext   24    21   22
+cermine_references_from_grobid_refstrings      0     0    0
+anystyle_references_from_grobid_fulltext      19    16   16
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+method           refstr        title         year          author        editor        publ          source        vol           issue         startp        endp
+---------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------
+cerm.txt--anyst  95 | 77 | 65  86 | 69 | 58  93 | 73 | 62  65 | 62 | 60  47 | 32 | 26  22 | 19 | 18  69 | 59 | 52  70 | 57 | 48  41 | 36 | 33  72 | 63 | 58  76 | 65 | 58
+cerm.ref--anyst  90 | 83 | 77  85 | 75 | 68  91 | 80 | 73  64 | 67 | 70  48 | 38 | 32  24 | 21 | 21  67 | 61 | 56  71 | 61 | 54  41 | 37 | 34  74 | 70 | 67  81 | 72 | 66
+grob.txt--anyst  86 | 81 | 77  80 | 74 | 70  85 | 76 | 70  54 | 60 | 69  44 | 35 | 31  19 | 16 | 16  66 | 62 | 60  60 | 51 | 45  39 | 37 | 35  71 | 70 | 69  73 | 70 | 68
+grob.ref--anyst  90 | 87 | 83  89 | 83 | 78  92 | 84 | 78  67 | 73 | 80  57 | 46 | 39  26 | 25 | 27  72 | 69 | 67  78 | 66 | 58  47 | 44 | 43  80 | 78 | 76  84 | 79 | 75
+pdftotxt--anyst  95 | 81 | 72  87 | 74 | 65  91 | 77 | 67  64 | 65 | 67  49 | 39 | 33  24 | 21 | 22  70 | 63 | 58  72 | 59 | 51  47 | 42 | 38  74 | 68 | 64  77 | 69 | 62
+cermine          90 | 83 | 77  86 | 73 | 65  90 | 79 | 70  67 | 51 | 42   0 |  0 |  0   0 |  0 |  0  50 | 39 | 33  57 | 50 | 45  28 | 22 | 19  59 | 53 | 49  73 | 58 | 49
+grob.ref--cerm   90 | 87 | 83  89 | 79 | 72  91 | 82 | 75  69 | 60 | 54   0 |  0 |  0   0 |  0 |  0  52 | 45 | 41  58 | 53 | 50  31 | 27 | 26  61 | 57 | 56  76 | 64 | 56
+cerm.layo--exp   88 | 74 | 65  84 | 70 | 61  85 | 69 | 58  59 | 57 | 55  45 | 34 | 28  16 | 11 | 11  58 | 52 | 48  54 | 50 | 46  40 | 37 | 36  58 | 52 | 48  60 | 51 | 45
+grobid           90 | 87 | 83  86 | 78 | 71  89 | 82 | 78  71 | 75 | 81  47 | 26 | 18  25 | 18 | 17  67 | 56 | 49  73 | 65 | 58  37 | 29 | 24  82 | 78 | 74  83 | 78 | 74
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+\begin{tabular}{l|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|}
+\multicolumn{1}{c|}{\multirow{2}{*}{\textbf{geocite}}} & \multicolumn{3}{c|}{\textbf{refstr}} & \multicolumn{3}{c|}{\textbf{title}} & \multicolumn{3}{c|}{\textbf{year}} & \multicolumn{3}{c|}{\textbf{author}} & \multicolumn{3}{c|}{\textbf{editor}} & \multicolumn{3}{c|}{\textbf{publ}} & \multicolumn{3}{c|}{\textbf{source}} & \multicolumn{3}{c|}{\textbf{vol}} & \multicolumn{3}{c|}{\textbf{issue}} & \multicolumn{3}{c|}{\textbf{startp}} & \multicolumn{3}{c|}{\textbf{endp}} \\
+\multicolumn{1}{c|}{}  & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} \\
+\hline
+cerm.txt--anyst & 95 & 77 & 65 & 86 & 69 & 58 & 93 & 73 & 62 & 65 & 62 & 60 & 47 & 32 & 26 & 22 & 19 & 18 & 69 & 59 & 52 & 70 & 57 & 48 & 41 & 36 & 33 & 72 & 63 & 58 & 76 & 65 & 58 \\
+cerm.ref--anyst & 90 & 83 & 77 & 85 & 75 & 68 & 91 & 80 & 73 & 64 & 67 & 70 & 48 & 38 & 32 & 24 & 21 & 21 & 67 & 61 & 56 & 71 & 61 & 54 & 41 & 37 & 34 & 74 & 70 & 67 & 81 & 72 & 66 \\
+grob.txt--anyst & 86 & 81 & 77 & 80 & 74 & 70 & 85 & 76 & 70 & 54 & 60 & 69 & 44 & 35 & 31 & 19 & 16 & 16 & 66 & 62 & 60 & 60 & 51 & 45 & 39 & 37 & 35 & 71 & 70 & 69 & 73 & 70 & 68 \\
+grob.ref--anyst & 90 & \textcolor{blue}{87} & 83 & 89 & \textcolor{blue}{83} & 78 & 92 & \textcolor{blue}{84} & 78 & 67 & 73 & 80 & 57 & \textcolor{blue}{46} & 39 & 26 & \textcolor{blue}{25} & 27 & 72 & \textcolor{blue}{69} & 67 & 78 & \textcolor{blue}{66} & 58 & 47 & \textcolor{blue}{44} & 43 & 80 & \textcolor{blue}{78} & 76 & 84 & \textcolor{blue}{79} & 75 \\
+pdftotxt--anyst & 95 & 81 & 72 & 87 & 74 & 65 & 91 & 77 & 67 & 64 & 65 & 67 & 49 & 39 & 33 & 24 & 21 & 22 & 70 & 63 & 58 & 72 & 59 & 51 & 47 & 42 & 38 & 74 & 68 & 64 & 77 & 69 & 62 \\
+cermine & 90 & 83 & 77 & 86 & 73 & 65 & 90 & 79 & 70 & 67 & 51 & 42 & 0 & 0 & 0 & 0 & 0 & 0 & 50 & 39 & 33 & 57 & 50 & 45 & 28 & 22 & 19 & 59 & 53 & 49 & 73 & 58 & 49 \\
+grob.ref--cerm & 90 & \textcolor{blue}{87} & 83 & 89 & 79 & 72 & 91 & 82 & 75 & 69 & 60 & 54 & 0 & 0 & 0 & 0 & 0 & 0 & 52 & 45 & 41 & 58 & 53 & 50 & 31 & 27 & 26 & 61 & 57 & 56 & 76 & 64 & 56 \\
+cerm.layo--exp & 88 & 74 & 65 & 84 & 70 & 61 & 85 & 69 & 58 & 59 & 57 & 55 & 45 & 34 & 28 & 16 & 11 & 11 & 58 & 52 & 48 & 54 & 50 & 46 & 40 & 37 & 36 & 58 & 52 & 48 & 60 & 51 & 45 \\
+grobid & 90 & \textcolor{blue}{87} & 83 & 86 & 78 & 71 & 89 & 82 & 78 & 71 & \textcolor{blue}{75} & 81 & 47 & 26 & 18 & 25 & 18 & 17 & 67 & 56 & 49 & 73 & 65 & 58 & 37 & 29 & 24 & 82 & \textcolor{blue}{78} & 74 & 83 & 78 & 74 \\
+\hline
+\end{tabular}
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+method           refstr          title           year            author          editor          publ            source          vol             issue           startp          endp
+---------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------
+cerm.txt--anyst    95| -11| -21    -3| -16| -25    93| -13| -20    -8| -17| -25   -17| -30| -33   -15| -24| -33    -4| -14| -22   -10| -13| -17   -12| -18| -23   -12| -19| -23    -9| -17| -22
+cerm.ref--anyst    -5|  -4|  -7    -4|  -9| -12    -2|  -4|  -6    -9| -10| -13   -15| -17| -17    -7| -16| -22    -6| -11| -16    -8|  -7|  -6   -12| -15| -20    -9| -10| -11    -3|  -8| -12
+grob.txt--anyst    -9|  -6|  -7   -10| -10| -10    -8|  -9| -10   -23| -19| -14   -22| -23| -20   -26| -36| -40    -8| -10| -10   -23| -22| -22   -17| -15| -18   -13| -10|  -9   -13| -11|  -9
+grob.ref--anyst    -5|  87|  83    89|  83|  78    -1|  84|  78    -5|  -2|  -1    56|  46|  39    26|  25|  27    72|  69|  67    78|  66|  57    47|  44|  43    -2|  78|  76    84|  79|  75
+pdftotxt--anyst    95|  -6| -13    -2| -10| -16    -2|  -8| -14    -9| -13| -17   -14| -15| -15    -7| -16| -18    -2|  -8| -13    -7| -10| -12    47|  -4| -11    -9| -12| -15    -8| -12| -17
+cermine            -5|  -4|  -7    -3| -12| -16    -3|  -5| -10    -5| -31| -48  -100|-100|-100  -100|-100|-100   -30| -43| -50   -26| -24| -22   -40| -50| -55   -28| -32| -35   -13| -26| -34
+grob.ref--cerm     -5|  87|  83    89|  -4|  -7    -2|  -2|  -3    -2| -19| -33  -100|-100|-100  -100|-100|-100   -27| -34| -38   -25| -19| -13   -34| -38| -39   -25| -26| -26    -9| -18| -25
+cerm.layo--exp     -7| -14| -21    -5| -15| -21    -8| -17| -25   -16| -24| -32   -21| -26| -28   -38| -56| -59   -19| -24| -28   -30| -24| -20   -14| -15| -16   -29| -33| -36   -28| -35| -40
+grobid             -5|  87|  83    -3|  -6|  -8    -4|  -2|  78    71|  75|  81   -17| -43| -53    -3| -28| -37    -6| -18| -26    -6|  -1|  57   -21| -34| -44    82|  78|  -2    -1|  -1|  -1
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+\begin{tabular}{l|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|}
+\multicolumn{1}{c|}{\multirow{2}{*}{\textbf{geocite}}} & \multicolumn{3}{c|}{\textbf{refstr}} & \multicolumn{3}{c|}{\textbf{title}} & \multicolumn{3}{c|}{\textbf{year}} & \multicolumn{3}{c|}{\textbf{author}} & \multicolumn{3}{c|}{\textbf{editor}} & \multicolumn{3}{c|}{\textbf{publ}} & \multicolumn{3}{c|}{\textbf{source}} & \multicolumn{3}{c|}{\textbf{vol}} & \multicolumn{3}{c|}{\textbf{issue}} & \multicolumn{3}{c|}{\textbf{startp}} & \multicolumn{3}{c|}{\textbf{endp}} \\
+\multicolumn{1}{c|}{}  & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} \\
+\hline
+cerm.txt--anyst & \textcolor{blue}{95} & \textcolor{red}{11} & \textcolor{red}{21} & \textcolor{red}{3} & \textcolor{red}{16} & \textcolor{red}{25} & \textcolor{blue}{93} & \textcolor{red}{13} & \textcolor{red}{20} & \textcolor{red}{8} & \textcolor{red}{17} & \textcolor{red}{25} & \textcolor{red}{17} & \textcolor{red}{30} & \textcolor{red}{33} & \textcolor{red}{15} & \textcolor{red}{24} & \textcolor{red}{33} & \textcolor{red}{4} & \textcolor{red}{14} & \textcolor{red}{22} & \textcolor{red}{10} & \textcolor{red}{13} & \textcolor{red}{17} & \textcolor{red}{12} & \textcolor{red}{18} & \textcolor{red}{23} & \textcolor{red}{12} & \textcolor{red}{19} & \textcolor{red}{23} & \textcolor{red}{9} & \textcolor{red}{17} & \textcolor{red}{22} \\
+cerm.ref--anyst & \textcolor{red}{5} & \textcolor{red}{4} & \textcolor{red}{7} & \textcolor{red}{4} & \textcolor{red}{9} & \textcolor{red}{12} & \textcolor{red}{2} & \textcolor{red}{4} & \textcolor{red}{6} & \textcolor{red}{9} & \textcolor{red}{10} & \textcolor{red}{13} & \textcolor{red}{15} & \textcolor{red}{17} & \textcolor{red}{17} & \textcolor{red}{7} & \textcolor{red}{16} & \textcolor{red}{22} & \textcolor{red}{6} & \textcolor{red}{11} & \textcolor{red}{16} & \textcolor{red}{8} & \textcolor{red}{7} & \textcolor{red}{6} & \textcolor{red}{12} & \textcolor{red}{15} & \textcolor{red}{20} & \textcolor{red}{9} & \textcolor{red}{10} & \textcolor{red}{11} & \textcolor{red}{3} & \textcolor{red}{8} & \textcolor{red}{12} \\
+grob.txt--anyst & \textcolor{red}{9} & \textcolor{red}{6} & \textcolor{red}{7} & \textcolor{red}{10} & \textcolor{red}{10} & \textcolor{red}{10} & \textcolor{red}{8} & \textcolor{red}{9} & \textcolor{red}{10} & \textcolor{red}{23} & \textcolor{red}{19} & \textcolor{red}{14} & \textcolor{red}{22} & \textcolor{red}{23} & \textcolor{red}{20} & \textcolor{red}{26} & \textcolor{red}{36} & \textcolor{red}{40} & \textcolor{red}{8} & \textcolor{red}{10} & \textcolor{red}{10} & \textcolor{red}{23} & \textcolor{red}{22} & \textcolor{red}{22} & \textcolor{red}{17} & \textcolor{red}{15} & \textcolor{red}{18} & \textcolor{red}{13} & \textcolor{red}{10} & \textcolor{red}{9} & \textcolor{red}{13} & \textcolor{red}{11} & \textcolor{red}{9} \\
+grob.ref--anyst & \textcolor{red}{5} & \textcolor{blue}{87} & \textcolor{blue}{83} & \textcolor{blue}{89} & \textcolor{blue}{83} & \textcolor{blue}{78} & \textcolor{red}{1} & \textcolor{blue}{84} & \textcolor{blue}{78} & \textcolor{red}{5} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{blue}{56} & \textcolor{blue}{46} & \textcolor{blue}{39} & \textcolor{blue}{26} & \textcolor{blue}{25} & \textcolor{blue}{27} & \textcolor{blue}{72} & \textcolor{blue}{69} & \textcolor{blue}{67} & \textcolor{blue}{78} & \textcolor{blue}{66} & \textcolor{blue}{57} & \textcolor{blue}{47} & \textcolor{blue}{44} & \textcolor{blue}{43} & \textcolor{red}{2} & \textcolor{blue}{78} & \textcolor{blue}{76} & \textcolor{blue}{84} & \textcolor{blue}{79} & \textcolor{blue}{75} \\
+pdftotxt--anyst & \textcolor{blue}{95} & \textcolor{red}{6} & \textcolor{red}{13} & \textcolor{red}{2} & \textcolor{red}{10} & \textcolor{red}{16} & \textcolor{red}{2} & \textcolor{red}{8} & \textcolor{red}{14} & \textcolor{red}{9} & \textcolor{red}{13} & \textcolor{red}{17} & \textcolor{red}{14} & \textcolor{red}{15} & \textcolor{red}{15} & \textcolor{red}{7} & \textcolor{red}{16} & \textcolor{red}{18} & \textcolor{red}{2} & \textcolor{red}{8} & \textcolor{red}{13} & \textcolor{red}{7} & \textcolor{red}{10} & \textcolor{red}{12} & \textcolor{blue}{47} & \textcolor{red}{4} & \textcolor{red}{11} & \textcolor{red}{9} & \textcolor{red}{12} & \textcolor{red}{15} & \textcolor{red}{8} & \textcolor{red}{12} & \textcolor{red}{17} \\
+cermine & \textcolor{red}{5} & \textcolor{red}{4} & \textcolor{red}{7} & \textcolor{red}{3} & \textcolor{red}{12} & \textcolor{red}{16} & \textcolor{red}{3} & \textcolor{red}{5} & \textcolor{red}{10} & \textcolor{red}{5} & \textcolor{red}{31} & \textcolor{red}{48} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{30} & \textcolor{red}{43} & \textcolor{red}{50} & \textcolor{red}{26} & \textcolor{red}{24} & \textcolor{red}{22} & \textcolor{red}{40} & \textcolor{red}{50} & \textcolor{red}{55} & \textcolor{red}{28} & \textcolor{red}{32} & \textcolor{red}{35} & \textcolor{red}{13} & \textcolor{red}{26} & \textcolor{red}{34} \\
+grob.ref--cerm & \textcolor{red}{5} & \textcolor{blue}{87} & \textcolor{blue}{83} & \textcolor{blue}{89} & \textcolor{red}{4} & \textcolor{red}{7} & \textcolor{red}{2} & \textcolor{red}{2} & \textcolor{red}{3} & \textcolor{red}{2} & \textcolor{red}{19} & \textcolor{red}{33} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{27} & \textcolor{red}{34} & \textcolor{red}{38} & \textcolor{red}{25} & \textcolor{red}{19} & \textcolor{red}{13} & \textcolor{red}{34} & \textcolor{red}{38} & \textcolor{red}{39} & \textcolor{red}{25} & \textcolor{red}{26} & \textcolor{red}{26} & \textcolor{red}{9} & \textcolor{red}{18} & \textcolor{red}{25} \\
+cerm.layo--exp & \textcolor{red}{7} & \textcolor{red}{14} & \textcolor{red}{21} & \textcolor{red}{5} & \textcolor{red}{15} & \textcolor{red}{21} & \textcolor{red}{8} & \textcolor{red}{17} & \textcolor{red}{25} & \textcolor{red}{16} & \textcolor{red}{24} & \textcolor{red}{32} & \textcolor{red}{21} & \textcolor{red}{26} & \textcolor{red}{28} & \textcolor{red}{38} & \textcolor{red}{56} & \textcolor{red}{59} & \textcolor{red}{19} & \textcolor{red}{24} & \textcolor{red}{28} & \textcolor{red}{30} & \textcolor{red}{24} & \textcolor{red}{20} & \textcolor{red}{14} & \textcolor{red}{15} & \textcolor{red}{16} & \textcolor{red}{29} & \textcolor{red}{33} & \textcolor{red}{36} & \textcolor{red}{28} & \textcolor{red}{35} & \textcolor{red}{40} \\
+grobid & \textcolor{red}{5} & \textcolor{blue}{87} & \textcolor{blue}{83} & \textcolor{red}{3} & \textcolor{red}{6} & \textcolor{red}{8} & \textcolor{red}{4} & \textcolor{red}{2} & \textcolor{blue}{78} & \textcolor{blue}{71} & \textcolor{blue}{75} & \textcolor{blue}{81} & \textcolor{red}{17} & \textcolor{red}{43} & \textcolor{red}{53} & \textcolor{red}{3} & \textcolor{red}{28} & \textcolor{red}{37} & \textcolor{red}{6} & \textcolor{red}{18} & \textcolor{red}{26} & \textcolor{red}{6} & \textcolor{red}{1} & \textcolor{blue}{57} & \textcolor{red}{21} & \textcolor{red}{34} & \textcolor{red}{44} & \textcolor{blue}{82} & \textcolor{blue}{78} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{1} \\
+\hline
+\end{tabular}
+{'anystyle_references_from_cermine_fulltext': {'refstr': 77, 'title': 69, 'year': 73, 'author': 62, 'editor': 32, 'publ': 19, 'source': 59, 'vol': 57, 'issue': 36, 'startp': 63, 'endp': 65}, 'anystyle_references_from_cermine_refstrings': {'refstr': 83, 'title': 75, 'year': 80, 'author': 67, 'editor': 38, 'publ': 21, 'source': 61, 'vol': 61, 'issue': 37, 'startp': 70, 'endp': 72}, 'anystyle_references_from_grobid_fulltext': {'refstr': 81, 'title': 74, 'year': 76, 'author': 60, 'editor': 35, 'publ': 16, 'source': 62, 'vol': 51, 'issue': 37, 'startp': 70, 'endp': 70}, 'anystyle_references_from_grobid_refstrings': {'refstr': 87, 'title': 83, 'year': 84, 'author': 73, 'editor': 46, 'publ': 25, 'source': 69, 'vol': 66, 'issue': 44, 'startp': 78, 'endp': 79}, 'anystyle_references_from_pdftotext_fulltext': {'refstr': 81, 'title': 74, 'year': 77, 'author': 65, 'editor': 39, 'publ': 21, 'source': 63, 'vol': 59, 'issue': 42, 'startp': 68, 'endp': 69}, 'cermine_references_from_cermine_xml': {'refstr': 83, 'title': 73, 'year': 79, 'author': 51, 'editor': 0, 'publ': 0, 'source': 39, 'vol': 50, 'issue': 22, 'startp': 53, 'endp': 58}, 'cermine_references_from_grobid_refstrings': {'refstr': 87, 'title': 79, 'year': 82, 'author': 60, 'editor': 0, 'publ': 0, 'source': 45, 'vol': 53, 'issue': 27, 'startp': 57, 'endp': 64}, 'exparser_references_from_cermine_layout': {'refstr': 74, 'title': 70, 'year': 69, 'author': 57, 'editor': 34, 'publ': 11, 'source': 52, 'vol': 50, 'issue': 37, 'startp': 52, 'endp': 51}, 'grobid_references_from_grobid_xml': {'refstr': 87, 'title': 78, 'year': 82, 'author': 75, 'editor': 26, 'publ': 18, 'source': 56, 'vol': 65, 'issue': 29, 'startp': 78, 'endp': 78}}

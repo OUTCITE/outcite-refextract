@@ -1,0 +1,145 @@
+flottmann et ai., Automatisierte akiuqi isierung von t\u ri en
+
+werden, ferner tritt der bei Luftbildern 
+übliche radiale Versatz von Objekten 
+
+nicht auf, was eine verbesserte geo­
+metrische Genauigkeit insbesondere 
+der abgebildeten Häuser bewirkt.
+
+In einem nächsten Schritt wird der 
+Ansatz auf größere Gebiete ange­
+
+wendet und auf zusätzliche Themen 
+getestet. Der automatiserte Aktualisie­
+rungsprozess erfordert Datensätze, 
+die eine gemeinsame geometrische 
+Grundlage haben. Eine zukünftige 
+Aufgabe wird darin bestehen, die 
+verschiedenen Datenquellen (multi­
+temporale Vektordatensätze aus Luft­
+bildern und digitale Bilddaten) anzu­
+
+passen, um eine weitere Automatisie­
+rung des Prozesses zu ermöglichen.
+
+spatial reclassification, tri: Photogrammetric Enginee­
+ring & Remote Sensing, 62, pp. 949-958.
+Blaschke, T. (2000): Objektextraktion und regelba­
+sierte Klassifikation von Fernerkundungsdaten:
+Neue Möglichkeiten für GIS-Anwender und Planer,
+5. Symposium „Computergestützte Raumplanung", 
+www.corp.at
+Bruniquel-Pinel, V. & Gastellu-Etchegorry, J. P. (1998): 
+Sensitivity of texture of high resolution images of forest 
+to biophysical and acquisition parameters. In: Remote 
+Sensing of Environment, 65, pp. 61-85.
+Hoffmann, A. & Lehmann, F. (2000): Vom Mars zur Er­
+de - die erste digitale Orthobildkarte Berlin mit Da­
+ten der Kamera HRSC-A. In: Kartographische Nach­
+richten, 50 2/2000, S. 61-72.
+Johnsson, K. (1994): Segment-based land use classifi­
+cation from SPOT Satellite data. In.- Photogrammetric 
+Engineering & Remote Sensing, 60 (I), pp 47-53. 
+Lehmann/Hoffmann/ Renouard/van der Vegt (2000): 
+Fully digital and automatic Production of accurate 
+geodata: The High Resolution Stereo Camera -Air­
+borne (HRSC-A). In: GIM international 7/2000, 
+pp 12-17.
+Renouard, L. & Lehmann, F. (1999): High Resolution 
+Digital Surface Models and Orthoimages for Telecom 
+Network Planning. In: Photogrammetric Week, 99,
+
+D. Fritsch & D. Spiller (Hrsg.), Wichmann, Heidelberg, 
+Germany, pp. 241-247.
+Smith, M. & Hoffmann, A. (2000): Parcel-based ap­
+proaches to the classification of fine spatial resolution 
+imagery: Example methodologies using HRSC-A data. 
+In: IAPRS Vol. XXXIII Amsterdam 2000.
+Wewel, F. & Scholten, F. (1999): High Resolution Stereo 
+Camera (HRSC): Multispectral data acquisition and 
+photogrammetric data processing. In: Proc. 4lh Inter­
+national Airborne Remote Sensing Conference and 
+Exhibition, Vol. I, pp 263-271.
+Townshend, J.R.G., Huang, C, Kalluri, S.N.V., Defries, 
+R. S., Liang, S. (2000): Beware of per-pixel characte­
+rization of land. In: International Journal of Remote 
+Sensing, vol. 21, no 4, pp 839-843.
+
+Anschrift der Verfasser: Dipl.-Ing. (FH) Andrea Hoffmann, 
+Dipl.-Geol. Frank Lehmann, Leiter der Abt. Geowis- 
+senschaftliche Fernerkundung, DLR Adlershof, Institut 
+für Weltraumsensorik und Planetenerkundung, Ruther- 
+fordstr. 2, D-12489 Berlin, E-Mail: Vomame.Nachname 
+@dlr.de; IR Jan Willem van der Vegt, Geodan Geo- 
+desie ß.V, Koningslaan 35, 1075 AB Amsterdam, 
+Niederlande, E-Mail: h.j.w.vdvegt@geodan.nl
+
+Die Autoren möchten der Firma Definiens (vormals 
+Delphi2), München, für die Bereitstellung der Beta-Ver­
+sion des Softwarepaketes eCognition danken; beson­
+derer Dank gilt Herrn Dr Martin Baatz für viele hilf­
+reiche Vorschläge. Diese Forschungsarbeit wurde in 
+Zusammenarbeit mit dem Topographischen Dienst der 
+Niederlande durchgeführt. Wir danken für die Bereit­
+stellung der Datenquellen und für fruchtbare Diskus­
+sionen über die Implementation des Ansatzes in den 
+Aktualisierungsprozess.
+
+era
+
+Asperen, P. van, (1996): Digital updates at the Dutch 
+^°Pographic Service. In: IAPRS, Vol. 31, B4, Vienna, 
+
+pp. 891-900.
+^aatz, M. & Schape, A. (1999): Object-oriented and 
+mHti-scale image analysis in semantic networks. In: 
+^r°c. 2nd International Symposium on Operationali­
+
+sation of Remote Sensinq Conference and Exhibition, 
+CD.
+Baatz, M. & Schape, A. (2000): Multiresolution seg­
+
+mentation - an optimization approach for high quality 
+multi-scale image segmentation, In: Strobl, J., Blaschke, 
+
+■ & Griesebner G. (Hrsg.): Angewandte Geographi- 
+Sc^e Informationsverarbeitung, Beiträge zum AGIT- 
+Vmposium Salzburg 2000, Karlsruhe.
+Barnsley, M.J. & Barr, S.L. (1996): Inferring urban land 
+use from satellite sensor images using kernel-based
+
+„Last Orders" - KT 2000
+„Last Orders!" - England- und Irlandreisende, die sich nicht nur auf den 
+
+Besuch von Kathedralen, Schlössern, Museen und ähnlichen Sehenswürdig­
+keiten konzentriert, sondern hier und da auch einmal einen pub frequentiert 
+haben, kennen diesen - im engeren Wortsinn - ultimativen Aufruf: Letzte 
+Chance, heute noch einen drink zu bekommen!
+
+„Last Orders" auch für die Neuauflage des Kartographischen Taschen­
+buches (KT 2000): Wie schon in den KN 1/2000, S. 25 mitgeteilt, sind 
+Schriftleitung und Verlag dabei, die inzwischen reichlich veraltete Ausgabe 
+des letzten KT (97/98) zu aktualisieren und die Neuausgabe, das KT 2000, 
+vorzubereiten. Mit dem „Rückmeldebogen" auf S. 26 in den KN 1/2000 
+haben wir Sie gebeten, uns mitzuteilen, wie, d.h. mit welchen persönlichen 
+Angaben, Sie im KT 2000 verzeichnet sein möchten.
+
+Wenn Sie uns diesen Rückmeldebogen noch nicht zugeschickt haben oder 
+wenn Sie nun noch jüngste Änderungen/Korrekturen mitzuteilen haben: 
+letzte Chance für Ihre aktuelle KT-Eintragung!
+
+Rückmeldung bitte möglichst umgehend, spätestens jedoch bis zum 
+30.10.2000 an: Prof. Dr. Jürgen Dodt oder Dr. Werner Herzog, Ruhr-Uni­
+versität Bochum, Geographisches Institut, Postfach, 44780 Bochum,
+Fax: 0234/3214180, E-Mail: dodt bzw. herzog@geographie.ruhr-uni- 
+bochum.de
+
+KN
+5/2000
+
+http://www.corp.at
+dlr.de
+mailto:h.j.w.vdvegt%40geodan.nl
+mailto:herzog%40geographie.ruhr-uni-bochum.de
+mailto:herzog%40geographie.ruhr-uni-bochum.de

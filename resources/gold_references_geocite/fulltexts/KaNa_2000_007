@@ -1,0 +1,155 @@
+urebe et al., WebKartographie
+
+62
+
+gezeigt hat l Prechelt 1999), können 
+jedoch bei guter Programmierung 
+durchaus ähnliche Werte erreicht 
+werden, besonders hinsichtlich der Effi­
+zienz. Ebenso kann die Leistung gestei­
+gert werden, indem Applikationen 
+(Programme, die ohne Web-Browser 
+ausgeführt werden können) statt 
+Applets zum Einsatz gelangen. Zusam­
+menfassend sind wir sicher, dass Java 
+in der Zukunft auch im Bereich von GIS 
+und der Kartographie eine wichtige 
+Rolle spielen wird. Dies gilt umso mehr, 
+als die Bedürfnisse hinsichtlich der 
+Offenheit und Interoperabilität von 
+GIS ständig zunehmen; hier liegt Java 
+voll im Trend.
+
+Dykes, J.A. (1997): Exploring Spatial Data Representa­
+tion with Dynamic Graphics. In: Computers & Geo­
+sciences, 23, 4. S. 345-370. Siehe auch unter: http:// 
+www.geog.le.ac.uk/argus/ICA/J. Dykes/
+Flanagan, D. (1997): Java in a Nutshell, Second Edition. 
+O'Reilly, Cambridge.
+Gartner, G. (1996): Internet für Kartographen. In: 
+Kartographische Nachrichten, 46, 5. S. 185-190. 
+Gartner, G. (1999): Internet-Kartographie: (R)Evolution 
+oder Sackgasse? In: Kartographische Nachrichten,
+49, 3. S. 98-104.
+Goldfarb, C. F. und Prescod P. (1998): The XML 
+Handbook. Prentice Hall PTR cop. Upper Saddle 
+River, NJ.
+Herzog, A. (1997): JavaCopam Applet for Unclassed 
+Choropleth Maps, http://www.ktzh.ch/statistik/ 
+daten/karten/JavaMap.html
+Limp, F. W. (1999): Warp Speed: Mapping on the 
+World Wide Web! In: GepWorld, September 1999,
+12, 9. S. 32-42.
+Monmonier, M. (1989): Geographic Brushing: 
+Enhancing Exploratory Analysis of the Scatterplot 
+Matrix. In: Geographical Analysis, 21, 1. S. 81-84.
+
+Ousterhout, J.K. (1994): Tel and the Tk Toolkit. 
+Addison-Wesley, Reading MA.
+Peterson, M. P. (1997): Trends in Internet Map Use.
+In: ICA (Hrsg.): Proceedings of the 18lh International 
+Cartographic Conference, Stockholm 1997, S. 1635— 
+1642.
+Peterson, M. P. (1999): Trends in Internet Map Use:
+A Second Look. In: ICA (Hrsg.): Proceedings of the 
+19th International Cartographic Conference, Ottawa 
+1999, S. 571-580.
+Prechelt, L. (1999): Comparing Java vs. C/C++ Effi­
+ciency Differences to Interpersonal Differences. In: 
+Communications of the ACM: UML in Action, 42, 
+10.S. 109-112.
+
+Anschrift der Verfasser: Dipl.-Geogr. Alessandro 
+Cecconi, Stud. Geogr. Christopher Shenton, Prof. Dr. 
+Robert Weibel, Geographisches Institut, Universität 
+Zürich, Winterthurerstrasse 190, CH-8057 Zürich, 
+Schweiz, email: (acecconi, cshenton, weibel) 
+@geo.unizh.ch
+
+Den ursprünglichen Anstoß zur Diplomarbeit von 
+Alessandro Cecconi gab Dr. Adrian Herzog vom 
+Statistischen Amt des Kantons Zürich (Schweiz), der zur 
+Visualisierung von statistischen Daten des Kantons ein 
+Java-Applet namens JavaCopam entwickelt hatte 
+(Herzog 1997). Das in diesem Artikel beschriebene 
+CartoApplet wurde ursprünglich als Neu-Entwurf und 
+Erweiterung des Vorläuferwerkzeugs entwickelt.
+
+Li fera für
+
+Andrienko, N.V. und Andrienko, G.L. (1998): Inter­
+active Maps for Visual Data Exploration, http:// 
+allanon.gmd.de/and/icavis und
+http://allanon.gmd.de/and/
+Cecconi, A. (1999): Kartographische Darstellung von 
+statistischen Daten im Internet. MSc Thesis, Department 
+of Geography, University of Zurich, http://www.geo. 
+unizh.ch/~acecconi/CartoApplet
+Cranston, C.B., Brabec, F, H/altason, G.R., Nebert,
+D., und Samet, H. (1999): Adding an Interoperable 
+Server Interface to a Spatial Database: Implementation 
+Experiences with OpenMap™. In: A. Vckovski, K. 
+Brassei und H.-J. Schek (Eds.). Interoperating Geogra­
+phic Information Systems. Lecture Notes in Computer 
+Science, vol. 1580, Springer-Verlag, Berlin,
+S. 115-128.
+Culpepper, B.R. (1998): Weave Maps across the 
+Web: 1998 Edition. In: GeoWorld, November 1998, 
+S. 46-52.
+
+WebKartographie - Optimierung 
+Thematischer Karten für das internet
+
+Ulrich Grebe, Holger Scharlach und Jean-Claude Müller, Bochum
+
+| ^Einleitung
+
+Die Attraktivität des Internets hat mit 
+
+der steigenden Anzahl an Informations­
+angeboten in den letzten Jahren stark 
+zugenommen. So erhöhte sich die Zahl 
+der deutschen Internet-Adressen 
+(de-Domains) von März 1998 bis März 
+2000 von 131000 auf 1999000 
+Domains (DENIC eG, Frankfurt), die 
+Zahl der deutschen Internet-User 
+wuchs bis 1999 auf 16,9 Millionen 
+(Allensbacher Computer- und Telekom­
+munikationsanglyse ACTA 99) und 
+wird nach Schätzungen bis 2002 auf 
+32,9 Millionen weiter zunehmen (Inter­
+national Data Corporation 1999). Be­
+sonders tief greifende Auswirkungen 
+hat diese Entwicklung auf die Unter­
+
+nehmen der Informationsbranche, da 
+über das Internet aktuelle Informatio­
+nen ohne hohe Druck- und 
+Distributionskosten in Sekundenschnel­
+le verbreitet werden können. Hiervon 
+kann auch die Kartographie profitieren, 
+insbesondere unter Berücksichtigung 
+der technologischen Fortschritte im 
+Hinblick auf die Präsentation grafi­
+scher Elemente auf HTML-Seiten.
+
+Bereits heute sind vielfältige karto­
+graphische Informationen im Internet 
+verfügbar, von der statischen Infokarte 
+als grafische Form der Wegbeschrei­
+bung bis hin zu interaktiven Straßen­
+atlanten mit Routing-Funktionen und 
+Datenbankanbindung. Eine aktuelle 
+Übersicht gibt Dickmann (2000 a, b). 
+Auch die Möglichkeiten des Internets 
+für die Kartographie sind, besonders
+
+KN
+4/2000
+
+http://www.geog.le.ac.uk/argus/ICA/J
+http://www.ktzh.ch/statistik/
+allanon.gmd.de/and/icavis
+http://allanon.gmd.de/and/
+http://www.geo

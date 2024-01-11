@@ -1,0 +1,210 @@
+[
+  {
+    "author": [
+      {
+        "family": "Alcántara",
+        "given": "M."
+      }
+    ],
+    "title": "Gobernabilidad, crisis y cambio. Elementos para el estudio de la gobernabilidad de los sistemas políticos en épocas de crisis y cambio",
+    "publisher": "Fondo de Cultura Económica",
+    "language": "pt",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "publisher-place": "México"
+  },
+  {
+    "author": [
+      {
+        "family": "Case",
+        "given": "K.E."
+      },
+      {
+        "family": "Fair",
+        "given": "R.C."
+      }
+    ],
+    "title": "Fundamentos de economía",
+    "publisher": "Prentice Hall Hispanoamericana",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "publisher-place": "Estados Unidos"
+  },
+  {
+    "author": [
+      {
+        "family": "Durkheim",
+        "given": "E."
+      }
+    ],
+    "title": "Educación como socia- lización",
+    "publisher": "Ediciones Sígueme",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1976
+        ]
+      ]
+    },
+    "publisher-place": "Salamanca"
+  },
+  {
+    "author": [
+      {
+        "family": "Lozano",
+        "given": "C."
+      }
+    ],
+    "title": "La delincuencia en la era de la globalización",
+    "publisher": "Universidad del Desarrollo del Estado de Puebla",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "publisher-place": "México"
+  },
+  {
+    "author": [
+      {
+        "family": "Mudrack",
+        "given": "P.E."
+      }
+    ],
+    "title": "Defining group co- hesiveness: A legacy of confusion?",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "Small Group Behavior",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "37–49"
+  },
+  {
+    "author": [
+      {
+        "family": "Sánchez",
+        "given": "C.A."
+      }
+    ],
+    "title": "Investigación de ope- raciones I",
+    "note": "Costa Rica: Universidad Hispa- noamericana. Consultado el 17 octubre de 2014. Disponible en:",
+    "language": "es",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "URL": "http://ing.sanchez."
+  },
+  {
+    "author": [
+      {
+        "family": "Sorj",
+        "given": "B."
+      },
+      {
+        "family": "Martucelli",
+        "given": "D."
+      }
+    ],
+    "title": "El desafío latinoamericano. Cohesión social y demo- cracia. Brasil: Corporación de Estudios para Latinoamérica. Consultado el 10 de octubre",
+    "note": "Disponible en:",
+    "language": "es",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "URL": "http://www.platafor-"
+  },
+  {
+    "author": [
+      {
+        "family": "Swokowski",
+        "given": "E.W."
+      }
+    ],
+    "title": "Cálculo con geo- metría analítica. Estados Unidos: Ibe- roamericana",
+    "language": "es",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Gigch",
+        "given": "J.P.",
+        "particle": "Van"
+      }
+    ],
+    "title": "Teoría general de sistemas",
+    "publisher": "Trillas",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "publisher-place": "México"
+  },
+  {
+    "author": [
+      {
+        "family": "Von",
+        "given": "L.B."
+      }
+    ],
+    "title": "Teoría general de sistemas",
+    "publisher": "Fondo de Cultura Económica",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1968
+        ]
+      ]
+    },
+    "publisher-place": "México"
+  }
+]

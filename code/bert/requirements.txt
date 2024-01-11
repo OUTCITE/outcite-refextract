@@ -1,0 +1,6 @@
+spacy
+fastapi
+pydantic
+uvicorn
+langdetect
+transformers

@@ -1,0 +1,143 @@
+Heidbrink, Digitale Bodenbelastungskarte
+
+von Behörden keine langfristige Zu­
+sage möglich. Zudem hängt die Reali­
+sierung der ersten Stufe von der 
+Gewährung der Nutzungsrechte durch 
+die VMap CD-ROM Producer ab. 
+Aufgrund der aktuellen Situation 
+deutet sich an, daß Zentraleuropa 
+
+mit Deutschland, Benelux und der 
+Schweiz als einer der ersten Bereiche 
+der EuroMap zur Verfügung stehen 
+
+Wird.
+
+Module für die Erstellung digitaler 
+Bodenbelastungskarten in kommunalen 
+Umweltinformationssystemen
+
+Kathrin Heidbrink, Essen
+
+D Einleitung und Zielsetzung
+digitale Bodenbelastungskarten basie- 
+
+ren auf Untersuchungen von persisten- 
+ten Schadstoffen (Schwermetalle, Poly- 
+zyklische Aromatische Kohlenwasser­
+
+stoffe [PAK], Polychlorierte Biphenyle 
+^CB]) in Oberböden natürlich ent­
+
+wickelter Bodenprofile der Nutzungen 
+Acker, Grünland und Wald. Bei Wald- 
+böden wird zusätzlich zum minerali­
+
+schen Oberboden auch die organische 
+Auflage mit berücksichtigt.
+
+'n digitalen Bodenbelastungskarten 
+Wird in der Regel im Maßstab 1 :50 000 
+ln einem festgelegten Untersuchungs- 
+9ebiet (z. B. einem Kreis oder einer 
+^eisfreien Stadt) die Verbreitung der
+
+J)r,rQg, gehalten anläßlich des Niederländisch- 
+eu,schen Kartographiekongresses in Maastricht 
+
+Qrn i®- Mai 1999 In der Sektion „Umweltinformations­
+systeme".
+
+Literatur
+
+Eggers, O. und Farrell, B. (19991: PETIT — Mapping 
+across borders. In: Proceedings 19. Internationale Karto­
+graphische Konferenz, Ottawa, Kanada.
+liiert, A. (19981: MEGRIN — Amtliche Geoinformation für 
+Europa. In .- Schriftenreihe des DVW, Band 33: 82. Deut­
+scher Geodätentag „Geodäsie vernetzt Europa", Verlag 
+Konrad Wiltwer, Stuttgart 1998, S.12—21.
+MEGRIN (19991: Projects — PETIT. Internet: httpV/www. 
+megrin.org/proiects/petit/petit.html
+
+Anschrift des Verfassers-. Dr-Ing. Andreas liiert, Bundesamt 
+für Kartographie und Geodäsie, Richard-Strauss-Allee 11, 
+D-60598 Frankfurt
+
+Schadstoffe unter Berücksichtigung der 
+Belastungsursachen, z. B. dem Einfluß 
+der Bodenausgangssubstrate oder 
+dem Nutzungs-, Überschwemmungs­
+und Immissionseinfluß, flächenbezogen 
+dargestellt. Lokale Belastungsursachen, 
+z. B. Altlasten, Emittenten, Halden und 
+Erzgänge, werden ebenfalls berück­
+sichtigt bzw. nachrichtlich dargestellt.
+
+Für die Erstellung digitaler Boden­
+belastungskarten wurde im Rahmen 
+der Weiterentwicklung des Boden­
+informationssystems (BIS NRW) ein 
+Modul entwickelt, mit dessen Hilfe auf 
+einem handelsüblichen PC die Bear­
+beitung der Karten- und Datengrund­
+lagen, die Auswertungen sowie die 
+Bewertung der Ergebnisse durchgeführt 
+werden kann (vgl. Ministerium für Um­
+welt, Raumordnung und Landwirtschaft 
+1999b). Zur Erfassung, Aufbereitung 
+und Verwaltung der Daten über Stoff­
+gehalte sowie zur räumlichen Inter­
+
+polation, Ableitung der Ergebniskarten 
+und Meßnetzplanung für ergänzende 
+Untersuchungen werden speziell ent­
+wickelte bzw. angepaßte Datenbank­
+systeme und GIS-Werkzeuge einge­
+setzt. Sie werden den Kommunen als 
+einzelne Werkzeuge oder zur Integra­
+tion in ein bereits bestehendes Kommu­
+nales Informationssystem angeboten.
+
+Die Methode zur Erstellung digitaler 
+Bodenbelastungskarten wurde in aus­
+gewählten Untersuchungsgebieten 
+des Landes Nordrhein-Westfalen erar­
+beitet und getestet. Daran haben sich 
+die Stadt Neuss sowie Teile der Kreise 
+Wesel und Recklinghausen, des Ober- 
+bergischen Kreises sowie des Ennepe- 
+Ruhr-Kreises beteiligt (Reinirkens 1998, 
+Reinirkens & Börner 1999).
+
+Um den Vollzug des Bodenschutzes 
+vor allem auf kommunaler Ebene zu 
+unterstützen, hat das Land NRW ein 
+Förderprogramm zu Maßnahmen des 
+Bodenschutzes aufgestellt [Ministerium 
+für Umwelt, Raumordnung und Landwirt­
+
+schaft 1999a), im Rahmen dessen die 
+Erstellung digitaler Bodenbelastungs­
+karten als Untersuchungsmaßnahme 
+zur Ermittlung von Verdachtsflächen 
+auf schädliche Bodenveränderungen 
+gefördert werden kann. Im Rahmen des 
+Förderprogrammes wird momentan bei 
+den Städten Wuppertal, Hagen, Iser­
+lohn, Düsseldorf, Duisburg, Gelsen­
+kirchen sowie bei den Kreisen Neuss, 
+Wesel, Recklinghausen und beim 
+Oberbergischen Kreis an der Erstellung 
+digitaler Bodenbelastungskarten gear­
+beitet.
+
+Mit Hilfe digitaler Bodenbelastungs­
+karten werden die im Rahmen der 
+Bodenschutz-Gesetzgebung beste­
+henden Aufgaben zum Umgang mit 
+schädlichen Bodenveränderungen im
+
+KN
+3/2000

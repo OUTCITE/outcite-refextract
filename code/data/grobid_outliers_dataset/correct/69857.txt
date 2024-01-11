@@ -1,0 +1,22 @@
+Bandiera, O., I. Barankay, and I. Rasul (2013). Team incentives: Evidence from a firm level experiment. Journal of the European Economic Association 11 (5), 1079-1114.
+Chen, R. (2017). Coordination with endogenous groups. Journal of Economic Behavior & Organization 141 (5), 177-187.
+Chen, R. and J. Gong (2018). Can self selection create high-performing teams? Journal of Economic Behavior & Organization 148, 20-33.
+Cooper, D. J., K. Saral, and M. C. Villeval (2019). Why join a team? IZA Discussion Paper (12587).
+Cross, R., R. Rebele, and A. Grant (2016). Collaborative overload. Harvard Business Review.
+Curranrini, S., M. O. Jackson, and P. Pin (2009). An economic model of friendship: Homophily, minorities, and segregation. Econometrica 77 (4), 1003-1045.
+Dahlander, L., V. Boss, C. Ihl, and R. Jayaraman (2019). The effect of choosing teams and ideas on entrepreneurial performance: Evidence from a field experiment. Mimeo.
+Delfgaauw, J., R. Dur, O. A. Onemu, and J. Sol (2019). Team incentives, social cohesion, and performance: A natural field experiment. Tinbergen Institute Discussion Paper.
+Delfgaauw, J., R. Dur, and M. Souverijn (2018). Team incentives, task assignment, and performance: A field experiment. The Leadership Quarterly.
+Englmaier, F., S. Grimm, D. Schindler, and S. Schudy (2018). The effect of incentives in non-routine analytical team tasks -Evidence from a field experiment. CESifo Working Paper Series (6903).
+Erev, I., G. Bornstein, and R. Galili (1993). Constructive intergroup competition as a solution to the free rider problem: A field experiment. Journal of Experimental Social Psychology 29 (6), 463-478.
+Fischer, M. and P. Kampkötter (2017). Effects of German universities' excellence initiative on ability sorting of students and perceptions of educational quality. Journal of Institutional and Theoretical Economics 173 (4), 662.
+Friebel, G., M. Heinz, M. Krüger, and N. Zubanov (2017). Team incentives and performance: Evidence from a retail chain. American Economic Review 107 (8), 2168-2203.
+Gächter, S. and C. Thöni (2005). Social learning and voluntary cooperation among like-minded people. Journal of the European Economic Association 3 (2), 303-314.
+Geraghty, A. and S. Paterson-Brown (2018). Leadership and working in teams. Surgery (Oxford) 36 (9), 503-508.
+Guido, A., A. Robbett, and R. Romaniuc (2019). Group formation and cooperation in social dilemmas: A survey and meta-analytic evidence. Journal of Economic Behavior & Organization 159, 192 -209.
+Hamilton, B. H., J. A. Nickerson, and H. Owan (2003). Team incentives and worker hetero- geneity: An empirical analysis of the impact of teams on productivity and participation. Journal of Political Economy 111 (3), 465-497.
+Mamoli, S. and D. Mole (2015). Creating Great Teams: How Self-selection Lets People Excel. Pragmatic Bookshelf.
+O'Neill, T. A. and E. Salas (2018). Creating high performance teamwork in organizations. Human Resource Management Review 28 (4), 325-331.
+Patel, S. and S. Sarkissian (2017). To group or not to group? Evidence from mutual fund databases. Journal of Financial and Quantitative Analysis 52 (5), 1989-2021.
+Reagans, R. and E. W. Zuckerman (2019). Networks, diversity, and productivity: The social capital of corporate R&D teams. Organization Science 12 (4), 502-517.
+Wuchty, S., B. F. Jones, and B. Uzzi (2007). The increasing dominance of teams in production of knowledge. Science 316 (5827), 1036-1039.

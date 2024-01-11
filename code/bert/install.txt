@@ -1,0 +1,19 @@
+conda create -n bert_env
+conda activate bert_env
+
+pip install -r requirements.txt
+
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+
+python -m spacy download en_core_web_sm
+python -m spacy download de_core_news_sm
+
+----------------------------------------
+download models (2Gb each) -> ./models folder
+
+pip install gdown
+
+gdown https://drive.google.com/uc?id=1nvNN74exqYIpg82FEmry0PXf4DxgDjpM
+gdown https://drive.google.com/uc?id=1KCnlSjc1DfCj_-keCAL8Wyiu3XeyPNmJ
+----------------------------------------
+to start the API: uvicorn api:app

@@ -1,0 +1,1711 @@
+BEITRAG/ARTICLE
+
+https://doi.org/10.1007/s13147-017-0505-0
+Raumforsch Raumordn (2017) 75:471–485
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag
+für ein idealtypisches Vorgehen
+
+Thomas Terfrüchte1 · Stefan Greiving2 · Florian Flex2
+
+Eingegangen: 1. Dezember 2016 / Angenommen: 24. August 2017 / Online publiziert: 5. September 2017
+© Springer-Verlag GmbH Deutschland 2017
+
+Zusammenfassung Das Thema „Zentrale Orte“ erfreut
+sich sowohl in den Raumwissenschaften wie auch in der
+Praxis der Raumordnung (wieder) einer wachsenden Be-
+deutung. Zunehmend wird auf das Erfordernis einer em-
+pirischen Validierung von Zentrale-Orte-Konzepten abge-
+stellt, damit die entsprechenden Festlegungen mit Zielquali-
+tät in Raumordnungsplänen nachvollziehbar begründet wer-
+den können. Es bleibt bisher aber offen, welche methodi-
+schen Anforderungen an diese Validierung geknüpft werden
+und wie eine Validierung im Einzelnen ablaufen sollte. Die-
+se Fragen stehen im Kern dieses Beitrags, der vier mögli-
+che Vorgehensweisen bei der empirischen Fundierung von
+Zentrale-Orte-Konzepten als unabdingbare Voraussetzung
+für Rechtssicherheit vorstellt und schließlich ein iteratives
+Vorgehen vorschlägt.
+
+Schlüsselwörter Zentrale-Orte-Konzept ·
+Raumordnerisches Zielsystem · Raumordnerisches
+Erfordernis · Operationalisierung · Validierung
+
+� Dr. Thomas Terfrüchte
+thomas.terfruechte@tu-dortmund.de
+
+Prof. Dr.-Ing. Stefan Greiving
+stefan.greiving@tu-dortmund.de
+
+Dr.-Ing. Florian Flex
+florian.flex@tu-dortmund.de
+
+1 Fachgebiet Raumordnung und Planungstheorie,
+Technische Universität Dortmund,
+August-Schmidt-Straße 6, 44227 Dortmund,
+Deutschland
+
+2 Institut für Raumplanung, Technische Universität Dortmund,
+August-Schmidt-Straße 10, 44227 Dortmund, Deutschland
+
+Empirical foundation of central-place-concepts –
+Recommendations for an ideal type approach
+
+Abstract The topic of “central places” (again) steadily
+gains relevance in spatial science as well as in regional plan-
+ning. Emphasising the requirement to verify central-place
+concepts empirically, corresponding aims of comprehen-
+sive regional planning can be justified in a reasonable way.
+It has so far remained open which methodological demands
+have to relate to this validation and how in particular these
+specifications should be fulfilled. These questions form the
+background for this article. It introduces four optional ap-
+proaches towards the empirical foundation of central-place
+concepts as an indispensable prerequisite for legal certainty
+and proposes in the end an iterative approach as ideal type.
+
+Keywords Central-place concept · Goals of spatial
+planning · Legal requirements in spatial planning ·
+Operationalisation · Validation
+
+1 Einleitung
+
+In den Raumwissenschaften wie auch in der Praxis der
+Raumordnung erfährt das Thema „Zentrale Orte“ (wieder)
+wachsende Bedeutung. So stärkt die Ministerkonferenz für
+Raumordnung (MKRO) mit ihrer jüngsten Entschließung
+(MKRO 2016a) grundsätzlich die Steuerungswirkung von
+Zentrale-Orte-Konzepten und nimmt in den überarbeiteten
+Leitbildern der Raumentwicklung (MKRO 2016b) explizit
+
+https://doi.org/10.1007/s13147-017-0505-0
+http://crossmark.crossref.org/dialog/?doi=10.1007/s13147-017-0505-0&domain=pdf
+http://orcid.org/0000-0001-8378-8099
+
+
+472 T. Terfrüchte et al.
+
+Bezug darauf.1 Vor allem das Leitbild „Daseinsvorsorge
+sichern“ im Kontext gleichwertiger Lebensverhältnisse ist
+hier zu nennen. Die Akademie für Raumforschung und
+Landesplanung (ARL) hat im Rahmen mehrerer Landes-
+arbeitsgemeinschaften Arbeitsgruppen zur Fortentwick-
+lung der Zentrale-Orte-Konzepte eingerichtet bzw. jüngst
+abgeschlossen.2 Das Bundesinstitut für Bau-, Stadt- und
+Raumforschung (BBSR) hat 2014 eine deutschlandweit
+vergleichende Studie zu den Zentrale-Orte-Konzepten der
+Länder veröffentlicht (Greiving/Winkel/Flex et al. 2014).
+Und schließlich nehmen zahlreiche obergerichtliche Ur-
+teile insbesondere im Zusammenhang mit der Steuerung
+des großflächigen Einzelhandels (Kongruenzgebot, Beein-
+trächtigungsverbot), der Siedlungsentwicklung oder dem
+kommunalen Finanzausgleich regelmäßig direkt Bezug auf
+die länderspezifischen Zentrale-Orte-Konzepte und fordern
+von den Landesraumordnungen entsprechende Reformen
+ein, die in einzelnen Bundesländern bereits durch Gut-
+achten vorbereitet werden. Grundtenor des eingeforderten
+Reformbedarfs ist vor allem das Erfordernis der empiri-
+schen Fundierung raumordnerischer Festlegungen.3 Dem
+hat sich die MKRO (2016a) mit Punkt 8 ihrer Empfehlun-
+gen angeschlossen. Dies gilt insbesondere vor dem Hinter-
+grund der mit der Festlegung Zentraler Orte verbundenen
+Einschränkung kommunaler Planungshoheit durch überört-
+liche Steuerungskonzepte – etwa in den Bereichen Sied-
+lungsflächenentwicklung und großflächiger Einzelhandel4
+
+– sowie die ohnehin bestehenden Anforderungen an Ziele
+
+der Raumordnung wie das Bestimmtheitsgebot oder das
+Willkürverbot.
+
+Der vorliegende Beitrag stellt ein idealtypisches Vor-
+gehen bei der empirischen Fundierung von Zentrale-Or-
+te-Konzepten vor und ist wie folgt aufgebaut: Zunächst
+werden die angesprochenen Grundmerkmale Zentraler Orte
+definiert (Kapitel 2). Im Anschluss werden allgemeine me-
+thodische Überlegungen zur Validierung von Zentrale-Orte-
+Konzepten angestellt, wobei insbesondere eine begriffliche
+und inhaltliche Trennung zwischen Monitoring, Evaluati-
+on, Controlling und Validierung erfolgt (Kapitel 3). Darauf
+basierend werden idealtypische Vorgehensweisen zur Va-
+lidierung vorgeschlagen (Kapitel 4), bevor schließlich der
+Beitrag mit einem Fazit endet (Kapitel 5).
+
+Die Abhandlung knüpft zudem unmittelbar an die 2015
+in dieser Zeitschrift publizierte „Vergleichende Untersu-
+chung der Zentrale-Orte-Konzepte in den Ländern und
+Empfehlungen zu ihrer Weiterentwicklung“ von Greiving,
+Flex und Terfrüchte an (Greiving/Flex/Terfrüchte 2015).
+Die hier dargelegten Überlegungen zu einer empirischen
+Fundierung sind vor diesem Hintergrund auch als Beitrag zu
+verstehen, den dort angesprochenen „planungspolitischen
+Kraftakt“ (Greiving/Flex/Terfrüchte 2015: 296) auf einer
+substanziellen empirischen Basis aufsetzen zu können.
+
+Zwei wesentliche Prämissen liegen dem Ziel des Arti-
+kels zugrunde: Erstens wird vorausgesetzt, dass eine größt-
+mögliche Akzeptanz der Zentrale-Orte-Konzepte angestrebt
+wird. Dabei geht es weniger um die ohnehin erforderliche
+Beteiligung bei der Aufstellung von Raumordnungsplänen
+(§10 ROG), sondern um die Akzeptanz des Planungspro-
+zesses, was vor allem bei überörtlichen Planungen mitunter
+besonders schwierig sein kann (vgl. Wiechmann/Terfrüchte
+2013). Im Vordergrund steht daher ein transparenter Pro-
+zess, der, so Fürst (2010: 171), zugleich auch legitimie-
+rend und damit akzeptanzsteigernd wirke. Planung, so Fürst
+(2010: 171) weiter, wirke eben nicht nur durch die Ziele der
+Raumordnung, „sondern auch durch den Prozess der Plan-
+erstellung“. Es reicht somit nicht aus, dass ein Zentrale-
+Orte-Konzept (als Ziel der Raumordnung) überwiegend ak-
+zeptiert wird, sondern auch der Prozess der Erarbeitung im
+Sinne eines Verfahrenskonsenses.
+
+Die zweite Prämisse betrifft das grundsätzliche raumord-
+nerische Verständnis von Zentralen Orten. Denn es ist mit-
+nichten der Fall, dass sämtliche Landesplanungsbehörden
+ein – zumindest in den Grundzügen – einheitliches Begriffs-
+und Steuerungsverständnis haben. Schon die Frage, welche
+und wie viele Hierarchiestufen samt Zwischenstufen ein
+Zentrale-Orte-Konzept aufweist, wird höchst unterschied-
+lich beantwortet (Greiving/Flex/Terfrüchte 2015: 287). Vor
+diesem Hintergrund schlagen die Verfasser klar definierte
+Grundmerkmale für Zentrale-Orte-Konzepte bzw. Zentrale
+Orte vor, auf denen die empirische Fundierung fußt.
+
+1 Die Ministerkonferenz für Raumordnung hat in ihrer Entschließung 
+(MKRO 2016a) allerdings ein spezielles Begriffsverständnis – und 
+zwar umgekehrt zur vorherrschenden Meinung in der Wissenschaft. 
+Die Ministerkonferenz für Raumordnung definiert das Zentrale-Or-
+te-System als normatives Ziel der Raumordnung und das Zentra-
+le-Orte-Konzept als empirischen Analyserahmen. In der Wissenschaft 
+hingegen ist vom deskriptiven Zentrale-Orte-System und normativen 
+Zentrale-Orte-Konzept die Rede (vgl. etwa Blotevogel 2002a; Blotevo-
+gel 2005; Winkel/Greiving 2008; Flex 2015; Furkert  2015; Terfrüchte 
+2015; Greiving/Flex/Terfrüchte 2015). Dem Begriffsverständnis der 
+Ministerkonferenz für Raumordnung schließen sich die Verfasser die-
+ses Beitrags daher bewusst nicht an und sprechen von der Validierung 
+von (normativen) „Zentrale-Orte-Konzepten“.
+2 Arbeitsgruppen der Landesarbeitsgemeinschaften Bayern („Re-
+form des Zentrale-Orte-Konzepts in Bayern“), Bremen/Hamburg/
+Niedersachsen/Schleswig-Holstein („Die Funktion der Ortskerne für 
+die Stabilisierung Zentraler Orte“; vgl. LAG ARL 2014), Hessen/
+Rheinland-Pfalz/Saarland („Ausstattungsprofile Zentraler Orte un-
+ter veränderten Rahmenbedingungen – das Beispiel von Hessen, 
+Rheinland-Pfalz, Saarland“; vgl. ARL 2013) und Nordrhein-Westfalen 
+(„Neuaufstellung des Zentrale-Orte-Konzepts in Nordrhein-Westfa-
+len“; vgl. Greiving/Flex/Terfrüchte 2015 und Greiving/Flex 2016).
+3 Für Nordrhein-Westfalen finden sich solche Forderungen beispiels-
+weise in ARL (2015: 3), Terfrüchte (2015: 246) oder Landtag Nord-
+rhein-Westfalen (2015: 40 ff.).
+4 Die Steuerungswirkungen Zentraler-Orte-Konzepte unterscheiden 
+sich erheblich zwischen den Bundesländern (vgl. ausführlich Grei-
+ving/Winkel/Flex et al. 2014).
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 473
+
+2 Merkmale und Funktionen Zentraler Orte
+
+Zentrale-Orte-Konzepte sind Bestandteil aller Pläne und
+Programme der Landes- und Regionalplanung der Flächen-
+länder, was die Bedeutung für die deutsche Raumordnungs-
+praxis unterstreicht. Zentrale-Orte-Konzepte sind insofern
+aber auch als Plural zu verstehen, da es das eine Zentrale-
+Orte-Konzept nicht gibt bzw. aufgrund der Länderzustän-
+digkeit de facto auch nicht geben kann.5 Vor diesem Hin-
+tergrund werden im Folgenden – aus Sicht der Verfasser
+– die wesentlichen Merkmale Zentraler Orte hergeleitet,
+die als ,Grundkonsens‘ eines übergeordneten Zentrale-Or-
+te-Konzepts verstanden werden können. Somit wird auch
+dem Erfordernis der intersubjektiven Nachvollziehbarkeit
+innerhalb einer in sich konsistenten methodischen Vorge-
+hensweise, die sich ein Plangeber zu eigen macht, genüge
+getan (Faßbender 2012: 87).
+
+2.1 Versorgungsfunktion und zentrale Einrichtungen
+
+Die Versorgungsfunktion Zentraler Orte wird durchgängig
+in allen Zentrale-Orte-Konzepten angesprochen. Sie ist die
+klassische Funktion Zentraler Orte im Sinne einer Versor-
+gung der eigenen und der Umlandbevölkerung mit Gütern
+und Dienstleistungen (zentrale Versorgungseinrichtungen)
+(vgl. z. B. Christaller 1968: 22; Klöpper 1970: 3850; Blote-
+vogel 2005: 1313). Es geht also vor allem um nicht ubiqui-
+tär verfügbare Einrichtungen hauptsächlich der Daseinsvor-
+sorge. Insofern gehören weder technische Infrastrukturen,
+wie etwa der Ver- und Entsorgung, noch Dienstleistungen,
+die nicht auf den Endverbraucher ausgerichtet sind wie et-
+wa Unternehmensberater, zu den zentralen Versorgungsein-
+richtungen. Die Versorgungsfunktion ist in der Praxis der
+Raumordnung und der Wissenschaft gleichermaßen gut er-
+forscht bzw. diskutiert (vgl. Terfrüchte 2015: 98 ff.). Dies
+ist mitunter auch auf die drei wegweisenden Entschließun-
+gen der Ministerkonferenz für Raumordnung zu Zentralen
+Orten aus den Jahren 1968, 1972 und 1983 zurückzufüh-
+ren, was sich vor allem darin zeigt, dass die in den Plänen
+und Programmen aufgeführten Versorgungseinrichtungen
+(in der Regel in Ausstattungskatalogen) sich überwiegend
+mit den von der Ministerkonferenz für Raumordnung vor-
+geschlagenen Einrichtungen decken (Terfrüchte 2015: 100).
+Während also die Versorgungsfunktion im Allgemeinen und
+auch die Einrichtungen (methodisch gesehen die manifes-
+ten Merkmale Zentraler Orte) im Speziellen als unstrittig
+gelten können, gibt es verschiedene methodische Ansätze,
+um von den Einrichtungen auf die Zentralität eines Ortes
+(methodisch gesehen das latente Merkmal Zentraler Orte)
+
+5 Zu den Unterschieden in der Festlegungspraxis der Länder siehe
+insbesondere die Untersuchungen von Greiving, Winkel, Flex et al.
+(2014).
+
+zu schließen (Niedzwetzki 1977: 81 ff.; Deiters 1978: 60 ff.;
+Flex 2015: 235 ff.; Terfrüchte 2015: 138 ff.).
+
+2.2 Entwicklungs-/Stabilisierungsfunktion
+
+Neben der Versorgungsfunktion ist die Entwicklungsfunk-
+tion ein zweites wesentliches Merkmal Zentraler Orte
+(vgl. z.B. Ganser 1977: 110 ff.). Sie seien, wie Blotevogel
+(2005: 1314) es ausdrückt, insbesondere für die oberen
+Hierarchiestufen „stärker zu betonen“. Dies ist insofern
+folgerichtig, da Zentrale Orte in der Raumordnung auch
+als Entwicklungszentren für die mittel- und oberzentralen
+Versorgungsbereiche verstanden werden (Terfrüchte 2015:
+91). Je mehr entwicklungsfördernde und je weniger ent-
+wicklungshemmende Merkmale ein Ort aufweist, desto
+eher ist er – so der dahinter liegende Gedankengang –
+in der Lage, entsprechende Entwicklungs- oder Stabilisie-
+rungsimpulse für den jeweiligen Versorgungsbereich zu
+setzen. Welche Merkmale jedoch als förderlich und wel-
+che als hemmend für die (regionale) Entwicklung gelten
+können, ist wissenschaftlich – anders als für die Versor-
+gungsfunktion – nur unzureichend erforscht. Während etwa
+demographische, ökonomische oder fiskalische Merkma-
+le zwar unisono als relevant erachtet werden (vgl. z. B.
+Staack 1995: 121 ff.; Henckel/Kolleck/Mittag et al. 2002:
+93; Hesse 2010: 106 f.; Junkernheinrich/Boettcher/Brand
+et al. 2011: 31; Flex 2015: 327 ff.; Terfrüchte 2015: 106;
+Wiechmann/Terfrüchte 2017: 21 ff., 72 ff.), besteht über
+die gewünschten Merkmalsausprägungen keine Einigkeit.
+Das Beispiel der kommunalen Schulden, die gemeinhin
+als entwicklungshemmend eingestuft werden, zeigt dies
+eindrücklich. So weisen Boettcher und Junkernheinrich
+(2010: 112) darauf hin, dass „umfangreiche investive
+Schulden tendenziell eine hohe finanzielle Leistungsfä-
+higkeit signalisieren“, weshalb primär Kassenkredite „das
+Kennzeichen einer besonders prekären Finanzsituation“
+(Boettcher/Junkernheinrich 2010: 19) seien. Es ist somit
+eine Differenzierung der Schuldenart erforderlich.
+
+Gleiches gilt für die demographische Entwicklung: Ter-
+früchte (2015: 225) hat etwa für Nordrhein-Westfalen fest-
+stellen können, dass ein geringer Jugendquotient als hem-
+mendes Merkmal gelten kann, im Umkehrschluss aber we-
+der ein hoher Jugendquotient noch ein geringer Altenquoti-
+ent als entwicklungsfördernd eingestuft werden können. Da
+bei der Entwicklungsfunktion somit – im Unterschied zur
+Versorgungsfunktion – insgesamt ein erhebliches Theorie-
+defizit attestiert werden kann (Terfrüchte 2015: 248 f.), ver-
+wundert es nicht, dass auch in diesem Bereich verschiede-
+ne methodische Ansätze existieren, um von den manifesten
+Merkmalen auf die latente Entwicklungsfähigkeit von Orten
+zu schließen. Vor allem aber wird die Entwicklungsfunkti-
+on in der Regel jenseits der ,klassischen‘ Zentralitätsfor-
+schung erforscht (vgl. z.B. Staack 1995: 121 ff.; Henckel/
+
+
+
+474 T. Terfrüchte et al.
+
+riger Hierarchiestufen (vgl. z. B. Klöpper 1970: 3854 ff.;
+Klöpper 1972: 261 f.; Körber 1972: 243 ff.; Heinritz 1977:
+21 ff.). Methodisch sauber zählen sämtliche sich auf die
+Versorgungsfunktion der Zentralen Orte beziehenden Ver-
+flechtungen zu den zentralörtlich relevanten und insofern
+zu berücksichtigenden Verflechtungen. Aufgrund des er-
+heblichen Erhebungsaufwandes wird jedoch üblicherweise
+mit Proxy-Indikatoren gearbeitet. So konnte etwa im Be-
+reich der ambulanten medizinischen Versorgung festgestellt
+werden, dass Mitversorgungsbeziehungen signifikant mit
+Berufspendlerverflechtungen korrelieren (Czihal/von Still-
+fried/Schallock 2012: 9 ff.). Neben den Berufspendlerver-
+flechtungen liegen in der kommunalen Statistik in der Re-
+gel auch Verflechtungen im Schülerverkehr vor, die erstens
+unmittelbar auf die Versorgungsfunktion (im Bildungsbe-
+reich) bezogen sind und zweitens auch als Proxy-Indikator
+für weitere Verflechtungsbeziehungen gelten können.
+
+Im Gegensatz zum „Was?“ der Erforschung besteht
+über das „Wie?“ der Erforschung jedoch grundlegende
+Uneinigkeit. Dies rührt auch aus der – theoretisch min-
+destens fragwürdigen – Vorstellung, Zentrale Orte könnten
+a priori anhand ihrer Versorgungs- und gegebenenfalls
+Entwicklungsfunktion empirisch bestimmt werden, ohne
+die jeweilige ,Umlandbedeutung‘ methodisch zu berück-
+sichtigen. Bereichsbildung kann theorieimmanent und im
+Hinblick auf die Rechtsprechung nicht an – wie auch
+immer definierten – Schwellenwerten oder nach anderen
+Kriterien ermittelten Orten ansetzen. Vielmehr bedeutet
+Bereichsbildung die Fähigkeit, weitere Orte mitzuversor-
+gen (zentralörtliche Gravitationswirkung) und tatsächlich
+auf sich ,zu vereinen‘.
+
+2.4 Raumordnerisches Erfordernis
+
+Ganz abgesehen von der Auswahl der beobachtbaren Merk-
+male zur Versorgungs-, Entwicklungs-/Stabilisierungs- und
+Bereichsbildungsfunktion sowie einer geeigneten Methodik
+zur empirischen Beschreibung von Zentrale-Orte-Systemen
+handelt es sich beim Zentrale-Orte-Konzept um ein nor-
+matives Steuerungsinstrument der Raumordnung. Vorab sei
+dazu Folgendes in Erinnerung gerufen: Keine Gemeinde
+sollte alleine aus ihrer Ausstattung einen Anspruch auf eine
+zentralörtliche Funktionszuweisung ableiten können (Grei-
+ving/Glex/Terfrüchte 2015: 292). Dieser Forderung hat sich
+zuletzt auch die Ministerkonferenz für Raumordnung in
+der eingangs erwähnten neuen Entschließung zu Zentralen
+Orten angeschlossen: „Allein das Vorhandensein von zen-
+tralörtlichen Ausstattungsmerkmalen führt nicht zu einem
+Anspruch von Städten oder Gemeinden auf die Festlegung
+als Zentralem Ort einer bestimmten Stufe. Die Auswahl und
+Festlegung Zentraler Orte ist Ergebnis einer Abwägung auf
+Grundlage eines gesamträumlichen planerischen Konzepts“
+(MKRO 2016a: 6). Eine substanzielle Versorgungsfunktion
+
+Kolleck/Mittag et al. 2002: 93; Hesse 2010: 106 f.; Jun-
+kernheinrich/Boettcher/Brand et al. 2011: 31; Wiechmann/
+Terfrüchte 2017: 21 ff., 72 ff.). Die Verfasser dieses Bei-
+trags plädieren aber eindeutig für eine Einbeziehung der 
+Entwicklungsfunktion bei der empirischen Beschreibung 
+und – noch wichtiger – bei der in die Zukunft gerichte-
+ten Festlegung Zentraler Orte. Wenn Orte als Zentrale Orte 
+festgelegt werden, sollten solche, die es empirisch ermittelt 
+gegenwärtig sind, dies auch künftig bleiben können, und 
+solche, die es empirisch eigentlich noch nicht sind, dies im 
+Planungszeitraum ,schaffen‘ können. Aus diesem Grund er-
+folgt mitunter – wenn bislang auch eher zaghaft – in einigen 
+Ländern eine Verknüpfung vom Zentrale-Orte-Konzept mit 
+der regionalen Strukturpolitik und/oder dem kommunalen 
+Finanzausgleich (Greiving/Winkel/Flex et al. 2014: 70 ff.).
+
+2.3 Bereichsbildungsfunktion
+
+Die Bereichsbildungsfunktion dient – gemäß der Zen-
+trale-Orte-Theorie – der Mitversorgung von weiteren 
+(Umland-)Gemeinden (Versorgungsbereich) durch die Zen-
+tralen Orte. In Verbindung mit der Entwicklungsfunktion 
+kann der Versorgungsbereich zudem als der räumlich-funk-
+tionale Verflechtungsbereich gesehen werden, für den der 
+Zentrale Ort Entwicklungs- bzw. Stabilisierungsimpulse 
+setzen kann. Was somit theoretisch erforderlich ist, wird 
+auch von der Rechtsprechung vor allem hinsichtlich des 
+Kongruenzgebotes und des Beeinträchtigungsverbotes re-
+gelmäßig eingefordert: Zentrale Orte definieren sich über 
+ihre überörtliche Bedeutung, die nur dann attestiert wer-
+den kann, wenn eindeutig benannt ist, wie und wo sich 
+die Überörtlichkeit räumlich darstellt. Jeder Zentrale Ort 
+braucht daher auch einen bestimmten – oder zumindest 
+bestimmbaren – Versorgungsbereich. Andernfalls läuft die 
+Steuerungswirkung der Zentrale-Orte-Konzepte ins Leere, 
+denn Tragfähigkeits- oder Erreichbarkeitskriterien bleiben 
+so lange funktionslos, wie keine „räumliche Kulisse abge-
+steckt ist, innerhalb derer Erreichbarkeit und Tragfähigkeit 
+gewährleistet werden soll“ (Terfrüchte 2015: 245). Die in 
+vielen Ländern praktizierte Gleichsetzung Zentraler Orte 
+mit politischen Gemeinden kann gleichwohl auch – aus 
+theoretischer Sicht – sogenannte Selbstversorgerorte er-
+möglichen, sofern ein „Hauptort“ die übrigen Orte bzw. 
+Stadt-/Ortsteile auf dem Gemeindeterritorium mitversorgt. 
+Überörtlichkeit und Übergemeindlichkeit sind insofern 
+auch sachinhaltlich voneinander zu trennen (vgl. auch 
+Langguth 2011).
+
+Ähnlich wie bei der Versorgungsfunktion besteht in der 
+Literatur weitgehend Einigkeit darüber, was es bei der Ab-
+grenzung von Versorgungsbereichen zu erforschen gilt: Die 
+räumlich-funktionalen Verflechtungen zwischen Zentralen 
+Orten und nicht zentralen Orten bzw. zwischen Zentralen 
+Orten höherer Hierarchiestufen und Zentralen Orten nied-
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 475
+
+ist zwar eine in der Regel zu erfüllende, aber als solche nicht
+hinreichende Voraussetzung für eine entsprechende Funk-
+tionszuweisung. Die in den Plänen und Programmen der
+Länder oftmals bereits angesprochene Entwicklungsfunk-
+tion wiederum scheint eher eine die Versorgungsfunktion
+ergänzende oder erst ermöglichende Funktion zu sein, wes-
+halb sie – für sich genommen – weder notwendig noch hin-
+reichend ist. Die Bereichsbildungsfunktion wiederum ist –
+für sich genommen – erforderlich, weist jedoch zugleich
+das größte normative Moment auf, da mit der Abgren-
+zung von Versorgungsbereichen oftmals räumlich-funktio-
+nale Verflechtungen erst politisch-planerisch motiviert for-
+ciert werden sollen. So ist es etwa dem Prinzip der Einräu-
+migkeit der Verwaltung (Bogumil 2010: 78) nach geboten,
+größtmögliche Verwaltungskongruenz bei der Abgrenzung
+von Nah-, Mittel- und Oberbereichen zu gewährleisten. Ein
+Approximieren empirisch ermittelter Versorgungsbereichs-
+grenzen an Verwaltungsgrenzen (Landkreise, Verwaltungs-
+gemeinschaften usw.) ist insofern ein überaus normativer
+,Eingriff‘. Eine (empirisch) gleichermaßen auf zwei Zentra-
+le Orte ausgerichtete Gemeinde sollte (normativ) daher ein-
+deutig einem Versorgungsbereich der beiden Zentralen Orte
+zugeordnet werden. Eine klare Trennung zwischen empiri-
+schem Befund (Zentrale-Orte-System) und dem normativen
+Konzept ist ratsam, wobei gerade die begründete Abwei-
+chung vom Befund, wie das Beispiel der Verwaltungskon-
+gruenz zeigt, den raumordnerischen Steuerungswillen im
+Zentrale-Orte-Konzept ausmacht (Greiving/Flex/Terfrüchte
+2015: 296).
+
+Neben solchen verwaltungspraktischen Erwägungen bei
+der ,Abweichung‘ kann eine raumordnerische Erforder-
+lichkeit einer Funktionszuweisung im Einzelfall empirisch
+unterfüttert attestiert werden, wenn – was vorausgesetzt
+wird – Zentrale-Orte-Konzepte zum Ziel haben, „eine
+flächendeckende, auch unter prognostischen Gesichtspunk-
+ten langfristig tragfähige und erreichbare Versorgung und
+Entwicklung im Planungsraum“ (Greiving/Flex/Terfrüchte
+2015: 292) zu gewährleisten. „Insofern können und sollten
+im Einzelfall auch hinsichtlich ihrer Ausstattung gleiche
+Gemeinden ungleich behandelt bzw. eingestuft werden,
+ohne dass damit das Gebot der Systemgerechtigkeit oder
+der Gleichbehandlungsgrundsatz verletzt werden würden“
+(Greiving/Flex/Terfrüchte 2015: 292). Vergleichsweise star-
+ke Orte im Umland noch stärkerer Orte (in der Regel in
+Verdichtungsräumen) sind dann die ,Leidtragenden‘ einer
+solchen Vorgehensweise, während eher schwache Orte um-
+geben von noch schwächeren Orten (in der Regel in eher
+ländlich-peripheren Räumen) zur Gewährleistung einer flä-
+chendeckenden Versorgung in zumutbarer Erreichbarkeit –
+wie im Raumordnungsgesetz (§ 2 Abs. 2 Ziffer 3 Satz 2)
+gefordert – ,Nutznießer‘ sind.
+
+Eine überdurchschnittliche Versorgungs-, Entwicklungs-
+und/oder Bereichsbildungsfunktion kann somit weder für
+
+sich genommen noch in der Addition zu einem raumord-
+nerischen Erfordernis der zentralörtlichen Funktionszuwei-
+sung führen. Allerdings ist klarzustellen, dass dieses „raum-
+ordnerische Erfordernis“ nicht abstrakt geprüft werden
+kann, sondern immer nur im konkreten (Festlegungs-)Fall
+angesichts der ermittelten raumstrukturellen Bedingungen
+und der sich daraus ergebenden Anforderungen etwa an die
+Gewährleistung von Erreichbarkeit. Das „raumordnerische
+Erfordernis“ aber kann keinesfalls über ex ante gesetzte
+Schwellenwerte approximiert werden.
+
+An Zentrenverbünde/Mehrfachorte sind dabei dieselben
+Anforderungen wie an monozentrale Orte zu stellen, was
+für die drei Funktionen Zentraler Orte Folgendes bedeutet:
+
+● Versorgungsfunktion: Bei der Bestimmung der Versor-
+gungsfunktionen werden die in den Teilorten lokalisier-
+ten zentralen Einrichtungen aufaddiert. Nur so kann eine
+Gleichbehandlung kooperierender Orte in der empiri-
+schen Überprüfung gewährleistet werden.
+
+● Entwicklungs-/Stabilisierungsfunktion: Entwicklungs-
+fördernde und entwicklungshemmende Faktoren werden
+bezogen auf das Aggregat der Teilorte bestimmt. Kom-
+plementäre Stärken (wenn etwa ein Teilort als Arbeits-
+marktzentrum fungiert und der andere als Verwaltungs-
+zentrum und beide einen gemeinsamen Versorgungsbe-
+reich versorgen) sind zwar bei der Beurteilung, ob eine
+gemeinsame Funktionswahrnehmung im Sinne einer
+tatsächlichen Funktionsteilung überhaupt zweckmäßig
+ist, relevant. Zur Wahrung der Systemgerechtigkeit sind
+solche Stärken und Schwächen jedoch innerhalb des
+Mehrfachortes ,zu verrechnen‘. Eine hohe Arbeitslosig-
+keit im einen Ort und eine geringe im anderen führen
+in der Gesamtbetrachtung zu einer mittleren Arbeitslo-
+sigkeit. In großen Einheitsgemeinden erfolgt eine solche
+Verrechnung bereits im Rahmen der kommunalen Statis-
+tik.
+
+● Bereichsbildungsfunktion: Beide Teilorte müssen aus
+dem gemeinsamen Versorgungsbereich heraus erreich-
+bar sein. Dies schließt die Erreichbarkeit der Teilorte
+untereinander zwangsläufig mit ein. Insofern verwundert
+es auch, dass es in einzelnen Bundesländern Zentrale
+Orte in Funktionsteilung gibt, die untereinander nicht
+in der als zumutbar erachteten Zeit erreichbar sind oder
+deren Festlegung gar als geeignet zur Verbesserung von
+Erreichbarkeiten angesehen wird. Die Umlandwirkung
+oder die ausgeübte zentralörtliche Gravitationskraft ist
+den Ausführungen zur Versorgungsfunktion folgend auf
+das Aggregat aus den Teilorten zu beziehen, weshalb
+räumliche Verflechtungen ebenfalls aufaddiert werden
+müssen.
+
+
+
+476 T. Terfrüchte et al.
+
+3 Allgemeine methodische Überlegungen
+
+Eine empirische Fundierung von Zentrale-Orte-Konzepten
+muss – nach Auffassung der Verfasser – die drei vorge-
+nannten Funktionen Zentraler Orte (Versorgung, Entwick-
+lung/Stabilisierung und Bereichsbildung) ebenso berück-
+sichtigen wie das raumordnerische Erfordernis. Allerdings
+– und das ist eines der Kernanliegen dieses Beitrags – muss
+die Frage geklärt werden, worum es sich bei der empiri-
+schen Fundierung wissenschaftstheoretisch überhaupt han-
+delt; denn es ist mindestens zu unterscheiden zwischen
+Monitoring, Evaluation, Controlling und Validierung, wo-
+bei alle Ansätze den Bewertungs- und Entscheidungsme-
+thoden (vgl. Scholles 2005) zuzurechnen sind. Den Lan-
+desplanungen bleiben allein deshalb schon unterschiedliche
+Möglichkeiten, ihre Zentrale-Orte-Konzepte auf eine solide
+empirische Basis zu stellen.
+
+3.1 Monitoring, Evaluation und Controlling
+
+Jacoby (2011: 547) unterscheidet zwischen Monitoring6
+
+als Instrument zur Überwachung von Planungswirkungen,
+Evaluation7 als Bewertung des Planungserfolges und Con-
+trolling als Steuerung durch Planfortschreibung. Explizit
+weist er darauf hin, dass „jenseits des Monitoring und der
+Evaluation [...] der politische Entscheidungsprozess [liegt],
+in dem unter Einbeziehung der Ergebnisse des Monito-
+ring bestimmte Handlungsoptionen entwickelt und durch
+Machtausübung durchgesetzt werden“ (Jacoby 2011: 548).
+Fürst (2010: 145) hat ein ähnliches Begriffsverständnis und
+stellt fest, dass Monitoring primär der Wirkungskontrolle
+diene, wohingegen Controlling die zielorientierte Kontrolle
+und Steuerung unterstütze; werden also „Veränderungen
+mit Zielfestlegungen verglichen, wandelt sich Monitoring
+in Controlling“. Im Zusammenhang mit Zentrale-Orte-
+Konzepten sind insbesondere die von Jacoby (2011: 548)
+beschriebenen Funktionen „Beobachtung“ und „Kontrolle“
+relevant, wobei Beobachtung auf „die (laufende) Erfassung
+des Zustands bzw. der Entwicklung“ abzielt und Kontrolle
+auf den „Vergleich zwischen dem Ist-Zustand bzw. der
+tatsächlichen Entwicklung [...] und dem Soll-Zustand bzw.
+der beabsichtigten Entwicklung“. Die Beobachtung erfolgt
+dabei allein auf der Sachebene, wohingegen die Kontrol-
+le eine Bewertung der Befunde des Soll-Ist-Vergleichs
+bedeutet.
+
+Die Aufgabe der Evaluation wiederum liegt anders als
+beim Controlling „nicht in der ständigen Überwachung von
+Prozessen [...], sondern darin, zu bestimmten Zeitpunkten
+das Leistungsniveau und den Zielerreichungsgrad [...] zu
+prüfen“ (Fürst 2010: 145). Sowohl Controlling – als Ins-
+
+6 Vgl. zum Begriff auch Birkmann (2005).
+7 Vgl. zum Begriff auch Wollmann (2005).
+
+trument zur laufenden Überwachung – wie auch Evaluati-
+on – als Instrument zur punktuellen Überwachung – grei-
+fen meist auf Monitoringergebnisse zurück. Während ein
+Monitoring also auch ohne politisch-planerische Konse-
+quenzen bleiben kann, wie etwa das Zentrale-Orte-Monitor-
+ing des BBSR (vgl. Einig/Zaspel-Heisters 2016), welches
+systematisch die Zentralen Orte in den Bundesländern er-
+fasst, verlangt Evaluation und Controlling, so Fürst (2010:
+169) „Handlungsfolgen: entweder lernt man aus den Feh-
+lern oder man bestraft schuldhaftes Fehlverhalten“. Aller-
+dings, und auch das konstatiert Fürst (2010: 171), „hat die
+Raumplanung bei einer Reihe von Zielen häufig keinen Ein-
+fluss auf die Kräfte, welche die Zielabweichung in der Pra-
+xis bewirken, so dass eine Evaluierung für die Planung nur
+begrenzte Aussagekraft hat. Man kann zwar Zielverluste
+konstatieren, aber die Raumplanung kann sie auch künftig
+nicht verhindern.“
+
+Die vorgenommene Unterscheidung zwischen Monito-
+ring, Evaluation und Controlling sei am Beispiel der Ver-
+sorgungsfunktion kurz erläutert. Im Rahmen eines Moni-
+torings können all jene Güter und Dienstleistungen landes-
+weit erhoben werden, die landesplanerisch als zentralörtlich
+relevant erachtet werden. Ob nun Zentrale Orte einer be-
+stimmten Stufe die für sie relevanten Angebote tatsächlich
+vorhalten (Soll-Ist-Abgleich), wäre jedoch bereits Teil einer
+Evaluation oder eines laufenden Controllings. Eine festge-
+stellte Diskrepanz zwischen Soll- und Ist-Zustand müsste
+wiederum politisch-planerisches Eingreifen zur Folge ha-
+ben, wie etwa eine Abstufung des Zentralen Ortes oder
+dessen finanzielle Stärkung bei fehlender (aber politisch
+gewollter bzw. raumordnerisch erforderlicher) Funktionser-
+füllung.
+
+Vor allem Evaluation genießt mittlerweile eine hohe Be-
+deutung in der Planung, unter anderem „weil man in ihr
+eine Legitimationsgrundlage für Maßnahmen sieht, die mit
+öffentlichen Geldern finanziert werden (sollen) bzw. die die
+Allgemeinheit betreffen“ (Döring/Bortz 2016: 976). Evalu-
+ation kann damit zur Akzeptanzsteigerung von Planungs-
+prozessen und Planfestlegungen beitragen. Voraussetzung
+ist allerdings, dass klare und messbare Bewertungskriterien
+definiert werden, schließlich haben die gewählten Kriteri-
+en wesentlichen Einfluss auf das Ergebnis. Solche Krite-
+rien seien unbrauchbar, so Döring und Bortz (2016: 983),
+„wenn sie sich nicht empirisch erfassen lassen oder wenn
+sie inhaltlich nicht zur Lösung des Evaluationsproblems
+beitragen“ (vgl. DeGEval 2008). Das raumordnerische Be-
+stimmtheitsgebot steht somit in direktem Zusammenhang
+mit den wissenschaftlichen Anforderungen an Monitoring
+und Evaluation. Hinzu kommt – und das ist im Zusammen-
+hang mit dem Theoriedefizit bei der Entwicklungsfunktion
+bereits angesprochen worden (vgl. Terfrüchte 2015: 248 f.)
+–, „dass neben der Definition der Evaluationskriterien noch
+die jeweiligen Bewertungsstandards festzulegen sind. Somit
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 477
+
+stellt sich die Frage: Welche Ausprägungen des Evaluati-
+onskriteriums sollen als positives, ausreichendes oder nega-
+tives Ergebnis gewertet werden? Standards können z.B. als
+Mindest-, Regel- oder Maximalstandards gefasst werden.
+Sie können empirisch relativ zu einem Ausgangs- oder an-
+deren Vergleichszustand formuliert sein [...] oder auch als
+absolute Werte bzw. Idealnormen festgelegt werden“ (Dö-
+ring/Bortz 2016: 983). Im Zusammenhang mit der Zentra-
+litätsforschung wird daher auch oftmals zwischen absoluter
+und relativer Zentralität unterschieden (Flex 2015: 235 f.;
+Terfrüchte 2015: 119 f.). Monitoring, Evaluation und Con-
+trolling sind also alles andere als trivial. Hinzu kommt das
+Phänomen der Pseudoevaluation, wenn die Evaluation „für
+vordefinierte Zwecke instrumentalisiert bzw. missbraucht
+[wird]: Bei einer solchen Pseudoevaluation wird gar nicht
+ergebnisoffen eine wissenschaftliche Bewertung des Eva-
+luationsgegenstandes vorgenommen, sondern das Ergebnis
+strategisch beeinflusst, manipuliert oder ignoriert“ (Döring/
+Bortz 2016: 987). In der Praxis der Raumordnung könnte
+auch von ,Gefälligkeitsgutachten‘ gesprochen werden.
+
+Davon zu unterscheiden sind Evaluationen, die nicht
+am Ende einer Planung, einer Maßnahme oder eines Pla-
+nungsprozesses ansetzen, sondern „im Sinne eines Regel-
+kreissystems“ (Döring/Bortz 2016: 989) bereits ex ante
+zum Tragen kommen und das Evaluationsergebnis die Pla-
+nung unmittelbar beeinflusst. Planungstheoretisch ordnet
+Jacoby (2011: 554) Ex-ante- und Ex-post-Evaluationen
+daher auch wie folgt ein: „Ex-post-Evaluationen entspre-
+chen dem Modell der rationalen Planung mit entsprechend
+linearen Planungsprozessen, während planungsbegleitende
+Evaluationen als Teil eines systemorientierten kyberneti-
+schen Planungsmodells fungieren, bei dem Planung und
+Realisierung als kontinuierlicher, iterativer Handlungspro-
+zess mit regelmäßigen Rückkopplungsschleifen begriffen
+wird.“ Das bedeutet, dass bereits im Planungsprozess mög-
+liche Entscheidungen im Sinne von „Was wäre wenn...?“-
+Szenarien ex ante evaluiert werden. Diese Ergebnisse kön-
+nen dann wiederum im weiteren Planungsprozess und
+der politischen Entscheidungsfindung aufgegriffen werden.
+Im Zusammenhang mit der Fortschreibung oder Neuauf-
+stellung von Zentrale-Orte-Konzepten können etwa die
+Wirkungen unterschiedlicher Erreichbarkeitsstandards oder
+als relevant erachtete Einrichtungen der Daseinsvorsor-
+ge im Modell ,simuliert‘ werden. Gleichwohl birgt ein
+solches iteratives Vorgehen auch die Gefahr, dass normati-
+ve planerische Festlegungen im Sinne eines gewünschten
+Zielzustands zu sehr am deskriptiven Befund (Ist-Zustand)
+ansetzen, das heißt, es werden etwa Erreichbarkeits- oder
+Ausstattungsstandards definiert, bei denen gegenwärtig
+oder absehbar keine Defizite zu erwarten sind. Die Wert-
+ebene würde dann unzulässig der Sachebene angepasst,
+denn: „Wollte man aus Sachaussagen normative Aussa-
+
+gen ableiten, beginge man einen Sein-Sollens-Fehlschluss
+(naturalistischen Fehlschluss)“ (Scholles 2001: 139).
+
+Ein solches iteratives Vorgehen bei der Evaluation wird
+wiederum erleichtert, wenn kurzfristig relevante Daten etwa
+zu bestehenden Versorgungsstrukturen oder Verflechtungs-
+beziehungen bestenfalls als Zeitreihen vorliegen. Schmidt
+und Konze (2011: 469) schlagen daher vor, ein dauerhaftes
+Monitoring aller wesentlichen Elemente von Raumord-
+nungsplänen anzustreben. Insbesondere gehe es darum,
+„frühzeitig zu erkennen, ob die Steuerungselemente des
+Plans die gewünschte Wirkung erzielen, um ggf. nachjustie-
+ren zu können“ (Schmidt/Konze 2011: 469). Zudemwürden
+sich aus einem systematischen Monitoring „Rückschlüsse
+für eine Weiterentwicklung des Raumordnungsplans erge-
+ben“ (Schmidt/Konze 2011: 469). Monitoring wird dann
+insbesondere eine „Entscheidungsunterstützungsfunktion
+durch Bereitstellung von entscheidungsrelevanten Informa-
+tionen“ (Jacoby 2011: 559) zuteil.
+
+Bei aller Befürwortung von Monitorings (und darauf
+aufbauenden Evaluationen oder Controllings) weist Fürst
+(2010: 169) jedoch auf zwei wesentliche Probleme hin: Ers-
+tens enthalte ein Monitoring „Schieflagen, wenn die Indika-
+toren das zu beobachtende Handlungsfeld einseitig abbilden
+(z.B. nur in den Feldern, wo etwas zu operationalisieren ist,
+während nicht-operationalisierte Bereiche eher vernachläs-
+sigt werden)“ und zweitens seien „nicht alle erforderlichen
+Informationen [...] zugänglich, teilweise, weil Geheimhal-
+tungspflichten bei den Fachplanungen bestehen, teilweise,
+weil die Erfassung der Informationen zu aufwändig und
+kostenintensiv ist“.
+
+3.2 Validierung
+
+Ein vierter Zugang zur empirischen Fundierung ist, neben
+den – oft unmittelbar in Zusammenhang stehenden – Zu-
+gängen des Monitorings, der Evaluation und des Control-
+lings, die Validierung.Wissenschaftstheoretisch ist Validität
+insbesondere als wesentliches Gütekriterium neben Objek-
+tivität und Reliabilität zu sehen. Die folgenden Ausführun-
+gen machen deutlich, dass Validierung nicht parallel oder
+ergänzend zu den drei vorgenannten Zugängen zu verstehen
+ist, sondern als Baustein einer Evaluation oder eines Con-
+trollings. Im Rahmen eines Monitorings wiederum können
+die für die Validierung erforderlichen Daten erhoben und
+bereitgestellt werden.
+
+Ein Zentrale-Orte-Konzept ist dann valide, wenn die em-
+pirische Überprüfung zu einem – annähernd gleichen – Er-
+gebnis kommt, das empirisch beschreibbare Zentrale-Orte-
+System somit möglichst deckungsgleich mit dem normati-
+ven Konzept ist. Eine Diskrepanz zwischen Soll- und Ist-
+Zustand negiert die Validität des Konzepts nicht, solange
+diese Diskrepanz auf normativen Erwägungen beruht, die
+ihren Niederschlag in einem politisch legitimierten Ziel-
+
+
+
+478 T. Terfrüchte et al.
+
+Abbildung 1 Leitbildkarte „Daseinsvorsorge“. (Quelle: MKRO 2016b: 16)
+
+nungsplan zunächst einer (ausreichenden) Operationalisie-
+rung zugänglich sein muss, was unter Beachtung des Be-
+stimmtheitsgebotes eigentlich vorausgesetzt werden müss-
+te. Bezogen auf Zentrale Orte muss somit aus dem Ziel-
+system heraus deutlich werden, was das latente Merkmal
+„Zentralität“ inhaltlich ausmachen soll. Neben einer Aus-
+stattung mit zentralörtlich relevanten Einrichtungen (Ver-
+sorgungsfunktion) – ein entsprechender Katalog müsste Teil
+des Zielsystems sein – wären dies die Mitversorgung wei-
+terer (Umland-)Gemeinden (Bereichsbildungsfunktion) und
+die Bedeutung als Entwicklungsschwerpunkt in einem Teil-
+raum (Entwicklungs- und Stabilisierungsfunktion). Zudem
+sind, falls derartige – raumstrukturell bedingte – Differen-
+zierungen beim Merkmal Zentralität vorgesehen sind, auch
+dafür sachlich und räumlich bestimmbare Merkmale Be-
+standteil des Zielsystems (etwa um zu stabilisierende peri-
+phere Räume auch bestimmen zu können).
+
+Eine geeignete Methode zur Messung von Zentralität
+und damit zur Validierung eines bestehenden Zentrale-Or-
+te-Konzepts bzw. -Systems muss daher – in Anlehnung an
+Sedlmeier und Renkewitz (2013: 76 ff.) – folgende Anfor-
+
+system (des Landesraumordnungsplans) finden; das ver-
+folgte Ziel muss schließlich zum Zeitpunkt der Validierung 
+bzw. der Evaluation nicht zwangsläufig schon erreicht sein. 
+Wenn etwa mehrere Orte gemeinsam die Funktion eines 
+Zentralen Ortes wahrnehmen sollen, braucht es in der Re-
+gel einige Zeit, bis eine fruchtbare Kooperation zwischen 
+den jeweiligen Teilorten auch empirisch beobachtet werden 
+kann. Soll ein Ort (oder ein Teilraum) über eine Funktions-
+festlegung bewusst gestützt werden, sind hier andere (abge-
+senkte) Anforderungen an dessen Tragfähigkeit anzulegen. 
+Sind diese Voraussetzungen hingegen nicht erfüllt, ist von 
+nicht aus dem Zielsystem ableitbaren und damit willkürli-
+chen Erwägungen auszugehen.
+
+Wenn es um die Validität einer Methode bzw. eines 
+Modells zur Beschreibung eines Zentrale-Orte-Systems mit 
+dem Fokus auf der Zentralität von Orten geht, „geht es 
+also um die Güte der Operationalisierung des interessie-
+renden Merkmals. Es ist zu klären, ob ein Test eine ge-
+lungene Operationalisierung derjenigen latenten Variable 
+darstellt, die gemessen werden soll“ (Sedlmeier/Renkewitz 
+2013: 75). Das bedeutet, dass das Zielsystem im Raumord-
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 479
+
+derungen erfüllen, aus denen sich wiederum Anforderungen
+an die Raumordnungspläne ableiten lassen: Inhaltsvalidität,
+Kriteriumsvalidität und Konstruktvalidität.
+
+● Inhaltsvalidität: Zunächst müssten möglichst alle mani-
+festen (beobachtbaren) Merkmale identifiziert werden,
+die das eigentlich interessierende, aber latente Merkmal
+Zentralität beschreiben können. Der Plangeber muss also
+sicherstellen, dass Zentralität im Zielsystem hinreichend
+(sachlich) bestimmt oder bestimmbar ist. Dies wird prak-
+tisch kaum möglich sein, da nicht jede normative Erwä-
+gung bei der Aufstellung von Zentrale-Orte-Konzepten
+auch eine empirische Grundlage hat bzw. haben kann.
+Dennoch sollte sich zumindest ein Großteil dessen, was
+sich der Plangeber unter Zentralität vorstellt, auch em-
+pirisch beobachten lassen. Es stellt sich daher auch die
+Frage, warum häufig allein auf (einzelne) Proxy-Indi-
+katoren wie die Einwohnerzahl oder „Beschäftigte im
+Einzelhandel“ zurückgegriffen wird (Terfrüchte 2015:
+93). Dass ein gewisser statistischer Zusammenhang be-
+steht, soll dadurch nicht negiert werden. Im übertragenen
+Sinn geht es aber darum, ob etwa ein Intelligenztest
+nicht eigentlich die Konzentrationsfähigkeit misst (vgl.
+Sedlmeier/Renkewitz 2013: 75).
+
+● Kriteriumsvalidität: Das Ergebnis der Zentralitätsmes-
+sung sollte eine gewisse Übereinstimmung mit dem auf-
+weisen (sogenanntes Kriterium), was mit anderen Me-
+thoden zur Zentralitätsmessung ermittelt wurde (interne
+oder innere Validierung) und was etwa der Meinung von
+Experten oder im konkreten Fall mitunter auch der Vor-
+stellung des Plangebers als Normgeber entspricht (exter-
+ne Validierung). Eine Methode zur Zentralitätsmessung
+kann also zwangsläufig nur dann das Erfordernis der
+Kriteriumsvalidität erfüllen, wenn Zwischenergebnisse
+– etwa eines Gutachtens – mit dem Plangeber rückge-
+koppelt werden. Eine ausschließlich wissenschaftliche
+Lösung kann es damit de facto nicht geben, schließlich
+gibt es kein Naturgesetz über Zentrale Orte (anders als
+etwa bei der Masse von Körpern) als mögliches hinzu-
+ziehbares Vergleichskriterium.
+
+● Konstruktvalidität: „Können mit einem Test möglichst
+viele Hypothesen über ein Merkmal bestätigt werden,
+so spricht dies für die Konstruktvalidität des Tests. [...]
+Je mehr Hypothesenüberprüfungen erfolgreich verlau-
+fen sind, desto überzeugender ist die Annahme, der Test
+sei valide“ (Sedlmeier/Renkewitz 2013: 78). Eine Me-
+thodik zur Zentralitätsmessung, die etwa nur in einem
+Bundesland zu validen Ergebnissen (im Sinne von Kri-
+teriumsvalidität) führt, in einem anderen aber zu eher
+absurden Befunden, würde insofern das Kriterium der
+Konstruktvalidität nicht erfüllen.
+
+3.3 Beispiel: Leitbildkarte „Daseinsvorsorge sichern“
+
+Das von der Ministerkonferenz für Raumordnung 2016 no-
+vellierte und bekräftigte Leitbild „Daseinsvorsorge sichern“
+konkretisiert die räumliche Umsetzung der Gewährleistung
+gleichwertiger Lebensverhältnisse durch Dienstleistungen
+und Infrastrukturen der Daseinsvorsorge, die regelmäßig in
+den Zentralen Orten gebündelt auftreten. Zur Gewährleis-
+tung müssen die Einrichtungen als Träger der Daseinsvor-
+sorge für alle Bevölkerungsgruppen erreichbar sein. Das gilt
+auch für ländlich-periphere Regionen. Die entsprechende
+Leitbildkarte (MKRO 2016b: 16; vgl. Abbildung 1) sieht
+insbesondere in solchen Räumen Handlungsbedarfe hin-
+sichtlich der Sicherung der Tragfähigkeit spezifischer Ein-
+richtungen (und der Zentralen Orte als räumliche Bünde-
+lungspunkte dieser Einrichtungen), die sich in der näheren
+und mittleren Zukunft deutlichen demographischen Heraus-
+forderungen gegenübersehen.
+
+Die Leitbildkarte kann als eine jenseits von Zielsys-
+temen erfolgte Evaluation verstanden werden. Denn der
+dort definierte Soll-Zustand für den Soll-Ist-Vergleich folgt
+nicht den landesplanerischen Zielsystemen, sondern pri-
+mär wissenschaftlichen Erwägungen. Handlungserforder-
+nisse aus einer Diskrepanz zu einem nicht legitimierten
+Soll-Zustand abzuleiten, ist zumindest aus wissenschaft-
+lich-methodischer Sicht fragwürdig (vgl. auch Flex 2015).
+
+Es bestehen einige Probleme im Detail. So bleibt völlig
+unklar, auf welche zentralen Einrichtungen sich die Trag-
+fähigkeit bezieht. Es wird pauschal unterstellt, dass wie
+auch immer identifizierte oder festgelegte mittelzentrale
+bzw. oberzentrale Einrichtungen ab einer bestimmten Ein-
+wohnerzahl in einem wie auch immer identifizierten oder
+festgelegten Verflechtungsbereich pauschal tragfähig sei-
+en, wobei die gewählten Einwohnerschwellenwerte nicht
+begründbar sind, da sie weder aus den legitimierten Ziel-
+systemen der Länder stammen, noch das Ergebnis einer
+empirischen Überprüfung von Tragfähigkeiten darstellen.
+
+Dazu sei Folgendes angemerkt: Erstens ist Raumordnung
+vor allem Aufgabe der Länder und grundsätzlich normativ.
+Das bedeutet, dass Einstufungskriterien für Zentrale Orte
+sowie Tragfähigkeits-, Erreichbarkeits- und Abgrenzungs-
+kriterien für Versorgungs-/Verflechtungsbereiche – bei aller
+ohnehin bestehenden Kritik an Einwohnerschwellenwerten
+– länderspezifisch und nicht bundeseinheitlich zu betrach-
+ten sind (zum Vergleich der länderspezifischen Festlegun-
+gen vgl. auch Greiving/Winkel/Flex et al. 2014: 41 ff.).
+Zweitens greift die Leitbildkarte die – hinsichtlich des Leit-
+bilds „Daseinsvorsorge sichern“ – eigentlich interessieren-
+de Versorgung der Bevölkerung überhaupt nicht auf. Völlig
+unverständlich ist etwa, warum im südöstlichen Ruhrge-
+biet Mittelzentren zu sichern seien, wo doch in unmittel-
+barer Nachbarschaft und damit vermutlich in zumutbarer
+Erreichbarkeit alternative Versorgungsmöglichkeiten beste-
+
+
+
+480 T. Terfrüchte et al.
+
+sondern – im Gegenteil – zu einer Verschlechterung, da
+nunmehr Tragfähigkeit unterstellt wird (ausreichend Ein-
+wohner im Mittelbereich), viele Einrichtungen für sich
+genommen aber de facto gefährdet sind, da sie – normativ
+gewünscht – um dieselben Einwohner konkurrieren. Auch
+die Festlegung von Städteverbünden geht nicht notwen-
+digerweise mit einer verbesserten Erreichbarkeit einher,
+da alle Teilorte aus dem gesamten gemeinsamen Bereich
+erreicht werden müssen, womit der (erreichbare) Bereich
+automatisch deutlich kleiner ausfallen muss als bei mono-
+zentralen Orten.
+
+Ein Konzept zur Gewährleistung von Tragfähigkeit un-
+ter Beachtung zumutbarer Erreichbarkeit muss vielmehr an
+einem neuen Selbstverständnis der Raumordnung als räum-
+liche Gesamtplanung ansetzen und die – die Einrichtungen
+der Daseinsvorsorge vielfach steuernden – Fachplanungen
+koordinieren und tatsächlich an die Ziele der Raumordnung
+binden.
+
+Schließlich muss an dieser Stelle auch darauf hingewie-
+sen werden, dass die zugrunde gelegtenMittelbereiche nicht
+flächendeckend den – normativen – Festlegungen in den
+Raumordnungsplänen der Länder entsprechen, sondern in
+Fällen, in denen die Länder keine Mittelbereiche festgelegt
+haben, auf historische Festlegungen (in Nordrhein-Westfa-
+len von 1979) oder hypothetische Festlegungen des BBSR
+zurückgegriffen wurde (vgl. auch BBSR 2012: 60). Tragfä-
+higkeitsprobleme von Mittelbereichen dort zu unterstellen,
+wo es de facto keine Mittelbereiche gibt, ist als überaus
+fragwürdig anzusehen.
+
+4 Idealtypische Vorgehensweisen zur empirischen
+Fundierung
+
+Die in Kapitel 2 dargestellten Funktionen Zentraler Orte
+und in Kapitel 3 erläuterten methodischen Anforderungen
+an eine empirische Fundierung Zentraler Orte werden in
+diesem Kapitel zu idealtypischen Vorgehensweisen zusam-
+mengeführt, die sowohl wissenschaftstheoretische, raum-
+planungsrechtliche als auch planungspraktische Erwägun-
+gen berücksichtigen. Kern dieses Kapitels ist das Aufzei-
+gen und Diskutieren von ,Wegen‘, wie die Landesplanun-
+gen grundsätzlich methodisch vorgehen können, um eine
+aus Gründen der Rechtssicherheit bzw. Begründbarkeit er-
+forderliche Evidenzbasis für ihre Zentrale-Orte-Konzepte
+zu gewährleisten. Das Erfordernis einer solchen Diskussi-
+on folgt der gutachterlichen Tätigkeit der Verfasser in vie-
+len Bundesländern und den damit verbundenen Erfahrun-
+gen, dass sich die Landesplanungen offenbar schwertun,
+sich erstens überhaupt mit einer empirischen Fundierung
+auseinanderzusetzen und diese dann zweitens auch auf der
+politischen Ebene durchzusetzen. Letzteres gilt vor allem
+dann, wenn im Ergebnis der Überprüfung möglicherweise
+
+hen. Gleiches gilt für (funktionsteilige) Oberzentren im Os-
+ten Sachsens oder im Nordosten Bayerns. Vielmehr müss-
+te der Handlungsbedarf doch darin bestehen, das jeweilige 
+Zentrale-Orte-Konzept im Hinblick auf eine – auch unter 
+prognostischen Gesichtspunkten – Gewährleistung der Ver-
+sorgung mit zentralörtlich relevanten Gütern und Dienst-
+leistungen in zumutbarer Erreichbarkeit zu entschlacken. 
+Das wiederum erfordert, nur dort Mittel- und Oberzentren 
+zu ,sichern‘, wo sie auch tatsächlich raumordnerisch er-
+forderlich sind. Und das sind sie nur dort, wo die Versor-
+gung innerhalb einer zumutbaren Erreichbarkeit nicht durch 
+„Dritte“ erfolgen kann. Und eben dieses raumordnerische 
+Erfordernis lässt sich nicht über abstrakte Schwellenwerte 
+approximieren.
+
+In diesem Zusammenhang wäre zudem die alternative 
+Option der Verbesserung der Erreichbarkeit zu diskutieren. 
+Insofern hilft auch das angewandte Erreichbarkeitsmodell 
+nicht weiter, da die bestehenden Zentralen Orte als Ziele 
+und die bestehenden Mittelbereiche als Quellen verstan-
+den werden. Vielmehr sollte die tatsächliche Versorgung 
+der Bevölkerung im Vordergrund stehen und die erfolgt 
+mitunter auch durch Orte, die bislang nicht als Zentrale 
+Orte ausgewiesen sind oder auch durch andere ,zentrale‘ 
+Orte als die ,normativ‘ gewünschten. Zudem ist hier der 
+Einfluss der unterschiedlichen Einwohnerschwellenwerte 
+für Mittelzentren bzw. Mittelbereiche zu sehen. So be-
+stehen alleine deshalb keine Erreichbarkeitsprobleme in 
+Hessen, weil dort vergleichsweise niedrige Einwohner-
+schwellenwerte verwendet werden und eine entsprechende 
+Netzdichte an Mittelzentren besteht (ganz im Gegensatz 
+etwa zu Sachsen-Anhalt). Daher ist die Leitbildkarte nur 
+bedingt aussagekräftig für die Ableitung tatsächlicher Er-
+reichbarkeitsdefizite.
+
+Was für die „in ihrer Tragfähigkeit zu sichernde[n] 
+Ober- und Mittelzentren“ ausgeführt wurde, gilt auch für 
+die „Räume mit zu sichernder Tragfähigkeit“ (vgl. Ab-
+bildung 1). In der Argumentation heißt es, die räumliche 
+Dimension werde so besser deutlich als bei der punktuellen 
+Betrachtung der Zentralen Orte selbst. Zunächst sei hierzu 
+angemerkt, dass bereits bei der Beurteilung der Tragfähig-
+keit der Zentralen Orte die – theoretisch – zu versorgende 
+Bevölkerung im Mittelbereich den Maßstab der Beurtei-
+lung gebildet hat. Eine ,deutlichere Hervorhebung‘ kann 
+schon deshalb gar nicht erfolgen. Viel problematischer ist 
+aber die Aussage, die dahintersteckt. Denn es wird sugge-
+riert, dass es nur ausreichend vieler Einwohner in einem 
+Mittelbereich bedarf, damit Daseinsvorsorge ,tragfähig‘ 
+gewährleistet werden kann. Dass Tragfähigkeit sich ers-
+tens auf jede einzelne Einrichtung bezieht und diese sich 
+zweitens zwischen den Teilräumen und Raumstrukturen 
+mitunter deutlich unterscheiden kann, wird ohne Kommen-
+tar negiert. Das Zusammenlegen von Mittelbereichen führt 
+also mitnichten zu einer Verbesserung der Tragfähigkeit,
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 481
+
+Funktionsverluste (Abstufungen) für bestehende Zentrale
+Orte stehen.
+
+Jedwede empirische Überprüfung raumordnerischer
+Festlegungen kann nur an den Plansätzen (Ziele und Grund-
+sätze der Raumordnung sowie die zugehörigen Erläuterun-
+gen und Begründungen) in den Plänen und Programmen
+der Länder bzw. den diesen zugrunde liegenden Landes-
+planungsgesetzen ansetzen. Eine Fundierung losgelöst vom
+Planwerk ist kaum zweckmäßig (vgl. das Beispiel der Leit-
+bildkarte in Kapitel 3). Die Ausgestaltung und vor allem
+der Konkretisierungsgrad der Plansätze hat eine hohe Rele-
+vanz für die Validierung (Wiechmann/Beier 2004: 388). Im
+Zusammenhang mit dem Bestimmtheitsgebot weist Fürst
+(2010: 171) zu Recht darauf hin, dass „nur wenige Ziele
+so präzise definiert [sind], dass ihre Umsetzung wirklich
+prüfbar wäre. Viele Ziele haben eher den Charakter von
+Grundsätzen, d.h. sie sind auslegungsbedürftig oder gelten
+nur unter bestimmten Bedingungen und hängen in ihrer
+Realisierung von Abwägungsprozessen in der konkreten
+Situation ab“. Je geringer der Konkretisierungsgrad, desto
+eher kann ein Zentrale-Orte-Konzept – in Abhängigkeit von
+der gewählten Methodik – als valide und somit empirisch
+belastbar gelten bzw. mit Verweis auf die oben genannte
+Pseudoevaluation belastbar gemacht werden.
+
+Idealtypisch lassen sich zwei Pole unterscheiden, zwi-
+schen denen sich praktisch eine Fortschreibung landespla-
+nerischer Festlegungen vollzieht. Der eine Pol wäre ein
+unverändertes Festhalten am bestehenden Zielsystem, der
+andere bildet eine vollständige Neuaufstellung ab.
+
+4.1 Unverändertes Festhalten am Zielsystem
+
+Monitoring, Controlling und Evaluation können sich durch-
+aus ausschließlich auf ein bestehendes landesplanerisches
+Zielsystem beziehen. Die Beachtung des Bestimmtheitsge-
+botes vorausgesetzt, besteht in der Regel dennoch ein nicht
+unerheblicher Auslegungsspielraum, was insbesondere aus
+dem oftmals geringen Konkretisierungsgrad entsprechender
+Festlegungen resultiert. Ziele der Raumordnung sind dann
+meist nicht abschließend bestimmt, aber eben bestimmbar.
+Wenn etwa Mittelzentren gemäß Landesentwicklungsplan/
+-programm ein breites Spektrum an weiterführenden Bil-
+dungseinrichtungen aufweisen müssen, stellt sich bei der
+Operationalisierung die Frage, welche Bildungseinrichtun-
+gen überhaupt als weiterführend anzusehen sind, ab wann
+von einem breiten Spektrum die Rede sein kann, ob es
+um die Anzahl der (Schul-)Standorte, der Bildungsgänge,
+der Lehrkräfte oder der beschulten Schüler geht. Ebenso
+muss die Frage der Skalierung geklärt werden: Gibt es eine
+dichotome Skala mit den Polen ,breites Spektrum gegeben‘
+und ,breites Spektrum nicht gegeben‘ oder ist eine ordinale
+oder metrische Skala sachgerecht, die das Ausmaß der
+Ausstattung mit entsprechenden Einrichtungen abbildet?
+
+Das Ergebnis etwa der Evaluation eines bestehenden Zen-
+trale-Orte-Konzepts wäre dann ein Soll-Ist-Abgleich, der
+die Einstufung der Orte im Zentrale-Orte-Konzept mit ihrer
+tatsächlichen Funktion im Zentrale-Orte-System abgleicht.
+Erfüllt ein Ort seine ihm zugewiesene Funktion nicht und
+ist dieser darüber hinaus raumordnerisch nicht erforderlich
+(etwa in Folge von Erreichbarkeitsdefiziten), müsste ein
+solcher Ort bei unverändertem Zielsystem seine Funkti-
+on aberkannt bekommen. Je nach Operationalisierung des
+Zielsystems und je nach Konkretisierungsgrad können die
+empirischen Befunde jedoch höchst unterschiedlich aus-
+fallen, sodass besagtem Ort bereits bei leicht veränderten
+Modellannahmen weiterhin die ihm zugewiesene Funktion
+im Zentrale-Orte-System/-Konzept attestiert werden kann.
+Ist jedoch im Zielsystem konkret bestimmt, dass etwa
+Oberzentren eine Universität vorhalten müssen und weist
+ein als Oberzentrum eingestufter Ort keine Universität,
+sondern ,nur‘ eine Fachhochschule auf, würde eine empi-
+rische Überprüfung den Ort unabhängig von der weite-
+ren Operationalisierung nicht als Oberzentrum ,bestätigen‘
+können. Es verwundert daher kaum, dass zahlreiche Lan-
+desplanungen im Rahmen von Fortschreibungen daher
+entweder (leichte) Veränderungen am Zielsystem vorneh-
+men und etwa an aktuelle Rahmenbedingungen anpassen
+oder die jeweiligen Festlegungen mit Grundsatz- statt mit
+Zielcharakter vornehmen, womit ein gewisser Abwägungs-
+spielraum verbleibt.
+
+4.2 Vollständige Neuaufstellung des Zielsystems
+
+Die vollständige Neuaufstellung des landesplanerischen
+Zielsystems bedeutet zwar nicht zwangsläufig eine ,tabula
+rasa‘. Dennoch gibt es praktisch keinen ,Bestandsschutz‘,
+das heißt, Funktionszuweisungen, die aus früheren Zielen
+oder Grundsätzen der Raumordnung resultieren, genießen
+kein besonderes Gewicht bei der Erarbeitung eines neuen
+Zentrale-Orte-Konzepts. Sowohl Ideen aus Planung, Politik
+und Gesellschaft wie auch aus der Wissenschaft können in
+den Prozess der Neuaufstellung einfließen. Während etwa
+die ersten Zentrale-Orte-Konzepte stets von der grund- bis
+zur oberzentralen Hierarchiestufe reichten, haben infolge
+der politisch-planerischen und wissenschaftlichen Aus-
+einandersetzung mit Metropolregionen einige Landespla-
+nungen das Zentrale-Orte-Konzept um eine metropolitane
+Hierarchiestufe oberhalb der Oberzentren ergänzt (z. B.
+Berlin-Brandenburg) oder planen eine Ergänzung (z. B.
+Bayern). Eine vollständige Neuaufstellung von Zentrale-
+Orte-Konzepten kann zwar aus raumordnungspolitischen
+Erwägungen heraus zweckmäßig sein, stößt aber in der
+Regel auf großen kommunalen Widerstand, insbesondere
+wenn eine Abstufung als Folge eines Funktionsverlustes
+im Rahmen der Neuaufstellung droht. Die bayerische Lan-
+desplanung hat daher auch mit der Teilfortschreibung des
+
+
+
+482 T. Terfrüchte et al.
+
+besten Fall eine vollständige Neuaufstellung vorbereiten:
+eine empirische Fundierung jenseits des Zielsystems. Zu
+bedenken ist dann jedoch, dass normative Momente raum-
+ordnerischer Festlegungen damit de facto negiert werden
+würden. Und insbesondere Fragen zumutbarer Erreichbar-
+keit oder der Priorisierung von Erreichbarkeit im Verhältnis
+zur Tragfähigkeit erfordern eine politisch-planerische Wil-
+lensbildung. Rein akademisch können solche Fragen nicht
+geklärt werden. Dennoch seien an dieser Stelle einige Ge-
+danken zu diesem Zugang aufgeführt.
+
+Die ursprüngliche Arbeit von Christaller zu Zentralen
+Orten war – vereinfacht ausgedrückt – nicht mehr, aber
+eben auch nicht weniger als die Beschreibung von Regel-
+mäßigkeiten im süddeutschen Städtesystem (vgl. Christal-
+ler 1968). Zwar war ihm der normative Gehalt seiner Arbeit
+durchaus bewusst (Blotevogel 2002b: 12 f.), die unmittel-
+bare Implementierung seiner Überlegungen in die deutsche
+Raumordnung dürfte jedoch kaum bezweckt gewesen sein.
+Insofern ist es auch weiterhin denkbar, dass es vor allem
+wissenschaftliche Arbeiten gibt, die sich mit der Städte-
+systemforschung im Allgemeinen und der Zentralitätsfor-
+schung im Speziellen beschäftigen, ohne an bestehenden
+raumordnerischen Festlegungen anzusetzen oder konkre-
+te Handlungsempfehlungen auszusprechen (vgl. Terfrüchte
+2015). Und immer dann, wenn für die Operationalisierung
+normative Entscheidungen erforderlich sind, wie dies etwa
+bei Erreichbarkeitsstandards unumgänglich ist, werden die-
+se hypothetisch gesetzt, als Prämissen angenommen oder
+rekrutieren sich etwa aus anderen Forschungsarbeiten oder
+Richtlinien. Für Erreichbarkeitsstandards im öffentlichen
+Verkehr und im Individualverkehr werden etwa oftmals
+die sogenannten Richtlinien für Integrierte Netzgestaltung
+(RIN) herangezogen. Meist greifen jedoch auch primär wis-
+senschaftliche Arbeiten zu Zentralen Orten ein bestimm-
+tes landesplanerisches Zielsystem auf, was nicht selten in
+mehr oder weniger konkreten Empfehlungen für die jewei-
+lige Landes- oder Regionalplanung mündet (vgl. für die
+Planungsregion Düsseldorf Flex 2015; vgl. für Rheinland-
+Pfalz Furkert 2015). Problematisch ist vor diesem Hinter-
+grund, wenn Monitoring und Evaluation im oben dargestell-
+ten Verständnis eben nicht an landesplanerischen Zielsyste-
+men anknüpfen, aber dennoch in einem – für Evaluationen
+auch gängigen – politisch-planerischen Handlungserforder-
+nis münden.
+
+4.5 Schlussfolgerungen für die Operationalisierung/
+Entwicklung des raumordnerischen Zielsystems
+
+Die angewandte Methodik zur Evaluation oder zur Vali-
+dierung von Zentrale-Orte-Konzepten muss mit dem jewei-
+ligen Zielsystem umgehen können. Dabei ist es zunächst
+unerheblich, ob das Zielsystem unverändert Bestand hat
+oder im Fortschreibungs- bzw. Neuaufstellungsprozess ver-
+
+Landesentwicklungsprogramms 2016 einen landesweiten 
+Bestandsschutz im Sinne einer Nicht-Abstufungsgarantie 
+ausgesprochen.
+
+4.3 Iterative Fortschreibung des Zielsystems
+
+Zwischen diesen Polen – und das wäre die dritte mögli-
+che Vorgehensweise – ist jedoch auch ein iteratives Vorge-
+hen möglich. Eine iterative Fortschreibung oder Neuaufstel-
+lung des landesplanerischen Zielsystems bewegt sich zwi-
+schen den vorgenannten Polen und erscheint den Verfassern 
+aufgrund ihrer planungspraktischen Erfahrung der zielfüh-
+rendste, weil umsetzbare und zugleich wissenschaftlichen 
+Anforderungen genügende Weg zu sein. Ausgangspunkt ei-
+ner empirischen Überprüfung ist stets das bestehende Ziel-
+system. Infolge der Operationalisierung und der anschlie-
+ßenden empirischen Befunde wird das Zielsystem dann in 
+der Art angepasst, wie es den politisch-planerischen Vor-
+stellungen entspricht. Mitunter ist es erst der empirische 
+Befund, der für bestimmte Veränderungserfordernisse sen-
+sibilisiert. Die Einführung von Zentrenverbünden, Mehr-
+fachorten oder Zwischenstufen im Zentrale-Orte-Konzept 
+(wie etwa Mittelzentren mit Teilfunktionen eines Oberzen-
+trums) können als Reaktion darauf verstanden werden, dass 
+das Christallersche Ideal monozentraler Orte mit eindeuti-
+gen Versorgungsbereichen nur noch bedingt der empirisch 
+beschreibbaren Realität entspricht. Im Rahmen einer itera-
+tiven Fortschreibung spielen – wenn auch den handelnden 
+Akteuren nicht immer bewusst – daher auch Szenarien eine 
+große Rolle. Wenn etwa Erreichbarkeitsstandards mit Ziel-
+qualität festgelegt werden sollen, kann mittels Szenarien 
+überprüft werden, welche Standards überhaupt zweckmä-
+ßig sein können. Da die Landesplanungsbehörden vielfach 
+nicht in der Lage sind, umfängliche empirische Arbeiten 
+selbst zu leisten, kommt Gutachtern in solchen iterativen 
+Fortschreibungsprozessen eine besondere Rolle zu. Wäh-
+rend etwa bei einer ,klassischen‘ Evaluierung des bestehen-
+den Zentrale-Orte-Konzepts ein Gutachten mit einem Soll-
+Ist-Vergleich und gegebenenfalls abgeleiteten Handlungs-
+empfehlungen für Politik und Planung abschließt, sind die 
+Ergebnisse bei einem iterativen Vorgehen stets als impuls-
+gebende Zwischenergebnisse zu verstehen. Bevor etwa lan-
+desweit die zentralörtliche Funktion von Orten empirisch 
+überprüft wird, wäre die Operationalisierung dessen, was 
+überhaupt zentralörtlich relevante Funktionen sind, ein ers-
+ter mit der Landesplanung rückzukoppelnder Schritt. Es er-
+folgt dann bereits die erste Anpassung oder Konkretisierung 
+der bestehenden Ziele.
+
+4.4 Empirische Fundierung jenseits eines Zielsystems
+
+Ein vierter – wenngleich nicht empfohlener – Zugang wie-
+derum steht neben den oben genannten Polen bzw. kann im
+
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 483
+
+ändert wird. Wesentlich ist etwa der Umgang mit unter-
+schiedlich vielen Hierarchiestufen (z. B. Einbeziehen der
+metropolitanen Ebene oder einer intrakommunalen Pers-
+pektive), die Operationalisierung über Funktionsbereiche
+(z. B. Bildung), Teilfunktionsbereiche (z. B. allgemeinbil-
+dende Schulen), Funktionen (z. B. Schulen der Sekundar-
+stufe II) bis hin zu den tatsächlich beobachtbaren Merkma-
+len (z. B. Gymnasien, Integrierte Gesamtschulen). Und so-
+fern Erreichbarkeits- und Tragfähigkeitsstandards nicht ex
+ante bestimmt sind (was für Zentrale-Orte-Konzepte auch
+nicht zwingend erforderlich ist), diese aber Einzug in ein
+Zielsystem nehmen sollen, muss die Methodik auch das em-
+pirische Ableiten entsprechender Schwellenwerte ermögli-
+chen. Dabei ist grundsätzlich zu bedenken, dass es die eine
+richtige Methodik nicht gibt. So haben auch Obergerichte
+vielfach geurteilt, dass grundsätzlich keine Methode pau-
+schal am geeignetsten ist, sondern der Plangeber sich eine
+Methode zu eigen machen muss, mit der er gedenkt, zu
+einem sachgerechten Befund zu kommen. Vielmehr gilt es
+also, allgemeine methodische Gütekriterien wie Objektivi-
+tät, Validität und Reliabilität zu beachten. Insofern kann
+Folgendes festgehalten werden:
+
+● Die einzig richtige Methode zur Validierung von Zentra-
+le-Orte-Konzepten gibt es nicht.
+
+● Die einzelnen methodischen Ansätze dienen stets der
+Komplexitätsreduktion auf der Sachebene, sie müssen
+zugleich das politische Entscheidungsproblem auf dieje-
+nigen Fragen fokussieren, die der Wertebene zuzurech-
+nen sind.
+
+● Umso wichtiger ist daher ein frühzeitig zu initiierender
+Diskursprozess zwischen der Landesplanung als verfah-
+rensführender Behörde, den Planadressaten, also vor al-
+lem der Regionalplanung, und einem gegebenenfalls be-
+teiligten externen Gutachter, um eine Verständigung über
+die Wertebene und das methodische Vorgehen zur Erfas-
+sung der Sachebene zu erzielen. Auf diese Weise lassen
+sich Ergebnisse erzeugen, die inhaltlich überzeugen und
+politisch auch kommunizier- und durchsetzbar sind.
+
+5 Fazit
+
+Wie gezeigt wurde, ist die empirische Fundierung von Zen-
+trale-Orte-Konzepten eine überaus komplexe Angelegen-
+heit. Wenn aus obergerichtlichen Urteilen folgt, dass sich
+Plangeber eine – selbstgewählte – Methode zu eigen ma-
+chen sollen, setzt dies voraus, dass sich die Plangeber über
+die methodischen Implikationen bewusst sind, schließlich
+müssen sie begründen, weshalb sie die eine oder andere
+Methode angewendet haben. Nimmt man nun den Legiti-
+mationsdruck, unter dem Politik und Planung seit einigen
+Jahren stehen, hinzu, kommt wissenschaftlichen Gutach-
+ten eine entscheidende Rolle zu. Döring und Bortz (2016:
+
+988) gehen jedoch auch hinsichtlich der Evaluationsergeb-
+nisse nicht davon aus, dass diese „auch wirklich rezipiert,
+verstanden und akzeptiert werden und dann auch noch zur
+Ableitung und Umsetzung der richtigen Konsequenzen füh-
+ren“. Insofern müssten auch „weitere Aktivitäten wie Be-
+ratung, Coaching, Workshops [...] [erfolgen], in denen Be-
+deutung und praktische Konsequenzen der Evaluationser-
+gebnisse diskutiert und konzipiert werden“ (Döring/Bortz
+2016: 988).
+
+Umfangreiche Monitorings, als Selbstzweck oder als
+Grundlage für Evaluation oder Validierung, ermöglichen
+dabei grundsätzlich eine weniger vom Gutachter abhängige
+Datenbasis für eine empirische Fundierung. Über vielfach
+bestehendes Siedlungsflächenmonitoring hinaus bietet es
+sich somit auch an, ein umfassendes Regionalmonitoring
+aufzubauen, das etwa die Versorgungs- und Entwicklungs-/
+Stabilisierungsfunktion von Städten und Gemeinden ebenso
+abbildet wie bestehende räumlich-funktionale Verflechtun-
+gen (vgl. Baumgart/David/Diehl et al. 2013: 10; Terfrüchte
+2015: 248) oder die tatsächliche Umsetzung einer politisch
+gewollten Funktionsteilung innerhalb von Städteverbün-
+den (vgl. auch BMVBS/BBR 2008). Der erste Schritt
+der vorgeschlagenen Operationalisierung liegt damit beim
+Plangeber selbst. Dadurch wird auch das skizzierte itera-
+tive Vorgehen bei der Fortschreibung bzw. Neuaufstellung
+von Zentrale-Orte-Konzepten erleichtert, da erste empiri-
+sche Befunde bereits vor der Vergabe und dem Vorliegen
+von Gutachten vorhanden sind. Die starre Trennung zwi-
+schen dem (deskriptiven) Zentrale-Orte-System und dem
+(normativen) Zentrale-Orte-Konzept verwässert dadurch
+zwangsläufig, da der empirische Befund bereits auf nor-
+mativen Erwägungen (etwa zur zumutbaren Erreichbarkeit)
+fußt. Je mehr Schritte in einem iterativen Vorgehen bereits
+erfolgt sind, desto weniger politisch-planerische Spielräu-
+me bestehen dann noch, desto näher kommt der empirische
+(Zwischen-)Befund dem abschließenden normativen Kon-
+zept und desto weniger methodische Ansätze sind dann
+noch zur Validierung des Zentrale-Orte-Konzepts geeignet.
+Das bedeutet dann einerseits eine zunehmende Validität
+der empirischen Befunde, erfordert andererseits aber auch
+ein frühzeitiges ,Einsteigen‘ der Landesplanungen in einen
+solchen iterativen Prozess. Denn wenn vorab methodische
+Bausteine ,zementiert‘ sind, die nicht mit dem raumord-
+nerischen Zielsystem korrespondieren (können), tendieren
+die zentralörtlichen Festlegungen zur Willkür.
+
+In den hier vorgenommenen methodischen Schlüssen
+schwingen zweifelsohne und ganz in der Tradition Chris-
+tallers auch normative Schlüsse mit. Gleichwohl sind diese
+primär darauf gerichtet, welches Vorgehen aus welchem
+Grund zweckmäßig erscheint. Ein Plädoyer, welche Ein-
+richtungen etwa zur Versorgungsfunktion zählen sollten,
+welche Erreichbarkeitsstandards als zumutbar gelten soll-
+ten oder wie viele Hierarchiestufen ein Zentrale-Orte-Kon-
+
+
+
+484 T. Terfrüchte et al.
+
+zept aufweisen sollte, sind diese Schlüsse jedoch nicht. Dies
+obliegt dem politisch legitimierten Plangeber. Die bisheri-
+gen Erfahrungen in der gutachterlichen Praxis haben jedoch
+gezeigt, dass zumindest eine Straffung des Zentrale-Orte-
+Konzepts vor dem Hintergrund einer flächendeckenden Da-
+seinsvorsorge und gleichwertiger Lebensverhältnisse in vie-
+len Fällen aus den empirischen Befunden abgeleitet werden
+kann, wobei die größten Anpassungserfordernisse nicht in
+den ländlichen, sondern in den verdichteten Landesteilen
+gesehen wurden. In denen sind regelmäßig Zentrale Orte
+zu finden, die zwar die geltenden Einwohnerschwellenwer-
+te und häufig auch die Anforderungen aus Ausstattungs-
+katalogen erfüllen, aber selten bereichsbildend wirken und
+keinesfalls zur Gewährleistung einer erreichbaren Versor-
+gung erforderlich sind. Ob und wie diese Befunde nor-
+mativ in ein Zentrale-Orte-Konzept überführt werden, ist
+Aufgabe von Politik und Planung. Die mehrfach erwähnten
+Zentrenverbünde bzw. Mehrfachorte sind vor diesem Hin-
+tergrund auch nicht als Empfehlung zu verstehen, auf Er-
+reichbarkeits- oder Tragfähigkeitsdefizite mit kooperativen
+Lösungen (Funktionsteilung) zu reagieren. Dass sogenann-
+te monozentrale Orte allein schon hinsichtlich entstehen-
+der Transaktionskosten die von den Verfassern bevorzugte
+Variante sind, wie es an anderer Stelle vorgeschlagen wur-
+de (Winkel/Greiving 2008; Greiving/Flex/Terfrüchte 2015),
+soll dennoch nicht verschwiegen werden. Welche konkreten
+methodischen Ansätze mit welchen – aus den landesplaneri-
+schen Festlegungen resultierenden – Prämissen jeweils am
+besten umgehen können, kann im Rahmen eines solchen
+Beitrags nicht geklärt werden. Dafür sind die Ausgangs-
+konstellationen zu unterschiedlich.
+
+Literatur
+
+ARL – Akademie für Raumforschung und Landesplanung (2013): An-
+forderungen an ein zukünftiges Zentrale-Orte-Konzept. Beispiele
+aus Hessen, Rheinland-Pfalz und dem Saarland. Hannover. = Po-
+sitionspapier aus der ARL 92.
+
+ARL – Akademie für Raumforschung und Landesplanung (2015):
+Neuaufstellung des Zentrale-Orte-Konzepts in Nordrhein-West-
+falen. Hannover. = Positionspapier aus der ARL 102.
+
+Baumgart, S.; David, C.-H.; Diehl, J.; Finke, L.; van Gemmeren, C.;
+Greiving, S.; Kötter, K.; Konze, H.; Petzinger, T.; Terfrüchte, T.;
+Wiechmann, T. (2013): Planen in der Zukunft. In: Baumgart, S.;
+Terfrüchte, T. (Hrsg.): Zukunft der Regionalplanung in Nord-
+rhein-Westfalen. Hannover, 5-17. = Arbeitsberichte der ARL
+6.
+
+BBSR – Bundesinstitut für Bau-, Stadt- und Raumforschung (2012):
+Raumabgrenzungen und Raumtypen des BBSR. Bonn. = Analy-
+sen Bau.Stadt.Raum 6.
+
+Birkmann, J. (2005): Monitoring. In: ARL – Akademie für Raumfor-
+schung und Landesplanung (Hrsg.): Handwörterbuch der Raum-
+ordnung. Hannover, 668-674.
+
+Blotevogel, H. H. (Hrsg.) (2002a): Fortentwicklung des Zentrale-Or-
+te-Konzepts. Hannover. = Forschungs- und Sitzungsberichte der
+ARL 217.
+
+Blotevogel, H. H. (2002b): Zum Verhältnis der regionalökonomischen
+Zentrale-Orte-Theorie zum Zentrale-Orte-Konzept der Raumord-
+
+nung. In: Blotevogel, H. H. (Hrsg.): Fortentwicklung des Zentra-
+le-Orte-Konzepts. Hannover, 10-16. = Forschungs- und Sitzungs-
+berichte der ARL 217.
+
+Blotevogel, H. H. (2005): Zentrale Orte. In ARL – Akademie für
+Raumforschung und Landesplanung (Hrsg.): Handwörterbuch
+der Raumordnung. Hannover, 1307-1315.
+
+BMVBS – Bundesministerium für Verkehr, Bau und Stadtentwick-
+lung; BBR – Bundesamt für Bauwesen und Raumordnung (Hrsg.)
+(2008): Kooperation zentraler Orte in schrumpfenden Regionen.
+Praxiserfahrungsstudie. Bonn. = Werkstatt: Praxis 53.
+
+Boettcher, F.; Junkernheinrich, M. (2010): Kommunaler Finanz- und
+Schuldenreport Nordrhein-Westfalen. Gütersloh.
+
+Bogumil, J. (2010): Die Ebenen der Verwaltung, die Verteilung der
+Aufgaben und die Realität der Verwaltungspolitik. In: Schiman-
+ke, D. (Hrsg.): Verwaltung und Raum. Zur Diskussion um Leis-
+tungsfähigkeit und Integrationsfunktion von Verwaltungseinhei-
+ten. Baden-Baden, 77-88. = Schriften der Deutschen Sektion des
+Internationalen Instituts für Verwaltungswissenschaften 34.
+
+Christaller, W. (1968): Die zentralen Orte in Süddeutschland. Eine öko-
+nomisch-geographische Untersuchung über die Gesetzmäßigkeit
+der Verbreitung und Entwicklung der Siedlungen mit städtischen
+Funktionen. Darmstadt.
+
+Czihal, T.; von Stillfried, D.; Schallock, M. (2012): Regionale
+Mitversorgungsbeziehungen in der ambulanten Versorgung.
+Berlin. http://www.versorgungsatlas.de/fileadmin/ziva_docs/21/
+Mitversorgung_Bericht_upload20130304.pdf (02.06.2017).
+
+DeGEval – Gesellschaft für Evaluation (2008): Standards für Evalua-
+tion. Mainz.
+
+Deiters, J. (1978): Zur empirischen Überprüfbarkeit der Theorie zen-
+traler Orte. Fallstudie Westerwald. Bonn. = Arbeiten zur rheini-
+schen Landeskunde 44.
+
+Döring, N.; Bortz, J. (2016): Forschungsmethoden und Evaluation in
+den Sozial- und Humanwissenschaften. Berlin/Heidelberg.
+
+Einig, K.; Zaspel-Heisters, B. (2016): Das System Zentraler Orte in
+Deutschland. In: Greiving, S.; Flex, F. (Hrsg.): Neuaufstellung des
+Zentrale-Orte-Konzepts in Nordrhein-Westfalen. Hannover, 3-19.
+= Arbeitsberichte der ARL 17.
+
+Faßbender, K. (2012): Rechtsgutachten zu den Anforderungen an re-
+gionalplanerische Festlegungen zur Hochwasservorsorge, erstat-
+tet im Auftrag des Regionalen Planungsverbands Oberes Elbtal/
+Osterzgebirge. Leipzig.
+
+Flex, F. (2015): Zentralörtliche Funktionsräume. Empirische Ermitt-
+lung und konzeptionelle Ausgestaltung am Beispiel der Pla-
+nungsregion Düsseldorf. Dissertation, Technische Universität
+Dortmund.
+
+Fürst, D. (2010): Raumplanung. Herausforderungen des deutschen In-
+stitutionensystems. Detmold. = Planungswissenschaftliche Studi-
+en zu Raumordnung und Regionalentwicklung 1.
+
+Furkert, M. (2015): Erkennen und Handeln. Restrukturierung der lan-
+desplanerischen Mittelbereiche in Rheinland-Pfalz. Hamburg. =
+Geographica. Schriftenreihe Geowissenschaften und Geographie
+11.
+
+Ganser, K. (1977): Zentrale Orte und Entwicklungszentren. In: Gan-
+ser, K.; Heinritz, G.; Klingbeil, D.; Mittermaier, K.; Niedzwetz-
+ki, K.; Popp, H.; Schrettenbrunner, H. (Hrsg.): Beiträge zur Zen-
+tralitätsforschung. Kallmünz/Regensburg, 105-124. = Münchener
+Geographische Hefte 39.
+
+Greiving, S.; Flex, F. (Hrsg.) (2016): Neuaufstellung des Zentrale-Or-
+te-Konzepts in Nordrhein-Westfalen. Hannover. = Arbeitsberichte
+der ARL 17.
+
+Greiving, S.; Flex, F.; Terfrüchte, T. (2015): Vergleichende Unter-
+suchung der Zentrale-Orte-Konzepte in den Ländern und Emp-
+fehlungen zu ihrer Weiterentwicklung. In: Raumforschung und
+Raumordnung 73, 4, 285-297.
+
+Greiving, S.; Winkel, R.; Flex, F.; Terfrüchte, T. (2014): Reform der
+Zentrale-Orte-Konzepte in den Ländern und Folgen für Sied-
+lungsstruktur und Daseinsvorsorge. Endbericht im Auftrag des
+Bundesinstituts für Bau-, Stadt- und Raumforschung. Bonn.
+
+http://www.versorgungsatlas.de/fileadmin/ziva_docs/21/Mitversorgung_Bericht_upload20130304.pdf
+http://www.versorgungsatlas.de/fileadmin/ziva_docs/21/Mitversorgung_Bericht_upload20130304.pdf
+
+
+Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen 485
+
+Heinritz, G. (1977): Einzugsgebiete und zentralörtliche Bereiche. Me-
+thodische Probleme der empirischen Zentralitätsforschung. In:
+Ganser, K.; Heinritz, G.; Klingbeil, D.; Mittermaier, K.; Nied-
+zwetzki, K.; Popp, H.; Schrettenbrunner, H. (Hrsg.): Beiträge zur
+Zentralitätsforschung. Kallmünz/Regensburg, 9-43. = Münchener
+Geographische Hefte 39.
+
+Henckel, D.; Kolleck, B.; Mittag, K.; Seidel-Schulze, A. (2002): Städ-
+tetypen in Nordrhein-Westfalen. Gutachten im Auftrag der En-
+quetekommission „Die Zukunft der Städte in Nordrhein-Westfa-
+len“. Endbericht. Berlin.
+
+Hesse, J. J. (2010): Kommunalstrukturen in Niedersachsen. Untersu-
+chung im Auftrag des Ministeriums für Inneres und Sport des
+Landes Niedersachsen. Berlin.
+
+Jacoby, C. (2011): Monitoring, Evaluation und Controlling. In: ARL
+– Akademie für Raumforschung und Landesplanung (Hrsg.):
+Grundriss der Raumordnung und Raumentwicklung. Hannover,
+547-559.
+
+Junkernheinrich, M.; Boettcher, F.; Brand, S.; Steinmüller, L.; Hol-
+ler, B. (2011): Neuabgrenzung leistungsfähiger Gemeindegebiete.
+Ein verwaltungsökonomischer Beitrag zur Kommunal- und Ver-
+waltungsreform von Verbandsgemeinden und verbandsfreien Ge-
+meinden in Rheinland-Pfalz. Gutachten im Auftrag des Ministeri-
+ums des Innern und für Sport. Endbericht für die Untersuchungs-
+region 1. Kaiserslautern.
+
+Klöpper, R. (1970): Zentrale Orte und ihre Bereiche. In: ARL – Akade-
+mie für Raumforschung und Landesplanung (Hrsg.): Handwörter-
+buch der Raumforschung und Raumordnung. Band III. Hannover,
+3849-3860.
+
+Klöpper, R. (1972): Die deutsche geographische Stadt-Umland-For-
+schung. Entwicklung und Erfahrungen. In: Schöller, P. (Hrsg.):
+Zentralitätsforschung. Darmstadt, 252-266. = Wege der For-
+schung 301.
+
+Körber, J. (1972): Einzugsbereiche zentraler Orte. Bericht über eine
+Beispieluntersuchung in Rheinland-Pfalz. In: Schöller, P. (Hrsg.):
+Zentralitätsforschung. Darmstadt, 231-251. = Wege der For-
+schung 301.
+
+LAGARL – Landesarbeitsgemeinschaft Bremen/Hamburg/Niedersachsen/
+Schleswig-Holstein der Akademie für Raumforschung und Lan-
+desplanung (2014): Stärkung der Innenstädte und Ortskerne.
+Initiativen und Instrumente aus der Praxis für die Praxis. Arbeits-
+hilfe für Kommunen. Hannover.
+
+Landtag Nordrhein-Westfalen (2015): Bewertung der Tragfähigkeit der
+öffentlichen Haushalte in Nordrhein-Westfalen. Unter den Bedin-
+gungen der Schuldenbremse und des demografischen Wandels in
+der Dekade 2020 bis 2030. Abschlussbericht der Enquetekommis-
+sion III des Landtags Nordrhein-Westfalen. Landtagsdrucksache
+16/9500. Düsseldorf.
+
+Langguth, N. (2011): Die Grenzen der Raumordnungsplanung. Zur
+Abgrenzung der Gesetzgebungskompetenzen für Raumordnung
+
+und Bauleitplanung. In: Zeitschrift für deutsches und internatio-
+nales Bau- und Vergaberecht 34, 5, 436-441.
+
+MKRO –Ministerkonferenz für Raumordnung (2016a): Entschließung
+„Zentrale Orte“. Beschluss der 41. Ministerkonferenz für Raum-
+ordnung am 9. März 2016 in Berlin. Berlin.
+
+MKRO –Ministerkonferenz für Raumordnung (2016b): Leitbilder und
+Handlungsstrategien für die Raumentwicklung in Deutschland.
+Beschluss der 41. Ministerkonferenz für Raumordnung am 9.
+März 2016 in Berlin. Berlin.
+
+Niedzwetzki, K. (1977): Methoden der Zentralitätsmessung. In Gan-
+ser, K.; Heinritz, G.; Klingbeil, D.; Mittermaier, K.; Niedzwetzki,
+K.; Popp, H.; Schrettenbrunner, H. (Hrsg.): Beiträge zur Zentrali-
+tätsforschung. Kallmünz/Regensburg, 75-103. = Münchener Geo-
+graphische Hefte, 39.
+
+Schmidt, P. I.; Konze, H. (2011): Planaufstellungs- und -änderungs-
+verfahren. In: ARL – Akademie für Raumforschung und Landes-
+planung (Hrsg.): Grundriss der Raumordnung und Raumentwick-
+lung. Hannover, 451-472.
+
+Scholles, F. (2001): Zielsysteme in der Planung. In: Fürst, D.; Schol-
+les, F. (Hrsg.): Handbuch Theorien und Methoden der Raum- und
+Umweltplanung. Dortmund, 139-143.
+
+Scholles, F. (2005): Bewertungs- und Entscheidungsmethoden. In:
+ARL – Akademie für Raumforschung und Landesplanung (Hrsg.):
+Handwörterbuch der Raumordnung. Hannover, 97-106.
+
+Sedlmeier, P.; Renkewitz, F. (2013): Forschungsmethoden und Statistik
+für Psychologen und Sozialwissenschaftler. München.
+
+Staack, J. (1995): Die Klassifikation deutscher Städte nach ihrer regio-
+nalen Zentralität. Frankfurt am Main. = Europäische Hochschul-
+schriften 1751.
+
+Terfrüchte, T. (2015): Regionale Handlungsräume. Gliederung und
+Einflussfaktoren am Beispiel Nordrhein-Westfalens. Lemgo. =
+Metropolis und Region 14.
+
+Wiechmann, T.; Beier, M. (2004): Evaluationen in der Regionalent-
+wicklung. Eine vernachlässigte Herausforderung für die Raum-
+planung. In: Raumforschung und Raumordnung 62, 6, 387-396.
+
+Wiechmann, T.; Terfrüchte, T. (2013): Akzeptanz regionaler Planungs-
+prozesse und -ergebnisse. In: Baumgart, S.; Terfrüchte, T. (Hrsg.):
+Zukunft der Regionalplanung in Nordrhein-Westfalen. Hannover,
+18-39. = Arbeitsberichte der ARL 6.
+
+Wiechmann, T.; Terfrüchte, T. (2017): Smart Country regional gedacht.
+Teilräumliche Analysen für digitale Strategien in Deutschland.
+Gütersloh.
+
+Winkel, R.; Greiving, S. (2008): Zentrale-Orte-Konzepte in praxisori-
+entierter Weiterentwicklung. Monozentrale Orte, Städteverbünde
+und zentralörtliche Funktionsräume. In: RaumPlanung 141, 263-
+268.
+
+Wollmann, H. (2005): Evaluation. In: ARL – Akademie für Raumfor-
+schung und Landesplanung (Hrsg.): Handwörterbuch der Raum-
+ordnung. Hannover, 274-280.
+
+
+	Empirische Fundierung von Zentrale-Orte-Konzepten – Vorschlag für ein idealtypisches Vorgehen
+	Zusammenfassung
+	Abstract
+	Einleitung
+	Merkmale und Funktionen Zentraler Orte
+	Versorgungsfunktion und zentrale Einrichtungen
+	Entwicklungs‑/Stabilisierungsfunktion
+	Bereichsbildungsfunktion
+	Raumordnerisches Erfordernis
+
+	Allgemeine methodische Überlegungen
+	Monitoring, Evaluation und Controlling
+	Validierung
+	Beispiel: Leitbildkarte „Daseinsvorsorge sichern“
+
+	Idealtypische Vorgehensweisen zur empirischen Fundierung
+	Unverändertes Festhalten am Zielsystem
+	Vollständige Neuaufstellung des Zielsystems
+	Iterative Fortschreibung des Zielsystems
+	Empirische Fundierung jenseits eines Zielsystems
+	Schlussfolgerungen für die Operationalisierung/Entwicklung des raumordnerischen Zielsystems
+
+	Fazit
+	Literatur

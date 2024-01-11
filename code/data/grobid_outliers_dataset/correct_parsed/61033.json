@@ -1,0 +1,2401 @@
+[
+  {
+    "author": [
+      {
+        "family": "Atzori",
+        "given": "L."
+      },
+      {
+        "family": "Iera",
+        "given": "A."
+      },
+      {
+        "family": "Morabit",
+        "given": "G."
+      }
+    ],
+    "title": "The Internet of Things: A survey",
+    "volume": "54",
+    "type": "article-journal",
+    "container-title": "Computer Networks",
+    "issue": "15",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "2787–2805",
+    "DOI": "10.1016/j.comnet.2010.05."
+  },
+  {
+    "author": [
+      {
+        "family": "Ziegeldorf",
+        "given": "J.H."
+      },
+      {
+        "family": "Morchon",
+        "given": "O.Garcia"
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "Privacy in the Internet of Things: Threats and Challenges",
+    "volume": "7",
+    "type": "article-journal",
+    "container-title": "Security and Communication Networks",
+    "issue": "12",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "2728–2742",
+    "DOI": "10.1002/sec.795."
+  },
+  {
+    "author": [
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Catrein",
+        "given": "D."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "A Cloud Design for User- controlled Storage and Processing of Sensor Data",
+    "container-title": "2012 IEEE 4th Inter- national Conference on Cloud Computing Technology and Science (Cloud- Com",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "232–240",
+    "DOI": "10.1109/CloudCom.2012.6427523."
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "F."
+      },
+      {
+        "family": "Voegler",
+        "given": "M."
+      },
+      {
+        "family": "Claessens",
+        "given": "M."
+      },
+      {
+        "family": "Dustdar",
+        "given": "S."
+      }
+    ],
+    "title": "Efficient and Scalable IoT Service Delivery on Cloud",
+    "container-title": "2013 IEEE Sixth International Conference on Cloud Computing (CLOUD",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "740–747",
+    "DOI": "doi:10.1109/ CLOUD.2013.64."
+  },
+  {
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Matzutt",
+        "given": "R."
+      },
+      {
+        "family": "Catrein",
+        "given": "D."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "Maintaining User Control While Storing and Processing Sensor Data in the Cloud",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "In- ternational Journal of Grid and High Performance Computing (IJGHPC",
+    "issue": "4",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "97–112",
+    "DOI": "10.4018/ijghpc.2013100107."
+  },
+  {
+    "citation-number": "6",
+    "author": [
+      {
+        "family": "Eggert",
+        "given": "M."
+      },
+      {
+        "family": "ling",
+        "given": "R.Hau"
+      },
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Hermerschmidt",
+        "given": "L."
+      },
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Kerpen",
+        "given": "D."
+      },
+      {
+        "family": "Perez",
+        "given": "A.Navarro"
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      },
+      {
+        "family": "en",
+        "given": "D.Thi"
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "SensorCloud: Towards the Interdisciplinary Development of a Trustworthy Platform for Globally Interconnected Sensors and Actuators",
+    "editor": [
+      {
+        "family": "Krcmar",
+        "given": "H."
+      },
+      {
+        "family": "Reussner",
+        "given": "R."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "container-title": "Trusted Cloud Computing",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "203 218",
+    "DOI": "10.1007/978-3-319-12718-7_13"
+  },
+  {
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Matzutt",
+        "given": "R."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "A Trust Point-based Secu- rity Architecture for Sensor Data in the Cloud",
+    "editor": [
+      {
+        "family": "Krcmar",
+        "given": "H."
+      },
+      {
+        "family": "Reussner",
+        "given": "R."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "container-title": "Trusted Cloud Computing",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "77–106",
+    "DOI": "10.1007/978-3-319-12718-7_6."
+  },
+  {
+    "author": [
+      {
+        "family": "Hermerschmidt",
+        "given": "L."
+      },
+      {
+        "family": "Pérez",
+        "given": "A.Navarro"
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "title": "A Model-based Software Development Kit for the SensorCloud Platform",
+    "editor": [
+      {
+        "family": "Krcmar",
+        "given": "H."
+      },
+      {
+        "family": "ner",
+        "given": "R.Reuss-"
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "container-title": "Trusted Cloud Computing",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "125– 140",
+    "DOI": "10.1007/978-3-319-12718-7_8."
+  },
+  {
+    "citation-number": "9",
+    "author": [
+      {
+        "family": "Botta",
+        "given": "A."
+      },
+      {
+        "family": "Donato",
+        "given": "W.",
+        "particle": "de"
+      },
+      {
+        "family": "Persico",
+        "given": "V."
+      },
+      {
+        "family": "Pescape",
+        "given": "A."
+      }
+    ],
+    "title": "On the Integration of Cloud Computing and Internet of Things",
+    "container-title": "2014 International Conference on Future Internet of Things and Cloud",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "23 28",
+    "DOI": "10.1109/FiCloud.2014.14."
+  },
+  {
+    "author": [
+      {
+        "family": "Ion",
+        "given": "I."
+      },
+      {
+        "family": "Sachdeva",
+        "given": "N."
+      },
+      {
+        "family": "Kumaraguru",
+        "given": "P."
+      },
+      {
+        "family": "Capkun",
+        "given": "S."
+      }
+    ],
+    "title": "Home is Safer than the Cloud! Privacy Concerns for Consumer Cloud Storage",
+    "container-title": "Proceedings of the Seventh Symposium on Usable Privacy and Security, ACM",
+    "volume": 13,
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1–13 20",
+    "DOI": "10.1145/2078827.2078845."
+  },
+  {
+    "author": [
+      {
+        "family": "Takabi",
+        "given": "H."
+      },
+      {
+        "family": "Joshi",
+        "given": "J."
+      },
+      {
+        "family": "Ahn",
+        "given": "G."
+      }
+    ],
+    "title": "Security and Privacy Challenges in Cloud Computing Environments",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "IEEE Security Privacy",
+    "issue": "6",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "24–31",
+    "DOI": "10.1109/MSP.2010.186."
+  },
+  {
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "The Cloud Needs Cross-Layer Data Handling Annotations",
+    "container-title": "2013 IEEE Security and Privacy Workshops (SPW",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "18–22",
+    "DOI": "10.1109/SPW.2013.31."
+  },
+  {
+    "author": [
+      {
+        "family": "Armbrust",
+        "given": "M."
+      },
+      {
+        "family": "Fox",
+        "given": "A."
+      },
+      {
+        "family": "Griffith",
+        "given": "R."
+      },
+      {
+        "family": "Joseph",
+        "given": "A.D."
+      },
+      {
+        "family": "Katz",
+        "given": "R."
+      },
+      {
+        "family": "Konwinski",
+        "given": "A."
+      },
+      {
+        "family": "Lee",
+        "given": "G."
+      },
+      {
+        "family": "Patterson",
+        "given": "D."
+      },
+      {
+        "family": "Rabkin",
+        "given": "A."
+      },
+      {
+        "family": "Stoica",
+        "given": "I."
+      },
+      {
+        "family": "Zaharia",
+        "given": "M."
+      }
+    ],
+    "title": "A View of Cloud Computing, Commun",
+    "volume": "53",
+    "type": "article-journal",
+    "container-title": "ACM",
+    "issue": "4",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "50–58",
+    "DOI": "10.1145/1721654."
+  },
+  {
+    "author": [
+      {
+        "family": "Memon",
+        "given": "M."
+      },
+      {
+        "family": "Wagner",
+        "given": "S.Rahr"
+      },
+      {
+        "family": "Fischer",
+        "given": "C.Pedersen"
+      },
+      {
+        "family": "Beevi",
+        "given": "F.H.Aysha"
+      },
+      {
+        "family": "Hansen",
+        "given": "F.Overgaard"
+      }
+    ],
+    "title": "Ambient Assisted Living Healthcare Frameworks, Platforms, Standards, and Quality Attributes",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Sensors",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "4312– 4341",
+    "DOI": "10.3390/s140304312."
+  },
+  {
+    "author": [
+      {
+        "family": "Queirós",
+        "given": "A."
+      },
+      {
+        "family": "Silva",
+        "given": "A."
+      },
+      {
+        "family": "Alvarelhao",
+        "given": "J."
+      },
+      {
+        "family": "Rocha",
+        "given": "N.P."
+      },
+      {
+        "family": "Teixeira",
+        "given": "A."
+      }
+    ],
+    "title": "Usability, accessibility and ambient-assisted living: a systematic literature review",
+    "volume": "14",
+    "type": "article-journal",
+    "container-title": "Universal Access in the Information Society",
+    "issue": "1",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "57–66",
+    "DOI": "10.1007/s10209-013-0328-x."
+  },
+  {
+    "author": [
+      {
+        "family": "Koch",
+        "given": "S."
+      }
+    ],
+    "title": "Healthy Ageing Supported by Technology: A Cross-Disciplinary Research Challenge",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Informatics for Health and Social Care",
+    "language": "it",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "3–4",
+    "DOI": "10.3109/17538157.2010.528646."
+  },
+  {
+    "author": [
+      {
+        "family": "Gubbi",
+        "given": "J."
+      },
+      {
+        "family": "Buyya",
+        "given": "R."
+      },
+      {
+        "family": "Marusic",
+        "given": "S."
+      },
+      {
+        "family": "Palaniswami",
+        "given": "M."
+      }
+    ],
+    "title": "Internet of Things (IoT): A vision, architectural elements, and future directions",
+    "volume": "29",
+    "type": "article-journal",
+    "container-title": "Future Genera- tion Computer Systems",
+    "issue": "7",
+    "language": "de",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "1645–1660",
+    "DOI": "10.1016/j.future."
+  },
+  {
+    "author": [
+      {
+        "family": "Courtney",
+        "given": "M."
+      }
+    ],
+    "title": "Premium binds",
+    "volume": "8",
+    "type": "article-journal",
+    "container-title": "Engineering \u0026 Technology",
+    "issue": "6",
+    "language": "nl",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": null,
+    "DOI": "10.1049/et.2013.0611."
+  },
+  {
+    "author": [
+      {
+        "family": "Christin",
+        "given": "D."
+      },
+      {
+        "family": "Reinhardt",
+        "given": "A."
+      },
+      {
+        "family": "Kanhere",
+        "given": "S.S."
+      },
+      {
+        "family": "Hollick",
+        "given": "M."
+      }
+    ],
+    "title": "A survey on privacy in mobile participatory sensing applications",
+    "volume": "84",
+    "type": "article-journal",
+    "container-title": "Journal of Systems and Software",
+    "issue": "11",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1016/j.jss.2011.06.073."
+  },
+  {
+    "author": [
+      {
+        "family": "Ziegeldorf",
+        "given": "J.H."
+      },
+      {
+        "family": "Viol",
+        "given": "N."
+      },
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      },
+      {
+        "given": "P.O.S.T.E.R."
+      }
+    ],
+    "title": "Privacy- preserving Indoor Localization",
+    "container-title": "7th ACM Conference on Security and Privacy in Wireless and Mobile Networks",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1–2",
+    "DOI": "doi:10.13140/ 2.1.2847.4886."
+  },
+  {
+    "author": [
+      {
+        "family": "Liu",
+        "given": "J."
+      },
+      {
+        "family": "Huang",
+        "given": "X."
+      },
+      {
+        "family": "Liu",
+        "given": "J.K."
+      }
+    ],
+    "title": "Secure sharing of Personal Health Records in cloud computing: Ciphertext-Policy Attribute-Based Signcryption, Future Generation Computer Systems",
+    "language": "en",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": null,
+    "DOI": "10.1016/j.future.2014."
+  },
+  {
+    "editor": [
+      {
+        "family": "Smith",
+        "given": "I.G."
+      }
+    ],
+    "container-title": "The Internet of Things 2012",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher-place": "New Horizons, IERC"
+  },
+  {
+    "author": [
+      {
+        "family": "Eggert",
+        "given": "M."
+      },
+      {
+        "family": "Häußling",
+        "given": "R."
+      },
+      {
+        "family": "Kerpen",
+        "given": "D."
+      },
+      {
+        "family": "Rüssmann",
+        "given": "K."
+      }
+    ],
+    "title": "SensorCloud: Socio- logical Contextualization of an Innovative Cloud Platform",
+    "editor": [
+      {
+        "family": "Krcmar",
+        "given": "H."
+      },
+      {
+        "family": "Reussner",
+        "given": "R."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "container-title": "Trusted Cloud Computing",
+    "publisher": "Springer",
+    "language": "pt",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "295–313",
+    "DOI": "10.1007/978-3-319-12718-7_18."
+  },
+  {
+    "author": [
+      {
+        "family": "Lesk",
+        "given": "M."
+      }
+    ],
+    "title": "The Price of Privacy",
+    "volume": "10",
+    "type": "article-journal",
+    "container-title": "IEEE Security Privacy",
+    "issue": "5",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "79–81",
+    "DOI": "10.1109/MSP.2012.133."
+  },
+  {
+    "author": [
+      {
+        "family": "Beckwith",
+        "given": "R."
+      }
+    ],
+    "title": "Designing for Ubiquity: The Perception of Privacy",
+    "container-title": "IEEE Per- vasive Computing",
+    "volume": "2",
+    "issue": "2",
+    "language": "en",
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "40–46",
+    "DOI": "10.1109/MPRV.2003.1203752."
+  },
+  {
+    "author": [
+      {
+        "family": "Pearson",
+        "given": "S."
+      }
+    ],
+    "title": "Taking Account of Privacy when Designing Cloud Computing Services",
+    "container-title": "2009 ICSE Workshop on Software Engineering Challenges of Cloud Computing",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "44–52",
+    "DOI": "10.1109/CLOUD.2009."
+  },
+  {
+    "author": [
+      {
+        "family": "Pearson",
+        "given": "S."
+      },
+      {
+        "family": "Benameur",
+        "given": "A."
+      },
+      {
+        "given": "Privacy"
+      }
+    ],
+    "title": "Security and Trust Issues Arising from Cloud Computing",
+    "container-title": "2010 IEEE Second International Conference on Cloud Computing Technology and Science (CloudCom",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "693–702",
+    "DOI": "10.1109/CloudCom.2010.66."
+  },
+  {
+    "author": [
+      {
+        "family": "Zhou",
+        "given": "M."
+      },
+      {
+        "family": "Zhang",
+        "given": "R."
+      },
+      {
+        "family": "Xie",
+        "given": "W."
+      },
+      {
+        "family": "Qian",
+        "given": "W."
+      },
+      {
+        "family": "Zhou",
+        "given": "A."
+      }
+    ],
+    "title": "Security and Privacy in Cloud Computing: A Survey",
+    "container-title": "2010 Sixth International Conference on Semantics Knowledge and Grid (SKG",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "105–112",
+    "DOI": "10.1109/SKG.2010.19."
+  },
+  {
+    "author": [
+      {
+        "family": "Heiser",
+        "given": "J."
+      },
+      {
+        "family": "Nicolett",
+        "given": "M."
+      }
+    ],
+    "title": "Assessing the Security Risks of Cloud Computing",
+    "genre": "Tech. Rep. G00157782,",
+    "publisher": "Gartner",
+    "language": "en",
+    "type": "report",
+    "issued": {
+      "date-parts": [
+        [
+          2008
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Zissis",
+        "given": "D."
+      },
+      {
+        "family": "Lekkas",
+        "given": "D."
+      }
+    ],
+    "title": "Addressing cloud computing security issues",
+    "volume": "28",
+    "type": "article-journal",
+    "container-title": "Future Generation Computer Systems",
+    "issue": "3",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "583–592",
+    "DOI": "10.1016/j."
+  },
+  {
+    "author": [
+      {
+        "family": "Brauw Blackstone Westbroek N.V",
+        "particle": "De"
+      }
+    ],
+    "title": "EU Country Guide Data Location \u0026 Access Restriction",
+    "language": "en",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Rosen",
+        "given": "J."
+      }
+    ],
+    "title": "The Right to Be Forgotten",
+    "volume": "64",
+    "type": "article-journal",
+    "container-title": "Stanford Law Review Online",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "88–92"
+  },
+  {
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Hermerschmidt",
+        "given": "L."
+      },
+      {
+        "family": "Kerpen",
+        "given": "D."
+      },
+      {
+        "family": "Häußling",
+        "given": "R."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "User-driven Privacy Enforcement for Cloud-based Services in the Internet of Things",
+    "container-title": "2014 International Conference on Future Inter- net of Things and Cloud",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "191–196",
+    "DOI": "10.1109/FiCloud."
+  },
+  {
+    "author": [
+      {
+        "family": "Glinz",
+        "given": "M."
+      },
+      {
+        "family": "Fricker",
+        "given": "S."
+      }
+    ],
+    "title": "On shared understanding in software engineering: an essay, Computer Science -Research and Development",
+    "language": "en",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "DOI": "10.1007/s00450-014-0256-x."
+  },
+  {
+    "author": [
+      {
+        "family": "Powers",
+        "given": "C."
+      },
+      {
+        "family": "Ashley",
+        "given": "P."
+      },
+      {
+        "family": "Schunter",
+        "given": "M."
+      }
+    ],
+    "title": "Privacy Promises, Access Control, and Privacy Management -Enforcing Privacy Throughout an Enterprise By Extending Access Control",
+    "container-title": "Third International Symposium on Electronic Commerce",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "13–21",
+    "DOI": "10.1109/ISEC.2002."
+  },
+  {
+    "author": [
+      {
+        "family": "Lounis",
+        "given": "A."
+      },
+      {
+        "family": "Hadjidj",
+        "given": "A."
+      },
+      {
+        "family": "Bouabdallah",
+        "given": "A."
+      },
+      {
+        "family": "Challal",
+        "given": "Y."
+      }
+    ],
+    "title": "Secure and Scalable Cloud-Based Architecture for e-Health Wireless Sensor Networks",
+    "container-title": "2012 21st International Conference on Computer Communications and Networks (ICCCN",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1–7",
+    "DOI": "10.1109/ICCCN.2012.6289252."
+  },
+  {
+    "author": [
+      {
+        "family": "Thilakanathan",
+        "given": "D."
+      },
+      {
+        "family": "Chen",
+        "given": "S."
+      },
+      {
+        "family": "Nepal",
+        "given": "S."
+      },
+      {
+        "family": "Calvo",
+        "given": "R."
+      },
+      {
+        "family": "Alem",
+        "given": "L."
+      }
+    ],
+    "title": "A platform for secure monitoring and sharing of generic health data in the Cloud",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "Fu- ture Generation Computer Systems",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "102–113",
+    "DOI": "10.1016/j."
+  },
+  {
+    "author": [
+      {
+        "family": "Li",
+        "given": "M."
+      },
+      {
+        "family": "Yu",
+        "given": "S."
+      },
+      {
+        "family": "Zheng",
+        "given": "Y."
+      },
+      {
+        "family": "Ren",
+        "given": "K."
+      },
+      {
+        "family": "Lou",
+        "given": "W."
+      }
+    ],
+    "title": "Scalable and Secure Sharing of Personal Health Records in Cloud Computing Using Attribute-Based Encryption",
+    "volume": "24",
+    "type": "article-journal",
+    "container-title": "IEEE Transactions on Parallel and Distributed Systems",
+    "issue": "1",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "131–143",
+    "DOI": "10.1109/TPDS.2012.97."
+  },
+  {
+    "citation-number": "39",
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "Bereda",
+        "given": "S."
+      },
+      {
+        "family": "Hummen",
+        "given": "R."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "SCSlib: Transparently Accessing Protected Sensor Data in the Cloud",
+    "container-title": "The 6th International Symposium on Applications of Ad hoc and Sensor Networks (AASNET'14",
+    "volume": "37",
+    "publisher": "of Procedia Computer Science, Elsevier",
+    "note": "#not full but still matched!!",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "370"
+  },
+  {
+    "author": [
+      {
+        "family": "Pooja",
+        "given": "B."
+      },
+      {
+        "family": "Pai",
+        "given": "M.Manohara"
+      },
+      {
+        "family": "Radhika",
+        "given": "M."
+      }
+    ],
+    "title": "A Dual Cloud Based Secure En- vironmental Parameter Monitoring System: A WSN Approach",
+    "container-title": "4th In- ternational Conference on Cloud Computing (CloudComp 2013",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "189–198",
+    "DOI": "10.1007/978-3-319-05506-0_18."
+  },
+  {
+    "author": [
+      {
+        "family": "Molina",
+        "given": "A.D."
+      },
+      {
+        "family": "Salajegheh",
+        "given": "M."
+      },
+      {
+        "family": "Fu",
+        "given": "K."
+      }
+    ],
+    "title": "HICCUPS: Health Information Col- laborative Collection Using Privacy and Security",
+    "container-title": "ACM workshop on Security and privacy in medical and home-care systems (SPIMACS), ACM",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "21–30",
+    "DOI": "10.1145/1655084.1655089."
+  },
+  {
+    "author": [
+      {
+        "family": "Yang",
+        "given": "J.-J."
+      },
+      {
+        "family": "Li",
+        "given": "J.-Q."
+      },
+      {
+        "family": "Niu",
+        "given": "Y."
+      }
+    ],
+    "title": "A hybrid solution for privacy preserving med- ical data sharing in the cloud environment, Future Generation Computer Systems 43-44",
+    "language": "en",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "74–86",
+    "DOI": "10.1016/j.future.2014.06.004."
+  },
+  {
+    "author": [
+      {
+        "family": "Jacobsson",
+        "given": "A."
+      },
+      {
+        "family": "Boldt",
+        "given": "M."
+      },
+      {
+        "family": "Carlsson",
+        "given": "B."
+      }
+    ],
+    "title": "On the Risk Exposure of Smart Home Automation Systems",
+    "container-title": "2014 International Conference on Future Internet of Things and Cloud",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "183–190",
+    "DOI": "10.1109/FiCloud."
+  },
+  {
+    "author": [
+      {
+        "family": "Kirkham",
+        "given": "T."
+      },
+      {
+        "family": "Armstrong",
+        "given": "D."
+      },
+      {
+        "family": "Djemame",
+        "given": "K."
+      },
+      {
+        "family": "Jiang",
+        "given": "M."
+      }
+    ],
+    "title": "Risk driven Smart Home resource management using cloud services",
+    "volume": "38",
+    "type": "article-journal",
+    "container-title": "Future Generation Com- puter Systems",
+    "language": "fr",
+    "issued": {
+      "date-parts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "13–22",
+    "DOI": "10.1016/j.future.2013.08.006."
+  },
+  {
+    "citation-number": "45",
+    "author": [
+      {
+        "family": "Pasquier",
+        "given": "T.-M."
+      },
+      {
+        "family": "Powles",
+        "given": "J."
+      }
+    ],
+    "title": "Expressing and Enforcing Location Requirements in the Cloud Using Information Flow Control",
+    "container-title": "2015 IEEE International Conference on Cloud Engineering (IC2E",
+    "publisher": "IEEE",
+    "note": "#not full but still matched!!",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "410"
+  },
+  {
+    "author": [
+      {
+        "family": "Itani",
+        "given": "W."
+      },
+      {
+        "family": "Kayssi",
+        "given": "A."
+      },
+      {
+        "family": "Chehab",
+        "given": "A."
+      }
+    ],
+    "title": "Privacy as a Service: Privacy-Aware Data Storage and Processing in Cloud Computing Architectures",
+    "container-title": "Eighth IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "711–716",
+    "DOI": "10.1109/DASC.2009."
+  },
+  {
+    "author": [
+      {
+        "family": "Karjoth",
+        "given": "G."
+      },
+      {
+        "family": "Schunter",
+        "given": "M."
+      }
+    ],
+    "title": "A Privacy Policy Model for Enterprises",
+    "container-title": "15th IEEE Computer Security Foundations Workshop (CSFW",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "271–281",
+    "DOI": "10.1109/CSFW.2002.1021821."
+  },
+  {
+    "author": [
+      {
+        "family": "He",
+        "given": "Q."
+      }
+    ],
+    "title": "Privacy Enforcement with an Extended Role-Based Access Control Model",
+    "genre": "Tech. Rep. TR-2003-09,",
+    "publisher": "Department of Computer Science, North Carolina State University",
+    "language": "en",
+    "type": "report",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Ni",
+        "given": "Q."
+      },
+      {
+        "family": "Bertino",
+        "given": "E."
+      },
+      {
+        "family": "Lobo",
+        "given": "J."
+      },
+      {
+        "family": "Brodie",
+        "given": "C."
+      },
+      {
+        "family": "Karat",
+        "given": "C.-M."
+      },
+      {
+        "family": "Karat",
+        "given": "J."
+      },
+      {
+        "family": "Trombeta",
+        "given": "A."
+      }
+    ],
+    "title": "Privacy-Aware Role-Based Access Control",
+    "volume": "13",
+    "type": "article-journal",
+    "container-title": "ACM Transactions on Informa- tion and System Security",
+    "issue": "3",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "1–24",
+    "DOI": "10.1145/1805974."
+  },
+  {
+    "author": [
+      {
+        "family": "Spillner",
+        "given": "J."
+      },
+      {
+        "family": "Schill",
+        "given": "A."
+      }
+    ],
+    "title": "Flexible Data Distribution Policy Language and Gate- way Architecture",
+    "container-title": "2012 IEEE Latin America Conference on Cloud Computing and Communications (LATINCLOUD",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1–6",
+    "DOI": "10.1109/LatinCloud.2012.6508149."
+  },
+  {
+    "author": [
+      {
+        "family": "Brodie",
+        "given": "C."
+      },
+      {
+        "family": "Karat",
+        "given": "C.-M."
+      },
+      {
+        "family": "Karat",
+        "given": "J."
+      },
+      {
+        "family": "Feng",
+        "given": "J."
+      }
+    ],
+    "title": "Usable Security and Privacy: A Case Study of Developing Privacy Management Tools",
+    "container-title": "Proceedings of the 2005 Symposium on Usable Privacy and Security, ACM",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2005
+        ]
+      ]
+    },
+    "page": "35–43",
+    "DOI": "10.1145/1073001.1073005."
+  },
+  {
+    "title": "eXtensible Access Control Markup Language (XACML) Version 3.0",
+    "author": [
+      {
+        "family": "Standard",
+        "given": "O.A.S.I.S."
+      }
+    ],
+    "language": "it",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    }
+  },
+  {
+    "citation-number": "53",
+    "author": [
+      {
+        "family": "Brodie",
+        "given": "C.A."
+      },
+      {
+        "family": "Karat",
+        "given": "C.-M."
+      },
+      {
+        "family": "Karat",
+        "given": "J."
+      }
+    ],
+    "title": "An Empirical Study of Natural Language Parsing of Privacy Policy Rules Using the SPARCLE Policy Workbench",
+    "container-title": "Proceedings of the Second Symposium on Usable Privacy and Security, ACM",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "8 19",
+    "DOI": "10.1145/1143120.1143123."
+  },
+  {
+    "author": [
+      {
+        "family": "Karsai",
+        "given": "G."
+      },
+      {
+        "family": "Krahn",
+        "given": "H."
+      },
+      {
+        "family": "Pinkernell",
+        "given": "C."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      },
+      {
+        "family": "Schindler",
+        "given": "M."
+      },
+      {
+        "family": "Völkel",
+        "given": "S."
+      }
+    ],
+    "title": "Design Guidelines for Domain Specific Languages",
+    "container-title": "Proceedings of the 9th OOPSLA Workshop on Domain-Specific Modeling",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "7–13"
+  },
+  {
+    "author": [
+      {
+        "family": "Trabelsi",
+        "given": "S."
+      },
+      {
+        "family": "Sendor",
+        "given": "J."
+      },
+      {
+        "family": "Reinicke",
+        "given": "S."
+      }
+    ],
+    "title": "PPL: PrimeLife Privacy Policy Engine",
+    "container-title": "2011 IEEE International Symposium on Policies for Distributed Sys- tems and Networks (POLICY",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "184–185",
+    "DOI": "doi:10.1109/ POLICY.2011.24."
+  },
+  {
+    "citation-number": "56",
+    "author": [
+      {
+        "family": "Colombo",
+        "given": "P."
+      },
+      {
+        "family": "Ferrari",
+        "given": "E."
+      }
+    ],
+    "title": "Towards a Modeling and Analysis Framework for Privacy-Aware Systems",
+    "container-title": "2012 International Conference on Privacy, Security, Risk and Trust (PASSAT) and 2012 International Confernece on Social Computing (SocialCom",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "81 90",
+    "DOI": "10.1109/SocialCom-PASSAT.2012.12."
+  },
+  {
+    "author": [
+      {
+        "family": "Jutla",
+        "given": "D."
+      },
+      {
+        "family": "Bodorik",
+        "given": "P."
+      },
+      {
+        "family": "Ali",
+        "given": "S."
+      }
+    ],
+    "title": "Engineering Privacy for Big Data Apps with the Unified Modeling Language",
+    "container-title": "2013 IEEE International Congress on Big Data (BigData Congress",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "chapter",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "38–45",
+    "DOI": "doi:10.1109/ BigData.Congress.2013.15."
+  },
+  {
+    "author": [
+      {
+        "family": "Atkinson",
+        "given": "C."
+      },
+      {
+        "family": "Kuhne",
+        "given": "T."
+      }
+    ],
+    "title": "Model-Driven Development: A Metamodeling Foundation",
+    "volume": "20",
+    "type": "article-journal",
+    "container-title": "IEEE Software",
+    "issue": "5",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "36–41",
+    "DOI": "10.1109/MS.2003."
+  },
+  {
+    "author": [
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "title": "Agile modeling with the UML, in: Radical Innovations of Soft- ware and Systems Engineering in the Future",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "297–309",
+    "DOI": "10.1007/978-3-540-24626-8_21."
+  },
+  {
+    "author": [
+      {
+        "family": "Rumbaugh",
+        "given": "J."
+      },
+      {
+        "family": "Jacobson",
+        "given": "I."
+      },
+      {
+        "family": "Booch",
+        "given": "G."
+      }
+    ],
+    "title": "The Unified Modeling Language Reference Manual",
+    "publisher": "Addison-Wesley",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1999
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "title": "Agile Modellierung mit UML: Codegenerierung, Testfälle, Refactoring",
+    "edition": "2nd",
+    "publisher": "Springer",
+    "language": "no",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "DOI": "doi:10.1007/ 978-3-642-22430-0."
+  },
+  {
+    "author": [
+      {
+        "family": "Rumpe",
+        "given": "B."
+      }
+    ],
+    "title": "Modellierung mit UML",
+    "edition": "2nd",
+    "publisher": "Springer",
+    "language": "no",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "DOI": "10.1007/978-3-642-22413-3."
+  },
+  {
+    "author": [
+      {
+        "family": "Grönniger",
+        "given": "H."
+      },
+      {
+        "family": "Krahn",
+        "given": "H."
+      },
+      {
+        "family": "Rumpe",
+        "given": "B."
+      },
+      {
+        "family": "Schindler",
+        "given": "M."
+      },
+      {
+        "family": "Völkel",
+        "given": "S."
+      }
+    ],
+    "title": "MontiCore 1.0 -Ein Framework zur Erstellung und Verarbeitung domänenspezifischer Sprachen",
+    "genre": "Tech. Rep. 2006-04,",
+    "publisher": "Institute for Software Systems Engineering, Braunschweig University of Technology",
+    "language": "de",
+    "type": "report",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Eysholdt",
+        "given": "M."
+      },
+      {
+        "family": "Behrens",
+        "given": "H."
+      }
+    ],
+    "title": "Xtext: Implement Your Language Faster Than the Quick and Dirty Way",
+    "container-title": "Proceedings of the ACM International Conference Companion on Object Oriented Programming Systems Lan- guages and Applications Companion (OOPSLA), ACM",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "307–309",
+    "DOI": "10.1145/1869542.1869625."
+  },
+  {
+    "author": [
+      {
+        "family": "Schindler",
+        "given": "M."
+      }
+    ],
+    "title": "Eine Werkzeuginfrastruktur zur agilen Entwicklung mit der UML/P",
+    "genre": "Ph.D. thesis,",
+    "publisher": "RWTH Aachen University",
+    "language": "de",
+    "type": "thesis",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Deursen",
+        "given": "A.",
+        "particle": "van"
+      },
+      {
+        "family": "Klint",
+        "given": "P."
+      },
+      {
+        "family": "Visser",
+        "given": "J."
+      }
+    ],
+    "title": "Domain-specific Languages: An Annotated Bibliography",
+    "volume": "35",
+    "type": "article-journal",
+    "container-title": "ACM SIGPLAN Notices",
+    "issue": "6",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "26–36",
+    "DOI": "10.1145/352029.352035."
+  },
+  {
+    "author": [
+      {
+        "family": "Jensen",
+        "given": "J."
+      },
+      {
+        "family": "Jaatun",
+        "given": "M.G."
+      }
+    ],
+    "title": "Security in Model Driven Development: A Survey",
+    "container-title": "2011 Sixth International Conference on Availability, Reliability and Security (ARES",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "704–709",
+    "DOI": "10.1109/ARES.2011.110."
+  },
+  {
+    "author": [
+      {
+        "family": "Lodderstedt",
+        "given": "T."
+      },
+      {
+        "family": "Basin",
+        "given": "D."
+      },
+      {
+        "family": "Doser",
+        "given": "J."
+      }
+    ],
+    "title": "SecureUML: A UML-Based Modeling Language for Model-Driven Security, in: UML 2002 -The Unified Modeling Language",
+    "publisher": "Springer",
+    "language": "en",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "426–441",
+    "DOI": "10.1007/3-540-45800-X_33."
+  },
+  {
+    "author": [
+      {
+        "family": "Basin",
+        "given": "D."
+      },
+      {
+        "family": "Clavel",
+        "given": "M."
+      },
+      {
+        "family": "Egea",
+        "given": "M."
+      }
+    ],
+    "title": "A Decade of Model-Driven Security",
+    "container-title": "Proceedings of the 16th ACM Symposium on Access Control Models and Technologies (SACMAT), ACM",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1–10",
+    "DOI": "10.1145/1998441."
+  },
+  {
+    "author": [
+      {
+        "family": "Ma",
+        "given": "D."
+      },
+      {
+        "family": "Tsudik",
+        "given": "G."
+      }
+    ],
+    "title": "A New Approach to Secure Logging",
+    "volume": "5",
+    "type": "article-journal",
+    "container-title": "ACM Transactions on Storage",
+    "issue": "1",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1–2",
+    "DOI": "10.1145/1502777.1502779."
+  },
+  {
+    "author": [
+      {
+        "family": "project",
+        "given": "Freemarker"
+      },
+      {
+        "given": "Freemarker"
+      }
+    ],
+    "note": "URL",
+    "language": "es",
+    "type": null,
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "URL": "http://freemarker.org/"
+  },
+  {
+    "citation-number": "72",
+    "author": [
+      {
+        "family": "Dourish",
+        "given": "P."
+      },
+      {
+        "family": "Anderson",
+        "given": "K."
+      }
+    ],
+    "title": "Collective Information Practice: Emploring Privacy and Security as Social and Cultural Phenomena",
+    "volume": "21",
+    "type": "article-journal",
+    "container-title": "Human-Computer Interaction",
+    "issue": "3",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "319 342",
+    "DOI": "10.1207/s15327051hci2103_2."
+  },
+  {
+    "author": [
+      {
+        "family": "Nissenbaum",
+        "given": "H."
+      }
+    ],
+    "title": "A contextual approach to privacy online",
+    "volume": "140",
+    "type": "article-journal",
+    "container-title": "Daedalus",
+    "issue": "4",
+    "language": "fr",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "32–48"
+  },
+  {
+    "author": [
+      {
+        "family": "Marx",
+        "given": "G.T."
+      },
+      {
+        "family": "Muschert",
+        "given": "G.W."
+      }
+    ],
+    "title": "Personal Information, Borders, and the New Surveillance Studies",
+    "volume": "3",
+    "type": "article-journal",
+    "container-title": "Annual Review of Law and Social Science",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "375–395",
+    "DOI": "10.1146/annurev.lawsocsci.3.081806.112824."
+  },
+  {
+    "citation-number": "75",
+    "author": [
+      {
+        "family": "Henze",
+        "given": "M."
+      },
+      {
+        "family": "fengels",
+        "given": "M.Gro"
+      },
+      {
+        "family": "Koprowski",
+        "given": "M."
+      },
+      {
+        "family": "Wehrle",
+        "given": "K."
+      }
+    ],
+    "title": "Towards Data Handling Requirements-aware Cloud Computing",
+    "container-title": "2013 IEEE 5th International Conference on Cloud Computing Technology and Science (CloudCom",
+    "publisher": "IEEE",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "266 269",
+    "DOI": "10.1109/CloudCom.2013.145."
+  },
+  {
+    "author": [
+      {
+        "family": "Needham",
+        "given": "R.M."
+      }
+    ],
+    "title": "Denial of Service",
+    "container-title": "Proceedings of the 1st ACM Confer- ence on Computer and Communications Security (CCS",
+    "publisher": "ACM",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "151–153",
+    "DOI": "10.1145/168588.168607."
+  },
+  {
+    "author": [
+      {
+        "family": "Dean",
+        "given": "D."
+      },
+      {
+        "family": "Stubblefield",
+        "given": "A."
+      }
+    ],
+    "title": "Using Client Puzzles to Protect TLS",
+    "container-title": "Pro- ceedings of the 10th USENIX Security Symposium, USENIX",
+    "language": "en",
+    "type": "paper-conference",
+    "issued": {
+      "date-parts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "1–8"
+  },
+  {
+    "author": [
+      {
+        "family": "Mirkovic",
+        "given": "J."
+      },
+      {
+        "family": "Reiher",
+        "given": "P."
+      }
+    ],
+    "title": "A Taxonomy of DDoS Attack and DDoS Defense Mechanisms, SIGCOMM Comput",
+    "volume": "34",
+    "type": "article-journal",
+    "container-title": "Commun. Rev",
+    "issue": "2",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "39–53",
+    "DOI": "10.1145/997150.997156."
+  }
+]

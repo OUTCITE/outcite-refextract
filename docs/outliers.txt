@@ -1,0 +1,10 @@
+## Exparser's dataset
+Positive examples: reference strings from exparser gold standard dataset (num: 479)
+Negative examples: same reference string manually "broken" according to commonly observed extraction mistakes
+made by Exparser: extracting several reference lines as one; extracting a part of reference as a reference) (num: 391)
+
+
+## Grobid and Anystyle dataset
+in progress: sample 200 samples and annotate as a reference or not a reference (and describe the definition)
+
+(look at data/grobid_dataset/...)

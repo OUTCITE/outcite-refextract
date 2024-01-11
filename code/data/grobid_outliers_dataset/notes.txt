@@ -1,0 +1,31 @@
+Got references extracted by Grobid from randomly (manually) chosen documents
+
+Got reference from the "reference_original" field if it's present, otherwise from the "reference" field
+
+References with slight mistakes (e.g. few tokens are missing, an extra reference number are considered references)
+References in footnotes referring to other references are considered outliers here. Same for plain text from the paper,
+references broken in halves (e.g. authors and/or title is missing)
+
+# http://svko-outcite.gesis.intra:8000/SSOAR/50263.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/61033.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/56601.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/38715.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/69857.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/32013.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/46523.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/37036.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/10364.pdf
+# http://svko-outcite.gesis.intra:8000/SSOAR/27195.pdf
+
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=100&size=2
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=345&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=400&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=22&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=55&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=37&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=42&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=45&size=1
+https://demo-outcite.gesis.org/outcite_ssoar/_search?from=6&size=1 # only some of 443 references are looked into
+
+Num of references: 205
+Num of outliers (not references): 105

@@ -1,0 +1,150 @@
+[
+  {
+    "author": [
+      {
+        "family": "BOFF",
+        "given": "L."
+      }
+    ],
+    "title": "Saber cuidar",
+    "edition": "11 ed.Petrópolis",
+    "publisher": "Vozes",
+    "language": "es",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "GADOTTI",
+        "given": "M."
+      }
+    ],
+    "title": "Pedagogia da terra e educação sustentável",
+    "volume": "168",
+    "note": "Acessado em 01 mai. 2005.",
+    "type": "article-journal",
+    "container-title": "Disponível em",
+    "issue": "96.200.17/ar/libros/torres/gadotti",
+    "language": "pt",
+    "issued": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "–"
+  },
+  {
+    "author": [
+      {
+        "family": "GUTIÈRREZ",
+        "given": "F."
+      },
+      {
+        "family": "PRADO",
+        "given": "C."
+      }
+    ],
+    "title": "Ecopedagogia e cidadania planetária",
+    "translator": [
+      {
+        "family": "Valenzuela",
+        "given": "Sandra Trabuco"
+      }
+    ],
+    "publisher": "Cortez",
+    "language": "pt",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "publisher-place": "São Paulo"
+  },
+  {
+    "author": [
+      {
+        "family": "LATOUCHE",
+        "given": "S."
+      },
+      {
+        "family": "MAGALHÃES",
+        "given": "H.G.D."
+      }
+    ],
+    "title": "Les dangers du marché planétaire. Paris : Presses de Sciences Po,1998",
+    "publisher": "Vozes",
+    "language": "fr",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "publisher-place": "Petrópolis"
+  },
+  {
+    "author": [
+      {
+        "family": "MARCUSE",
+        "given": "H."
+      }
+    ],
+    "title": "Eros e a civilização",
+    "edition": "8a.",
+    "translator": [
+      {
+        "family": "Cabral",
+        "given": "Álvaro"
+      }
+    ],
+    "publisher": "Guanabara",
+    "language": "pt",
+    "type": "book",
+    "page": null,
+    "publisher-place": "Rio de Janeiro"
+  },
+  {
+    "author": [
+      {
+        "family": "SCHILLER",
+        "given": "F."
+      }
+    ],
+    "title": "A educação estética do homem",
+    "translator": [
+      {
+        "family": "Schwarz",
+        "given": "Roberto"
+      },
+      {
+        "family": "Suzuki",
+        "given": "Márcio"
+      }
+    ],
+    "publisher": "Iluminuras",
+    "language": "pt",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "publisher-place": "São Paulo"
+  }
+]

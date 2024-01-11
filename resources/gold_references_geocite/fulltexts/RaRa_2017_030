@@ -1,0 +1,1858 @@
+WISSENSCHAFTLICHER BEITRAG
+
+DOI 10.1007/s13147-016-0458-8
+Raumforsch Raumordn (2017) 75:93–107
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine
+geostatistische Analyse Wiener Forschungscluster
+
+Robert Musil1 · Jakob Eder1
+
+Eingegangen: 8. Oktober 2015 / Angenommen: 4. November 2016 / Online publiziert: 23. November 2016
+© Der/die Autor(en) 2016. Dieser Artikel ist eine Open-Access-Publikation.
+
+Zusammenfassung Urbanisierung und Wissensorientie-
+rung der Ökonomie sind miteinander verknüpft und so wer-
+den Metropolregionen heute in der Regel als Innovations-
+zentren betrachtet. Die Bedeutung des local buzz, also der
+spontane Austausch der Akteure, und das Vorhandensein
+von Erfahrungswissen (tacit knowledge), wurde durch neue-
+re Studien allerdings in Frage gestellt. Es scheint, als wäre
+die Einbindung in globale Wissensnetzwerke (global pipe-
+lines) von größerer Bedeutung. Auf Basis einer räumlich-
+statistischen Auswertung von 1.363 Forschungseinrichtun-
+gen wird die Ausprägung des Wiener Forschungssektors
+(differenziert nach fünf Bereichen) ermittelt, wobei ausge-
+prägte räumliche Konzentrationen festgestellt werden. Des
+Weiteren zeigen Experteninterviews, dass sich für Wien die
+Relevanz von lokalen und/oder internationalen Kooperatio-
+nen sowie die Gründe, die zu ,Wissensclustern‘ führen,
+nicht verallgemeinern lassen. Räumliche Nähe wird teils
+durch historische Standorte vorgegeben und hat eine un-
+terschiedliche Bedeutung für diverse Forschungssektoren.
+Räumliche Nähe ist folglich nicht als Widerspruch zur in
+der Buzz-pipeline-Debatte festgestellten Aufwertung der in-
+ternationalen Kooperationen zu sehen. Sie übernimmt einer-
+seits eine Kompensationsfunktion für Risiken, die durch in-
+ternationale Kooperation entstehen, andererseits ist sie für
+gewisse Forschungsbereiche unumgänglich. Daraus erge-
+ben sich folgende zwei Schlussfolgerungen: Die räumli-
+che Innovationsforschung sollte sektorspezifische Konzen-
+trationsmechanismen stärker berücksichtigen. Für die ur-
+
+� PD Dr. Robert Musil
+robert.musil@oeaw.ac.at
+
+1 Institut für Stadt- und Regionalforschung, Österreichische
+Akademie der Wissenschaften, Postgasse 7/4/2, 1010 Wien,
+Österreich
+
+bane Forschungspolitik zeigt sich die Notwendigkeit, die
+Standortanforderungen der jeweiligen Akteure stärker in ih-
+re Konzepte und Strategien einzubeziehen.
+
+Schlüsselwörter Urbane Ökonomie · Local buzz ·
+Internationale Wissensnetzwerke · Cluster · Wien
+
+Is there a Need for Proximity in the Urban
+Knowledge Economy? A Geostatistical Analysis of
+Research Cluster in Vienna
+
+Abstract Urbanization and the knowledge economy are
+two concepts which are interlinked and therefore agglom-
+erations are nowadays often considered as the centres of
+innovation. However, the importance of local buzz, in other
+words the spontaneous exchange of actors, and the exis-
+tence of a tacit knowledge, was questioned in more recent
+empirical studies. There are indications that the access to
+global pipelines might be more important. Based on the
+analysis of 1,363 research facilities in Vienna (using spa-
+tial-statistical methods), the spatial patterns of Vienna’s re-
+search sector (considering five sub-sectors) are determined
+and pronounced concentrations are found. In addition, ex-
+pert interviews show that the relevance of local and/or in-
+ternational cooperation as well as the reasons which lead to
+“knowledge clusters” cannot be generalized. Spatial prox-
+imity is sometimes caused by historical locations and has
+different meanings for different research sectors. Hence,
+spatial proximity should not necessarily be seen as con-
+tradictory to the increasing importance of global pipelines,
+which is observed in recent studies. On the one hand, spa-
+tial proximity reduces risks, which are side effects of in-
+ternational cooperation. On the other hand, it is actually
+inevitable in some research sectors. This leads to the fol-
+
+http://crossmark.crossref.org/dialog/?doi=10.1007/s13147-016-0458-8&domain=pdf
+
+
+94 R. Musil, J. Eder
+
+wicklungssektor mit großen Forschungseinrichtungen ge-
+prägt ist, andererseits hat der private Forschungs- und Ent-
+wicklungssektor in den vergangenen Jahren vor allem im
+Bereich der kleinen Unternehmen beziehungsweise Start-
+ups ein starkes Wachstum verzeichnet. Damit rückt erstens
+die (räumliche) Verzahnung von öffentlichen und privaten
+Institutionen und zweitens die Frage nach der Bedeutung
+räumlicher Nähe für kleine Forschungs- und Entwicklungs-
+einheiten in den Mittelpunkt.
+
+Am Forschungsstandort Wien werden 1.363 forschungs-
+orientierte Unternehmen und Institutionen auf der Basis der
+F&E-Erhebung der Statistik Austria und der Wirtschafts-
+agentur Wien hinsichtlich des Ausmaßes der räumlichen
+Konzentration, ihrer Veränderung sowie den Tendenzen zur
+Clusterung analysiert. Anhand dieser Grundlage werden
+mittels Experteninterviews die Bedeutung der räumlichen
+Nähe sowie das Verhältnis zu globalen Wissens- und Ko-
+operationsnetzwerken untersucht. In der empirischen Ana-
+lyse wird sowohl zwischen unterschiedlichen Forschungs-
+bereichen als auch nach öffentlichen und privaten Akteu-
+ren differenziert. Welche Rolle spielt räumliche Nähe für
+die Forschungsaktivität, welches Verhältnis lässt sich dabei
+zwischen dem öffentlichen und privaten Sektor feststellen?
+
+2 Forschungs- und Entwicklungsorientierung der
+urbanen Ökonomie – eine Frage der räumlichen
+Nähe?
+
+2.1 Stadt und Wissensorientierung
+
+Die Produktion, Verbreitung und Adaption von Wissen und
+Kreativität sind zentrale Kennzeichen der modernen Wis-
+sensökonomie, die in steigendem Maß den urbanen Zentren
+zugeordnet sind. Um die Städte in diesem Sinne als ,wis-
+sensbasierte Wachstumsmotoren‘ zu fördern, vollzog die
+europäische Stadtpolitik einen knowledge turn (van Winden
+2010: 101). Sei es die Förderung der „kreativen Klasse“ in
+den Städten, die Entwicklung von Clustern oder die Selbst-
+vermarktung als Wissensmetropole – Forschung und Ent-
+wicklung ist zu einem wichtigen Feld der aktuellen Kom-
+munalpolitik geworden. Auch wenn sich hier ein gewis-
+ser Zeitgeist widerspiegelt, die Verzahnung von Stadt und
+wissensorientierter Ökonomie lässt sich in der historischen
+Rückschau zeigen. Der Aufstieg und das Wachstum der
+europäischen Metropolen waren seit der späten Industriali-
+sierung (ab 1850, vgl. Hohenberg/Hollen-Lees 1985; Musil
+2011) untrennbar mit der zunehmenden Innovations- und
+Wissensorientierung der Industrieproduktion verknüpft: Es
+waren die Städte, die aufgrund ihrer Größe diesen Branchen
+die notwendige Spezialisierung und Diversität boten.
+
+Wie kann der Zusammenhang zwischen urbaner Ökono-
+mie und Wissensorientierung erklärt werden? In der Lite-
+
+lowing conclusions: First, the innovation research should 
+take sector specific tendencies for concentrations more into 
+account. Second, urban policy makers are advised to con-
+sider in detail the specific needs of the actors in question. 
+In doing so, it is more likely, that research and development 
+policies will succeed.
+
+Keywords Urban economy · Local buzz · Global 
+pipelines · Clusters · Vienna
+
+1 Einleitung
+
+Stadt und Wissensökonomie sind zwei eng verwobene Phä-
+nomene. Zahlreiche Theorien und Ansätze belegen das In-
+novationspotenzial der Metropolregionen und greifen dabei 
+auf vielfältige Argumente wie die soziale und ökonomische 
+Diversität (Jacobs 1969), die Standortpräferenzen der krea-
+tiven Klasse (Florida 2002), die hohe Dichte von lokalen 
+Wissensnetzwerken (Lüthi/Thierstein/Bentlage 2010) oder 
+die kreativen Milieus (Fromhold-Eisebith 1999) zurück. Die 
+Möglichkeit des persönlichen Austauschs spielt dabei eine 
+ganz besondere Rolle (Storper/Venables 2004), sowohl in 
+produktionsnahen Clustern (Porter 1990) als auch in in-
+ternational tätigen Dienstleistungsunternehmen, die sich in 
+den Global Cities konzentrieren (Sassen 1991). Das zugrun-
+deliegende Argument, dass eine hohe Dichte und Diversität 
+an Akteuren in einem eng begrenzten räumlichen Umfeld 
+eine wichtige Voraussetzung für die Innovationsfähigkeit 
+und Wissensproduktion darstellt, wurde allerdings von Au-
+toren mit unterschiedlichen Argumenten in Frage gestellt.
+
+Einerseits sind die Mechanismen unklar, wie die Wis-
+sensproduktion in lokalen Netzwerken erfolgt (Storper/
+Venables 2004). Damit verbunden ist die Frage, wie das 
+kodifizierte von nichtkodifiziertem Wissen abgegrenzt wer-
+den kann. Andererseits zeigen empirische Studien, dass 
+nicht nur in der akademischen Praxis, sondern auch in 
+der angewandten beziehungsweise unternehmerischen Wis-
+sensproduktion eher internationale Kooperationen als lokale 
+Wissensnetzwerke eine zentrale Erfolgsvoraussetzung dar-
+stellen (Koo 2005; Bathelt  2008; Huber 2012). Führt diese, 
+durch neue Kommunikationsmedien und virtuelle Formen 
+räumlicher Nähe beschleunigte Entwicklung dazu, dass der 
+Zusammenhang Stadt – Nähe/Dichte – Innovationsfähig-
+keit sukzessive erodiert und durch andere nichträumliche 
+Formen von Nähe (Boschma 2005) substituiert wird?
+
+Zu dieser Frage, zur Bedeutung räumlicher Nähe für 
+die Wissensproduktion in urbanen Ökonomien, soll hier 
+ein Beitrag geleistet werden. Dazu wird der Forschungs-
+und Entwicklungssektor Wiens mit räumlich-statistischen 
+sowie mit qualitativen Methoden analysiert. Wien ist in die-
+sem Kontext als Fallbeispiel insofern von Interesse, weil es 
+einerseits durch einen öffentlichen Forschungs- und Ent-
+
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 95
+
+ratur lassen sich dazu unterschiedliche Erklärungsstränge
+ausmachen (vgl. Kujath 2005). Erstens sind Städte durch
+eine ausgeprägte ökonomische und soziale Diversität ge-
+kennzeichnet, die als zentrale Voraussetzung für ihr krea-
+tives Potenzial angeführt wird (vgl. Jacobs 1969; Florida
+2002; als Übersicht vgl. Storper/Venables 2004). Die hohe
+Dichte von horizontal und vertikal angrenzenden Branchen
+erleichtert die Entstehung von lokalen Wissensnetzwerken
+(Lüthi/Thierstein/Bentlage 2010) sowie kreativen Milieus
+(Fromhold-Eisebith 1999). Für Unternehmen entstehen da-
+durch formelle wie informelle Kontaktnetzwerke, die weni-
+ger Faktenwissen, als vielmehr Erfahrungen oder Kontext-
+wissen verfügbar machen. Da dieses Wissen auf Face-to-
+face-Kontakten basiert und hochgradig distanzsensibel ist,
+bilden sich in den betreffenden Städten Standortvorteile für
+dort niedergelassene Unternehmen.
+
+Der zweite Erklärungsstrang greift weniger die Interak-
+tionen und Lernprozesse innerhalb des urbanen Kontextes
+auf, sondern die Potenziale und Ressourcen, die die Städ-
+te zu Knoten in globalen Wissensnetzwerken machen. Hier
+ist der Global-City-Ansatz hervorzuheben, wonach Metro-
+polen jene Orte sind, an denen das Wissen zum Manage-
+ment der Globalisierung geschaffen und bereitgestellt wird
+(Sassen 1991; Taylor 2004). Auch Simmie und Strambach
+(2006) heben im Kontext der urbanen Wissensproduktion
+hochgradig spezialisierte und räumlich konzentrierte Unter-
+nehmensdienstleister („knowledge intensive business ser-
+vices“, KIBS) hervor, die aufgrund des interaktiven Wis-
+senstransfers mit ihren Klienten (etwa multinationale Kon-
+zerne) und zwischen unterschiedlichen Branchen zu den
+zentralen ,Produzenten‘ des urbanen Innovationspotenzials
+zählen.
+
+Auch wenn die beiden Erklärungsstränge unterschiedli-
+che Aspekte hervorheben (Milieus/lokale Netzwerke ver-
+sus globale Wissensproduktion/Skaleneffekte), stellt der
+Aspekt der räumlichen Konzentration und damit der räum-
+lichen Nähe ein zentrales Argument für die Verbindung
+von städtischen Räumen und der Wissensproduktion dar.
+
+2.2 Industriedistrikte, kreative Milieus und
+Cluster – Konzepte zur Erklärung regionaler
+Wissensproduktion
+
+Die Schlüsselfrage für urbane Ökonomien ist, welche Be-
+deutung räumliche Nähe für wissensorientiertes, ökonomi-
+sches Handeln hat. Die Argumente zur Erklärung der räum-
+lichen Nähe sind nicht neu, sie gehen auf das Konzept
+der „Industriedistrikte“ von Alfred Marshall (1890) zurück.
+Hier sind die durch räumliche Nähe entstehenden Effizienz-
+und Kostenvorteile für die Industrieproduktion ausschlag-
+gebend, aber auch das Entstehen einer spezifischen, regio-
+nalen Unternehmenskultur (vgl. als Übersicht Palme/Musil
+2012). Darüber hinaus hat in den 1990er-Jahren die fran-
+
+zösische GREMI1-Forschergruppe den Ansatz des „kreati-
+ven Milieus“ entwickelt. Demnach ergibt sich das kreative
+und innovationsorientierte Potenzial aus der Konzentration
+unterschiedlicher sozialer Akteure: Unternehmen aus ver-
+schiedenen Branchen sowie Verwaltungs- und Bildungsein-
+richtungen. Diese bilden ein soziokulturelles Netzwerk in
+einem begrenzten lokalen Umfeld, in dem Lern- und In-
+novationsprozesse möglich sind (Fromhold-Eisebith 1999;
+Crevoisier 2001). Ein weiterer – und wohl auch der po-
+pulärste – Ansatz, der die Vorteile der räumlichen Nähe
+für ökonomisches Handeln erklärt, ist die Clustertheorie
+von Michael Porter (1990; 2000). Ausgehend von berühm-
+ten Beispielen wie dem „Dritten Italien“ oder dem Silicon
+Valley wird ein Cluster als ein Netzwerk aus Unterneh-
+men und öffentlichen sowie privaten Institutionen definiert,
+die durch arbeitsteilige und komplementäre Strukturen ver-
+flochten sind (vgl. als Übersicht Palme/Musil 2012; zur Kri-
+tik vgl. Martin/Sunley 2003; Kiese 2008).
+
+Die Bedeutung eines Clusters – oder allgemeiner der
+räumlichen Nähe horizontal oder vertikal verbundener Un-
+ternehmen – ergibt sich neben Agglomerations- und Effizi-
+enzvorteilen vor allem aus dem lokalen Wissensaustausch,
+der wiederum die Quelle von neuem Wissen und Innova-
+tionen darstellt (Feldman/Audretsch 1999). Dabei spielt das
+tacit knowledge eine zentrale Rolle: Dieses entsteht durch
+kontinuierlichen, persönlichen Austausch und ist distanz-
+sensibel, das heißt, die Qualität nimmt mit der Übertra-
+gungsdistanz ab. Daraus ergeben sich für Unternehmen Vor-
+teile (neben den klassischen Spill-over-Effekten), in einem
+Cluster angesiedelt zu sein, um am dort vorhandenen Wis-
+sen partizipieren zu können. Begriffe wie local buzz (Ba-
+thelt/Malmberg/Maskell 2004) oder noise (Grabher 2002)
+umschreiben die auf Marshall zurückgehende industrial at-
+mosphere, die räumliche Nähe, Face-to-face-Kontakte und
+das Vorhandensein eines tacit knowledge als zentralenWett-
+bewerbsvorteil begreift.
+
+Das Konzept der Cluster zielt auf die Verbesserung der
+Wettbewerbsfähigkeit insbesondere in der Sachgüterpro-
+duktion (Porter 2000: 27) ab, was auch erklärt, warum die
+Argumente (Effizienzvorteile, gemeinsamer Arbeitsmarkt,
+Spezialisierungseffekte) jenen des wesentlich älteren An-
+satzes der Industriedistrikte ähneln. Nicht zuletzt mit der
+zunehmenden Wissens- und Innovationsorientierung wurde
+auch zunehmend Kritik am Clusteransatz laut. Diese zielt
+einerseits auf die schwierige Abgrenzung und Erfassung
+von Clustern, andererseits auf die unklaren Mechanismen,
+die lokale Wissens- und Innovationsnetzwerke ausmachen
+(Storper/Venables 2004; Koo 2005; Huber 2012). Die
+zentrale Annahme der Bedeutung räumlicher Nähe für In-
+
+1 GREMI: Groupe de Recherche Européen sur les Milieux Innova-
+teurs.
+
+
+
+96 R. Musil, J. Eder
+
+novations- und Wissensproduktion wurde in der jüngeren
+Forschung auf unterschiedlichen Ebenen relativiert.
+
+2.3 Innovation ohne Nähe? Nationale und globale
+Wissensnetzwerke und die Substitution räumlicher
+Konzentration
+
+Empirische Befunde zeigen, dass für Unternehmen die Ein-
+bindung in internationale Wissensnetzwerke relevanter ist
+als lokale Kooperationen beziehungsweise der lokale Aus-
+tausch (local buzz) (Giuliani 2007; Bathelt 2008; Moodys-
+son 2008; Huber 2012). Aus diesem Grund wurde das Clus-
+terkonzept dahingehend erweitert, dass neben dem local
+buzz auch globale Informationsnetzwerke – global pipelines
+– ausschlaggebend sind (Bathelt 2008: 88). Deren Funktion
+ist es vor allem, die Offenheit gegenüber externem Wissen
+zu sichern. Ausschlaggebend für den Erfolg eines Clusters
+ist demnach das richtige oder auch ausgewogene Verhältnis
+von local buzz und global pipelines.
+
+Das Buzz-pipeline-Konzept ist nicht nur deshalb in die
+Kritik geraten, weil sich die empirischen Befunde des lo-
+cal buzz als dürftig herausgestellt haben, sondern auch,
+weil diese Dichotomie vereinfachend ist, da überregionale
+Wissensbeziehungen nicht ausreichend differenziert wor-
+den sind (vgl. Trippl/Tödtling/Lengauer 2009). Hier ist ins-
+besondere der nationale Kontext hervorzuheben, da sich
+in nationalen Innovationssystemen sehr spezifische Formen
+institutioneller oder kultureller Nähe etabliert haben. Es
+zeigt sich insbesondere für den Wissenschaftsbereich, dass
+räumliche Nähe auf unterschiedliche Weise kompensiert
+werden kann: beispielsweise durch einen temporären lo-
+cal buzz, einem „Cluster auf Zeit“ in Form von Tagungen,
+Kongressen oder Forschungsaufenthalten (Trippl/Tödtling
+2011). Ebenso führen neue Medien (wie etwa Facebook
+oder LinkedIn) dazu, dass soziale Kontakte und Vertrau-
+en auch ohne räumliche Nähe geschaffen werden, also zu
+einem buzz without being there (Gertler 2008) führen.
+
+Die Bedeutung räumlicher Nähe wird letztlich auch da-
+durch relativiert, dass unterschiedliche Formen von Nähe
+existieren (vgl. Boschma 2005; vgl. Tabelle 1), die fehlen-
+
+Tab. 1 Typologie der Formen von nichträumlicher Nähe
+
+Charakteristika Bezug zu räumlicher Nähe
+
+Kognitive Nähe erleichtert Kommunikations- und Lernprozesse, kann
+aber auch zu einem lock-in führen
+
+Erfolgreiche geographische Cluster zeigen ein ausge-
+wogenes Maß an kognitiver Nähe
+
+Organisatorische Nähe Unternehmenshierarchien oder Netzwerke, die den
+Informations- und Wissensaustausch erleichtern
+
+schafft Vertrauen über räumliche Distanz
+
+Soziale Nähe Soziale Einbettung von Akteuren erleichtert Wissens-
+austausch und Lernprozesse
+
+Soziale Nähe wird durch räumliche Nähe gefördert;
+Agglomerationsfaktoren ermöglichen das richtige
+Maß sozialer Nähe
+
+Institutionelle Nähe Formelle (Gesetze, Regeln) und informelle (Habi-
+tus, kulturelle Normen) Institutionen schaffen stabile
+Beziehungen, die den Wissensaustausch fördern
+
+erfolgt über größere räumliche Distanzen, national
+oder international
+
+Quelle: Eigene Darstellung, basiert auf Boschma (2005: 71)
+
+de räumliche Nähe kompensieren können. Dies gilt insbe-
+sondere für kognitive und organisatorische Nähe, die Wis-
+sensaustausch und Lernprozesse auch über größere räum-
+liche Distanzen ermöglichen beziehungsweise in Kombi-
+nation mit temporärer Nähe eine permanente Co-Lokation
+substituieren. Soziale Nähe drückt sich in Netzwerken aus,
+die per se a-räumlich sind. ,Vor Ort‘ zu sein bedeutet al-
+so nicht, Teil eines lokalen sozialen Netzwerkes zu sein.
+Umgekehrt erleichtert räumliche Nähe die Schaffung von
+sozialer Nähe. Räumliche Nähe scheint weniger direkt, als
+vielmehr indirekt auf andere Näheformen zu wirken: „geo-
+graphical openness may enhance interactive learning more
+indirectly, most likely by realizing some distance with re-
+spect to the other dimension, such as cognitive distance“
+(Boschma 2005: 71).
+
+2.4 Branchenspezifische Formen (räumlicher)
+Wissensproduktion
+
+Die Bedeutung räumlicher Nähe hängt auch von der Art des
+Wissens – implizit/kodifiziert oder explizit/nichtkodifiziert
+(tacit knowledge) – ab, das in verschiedenen Branchen sehr
+unterschiedliche Bedeutung hat. Diesem Umstand wurde
+in dem Konzept der Wissensbasen Rechnung getragen, das
+drei Formen unterscheidet (Asheim/Coenen 2005; Asheim/
+Coenen/Vang 2007):
+
+● Die analytische Wissensbasis bringt Innovation durch
+die Schaffung neuen Wissens hervor und ist durch eine
+ausgeprägte Kooperation zwischen Universitäten, For-
+schungseinrichtungen und Forschungs- und Entwick-
+lungsunternehmen gekennzeichnet. Ein local buzz für
+den Austausch des formalen Wissens spielt hier zwar
+eine relativ geringe Rolle, allerdings ist die Nähe zu Uni-
+versitäten umso wichtiger für Start-ups, für den Zugang
+zu Infrastrukturen und Forscherteams. Beispielhaft sind
+moderne, wissenschaftsorientierte Forschungsbereiche
+wie Life Sciences oder Informations- und Kommunikati-
+onstechnologien.
+
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 97
+
+● In der synthetischen Wissensbasis dominiert implizites
+Wissen, da Innovationen eher durch die Adaptierung
+und Kombination vorhandenen Wissens geschaffen wer-
+den. Es steht ein anwendungsorientiertes Know-how im
+Vordergrund, das durch den Austausch mit Zulieferern
+oder Kunden entwickelt wird. Demnach spielen in die-
+sen Branchen (etwa Anlagen- oder Maschinenbau) Face-
+to-face-Kontakte und räumliche Nähe der Akteure eine
+große Rolle.
+
+● Die symbolische Wissensbasis greift ebenfalls auf über-
+wiegend implizites Wissen zurück. Kreatives und per-
+sonenbezogenes Wissen wird in soziale Netzwerke und
+Projekte eingebracht und kombiniert. Die Auseinander-
+setzungmit spezifischenCommunities und (Jugend-)Kul-
+turen spielt hier eine zentrale Rolle für die Wissenspro-
+duktion, die aus diesem Grund auf ein spezifisches,
+räumlich begrenztes urbanes Milieu konzentriert ist.
+
+Die hier vorgestellten Typologien der Nähe sowie der
+unterschiedlichen Wissensbasen machen deutlich, dass die
+Branchen hinsichtlich der Bedeutung räumlicher Nähe für
+die Wissensproduktion sowie ihrer Standortanforderungen
+im Stadtraum beträchtlich variieren. Daraus ergeben sich
+für die urbane Ökonomie grundlegende Fragen: Ist für die
+Produktion von Wissen und Innovation räumliche Nähe
+überhaupt noch notwendig? Benötigen Akteure noch (zwin-
+gend) die Stadt mit ihren Diversitäts- und Spezialisierungs-
+vorteilen, um spezifisches Wissen zu produzieren, wenn
+diese ohnehin in global pipelines eingebunden sind? Dies
+soll in diesem Beitrag anhand des Forschungs- und Ent-
+wicklungssektors in Wien empirisch untersucht und in die-
+sem theoretischen Kontext diskutiert werden. Dazu lassen
+sich folgende Forschungsfragen formulieren:
+
+● Wie verteilen sich öffentliche und private Forschungs-
+und Entwicklungseinheiten, in welchem Ausmaß sind
+diese räumlich konzentriert?
+
+● Wie wird das Verhältnis zwischen räumlicher Nähe und
+der Tendenz zur Internationalisierung bewertet?
+
+● Lassen sich Unterschiede hinsichtlich der Bedeutung der
+räumlichen Nähe zwischen verschiedenen Forschungs-
+und Entwicklungssektoren feststellen?
+
+In dem empirischen Teil des Beitrages werden zuerst die
+Spezifika des Forschungsstandortes Wien herausgearbeitet,
+wobei das Verhältnis zwischen öffentlichen und privaten
+Akteuren im Vordergrund steht (Kapitel 3). Nach der Be-
+schreibung der Methodik und Datengrundlage (Kapitel 4)
+werden die quantitativ-statistischen Ergebnisse zur Vertei-
+lung und Konzentration der Forschungs- und Entwicklungs-
+akteure vorgestellt (Kapitel 5), anschließend die Experten-
+interviews zur Diskussion der Bedeutung räumlicher Nähe
+in der spezifischen Forschungspraxis (Kapitel 6). Der Bei-
+
+trag schließt mit einer Diskussion der Ergebnisse im Fazit
+(Kapitel 7).
+
+3 Struktur und Dynamik des Forschungs- und
+Entwicklungssektors in Wien
+
+Der Forschungssektor in Wien ist ganz deutlich von der Do-
+minanz der Bundeshauptstadt in der österreichischen Hoch-
+schullandschaft geprägt. So sind beispielsweise mehr als die
+Hälfte (53,9 %) aller Studierenden in Österreich an einer
+Wiener Universität inskribiert (Musil/Eder 2013: 23). Dies
+drückt sich auch in der F&E-Statistik aus: Im Vergleich zu
+den restlichen Bundesländern ist der Hochschulsektor wie
+auch der öffentliche Sektor in Wien deutlich überrepräsen-
+tiert. Der private Sektor macht in Wien 2011 gerade etwas
+mehr als die Hälfte der Wiener Vollzeitäquivalente (VZÄ)
+im Forschungs- und Entwicklungsbereich aus (51,7 %),
+in den restlichen Bundesländern beträgt dieser Anteilswert
+hingegen 78,6 %. 2011 wurden 34,7 % (2,8 Mrd. C) aller
+Forschungs- und Entwicklungsausgaben Österreichs in der
+Hauptstadt getätigt und gut ein Drittel aller F&E-Beschäf-
+tigten des Landes (33,9 %; 20.717 VZÄ) entfielen auf Wien
+(F&E-Erhebung 2011, Statistik Austria).
+
+In den vergangenen Jahren ist es zu einer beständigen
+Akzentuierung des Gegensatzes zwischen öffentlichen und
+privaten F&E-Einheiten in Wien gekommen. Dies zeigt sich
+besonders deutlich bei den Forschungsausgaben.2 Während
+in Wien seit 2002 die Ausgaben des Hochschulsektors am
+stärksten (+55 %) und jene des privaten Sektors (+27 %)
+an geringsten wuchsen, ist die Situation in den restlichen
+Bundesländern genau umgekehrt: Dort sind die privaten
+F&E-Ausgaben mit einer Zunahme um 111,4 % zwischen
+2002 und 2011 mit Abstand am stärksten gewachsen (vgl.
+Abbildung 1) (Musil/Eder 2015: 36 ff.). Die Forschungs-
+landschaft in Wien und dem restlichen Österreich scheint
+demnach in den vergangenen Jahren von unterschiedlichen
+Wachstumsmotoren geprägt worden zu sein.
+
+Die Entwicklung des Forschungs- und Entwicklungssek-
+tors in Wien zeigt bei genauerer Betrachtung interessan-
+te Details. Seit 2007 sind in Österreich aufgrund politi-
+scher Entscheidungen die Globalbudgets der Universitäten
+um rund 25 % erhöht worden, umgekehrt sind seit diesem
+Jahr die Ausgaben der privaten F&E-Einheiten rückläufig
+(vgl. Musil/Eder 2015: 36). Damit bestätigt sich die Ein-
+schätzung von empirischen Studien, die festgestellt haben,
+
+2 Als F&E-Einheiten werden private und öffentliche Unternehmen
+bezeichnet, die in der Forschung oder experimentellen Entwick-
+lung tätig sind und von der Statistik Austria im Rahmen der F&E-
+Erhebung erfasst worden sind; vgl. http://www.statistik.at/web_de/
+statistiken/energie_umwelt_innovation_mobilitaet/forschung_und_
+innovation/f_und_e_in_allen_volkswirtschaftlichen_sektoren/index.
+html (16.10.2016).
+
+http://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/forschung_und_innovation/f_und_e_in_allen_volkswirtschaftlichen_sektoren/index.html
+http://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/forschung_und_innovation/f_und_e_in_allen_volkswirtschaftlichen_sektoren/index.html
+http://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/forschung_und_innovation/f_und_e_in_allen_volkswirtschaftlichen_sektoren/index.html
+http://www.statistik.at/web_de/statistiken/energie_umwelt_innovation_mobilitaet/forschung_und_innovation/f_und_e_in_allen_volkswirtschaftlichen_sektoren/index.html
+
+
+98 R. Musil, J. Eder
+
+Abb. 1 Entwicklung der F&E-
+Ausgaben des öffentlichen und
+des privaten Sektors sowie des
+Hochschulsektors in Wien (In-
+dex 2002=100)
+
+75
+
+100
+
+125
+
+150
+
+175
+
+200
+
+225
+
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011
+
+F&
+E-
+
+)001
+=
+
+2002:xednI(nebagsuA
+
+Wien (Hochschulsektor)
+
+Restliches Österreich (Hochschulsektor)
+
+Wien (Sektor Staat)
+
+Restliches Österreich (Sektor Staat)
+
+Wien (Privater Sektor)
+
+Restliches Österreich (Privater Sektor)
+
+dass Unternehmen in Krisenperioden3 ihre Forschungs- und
+Entwicklungsausgaben reduzieren (Barlevy 2005; Cincera/
+Cozza/Tübke et al. 2010). So haben beispielsweise eini-
+ge große Pharmaunternehmen in den vergangenen Jahren
+ihre Forschungseinheiten in Wien aufgelassen oder redu-
+ziert, ebenso haben im Bereich der Informations- und Kom-
+munikationstechnologien multinationale Konzerne innova-
+tionsorientierte Unternehmensbereiche vom Standort Wien
+abgezogen.4 Auffällig ist, dass parallel zu dieser Entwick-
+lung (Rückgang der privaten F&E-Ausgaben) die Zahl der
+privaten F&E-Einheiten stark gestiegen ist: von 410 auf 791
+zwischen 2002 und 2011 (Musil/Eder 2015: 36). Hinter-
+grund ist ein Strukturwandel der privaten Forschungs- und
+Entwicklungslandschaft in Wien (vgl. Tabelle 2). Die Do-
+minanz weniger großer F&E-Einheiten ist zwar zu beiden
+Zeitpunkten enorm, allerdings hat die Gruppe der Großun-
+ternehmen (250 oder mehr Mitarbeiter) an Gewicht verlo-
+ren. Deren Anteil an den wachsenden F&E-Ausgaben redu-
+zierte sich von 80,5 auf 69,7 % – eine Folge des Rückzuges
+
+der Großunternehmen bei gleichzeitiger Zunahme kleiner
+und mittlerer Unternehmen (Musil/Eder 2015: 38). In Wien
+scheint sich ein Trend zur Dekonzentration des privaten
+Forschungssektors zu vollziehen.
+
+Die Einschätzung des Forschungsstandortes Wien fällt
+ambivalent aus: Aufgrund der starken Konzentration der
+Hochschullandschaft und der Erhöhung der Globalbudgets
+gewinnt die öffentlich finanzierte Forschung an Bedeutung.
+Eine Folge davon ist, dass Wien bei der experimentellen
+Forschung wie auch bei den Patentanmeldungen in Öster-
+reich – relativ gesehen – am hinteren Ende rangiert (Musil/
+Eder 2015). Der private F&E-Sektor ist hingegen von ei-
+nem Strukturwandel, weg von wenig großen, hin zu einer
+Vielzahl an kleinen F&E-Einheiten, geprägt. Dies ist ein
+Hinweis für die Belebung der innovationsorientierten Start-
+up-Szene in Wien. Damit geht auch die Frage einher, ob
+und wie diese beiden Dynamiken – ein großer, dominieren-
+der Hochschulsektor und eine lebendige Start-up-Szene –
+räumlich im Sinne eines local buzz zusammenhängen.
+
+4 Zur Methodik: Verteilung und Konzentration
+von Forschung und Entwicklung: Wie messen?
+
+Um die Forschungslandschaft in Wien hinsichtlich ihrer
+Verteilung und räumlichen Konzentration bewerten zu kön-
+nen, wurde ein Datensatz aufgebaut, der adressgenaue
+Informationen über 1.363 private und öffentliche For-
+schungseinrichtungen enthält. Aufgrund von Datenschutz-
+
+3 Hier handelte es sich um die durch die sogenannte Immobilienkrise 
+ausgelöste „Finanzkrise“.
+4 Schließung des Novartis-Forschungsbüros in Wien: http://diepresse. 
+com/home/wirtschaft/economist/349684/Wien_Novartis-schliesst-
+Forschungsburo (16.10.2016); Baxter bietet Mitarbeitern Wechsel 
+von Wien nach Boston an: http://wirtschaftsblatt.at/home/boerse/
+international/3878230/Baxter-bietet-Forschern-Jobwechsel-an_Boston-
+statt-Wien (16.10.2016); IBM verlagert Osteuropa-Zentrale von Wien 
+nach Prag und Dubai: http://derstandard.at/3364551/IBM-verlegt-
+Zentrale-fuer-Osteuropa-von-Wien-nach-Prag (16.10.2016).
+
+http://diepresse.com/home/wirtschaft/economist/349684/Wien_Novartis-schliesst-Forschungsburo
+http://diepresse.com/home/wirtschaft/economist/349684/Wien_Novartis-schliesst-Forschungsburo
+http://diepresse.com/home/wirtschaft/economist/349684/Wien_Novartis-schliesst-Forschungsburo
+http://wirtschaftsblatt.at/home/boerse/international/3878230/Baxter-bietet-Forschern-Jobwechsel-an_Boston-statt-Wien
+http://wirtschaftsblatt.at/home/boerse/international/3878230/Baxter-bietet-Forschern-Jobwechsel-an_Boston-statt-Wien
+http://wirtschaftsblatt.at/home/boerse/international/3878230/Baxter-bietet-Forschern-Jobwechsel-an_Boston-statt-Wien
+http://derstandard.at/3364551/IBM-verlegt-Zentrale-fuer-Osteuropa-von-Wien-nach-Prag
+http://derstandard.at/3364551/IBM-verlegt-Zentrale-fuer-Osteuropa-von-Wien-nach-Prag
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 99
+
+Tab. 2 Größenstruktur und Entwicklung des privaten Forschungssektors in Wien
+
+Unternehmensgröße
+(Beschäftigte)
+
+2002 2011
+F&E-Einheiten Ausgaben für F&E F&E-Einheiten Ausgaben für F&E
+
+in Mio. C in % in Mio. C in %
+
+1 bis 9 99 15,5 1,3 349 58,5 3,9
+
+10 bis 49 114 56,6 4,9 202 139,0 9,2
+
+50 bis 249 91 152,9 13,3 133 261,1 17,3
+
+250 bis 999 45 260,8 22,6 60 281,8 18,7
+
+1.000 und mehr 21 666,3 57,9 22 769,9 51,0
+
+Gesamt 370 1.152,3 100,0 766 1.510,2 100,0
+
+Quelle: F&E-Erhebungen 2002 und 2011, Statistik Austria
+
+auflagen waren für diese Einheiten nur die Zuordnung
+nach dem F&E-Sektor (öffentlich, privat), nach dem For-
+schungsbereich, Adressdaten sowie allgemeine Merkmale
+(Name, Kontakt usw.) verfügbar. Die Grundinformationen
+stammen im Wesentlichen von der Statistik Austria so-
+wie der Wirtschaftsagentur Wien und wurden durch eigene
+Recherchen ergänzt, insbesondere wurde die Größe der For-
+schungseinrichtungen geschätzt5 (vgl. Abbildung 2). Die
+Unterteilung in fünf Forschungsbereiche erfolgte auf der
+Basis der vorhandenen Daten mithilfe vorhandener Merk-
+male zur ÖNACE6-Zugehörigkeit für Unternehmen und der
+Arbeitsgebiete für öffentliche Forschungseinrichtungen7
+
+sowie einer individuellen Online-Recherche. Ausreichend
+große Sektoren werden eigens ausgewiesen (Life Sciences,
+Informations- und Kommunikationstechnologie, Sachgü-
+terproduktion), übrige Forschungseinrichtungen mussten
+zu den Human- beziehungsweise den Naturwissenschaften
+aggregiert werden, um die Mindestfallzahl für die weiteren
+Analysen nicht zu unterschreiten (vgl. Tabelle 3).
+
+Aufgrund der Datenrestriktionen sind die räumliche La-
+ge und die Sektorzugehörigkeit die wichtigsten Merkmale,
+die statistisch analysiert werden können. Damit wird das
+Methodenspektrum eingeschränkt und Verfahren der Input-
+Output-Analyse, wie sie etwa DeBresson und Hu (1999)
+oder Feser, Renski und Goldstein (2008) einsetzen, sind
+hier nicht anwendbar. Bergman und Feser (1999) schlagen
+zur Identifikation von Clustern neben Input-Output-Analy-
+sen zwei weitere Zugänge vor: einerseits statistische Ver-
+fahren, andererseits Experteninterviews, wobei letztere al-
+
+5 Die Größe der F&E-Einheiten wurde mittels Online-Recherche auf
+den Websites der Unternehmen ermittelt und in drei Größenklassen
+(1–9 Mitarbeiter, 10–49 Mitarbeiter, 50 Mitarbeiter und mehr) einge-
+teilt.
+6 Österreichische Version der Nomenclature statistique des activités
+économiques dans la Communauté européenne: http://www.statistik.
+at/web_de/klassifikationen/klassifikationsmitteilung/beschreibung/
+index.html (16.10.2016).
+7 Arbeitsgebiete im Sinne der Österreichischen Systematik der Wis-
+senschaftszweige: http://www.statistik.at/kdb/downloads/pdf/OEFOS_
+2012_Alphabetikum_A.pdf (16.10.2016).
+
+lerdings einer gewissen Subjektivität unterliegen und damit
+die Identifikation neuer Cluster erschweren können.
+
+Aus diesem Grund wird hier ein alternativer, mehrstu-
+figer Zugang zur Identifikation und Analyse der Cluster
+gewählt. In einem ersten Schritt erfolgt eine deskriptive
+Analyse für fünf F&E-Sektoren. Dazu werden Standard-
+abweichungsellipsen (Standard Deviational Ellipse, SDE)
+berechnet, die näherungsweise zwei Drittel (bei einer Stan-
+dardabweichung) der F&E-Einheiten umschließen. Je klei-
+ner die Fläche der Ellipse, umso größer ist das Ausmaß der
+räumlichen Konzentration. Des Weiteren dient eine Kern-
+dichteschätzung (Kernel Density Estimation, KDE) dazu,
+die räumliche Konzentration zu visualisieren (vgl. Abbil-
+dung 3). Hier wird als Grundlage der existierenden Punkt-
+verteilung eine Dichte geschätzt, die als kontinuierliche
+Oberfläche dargestellt wird. Diese Interpolation ist sinn-
+voll, da erstens nicht sämtliche F&E-Einheiten in der Da-
+tenbank enthalten sind (Unternehmen können sich dagegen
+entscheiden, im Katalog der Statistik Austria veröffentlicht
+zu werden) und zweitens am selben Standort liegende Ein-
+heiten stärker hervortreten.
+
+Im zweiten Schritt wird – zur eigentlichen Identifikation
+der Cluster – ein Ansatz von Levine (2013) angewendet, der
+ursprünglich aus der Kriminalitätsforschung stammt und
+bislang nicht in der räumlichen Innovationsforschung ein-
+gesetzt wurde. Der Vorteil dieses Nearest Neighbor Hier-
+archical Clustering (NNHC) liegt darin, dass signifikante
+Cluster ausschließlich auf der Basis der räumlichen Lage
+(ohneMerkmalsdaten) ermittelt werden können und so auch
+die Ergebnisse nicht von einer vorangegangenen Klassifi-
+kation (etwa durch Statistikbehörden) beeinflusst werden.
+Es handelt sich folglich um eine Alternative zur Analy-
+se von Input-Output- oder Informationsverflechtungen (vgl.
+Brandt/Hahn/Krätke et al. 2009), die angesichts der Daten-
+lage nicht möglich ist. Überdies steht die Frage nach der
+räumlichen Nähe und deren Relevanz für Forschungs- und
+Entwicklungsaktivität im Mittelpunkt dieses Beitrages. Das
+Nearest Neighbor Hierarchical Clustering ermöglicht einen
+explorativen Zugang, mit dem – unabhängig von der Exis-
+tenz offiziell eingerichteter und institutionell unterstützter
+
+http://www.statistik.at/web_de/klassifikationen/klassifikationsmitteilung/beschreibung/index.html
+http://www.statistik.at/web_de/klassifikationen/klassifikationsmitteilung/beschreibung/index.html
+http://www.statistik.at/web_de/klassifikationen/klassifikationsmitteilung/beschreibung/index.html
+http://www.statistik.at/kdb/downloads/pdf/OEFOS_2012_Alphabetikum_A.pdf
+http://www.statistik.at/kdb/downloads/pdf/OEFOS_2012_Alphabetikum_A.pdf
+
+
+100 R. Musil, J. Eder
+
+Abb. 2 Räumliches Muster der
+F&E-Einheiten in Wien
+
+Life Sciences
+
+50+ F&E-Mitarbeiter
+
+10 bis 49 F&E-Mitarbeiter
+
+1 bis 9 F&E-Mitarbeiter
+
+0 2,5 5 Kilometer
+
+Geometrie: Open Data Vienna
+
+5 Räumliche Konzentration in der Wiener
+Forschungslandschaft – empirische Ergebnisse
+
+5.1 Heterogene Konzentrationsmuster im Stadtraum
+
+Das Ausmaß der räumlichen Konzentration8 unterscheidet
+sich zwischen den fünf Sektoren beträchtlich, wobei die
+Bedeutung öffentlicher/akademischer Einrichtungen (ins-
+besondere Universitäten) hier einen maßgeblichen Einfluss
+hat. Dies zeigt sich besonders im Forschungsbereich der
+Humanwissenschaften, bei denen es sich überwiegend um
+Universitäts- und öffentliche Forschungsinstitute handelt.
+Die historisch vorgegebene Standortstruktur der Wiener
+Universitäten ist dabei ausschlaggebend; diese sind über-
+dies stark auf die Wiener Innenstadt konzentriert (vgl.
+Abbildung 3a). Nur die neue Wirtschaftsuniversität im 2.
+Bezirk und die Universität für Bodenkultur im 19. Bezirk
+reduzieren die überaus starke Konzentration auf das histo-
+rische Stadtzentrum von Wien. Deutlich schwächer ist die
+
+8 Parameter SDE: basiert auf Standardabweichung = 1 (schließt etwa
+68 % der Fälle ein); Parameter KDE: fixe Bandweite, Suchradius 750
+m, basiert auf Quartic Kernel Funktion (vgl. Silverman 1986).
+
+beziehungsweise ,institutionalisierter‘ Cluster – nach räum-
+lichen Konzentrationstendenzen gesucht wird.
+
+Im dritten Schritt werden die quantitativ identifizierten 
+Clusterungen mittels Experteninterviews weiter analysiert, 
+um die Gründe für Standortentscheidungen, die Bedeutung 
+von Milieus und die Relevanz lokaler funktionaler Verflech-
+tungen abschätzen zu können. Damit werden in diesem 
+Beitrag quantitative und qualitative Ansätze miteinander 
+verknüpft (Sui/DeLyser 2012). Der Vorteil dieses Zugan-
+ges liegt darin, dass die Frage nach der Lage und Existenz 
+von Clustern mittels räumlich-statistischer Verfahren in ei-
+nem Geographischen Informationssystem (GIS) beantwor-
+tet werden kann, die Gründe für eine etwaige Konzentration 
+(die quantitativ nur sehr schwer fassbar sind) mittels quali-
+tativer Interviews erhoben werden (Aitken/Kwan 2010).
+
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 101
+
+Tab. 3 Struktur der F&E-Datenbank
+
+F&E-Bereich Status Fälle
+
+Life Sciences Öffentlich 180
+
+Privat 152
+
+Gesamt 332
+
+Anteil öffentlich 54,2%
+Informations- und
+Kommunikationstechnologie
+
+Öffentlich 26
+
+Privat 154
+
+Gesamt 180
+
+Anteil öffentlich 14,4%
+
+Sachgüterproduktion Öffentlich 39
+
+Privat 106
+
+Gesamt 145
+
+Anteil öffentlich 26,9%
+
+Humanwissenschaften Öffentlich 346
+
+Privat 149
+
+Gesamt 495
+
+Anteil öffentlich 69,9%
+
+Naturwissenschaften Öffentlich 113
+
+Privat 98
+
+Gesamt 211
+
+Anteil öffentlich 53,6%
+
+Gesamt Öffentlich 704
+
+Privat 659
+
+Gesamt 1.363
+
+Anteil öffentlich 51,7%
+
+Quelle: Projektdatenbank/eigene Erhebung (basierend auf F&E-
+Erhebung 2011, Statistik Austria)
+
+Konzentration im Bereich der technischen Wissenschaften
+und der Naturwissenschaften: Dieser Forschungsbereich ist
+ebenfalls stark von akademischen F&E-Einheiten geprägt,
+allerdings fallen hier die peripheren Universitätsstandorte
+stärker ins Gewicht (vgl. Abbildung 3b).
+
+Die geringste räumliche Konzentration weist hingegen
+der Forschungsbereich Sachgüterproduktion auf (vgl. Ab-
+bildung 3c). Zwar gibt es auch hier wieder mit der Tech-
+nischen Universität (TU) Wien ein universitäres Zentrum,
+allerdings wird dieser Bereich von Produktionsunterneh-
+men dominiert, die dispers über den Stadtraum verteilt sind.
+Aus der Perspektive der Clustertheorie mag die de fac-
+to nicht existierende Tendenz zur räumlichen Clusterung
+im Bereich der innovationsorientierten Sachgüterprodukti-
+on überraschen, dies ist möglicherweise auf den geringen
+Spezialisierungsgrad der Wiener Industrie zurückzuführen
+(vgl. Mayerhofer 2013). Eine ähnlich schwach ausgepräg-
+te Konzentration findet sich im Life-Sciences-Bereich (vgl.
+SDE-Fläche, Abbildung 3d). Allerdings macht die kartogra-
+phische Visualisierung deutlich, dass es hier vier Schwer-
+punkte gibt, an denen universitäre oder öffentliche Institu-
+tionen Gravitationskerne bilden: die Veterinärmedizinische
+Universität, der Standort Muthgasse (Universität für Bo-
+
+denkultur), die Medizin-Universität (Allgemeines Kranken-
+haus) sowie das Vienna Biocenter in St. Marx (3. Bezirk).
+
+Am stärksten konzentriert ist der fünfte Forschungsbe-
+reich, der Sektor der Informations- und Kommunikations-
+technologie, wobei die Technische Universität Wien den
+zentralen Gravitationskern bildet (vgl. Abbildung 3e). In
+dessen Umfeld konzentrieren sich zahlreiche forschungs-
+orientierte Unternehmen der Informations- und Kommuni-
+kationstechnologie. Mit dem Informatik-Gebäude der Uni-
+versität Wien existiert noch ein zweiter wichtiger Standort
+in Wien, um den sich jedoch fast ausschließlich öffentliche
+(universitäre) Einrichtungen gruppieren. Bemerkenswert an
+der Verteilung des Informations- und Kommunikationstech-
+nologie-Sektors ist, dass trotz eines hohen Anteils (85,5 %)
+an privaten F&E-Einheiten die Universitätsstandorte (vor
+allem die TU Wien) die räumliche Verteilung maßgeblich
+bestimmen und somit eine ausgeprägte Zentrumsorientie-
+rung dieses Forschungssektors besteht. Periphere Standorte
+spielen, von wenigen Ausnahmen abgesehen (Donaucity,
+Wienerberg City), nur eine untergeordnete Rolle.
+
+In der Summe zeigen die fünf untersuchten Sektoren,
+dass die räumliche Konzentration, also die Nähe zu Ak-
+teuren im gleichen Forschungsbereich, sehr unterschied-
+lich ausgeprägt ist. Eine wichtige Rolle scheint dabei das
+Verhältnis zwischen öffentlichen und privaten F&E-Ein-
+heiten zu spielen: Insbesondere in den ,gemischten‘ For-
+schungsbereichen nehmen die Universitäten die Funktion
+von Gravitationskernen ein – besonders deutlich bei der
+Informations- und Kommunikationstechnologie, aber auch
+im Life-Sciences-Bereich. Damit stellt sich die Frage nach
+dem Ausmaß der Vernetzung von öffentlicher und priva-
+ter Forschung. Ein weiterer Unterschied zwischen den For-
+schungsbereichen ist die Lage im Stadtraum. Während öf-
+fentliche F&E-Einheiten in der Regel durch die Universi-
+tätsstandorte festgelegt sind, weisen die Unternehmen ein
+unterschiedliches Ausmaß an Zentrumsorientierung auf.
+
+5.2 Räumlich-statistische Identifikation von Clustern
+
+Um statistisch signifikante Cluster zu ermitteln, wurde eine
+Nearest Neighbor Hierarchical Clustering-Berechnung9
+
+durchgeführt (vgl. Kapitel 4). Levine (2013) merkt zwar
+an, dass die Methode ihre Schwächen hat, weil die Aus-
+wahl der Parameter einer gewissen Subjektivität unterliegt.
+Werden diese jedoch sorgfältig und im Hinblick auf die
+Fragestellung gewählt, sind die Ergebnisse valide.
+
+Um aus dem Sample von 1.363 F&E-Einheiten Ballun-
+gen zu identifizieren, wurden vier Kriterien formuliert, die
+auf jeden der fünf Forschungssektoren angewandt wurden.
+
+9 Parameter: Fläche Wiens 414,86 km²; Fixed Distance/festgelegte
+Distanz 500 m; Probability Value/Wahrscheinlichkeitswert 0,1; Mini-
+mum Points per Cluster: 10.
+
+
+
+102 R. Musil, J. Eder
+
+Abb. 3 Kerndichte und Stan-
+dardabweichungsellipse für
+diverse F&E-Bereiche in Wien
+
+Kernel Density (geschätzte F&E-Einheiten je km2)*
+
+≥ 1.0 to 2.2
+
+> 2.2 to 4.5
+
+> 4.5 to 7.9
+
+> 7.9 to 12.3
+
+> 12.3 to 16.8
+
+> 16.8 to 21.5
+
+> 21.5 to 26.5
+
+> 26.5 to 32.5
+
+> 32.5
+
+SDE-Fläche:
+43,5km2
+
+Kernel Density (geschätzte F&E-Einheitne je km2)*
+
+≥ 1.0 to 6.5
+
+> 6.5 to 14.3
+
+> 14.3 to 23.5
+
+> 23.5 to 33.2
+
+> 33.2 to 44.7
+
+> 44.7 to 59.9
+
+> 59.9 to 77.5
+
+> 77.5 to 96.8
+
+> 96.8
+
+SDE-Fläche:
+24,1km2
+
+Kernel Density (geschätzte F&E-Einheiten je km2)*
+
+≥ 1.0 to 1.7
+
+> 1.7 to 3.2
+
+> 3.2 to 5.7
+
+> 5.7 to 9.5
+
+> 9.5 to 13.6
+
+> 13.6 to 17.9
+
+> 17.9 to 22.8
+
+> 22.8 to 28.3
+
+> 28.3
+
+SDE-Fläche:
+64,0km2
+
+Kernel Density (geschätzte F&E-Einheiten je km2)*
+
+≥ 1.0 to 1.7
+
+> 1.7 to 3.2
+
+> 3.2 to 5.1
+
+> 5.1 to 7.7
+
+> 7.7 to 10.9
+
+> 10.9 to 14.4
+
+> 14.4 to 18,.1
+
+> 18.1 to 22.4
+
+> 22.4
+
+SDE-Fläche:
+35,5km2
+
+Kernel Density (geschätzte F&E-Einheiten je km2)*
+
+≥ 1.0 to 3.6
+
+> 3.6 to 9.0
+
+> 9.0 to 16.3
+
+> 16.3 to 23.6
+
+> 23.6 to 31.4
+
+> 31.4 to 40.7
+
+> 40.7to 50.5
+
+> 50.5 to 60.4
+
+> 60.3
+
+SDE-Fläche:
+61,7km2
+
+a b
+
+c d
+
+e
+
+0 5 10 Kilometer
+
+Geometrie: Open Data Vienna
+
+*Werte unter 1.0 wurden von der
+Darstellung ausgeschlossen
+
+Standard Devia�onal Ellipse
+(umfasst näherungsweise
+68 % aller F&E-Einheiten)
+
+Durchschni�liche SDE-Fläche:
+44,1km2
+
+Donau
+
+Wiener Gemeindebezirke
+
+35 ff.; Egartner/Fischer/Maißer et al. 2008: 32 f.; Stiewe/
+Mühlhans/Bohnet et al. 2012: 609). Zweites Kriterium ist
+eine kritische Größe der Cluster (mindestens 10 F&E-Ein-
+heiten, basierend auf einer Empfehlung in Levine (2013:
+7.23)). Drittes Kriterium ist die Existenz von öffentlichen
+
+Erstes Kriterium ist die räumliche Nähe zu anderen F&E-
+Einheiten, die mit einem Maximum von 500 m festgelegt 
+wurde. Dies entspricht einer Gehzeit von etwa 10 Minuten 
+und stellt die Obergrenze dar, die Personen bereit sind, in ei-
+nem städtischen Umfeld zu Fuß zu gehen (Weidmann 1992:
+
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 103
+
+und privaten Einheiten (um reine Universitätsstandorte aus-
+zuschließen) und das vierte eine eindeutige fachliche Aus-
+richtung. Das heißt, der Cluster muss innerhalb eines der
+fünf Forschungsbereiche auftreten und nicht in der gesam-
+ten Stichprobe.
+
+Folglich konnten fünf Clusterstandorte in Wien identi-
+fiziert werden, drei im Life-Sciences-Bereich (Allgemeines
+Krankenhaus, Muthgasse, Vienna Biocenter) sowie zwei im
+Bereich der Informations- und Kommunikationstechnolo-
+gie (beide im Umfeld der TU Wien). In den anderen For-
+schungssektoren wurden durch Nearest Neighbor Hierar-
+chical Clustering keine Konzentrationen ermittelt, die allen
+vier Kriterien entsprechen. Dieses Ergebnis deckt sich mit
+den oben beschriebenen Verteilungsmustern und zeigt, dass
+es gerade in den Forschungsbereichen Life Sciences und
+Informations- und Kommunikationstechnologie eine enge
+räumliche Verzahnung von öffentlichen und privaten F&E-
+Einheiten gibt.
+
+Bemerkenswert ist allerdings der unterschiedliche Ein-
+fluss der kommunalen Forschungs- und Entwicklungspoli-
+tik auf diese beiden Standortmuster. Zwar sind beide Be-
+reiche Schwerpunkte in der Forschungsförderung der Stadt
+Wien, jedoch mit einem entscheidenden Unterschied: Im
+Life-Sciences-Bereich wurde von der Stadt Wien über lange
+Jahre nicht nur Clusterpolitik, sondern in Abstimmung mit
+Universitäten, der Österreichischen Akademie der Wissen-
+schaften sowie Unternehmen auch eine gezielte Standortpo-
+litik betrieben (Tödtling/Trippl 2007; Trippl/Tödtling 2007;
+für das Vienna Biocenter im Stadtteil St. Marx vgl. Wirth
+2013). Für den Bereich der Informations- und Kommunika-
+tionstechnologie existierten (bis 2014) ebenfalls ein Clus-
+termanagement sowie unterschiedliche Förderschienen und
+-initiativen, allerdings gab es keine gezielte Standortpoli-
+tik. Die starke räumliche Konzentration der F&E-Einheiten
+im Bereich der Informations- und Kommunikationstechno-
+logie im Umfeld der TU Wien beziehungsweise die zwei
+dort identifizierten Cluster lassen vielmehr darauf schlie-
+ßen, dass hier ein ,spontaner‘ Cluster entstanden ist, der
+von der (Förder-)Politik bislang nicht wahrgenommen wor-
+den ist.
+
+Welche Rolle spielt also die räumliche Nähe sowie die
+Lage im Stadtraum für die unterschiedlichen Forschungs-
+bereiche? Diese Frage soll in der Folge anhand von 14
+leitfadengestützten Experteninterviews, die mit Vertretern
+aus dem Life-Science-Bereich (LS) sowie aus der Informa-
+tions- und Kommunikationstechnologie (IKT) geführt wor-
+den sind, diskutiert werden. Dabei stammen sieben Inter-
+viewpartner aus öffentlichen und sieben aus privaten For-
+schungseinrichtungen. Mithilfe eines thematischen Rasters
+wurde anschließend analysiert, ob und welche Aussagen zu
+bestimmten Themenbereichen getätigt wurden und wie oft
+bestimmte Punkte zur Sprache kamen.
+
+6 Wozu räumliche Nähe? Erklärung und
+Bewertung der räumlichen Verteilungsmuster in
+den Bereichen Life Sciences und Informations-
+und Kommunikationstechnologie
+
+Ausgehend von der These einer zunehmenden Bedeutung
+der global pipelines für Forschungs- und Entwicklungsak-
+tivitäten sowie den oben beschriebenen Konzentrationsten-
+denzen in den untersuchten Forschungsbereichen, geht die-
+ses Kapitel der Frage der Bedeutung räumlicher Nähe und
+lokaler Kooperationen für die Forschungspraxis nach. Diese
+Fragestellung ist für die beiden Branchen auch insofern in-
+teressant, als sie der analytischen Wissensbasis zugerechnet
+werden, für deren Wissensproduktion tendenziell überre-
+gionale Netzwerke und Kooperationen relevant sind. Dazu
+werden in der Folge die Ergebnisse von Experteninterviews
+diskutiert, die zwischen Oktober 2014 und Januar 2015 mit
+Forschungsleitern aus den Bereichen Life Sciences und In-
+formations- und Kommunikationstechnologie durchgeführt
+wurden.
+
+6.1 Ambivalenz der global pipelines
+
+Die in der Literatur festgestellte Bedeutungszunahme glo-
+baler Kooperations- und Informationsnetzwerke (Bathelt
+2008; Huber 2012) wurde in den Expertengesprächen
+überwiegend bestätigt, drei Argumente sind dafür aus-
+schlaggebend. Erstens schränkt die zunehmende fachliche
+Spezialisierung im Wissenschaftsbetrieb die potenziellen
+Kooperationspartner stark ein und sie sind häufig weltweit
+nur an wenigen Standorten zu finden. Dies erschwert um-
+gekehrt die Kooperationsmöglichkeit vor Ort, auch wenn
+ein gemeinsames lokales Milieu existiert. Andererseits gibt
+es dadurch keine lokale Konkurrenzsituation. Zweitens
+zwingt der kleine österreichische Binnenmarkt speziali-
+sierte Nischenunternehmen zur Expansion, ebenso ist der
+Inlandsmarkt für klinische Studien zu klein und macht
+internationale Kooperationen notwendig. Drittens hat die
+Förderlandschaft einen wichtigen Einfluss auf das Ko-
+operationsverhalten, da insbesondere bei EU-Programmen
+internationale Kooperationen vorausgesetzt werden.
+
+„Wir haben einen sehr speziellen Biomarker entwi-
+ckelt und da gibt es auf der Welt ungefähr [...] 500
+Leute, die intensiv daran forschen.... Und deswegen
+sind wir natürlich auch global aktiv, dass wir unse-
+re Umsätze steigern können“ (LS-1). „Das ist ganz
+einfach. Bei EU-Projekten kooperieren wir internatio-
+nal, da muss man einen internationalen Partner haben“
+(IKT-1). „Wir schauen in welchem Land gibt es ho-
+he Förderquoten. [...] Das heißt, das Förderinstrument
+dirigiert uns zu den verschiedenen Ländern“ (IKT-2).
+
+
+
+104 R. Musil, J. Eder
+
+Den genannten Argumenten, die eine Internationalisierung
+der Kooperationen und des Wissensaustauschs unabding-
+bar machen, stehen jedoch auch einschränkende Faktoren
+entgegen. Hier ist vor allem die zentrale Bedeutung des Ver-
+trauens zu nennen, insbesondere im Bereich Life Sciences
+(vgl. auch Moodysson 2008; Aalbers 2010). Da der Erfolg
+von Kooperationen von der Zusammenarbeit mit den ,rich-
+tigen Personen‘ abhängt, ist diese immer personal driven
+und wird über lange Jahre, etwa durch Forschungsaufent-
+halte oder „temporäre Cluster“ (Maskell/Bathelt/Malmberg
+2006; Trippl/Tödtling 2011) entwickelt. Des Weiteren wur-
+den von den Interviewpartnern die hohen Kosten, sprachli-
+che und kulturelle Barrieren als limitierende Faktoren der –
+in Summe notwendigen – Internationalisierung angeführt.
+Die Aussagen bestätigen damit auch ältere Studien, die die
+Bedeutung der räumlichen Nähe für die Forschungspraxis
+im Life-Sciences-Sektor betonen (Tödtling/Trippl 2007).
+
+„Keine Institutionen.[...] Also ich habe Kollegen [...],
+das sind Leute, das sind Fixpunkte in meinem stella-
+ren System.[...] Personal driven, alles personal driven“
+(LS-2). „Es funktioniert mit moderner Kommunikati-
+on, also mit Skype und Co [...], dann, wenn die Leute
+einander gut kennen. Aber zuerst muss ich sie auf
+einen Ort bringen, dann Feste feiern – da lernen sie
+einander gut kennen, dann hat man die soziale Ver-
+bindung“ (IKT-2). „Da hilft die räumliche Nähe auch
+bei Kollaborationen oder generell bei Interaktionen,
+weil man halt einfach die Barriere nicht hat. Wenn
+ich jetzt einen Kunden in Japan habe oder einen Part-
+ner in Japan, dann schaut das ein bisschen anders aus,
+oder Australien“ (LS-1).
+
+6.2 Vorteile der räumlichen Nähe
+
+In beiden Forschungsfeldern wurde von den Interviewpart-
+nern räumliche Nähe als Vorteil für die Forschungspraxis
+genannt, jedoch teilweise mit unterschiedlichen Argumen-
+ten. So hoben Vertreter aus dem Bereich Informations- und
+Kommunikationstechnologie die Möglichkeit direkter so-
+zialer Kontakte hervor, im formellen (Vorträge, Netzwerk-
+treffen) wie auch im informellen (Mittagessen, Kaffeehaus-
+besuch) Rahmen. Räumliche Nähe wird hier als fußläufige
+Distanz, etwa zu Restaurants oder der TU Wien, definiert.
+So werden im Bereich Informations- und Kommunikati-
+onstechnologie Kooperationspartner in unmittelbarer Geh-
+distanz bevorzugt. Mit räumlicher Nähe wird hier explizit
+auch ein beträchtliches Maß an Bequemlichkeit verbunden.
+
+„Was wir schon gemacht haben mit dem Unterneh-
+men hier, dass wir neben die TU gezogen sind. Es
+war für uns ganz klar, dass wir hier sein wollen und es
+gibt einen ganz engen Kontakt“ (IKT-2). „Wir fahren
+
+zum Beispiel sehr ungern, wir haben tatsächlich ein,
+zwei Firmenpartner, die so im 18. und 19. Bezirk sind,
+die öffentlich schlecht erreichbar sind. Das ist schon
+mühsam“ (IKT-3).
+
+Die räumliche Nähe von Akteuren im Bereich Informati-
+ons- und Kommunikationstechnologie im Umfeld der TU
+Wien hat auch zu einer Clusteridentität geführt, die den ko-
+operativen Aspekt in den Vordergrund stellt. Dass dieser mit
+der Distanz abnimmt, hängt auch damit zusammen, dass es
+durch das gemeinsame Studium an dieser Universität eine
+zusätzliche Verbundenheit gibt, die durch diverse Aktivitä-
+ten der Informatikfakultät gezielt gefördert wird. Die Unter-
+nehmen suchen daher die Nähe zur TU Wien, waren in den
+Interviews zugleich über die beträchtliche räumliche Kon-
+zentration überrascht. Der Cluster existiert also, wird aber in
+seiner räumlichen Ausprägung nicht wahrgenommen. Die
+TU Wien ist ein wichtiger Angelpunkt des IKT-Clusters,
+sowohl auf der räumlich-materiellen wie auch auf der kul-
+turell-milieuspezifischen Ebene.
+
+„Nein, gar nicht, das ist eben interessant, weil ich
+das [Konkurrenz] viel mehr habe mit den Kollegen
+aus den Bundesländern, dort hat man aus irgendei-
+nem Grund ein Konkurrenzdenken.[...] Vielleicht über
+die TU. Also es sind viele Absolventen, das sind
+schon wir, auch viele Gründungen sind von der TU,
+vielleicht hat man sich schon einmal wo gesehen“
+(IKT-2). „Nein, also ich bin überrascht. Das ist total
+interessant, weil es sich doch voll auf die TU Wien
+konzentriert“ (IKT-4).
+
+Im Bereich Life Sciences wird räumliche Nähe vor allem
+unter dem Effizienzaspekt gesehen, etwa um durchzufüh-
+rende Messungen persönlich zu besprechen und direkt kon-
+trollieren zu können. Inhaltliche Probleme und konkrete
+Fragen können leichter diskutiert und geklärt werden, wenn
+man über die Arbeitsgebiete der relevanten Personen Be-
+scheid weiß und diese informell und kurzfristig persönlich
+treffen kann.
+
+„Es ist immer am besten von Kollege zu Kollege, weil
+der weiß wirklich, was ich machen will und wirklich
+das, was ich mache oder gemacht habe und bereit-
+stellen kann als Material“ (LS-3). „Also zum Bei-
+spiel habe ich ein Problem, dann kann ich wo anrufen
+und wir treffen uns vielleicht spontan in 20 Minuten,
+falls es geht. Das macht man und die physische Nähe
+hilft dann wirklich.[...] Man fährt nicht fünf Kilome-
+ter, um eine Messung zu machen, das geht einfach
+nicht“ (LS-4).
+
+Räumliche Nähe wird in diesem Kontext innerhalb des-
+selben Gebäudes definiert. Zentrales Argument im Bereich
+Life Sciences stellt aus Kosten- und Effizienzgründen die
+
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 105
+
+Tab. 4 Internationalisierung und lokale Kooperationen: Argumente und Strategien der Risikominimierung in den Bereichen Life Sciences und
+Informations- und Kommunikationstechnik
+
+Life Sciences Informations- und Kommuni-
+kationstechnik
+
+Beide
+
+Argumente
+für lokale Ko-
+operation und
+räumliche Nähe
+
+– Die gemeinsame Nutzung von Infra-
+struktur ist zentral.
+
+– Die Vorteile der räumlichen Nähe grei-
+fen nur, wenn alle relevanten Akteure
+und Instrumente/Einrichtungen so nah
+wie möglich sind, am besten im selben
+Gebäude.
+
+– Die räumliche Nähe zur TU
+Wien schafft eine gewisse
+Clusteridentität.
+
+– Die Vorteile der räumlichen
+Nähe greifen, wenn alle
+Akteure fußläufig erreich-
+bar sind.
+
+– Räumliche Nähe und Kooperation sind
+vor allem in der Anfangsphase eines
+Unternehmens bedeutend.
+
+– Spontaner Austausch
+– Bequemlichkeit
+– Keine Konkurrenz aufgrund der hohen
+Spezialisierung und der Nischenstrate-
+gien.
+
+Argumente für
+internationale
+Kooperation
+
+– Notwendig aufgrund (1) der hohen
+Spezialisierung, (2) der globalen Ver-
+marktung der Produkte und (3) interna-
+tionaler Fördermittel (z. B. EU).
+
+Strategien zur
+Risikominimie-
+rung
+
+– Nur persönliche Netzwerke werden für
+Kooperationen genutzt, keine institutio-
+nellen.
+
+– Vertrauensbasis, persönliche Kontakte.
+
+– Temporäre Nähe auf Konferenzen oder
+durch Forschungsaufenthalte ist funda-
+mental für Kooperationen.
+
+Quelle: Experteninterviews/eigene Erhebung
+
+gemeinsame Infrastruktur dar. Dies betrifft betriebswirt-
+schaftliche Dienstleistungen (Buchhaltung, gemeinsames
+Bestellwesen) sowie auch die eigentliche Forschungs-
+tätigkeit, wie etwa die Verfügbarkeit von hochwertigen
+Mikroskopen, S3-Laboren oder Mouse-Facilities.10
+
+„Wir haben diese Campus-Support-Facilities, wo Ge-
+räte angeschafft worden sind, die keine Institution al-
+leine anschaffen hätte können. Das gibt uns natür-
+lich wahnsinnig viel Aufwind und neue technische
+Möglichkeiten, die Etablierung neuer Technologien“
+(LS-3).
+
+Schließlich wurde in beiden Forschungsbereichen die Be-
+deutung von räumlicher Nähe für Start-ups sowie für Nach-
+wuchsforscher hervorgehoben. Dies betrifft die Zugänglich-
+keit zu teuren Infrastrukturen (siehe oben), den spontanen
+Erfahrungsaustausch sowie praktische Gründe. Dabei gilt
+jedoch: Je etablierter, größer und somit eigenständiger ein
+Unternehmen ist, desto weniger ist es auf die räumliche
+Nähe angewiesen.
+
+„Es hat sicher einen Vorteil, gerade in der Anfangs-
+phase eines Unternehmens. Je größer das Unterneh-
+men ist, desto unabhängiger ist es“ (LS-5). „Also wir
+haben sehr viele Projekte gehabt, gerade am Beginn,
+wo diese Nähe ausgenutzt worden ist, wo man gesagt
+hat: Wen kennt man in Wien?“ (IKT-2). „Auch da-
+durch, dass am Anfang vor allem Studenten an Bord
+waren, als Mitarbeiter oder als Freelancer, die konnten
+
+10 S3-Labore: Labore mit höchster Sicherheitsstufe, ausgestattet mit
+biologischer Sicherheitsschleuse für gentechnische Forschung;Mouse-
+Facilities: Infrastrukturen für Mausmodellforschung, die von Universi-
+täten häufig als Dienstleistungen für Tierversuche angeboten werden.
+
+dann zwischen ihren Vorlesungen ins Büro kommen,
+um Dinge abzuarbeiten, die in ihrem Kopf da entstan-
+den sind“ (IKT-5).
+
+In beiden Forschungssektoren zeigt sich eine ambivalen-
+te Haltung zur Internationalisierung der Forschungsaktivi-
+täten, wenngleich diese als unumgänglich betrachtet wird
+(vgl. Tabelle 4). Räumliche Nähe und lokale Kooperationen
+werden in beiden Bereichen als positiv bewertet, die Argu-
+mente unterscheiden sich aufgrund der jeweiligen Routinen
+und Prozesse im Forschungsalltag. Das gegenseitige Ver-
+trauen ist für das Funktionieren von Forschungsprozessen
+essenziell, wobei im Bereich Life Sciences aufgrund der
+hohen Forschungskosten dieses noch höher einzuschätzen
+ist. Hier werden auch explizit Strategien zur Risikomini-
+mierung genannt, während im Bereich Informations- und
+Kommunikationsstrategie die räumliche Konzentration der
+Akteure im Umfeld der TU Wien als räumliche Strategie
+zur Risikominimierung verstanden werden kann.
+
+7 Fazit
+
+In dem Beitrag wurden quantitative und qualitative Verfah-
+ren angewandt, um die räumlichen Muster und Clusterbil-
+dungen des F&E-Sektors in Wien zu analysieren. Die Er-
+gebnisse zeigen, dass sich auch bei dieser eingeschränkten
+Datenlage mit Verfahren der räumlichen Statistik Clusterun-
+gen ermitteln lassen. Die Parametereinstellungen (fixed di-
+stance, points per cluster) des Nearest Neighbor Hierarchi-
+cal Clustering basieren auf Empfehlungen in der Literatur,
+die natürlich einer gewissen Subjektivität unterliegen. Bis-
+lang existieren kaum Erfahrungen in der Anwendung dieser
+
+
+
+106 R. Musil, J. Eder
+
+tischen – Wissensbasis sind (Asheim/Coenen/Vang 2007).
+Für das Ausmaß der räumlichen Konzentration scheint we-
+niger die Wissensbasis, als vielmehr branchenspezifische
+oder strukturelle Anforderungen ausschlaggebend zu sein.
+Daraus ergibt sich, dass in der räumlichen Innovationsfor-
+schung sektorspezifische Konzentrationsmechanismen stär-
+ker in den Vordergrund zu rücken sind. Dies unterstreicht
+des Weiteren die Notwendigkeit einer standortsensitiven
+Forschungs- und Entwicklungspolitik. In Abhängigkeit von
+den sektorspezifischen Anforderungen sind der Bedarf an
+räumlicher Nähe sowie die Frage, wo im Stadtraum For-
+schung und Entwicklung stattfinden soll, ein wichtiger Er-
+folgsfaktor.
+
+8 Datenquellen
+
+F&E-Erhebungen, Statistik Austria 2002 bis 2011. Diverse
+Sonderauswertungen (01.08.2014).
+Unternehmensdatenbank, LISA-Vienna, 2013
+Unternehmensdatenbank, Wirtschaftsagentur Wien, 2013
+
+Open access funding provided by University of Vienna.
+
+Open Access Dieser Artikel wird unter der Creative Commons Na-
+mensnennung 4.0 International Lizenz (http://creativecommons.org/
+licenses/by/4.0/deed.de) veröffentlicht, welche die Nutzung, Verviel-
+fältigung, Bearbeitung, Verbreitung und Wiedergabe in jeglichem Me-
+dium und Format erlaubt, sofern Sie den/die ursprünglichen Autor(en)
+und die Quelle ordnungsgemäß nennen, einen Link zur Creative Com-
+mons Lizenz beifügen und angeben, ob Änderungen vorgenommen
+wurden.
+
+Literatur
+
+Aalbers, R. (2010): The role of contracts and trust in R&D alliances in
+the Dutch biotech sector. In: Innovation: Management, Policy &
+Practice 12, 3, 311-329.
+
+Aitken, S.; Kwan, M.-P. (2010): GIS as Qualitative Research: Know-
+ledge, Participatory Politics and Cartographies of Affect. In:
+DeLyser, D.; Herbert, S.; Aitken, S.; Crang, M.; McDowell, L.
+(Hrsg.): The SAGE Handbook of Qualitative Geography. Los
+Angeles, 287-304.
+
+Asheim, B. T.; Coenen, L. (2005): Knowledge bases and regional inno-
+vation systems: Comparing Nordic clusters. In: Research Policy
+34, 8, 1173-1190.
+
+Asheim, B. T.; Coenen, L.; Vang, J. (2007): Face-to-face, buzz, and
+knowledge bases: sociospatial implications for learning, innovati-
+on, and innovation policy. In: Environment and Planning C 25, 5,
+655-670.
+
+Barlevy, G. (2005): Why don’t recessions encourage more R&D spen-
+ding? Chicago. = Chicago Fed Letter 220.
+
+Bathelt, H. (2008): Knowledge-based clusters: regional multiplier
+models and the role of ‘buzz’ and ‘pipelines’. In: Karlsson, C.
+(Hrsg.): Handbook of Research on Cluster Theory. Cheltenham,
+78-92.
+
+Bathelt, H.; Malmberg, A.; Maskell, P. (2004): Clusters and know-
+ledge: local buzz, global pipelines and the process of knowledge
+creation. In: Progress in Human Geography 28, 1, 31-56.
+
+quantitativen Methode für die Innovations- und Clusterfor-
+schung. Es ist sicherlich noch Forschungsbedarf nötig, um 
+diese Anwendung zu optimieren. Vor diesem Hintergrund 
+zeigt sich umso mehr, wie wichtig es ist, die aus der Theo-
+rie abgeleiteten Thesen sowie die Ergebnisse quantitativer 
+Analysen mittels qualitativer Interviews einer Plausibilitäts-
+prüfung zu unterziehen.
+
+Die so durchgeführte Analyse des Wiener Forschungs-
+sektors zeigt für den F&E-Sektor insgesamt eine deutliche 
+räumliche Konzentration. Zwischen den fünf untersuch-
+ten Forschungsbereichen haben sich jedoch beträchtliche 
+Unterschiede feststellen lassen. In den Bereichen Human-
+wissenschaften und technische/Naturwissenschaften be-
+steht eine ausgeprägte räumliche Konzentration, die durch 
+die Universitätsstandorte, also durch öffentliche Akteure, 
+historisch vorgegeben ist. Umgekehrt sind forschungs-
+orientierte Einrichtungen beziehungsweise Unternehmen 
+in der Sachgüterproduktion in der Peripherie des Stadt-
+raumes dispers verteilt. Der Bereich Informations- und 
+Kommunikationstechnologie weist eine ausgeprägte Kon-
+zentration auf, während der Bereich Life Sciences eine 
+deutliche Mehrpoligkeit zeigt, die sich aus den universitä-
+ren/öffentlichen Standortentscheidungen ergeben hat. Trotz 
+der unterschiedlichen räumlichen Muster ist diesen beiden 
+näher untersuchten Forschungsbereichen ein hoher Anteil 
+an privaten Forschungseinrichtungen gemein, die um öf-
+fentlich finanzierte „Gravitationskerne“ angesiedelt sind. 
+Besonders deutlich wird dies für den Bereich Informations-
+und Kommunikationstechnologie, da es im Umfeld der TU 
+Wien nie eine gezielte Standortpolitik gegeben hat.
+
+Aufgrund der Konzentration und der identifizierten Clus-
+ter in diesen beiden Forschungsbereichen stellt sich die Fra-
+ge nach der Bedeutung der räumlichen Konzentration für 
+die jeweilige Forschungspraxis. Diese ergibt sich im Be-
+reich Informations- und Kommunikationstechnologie aus 
+der Möglichkeit, von formellen und informellen Kontak-
+ten zu profitieren, die in fußläufiger Distanz möglich sind. 
+Im Umfeld der TU Wien ist – trotz des Nichtvorhanden-
+seins einer gezielten Clusterstrategie an diesem Standort –
+eine Clusteridentität entstanden, die durch ein kooperatives 
+Milieu geprägt ist. Hier scheint räumliche Nähe ganz klar 
+dazu zu dienen, Risiken, die insbesondere mit der Interna-
+tionalisierung einhergehen, zu kompensieren. Im Bereich 
+Life Sciences stellt das Vertrauen ebenfalls eine gewisse 
+Barriere der notwendigen Internationalisierung dar, wobei 
+räumliche Nähe hier eine verhältnismäßig geringe Kom-
+pensationsfunktion einnimmt. Vielmehr wird diese durch 
+den Nutzen gemeinsamer Infrastrukturen sowie die höhere 
+Effizienz im Forschungsablauf erklärt.
+
+Die Motive und Gründe für die räumliche Konzentration 
+der hier untersuchten Forschungsbereiche sind sehr unter-
+schiedlich. Dies ist nicht zuletzt deshalb bemerkenswert, da 
+beide untersuchten Bereiche Teil der gleichen – der analy-
+
+http://creativecommons.org/licenses/by/4.0/deed.de
+http://creativecommons.org/licenses/by/4.0/deed.de
+
+
+Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster 107
+
+Bergman, E. M.; Feser, E. J. (1999): Industrial and Regional Clusters:
+Concepts and Comparative Applications. http://www.rri.wvu.edu/
+webbook/bergman-feser/contents.htm (16.10.2016).
+
+Boschma, R. (2005): Proximity and Innovation: A Critical Assessment.
+In: Regional Studies 39, 1, 61-74.
+
+Brandt, A.; Hahn, C.; Krätke, S.; Kiese, M. (2009): Metropolitan re-
+gions in the knowledge economy: network analysis as a strategic
+information tool. In: Tijdschrift voor economische en sociale geo-
+grafie 100, 2, 236-249.
+
+Cincera, M.; Cozza, C.; Tübke, A.; Voigt, P. (2010): Doing R&D or not
+(in a crisis), that is the question... Luxemburg. = IPTS Working
+Paper on Corporate R&D and Innovation 12/2010.
+
+Crevoisier, O. (2001): Der Ansatz des kreativen Milieus. Bestandsauf-
+nahme und Forschungsperspektiven am Beispiel urbaner Milieus.
+In: Zeitschrift für Wirtschaftsgeographie 45, 3-4, 246-256.
+
+DeBresson, C.; Hu, X. (1999): Identifying clusters of innovative acti-
+vity: A new approach and a toolbox. In: OECD (Hrsg.): Boosting
+Innovation. The Cluster Approach. Paris, 27-59.
+
+Egartner, S.; Fischer, T.; Maißer, M.; Meth, D.; Steinbichler, M.;Wäch-
+ter, P.; Voigt, A. (2008): Stadt der kurzen Wege aus ökosozialer
+Sicht. Nahversorgung und Naherholung in Wien vor dem Hinter-
+grund der Alterung. Wien.
+
+Feldman, M. P.; Audretsch, D. B. (1999): Innovation in cities: Science-
+based diversity, specialization and localized competition. In: Eu-
+ropean Economic Review 43, 2, 409-429.
+
+Feser, E.; Renski, H.; Goldstein, H. (2008): Clusters and Economic
+Development Outcomes. An Analysis of the Link between Clus-
+tering and Industry Growth. In: Economic Development Quarterly
+22, 4, 324-344.
+
+Florida, R. (2002): The Rise of the Creative Class. New York.
+Fromhold-Eisebith, M. (1999): Das „kreative Milieu“ – nur theore-
+
+tisches Konzept oder Instrument der Regionalentwicklung? In:
+Raumforschung und Raumordnung 57, 2-3, 168-175.
+
+Gertler, M. (2008): Buzz without being there? Communities of Practice
+in Context. In: Ash, A.; Roberts, J. (Hrsg.): Community, Econo-
+mic Creativity, and Organization. Oxford, 203-226.
+
+Giuliani, E. (2007): The Selective Nature of Knowledge Networks in
+Clusters: Evidence from the Wine Industry. In: Journal of Econo-
+mic Geography 7, 2, 139-168.
+
+Grabher, G. (2002): Cool projects, boring institutions: temporary col-
+laboration in social context. In: Regional Studies 36, 3, 205-214.
+
+Hohenberg, P. M.; Hollen-Lees, L. (1985): The Making of Urban Eu-
+rope 1000-1950. Cambridge, MA.
+
+Huber, F. (2012): Do clusters really matter for innovation practices in
+information technology? Questioning the significance of techno-
+logical knowledge spillovers. In: Journal of Economic Geography
+12, 1, 107-126.
+
+Jacobs, J. (1969): The Economy of Cities. New York.
+Kiese, M. (2008): Stand und Perspektiven der regionalen Clusterfor-
+
+schung. In: Schätzl, L.; Kiese, M. (Hrsg.): Cluster und Regional-
+entwicklung. Theorie, Beratung und praktische Umsetzung. Dort-
+mund, 9-50.
+
+Koo, J. (2005): Knowledge-based Industry Clusters: Evidenced by
+Geographical Patterns of Patents in Manufacturing. In: Urban
+Studies 42, 9, 1487-1505.
+
+Kujath, H. J. (2005): Die neue Rolle der Metropolregionen in der Wis-
+sensökonomie. In: Kujath, H. J. (Hrsg.): Knoten imNetz. Zur neu-
+en Rolle der Metropolregionen in der Dienstleistungswirtschaft
+und Wissensökonomie. Münster, 23-63.
+
+Levine, N. (2013): CrimeStat IV. A Spatial Statistics Program for the
+Analysis of Crime Incident Locations. Washington.
+
+Lüthi, S.; Thierstein, A.; Bentlage, M. (2010): Standortverflechtungen
+in der Wissensökonomie. Über die Konnektivität der Metropol-
+regionen Rhein-Main und Rhein-Ruhr. In: Geographische Rund-
+schau 62, 11, 46-52.
+
+Marshall, A. (1890): Principles of Economics. London.
+Martin, R.; Sunley, P. (2003): Deconstructing clusters: chaotic concept
+
+or policy panacea? In: Journal of Economic Geography 3, 1, 5-35.
+
+Maskell, P.; Bathelt, H.; Malmberg, A. (2006): Building global know-
+ledge pipelines: The role of temporary clusters. In: European
+Planning Studies 14, 8, 997-1013.
+
+Mayerhofer, P. (2013): Wiens Industrie in der wissensbasierten Stadt-
+wirtschaft. Wandlungsprozesse, Wettbewerbsfähigkeit, industrie-
+politische Ansatzpunkte. Wien.
+
+Moodysson, J. (2008): Principles and Practices of Knowledge Crea-
+tion: On the Organization of “Buzz” and “Pipelines” in Life
+Science Communities. In: Economic Geography 84, 4, 449-469.
+
+Musil, R. (2011): Die Metropolen Europas im Städtesystem des 20.
+Jahrhunderts. In: Matznetter, W.; Musil, R. (Hrsg.): Europa: Me-
+tropolen im Wandel. Wien, 15-38.
+
+Musil, R.; Eder, J. (2013): Wien und seine Hochschulen. Regionale
+Wertschöpfungseffekte der Wiener Hochschulen. Wien. = ISR-
+Forschungsbericht 40.
+
+Musil, R.; Eder, J. (2015): Local buzz in der Wiener Forschung. Wis-
+sensintensive Cluster zwischen lokale Einbettung und internatio-
+naler Orientierung. Wien. = ISR-Forschungsbericht 41.
+
+Palme, G.; Musil, R. (2012): Wirtschaftsgeographie. Braunschweig.
+Porter, M. (1990): The Competitive Advantage of Nations. New York.
+Porter, M. (2000): Location, Competition, and Economic Develop-
+
+ment: Local Clusters in a Global Economy. In: Economic Devel-
+opment Quarterly 14, 1, 15-34.
+
+Sassen, S. (1991): The global city. London, New York, Tokyo, Prince-
+ton.
+
+Silverman, B. W. (1986): Density Estimation for Statistics and Data
+Analysis. London.
+
+Simmie, J.; Strambach, S. (2006): The contribution of KIBS to inno-
+vation in cities: an evolutionary and institutional perspective. In:
+Journal of Knowledge Management 10, 5, 26-40.
+
+Stiewe, M.; Mühlhans, H.; Bohnet, M.; Fricke, T.; Heller, S. (2012):
+Potenziale und Wirkungen standortbezogenen Mobilitätsmanage-
+ments. In: Schrenk, M.; Popvich, V.; Zeile, P.; Elisei, P. (Hrsg.):
+REAL CORP 2012. Re-Mixing the City. Towards Sustainabili-
+ty and Resilience? Schwechat, 605-614. = Proceedings REAL
+CORP 2012.
+
+Storper, M.; Venables, A. J. (2004): Buzz: face-to-face contact and the
+urban economy. In: Journal of Economic Geography 4, 4, 351-
+370.
+
+Sui, D.; DeLyser, D. (2012): Crossing the qualitative-quantitative
+chasm I: Hybrid geographies, the spatial turn, and volunteered
+geographic information (VGI). In: Progress in Human Geography
+36, 1, 111-124.
+
+Taylor, P. (2004): World City Network. A global urban analysis. Lon-
+don, New York.
+
+Tödtling, F.; Trippl, M. (2007): Knowledge Links in High-technology
+Industries: Markets, Networks or Milieu? The Case of the Vienna
+Biotechnology Cluster. In: International Journal of Entrepreneur-
+ship and Innovation Management 7, 2-5, 345-365.
+
+Trippl, M.; Tödtling, F. (2007): Developing Biotechnology Clusters in
+Non-high Technology Regions. The Case of Austria. In: Industry
+and Innovation 14, 1, 47-67.
+
+Trippl, M.; Tödtling, F. (2011): Regionale Innovationssysteme und
+Wissenstransfer im Spannungsfeld unterschiedlicher Nähefor-
+men. In: Ibert, O.; Kujath, H. J. (Hrsg.): Räume der Wissensarbeit.
+Zur Funktion von Nähe und Distanz in der Wissensökonomie.
+Wiesbaden, 155-169.
+
+Trippl, M.; Tödtling, F.; Lengauer, L. (2009): Knowledge Sourcing
+beyond Buzz and Pipelines: Evidence from the Vienna Software
+Sector. In: Economic Geography 85, 4, 443-462.
+
+van Winden, W. (2010): Knowledge and the European City. In: Tijd-
+schrift voor economische en sociale geografie 101, 1, 100-106.
+
+Weidmann, U. (1992): Transporttechnik der Fussgänger. Transport-
+technische Eigenschaften des Fussgängerverkehrs. Literaturaus-
+wertung. Zürich. = Schriftenreihe des IVT 90.
+
+Wirth, M. (2013): Der Campus Vienna Biocenter. Entstehung, Ent-
+wicklung und Bedeutung für den Life Sciences-Standort Wien.
+Innsbruck. = Innovationsmuster in der österreichischen Wirt-
+schaftsgeschichte 8.
+
+http://www.rri.wvu.edu/webbook/bergman-feser/contents.htm
+http://www.rri.wvu.edu/webbook/bergman-feser/contents.htm
+
+	Wozu räumliche Nähe in der urbanen Wissensökonomie? Eine geostatistische Analyse Wiener Forschungscluster
+	Zusammenfassung
+	Abstract
+	Einleitung
+	Forschungs- und Entwicklungsorientierung der urbanen Ökonomie – eine Frage der räumlichen Nähe?
+	Stadt und Wissensorientierung
+	Industriedistrikte, kreative Milieus und Cluster – Konzepte zur Erklärung regionaler Wissensproduktion
+	Innovation ohne Nähe? Nationale und globale Wissensnetzwerke und die Substitution räumlicher Konzentration
+	Branchenspezifische Formen (räumlicher) Wissensproduktion
+
+	Struktur und Dynamik des Forschungs- und Entwicklungssektors in Wien
+	Zur Methodik: Verteilung und Konzentration von Forschung und Entwicklung: Wie messen?
+	Räumliche Konzentration in der Wiener Forschungslandschaft – empirische Ergebnisse
+	Heterogene Konzentrationsmuster im Stadtraum
+	Räumlich-statistische Identifikation von Clustern
+
+	Wozu räumliche Nähe? Erklärung und Bewertung der räumlichen Verteilungsmuster in den Bereichen Life Sciences und Informations- und Kommunikationstechnologie
+	Ambivalenz der global pipelines
+	Vorteile der räumlichen Nähe
+
+	Fazit
+	Datenquellen
+	Literatur

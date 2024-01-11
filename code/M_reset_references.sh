@@ -1,0 +1,6 @@
+index=$1
+
+for field in anystyle_references_from_cermine_fulltext anystyle_references_from_cermine_refstrings anystyle_references_from_grobid_fulltext anystyle_references_from_grobid_refstrings anystyle_references_from_gold_fulltext anystyle_references_from_gold_refstrings cermine_references_from_cermine_xml cermine_references_from_grobid_refstrings cermine_references_from_gold_refstrings grobid_references_from_grobid_xml; do
+    python3 code/add_field.py $index $field none overwrite;
+    python3 code/add_field.py $index has_${field} false overwrite;
+done

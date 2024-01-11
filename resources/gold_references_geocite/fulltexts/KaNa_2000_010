@@ -1,0 +1,145 @@
+Leppin et al., Berührungsloses Scannen
+
+Berechnungsgang können Objektiv­
+restfehler (Verzeichnungen, die selbst 
+bei den besten Leica-Objektiven Vor­
+kommen, jedoch nicht sichtbar sind), 
+berücksichtigt werden, da diese Werte 
+durch eine Kalibrierung bekannt sind.
+
+178
+
+2.4 Auswertung der Informationen 
+in einem Geoinformations- 
+system GIS4
+
+Für den Nachweis ist es erforderlich, 
+die Grenzen und Flächengrößen der 
+alten und gegenwärtigen Flurstücke 
+miteinander in Beziehung zu bringen.
+
+Die im beschriebenen Verfahren ge­
+wonnenen digitalen historischen Karten 
+wertet der Oberkirchenrat in einem 
+Geoinformationssystem aus. In diesem 
+Arbeitsschritt werden die in der histori­
+schen Karte ausgewiesenen vererb­
+pachteten Flächen/Kartenstücke als 
+Bildrasterdaten ausgewiesen. Im GIS 
+kann die Lage der Kirchenländereien 
+der historischen Karte maßstabsgleich 
+auf die aktuellen Flurkarten projiziert 
+werden. Zu Einpassungszwecken wer­
+den die Grenzen sowie andere mar­
+kante Geländepunkte, die sich sowohl 
+in den historischen Karten als auch 
+im aktuellen Kartenwerk wiederfinden 
+lassen, vektorisiert.
+
+Bei den aktuellen Katasterkarten 
+handelt es sich um Kopien bzw. Ab­
+zeichnungen von Karten, die bei Neu­
+vermessungen meist zwischen dem 
+späten 19. und den 50er Jahren des 
+20. Jahrhunderts entstanden sind. Die 
+eigentliche Grundlage aller später 
+vorgenommenen Vermessungen und 
+Abzeichnungen bildet die in der letzten
+
+4 Dierk Leppin
+
+Tabelle 1 : Verwendbare Paßpunkte zur Geocodierung
+
+Objekt Bemerkungen zur Qualität
+Wegekreuzungen Oft über Jahrhunderte lagetreu
+Böschungsoberkanten von 
+Ackerhohlformen
+
+Ungenau, aber auf ausgedehnten 
+Ackerflächen meist die einzigen 
+identifizierbaren Objekte
+
+Richtungsänderungen von Wegen Auf Grund Straßenneubau/-ausbau 
+nur teilweise nutzbar
+
+Gemarkungsgrenzen Häufige Konstanz über Jahrhunderte
+Gebäude (Kirche) Meist über Jahrhunderte erhalten
+
+Hälfte des 18. Jahrhunderts in Mecklen­
+burg durchgeführte Direktorialvermes­
+sung (Greve 1998). So sind auch heute 
+noch ein großer Teil der alten Gemar- 
+<ungsgrenzen als solche oder als Flur­
+stücksgrenzen erkennbar, und es gelingt 
+mit wenig Aufwand, die aktuellen und
+
+seit 1992 angewandt. Das mobile, 
+berührungslose Scannen ist erstmals in 
+größerem Umfang eingesetzt worden 
+und hat sich bewährt. Der Preis pro 
+Scan für eine A0-Vorlage bewegt sich 
+im Rahmen des üblichen, obwohl die 
+Dienstleistung vor Ort erhebliche
+
+die historischen Karten aneinander 
+anzupassen (vgl. auch Tab. 1).
+
+Die Datenbank wird mit den digital 
+erstellten Kartenunterlagen/Flächen 
+verknüpft. Auf diese Weise ist es mög­
+lich, in einer Topologie Informationen 
+über das betroffene Flurstück (Größe, 
+Pächter u.ä.) aus der Karte abzufragen
+
+Ausblick3
+Die Zuordnungsbescheide der BvS 
+
+zeigen, dass sich die intensive Bear­
+beitung lohnt, die für die Nachweis­
+führung der kirchlichen Ländereien 
+erforderlich ist. Ende 1999 ergibt dies 
+für die bereits zugeordneten Flächen 
+einen Bodenwert/Verkehrswert in 
+Höhe von ca. 12 Millionen DM.
+
+Das Prinzip der digitalen Erfassung, . 
+Darstellung und Übertragung der 
+historischen Liegenschaften auf das 
+heutige Katasterwerk zum Nachweis 
+des kirchlichen Eigentums wird in der 
+Evang.-Luth. Landeskirche Mecklenburgs
+
+Vorteile für den Auftraggeber mit sich 
+bringt.
+
+Da die digitale Verfügbarkeit des 
+historischen Karten bestqndes zup Wei­
+terarbeit mit aktuellem Kartenmaterial 
+auch für andere Forschungsvorhaben 
+sinnvoll ist, wird dieses Verfahren in 
+wenigen Jahren zum Stand der Technik 
+in der Arbeit mit historischem Karten­
+material gehören.
+
+Literatur
+
+Greve, D..- Ruthen, Hufen und Erben, Vermessung im 
+Kataster in Mecklenburg, Verlagsgruppe Schwerin 
+1998.
+Leica S1 Pro, Produktinformation der Leica Camera 
+AG, Solms 1997.
+Weber, H.,- Dörr, M..- Digitisation as a Method of 
+Preservation? Commission on Preservation and Access, 
+Washington 1997.
+
+Anschriften der Verfasser: Rainer Rausch, Oberkirchen- 
+rat im Oberkirchenrat der Evang. Luth. Landeskirche 
+Mecklenburgs, Münzstraße 8-10, D-19055 Schwerin; 
+Dipl.-Geogr. Dierk Leppin, Leitung Abt. Erbpachtlände­
+reien im Oberkirchenrat der Evang. Luth. Landeskirche 
+Mecklenburgs, Münzstraße 8-10, D-19055 Schwerin; 
+Dr.-Ing. Stephan Zinndorf, SZ Vermessung, Bienen­
+straße 22, CH-9444 Diepoldsau, Schweiz.
+
+KN
+4/2000

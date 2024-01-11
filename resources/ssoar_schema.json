@@ -1,0 +1,58 @@
+{
+    "@id": "",
+
+    "@type": "",
+
+    "abstract": "",
+
+    "authors": {
+        "author_string": "",
+        "author_type":   "",
+        "firstnames":    "",
+        "initials":      [],
+        "surname":       ""
+    },
+
+    "container-title": "",
+
+    "date": "",
+
+
+    "doi": "",
+
+
+    "editors": {
+        "editor_string": {
+        "editor_type": {
+        "firstnames": {
+        "initials": {
+        "surname": {
+    },
+
+    "start": 0,
+    "end":   0,
+
+    "genre": "",
+
+
+    "issue": 0,
+
+    "location": "",
+
+    "note": "",
+
+    "publishers": {
+        "publisher_string": "",
+        "publisher_type":   "",
+
+    "source": "",
+
+    "title": "",
+
+    "type": "",
+
+    "volume": "",
+
+    "year": 0
+
+}

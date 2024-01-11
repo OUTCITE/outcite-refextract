@@ -1,0 +1,365 @@
+Dransch, Mensch-Computer-ln fera kt ion
+
+202
+
+haben, welche Tätigkeiten diese Han­
+delnden mit Hilfe von kartographischen 
+Darstellungen durchführen, in welcher 
+Arbeitsbeziehung sie dabei stehen, 
+welche physischen und kognitiven 
+Handlungen an den Karten durchzu­
+führen sind (z. B. Planentwurferstellung, 
+Variantenvergleich, Bewertung).
+
+Aus dieser Strukturierung der Hand­
+lungssituationen können die für die 
+kartographische Mensch-Computer- 
+Interaktion erforderlichen Nutzer- und 
+Aufgabenmodelle sowie Nutzerobjekt- 
+Interaktions-Modelle abgeleitet und in 
+ein effektives, effizientes und befrie­
+digendes Nutzerinterface überführt 
+werden. Die handlungstheoretische 
+Analyse der kartographischen Infor­
+mationsverarbeitung ist Basis für die 
+gelungene Mensch-Computerinter­
+aktion in kartographischen Visualisie- 
+rungs- und Informationssystemen. Sie 
+sollte daher in zukünftigen Forschungs­
+arbeiten intensiviert werden.
+
+4 Zusammenfassung
+Interaktive kartographische Visualisie­
+
+rungssysteme haben zu einer entschei­
+denden Veränderung im kartographi­
+schen Kommunikationsprozess geführt: 
+Die Kontrolle des Prozesses ist vom 
+Kartenhersteller auf den Kartennutzer 
+übergegangen. Der Kartennutzer hat 
+damit die Möglichkeit, die gesamte 
+kartographische Informationsverarbei­
+tung auf seine individuellen Belange 
+auszurichten. Diesen großen Vorteil 
+kann er jedoch nur nutzen, wenn er 
+ein entsprechendes interaktives Instru­
+mentarium zur Verfügung hat, das ihn 
+in allen Belangen des Karteneinsatzes
+
+und der Kartennutzung zur Erreichung 
+des von ihm angestrebten Ziels unter­
+stützt. Nur wenn der gesamte Informa­
+tionsverarbeitungsprozess von der 
+Kartengestaltung bis hin zur Kartennut­
+zung wie auch die konkret Handlungs­
+situation berücksichtigt wird, kann der 
+Nutzer den Vorteil interaktiver karto­
+graphischer Visualisierungs- und Infor­
+mationssysteme voll nutzen.
+
+Für die Zukunft bedeutet diese Ver­
+änderung, dass nicht mehr ein „Gene­
+ralsystem" die adäquate Software­
+lösung sein kann, sondern dass eine 
+Vielzahl von spezialisierten kartogra­
+phischen Visualisierungs- und Informa­
+tionssystemen notwendig ist, die die 
+Anforderungen der Kartenerstellung 
+und -nutzung in den verschiedenen 
+Anwendungsgebieten optimal unter­
+stützen. Dazu bedarf es einer intensiven 
+handlungsorientierten Kartennutzungs- 
+forschung, um die erforderliche Funk­
+tionalität und Mensch-Computer-Inter- 
+aktion ableiten zu können.
+
+Die Beschreibungen von Nutzer­
+gruppen und Handlungszielen kann 
+für einen weiteren Bereich gewinnbrin­
+gend eingesetzt werden, nämlich für 
+die Auswahl von Karten oder karto­
+graphischer Visualisierungsumgebun­
+gen aus dem Internet. Angaben zu 
+Nutzereigenschaften und Handlungs­
+zielen könnten als Metadaten verwen­
+det werden, um die Suche im WWW 
+nach geeigneten Karten oder Visuali­
+sierungssystemen zu unterstützen. Auf 
+Grund der Spezifikationen könnten 
+über geeignete Suchfunktionen und 
+Suchmaschinen nur die Karten und 
+Visualisierungsumgebungen angeboten 
+werden, die auf ein bestimmtes Nut­
+zungsziel und eine bestimmte Nutzer­
+gruppe hin ausgerichtet sind. Auf diese
+
+Weise ist es möglich, „brauchbare" 
+kartographische Informationen von 
+„unbrauchbaren" zu trennen und den 
+unsachgemäßen Gebrauch von Karten 
+zu vermeiden.
+
+Literatur
+
+Bertin, J., 1974: Graphische Sémiologie. Diagramme, 
+Netze, Karten. Berlin — New York.
+Board, C. 1981: Cartographie communication. In: 
+Cartographica, Vol. 18, No. 2, S. 43-77.
+Bollmann, J. 1996: Kartographische Modellierung — 
+Integrierte Herstellung und Nutzung von Kartensyste­
+men. In: Schweizerische Gesellschaft für Kartographie 
+(Hrsg.), Kartographie im Umbruch. Tagungsband zum 
+Kartographenkongress Interlaken 1996. S. 35-54. 
+DiBiase, D., MacEachren, A. M., Krygier, J., Reeves, C, 
+Brenner, A., 1991 : Animated cartographic visualiza­
+tion in earth system science. In: Proceedings of the 
+15th International ICA Conference, Bournemouth 1991, 
+Vol. 1, p. 223-232.
+Dransch, D. 1999: Theoretical issues in multimedia 
+cartography. In: Cartwright, W, Peterson, M. P, 
+Gartner, G. (eds), Multimedia Cartography. Springer, 
+Heidelberg, p. 41-48.
+Guo, J. 1997: The interaction of multimedia maps. In: 
+Proceedings of the 18th ICA Conference, Stockholm 
+1997, p. 556-562.
+Keller, C. P, O’Connell, J., 1997: Methodologies for 
+evaluating user attitudes towards and interaction with 
+innovativ digital atlas products. In: Proceedings of the 
+18th ICA Conference, Stockholm 1997, p. 1242—1249. 
+Knapp, L. 1994: A task analysis approach to the vi­
+sualization of geographic data. In: Nyerges, T. L., 
+Mark, D. M., Laurini, R., Egenhofer, M. J., 1994: 
+Cognitive aspects of human-computer interaction for 
+geographic information systems. NATO ASI Series, 
+Serie D.- Behavioural and Social Sciences, Vol 83. 
+Boston, p. 355-371.
+Krygier, J. B. 1994: Sound and geographic visualiza­
+tion. In: MacEachren, A. M., Taylor, D. R. F. (eds), Visua­
+lization in modern cartography, Chichester-New York, 
+p. 149-166.
+MacEachren, A. M. 1995: How maps work. New York. 
+Lindholm, M., Sarjakoski, T, 1994: Designing a visua­
+lization user interface. In: MacEachren, A. M., Taylor, 
+D. R. F. (eds), Visualization in modern cartography, 
+Chichester-New York, p. 167—184.
+Mackaness, W. A., 1995: A constraint based ap­
+proach to human-computer-interaction in automated 
+cartography. In: Proceedings of the 17lh ICA Confe­
+rence Barcelona 1995, p. 1423—1432. 
+Medyckyj-Scott, D., Board, C. 1991.- Cognitive carto­
+graphy: A new heart for a lost soul. In.- Mueller, J. C. 
+(ed.) Advances in Cartography. London, p. 201—230. 
+Medyckyj-Scott, D. (19941: Visualization and human 
+computer interaction in GIS. In: H. M. Hearnshaw,
+D. J. Unwin (eds.): Visualization in Geographical Infor­
+mation Systems, p. 200-211.
+
+KN
+5/2000
+
+
+
+Wintges/Al-Nakib, Topographische Karten aus SAR-Ortho-Bildern
+
+Monmonier, M., 1990: Strategies for the interactive 
+exploration of geographic correlation. In: Proceedings 
+of the 4,h International Symposium on Spatial Data 
+Handling, Zurich, Vol. 1, p. 5/2-521.
+Nardi, B. A., fed.) 1997: Context and conciousness. 
+Activity theory and human-computer-interaction. 
+Cambridge, MA.
+Norman, D.A., 1988: The psychology of everyday 
+things. New York.
+Nyerges, T. L, Mark, D. M., Laurini, R., Egenhofer,
+M. J., 1994: Cognitive aspects of human-computer 
+interaction for geographic information systems. NATO 
+ASI Series, Serie D-. Behavioural and Social Sciences, 
+Vo, 83. Boston.
+
+Herstellung topographischer
+Karten basierend auf hochauflösenden
+SAR-Ortho-Bildern
+
+Redmond-Pyle, D., Moore, A. 1995: Graphical user 
+interface design and evaluation. A practical process. 
+Prentice Hall, London.
+Schans, R. van der, 1997: A quest for optimal expres­
+sion of objects and actions in GIS. In: Proceedings of 
+Best-GIS Mid-term workshop, Utrecht, p. 11 —20. 
+Schans, R. van der, 1999: Grenzüberschreitende Inter­
+aktionen mit Modellen und Karten. Manuskript zum 
+Vortrag auf dem Deutsch-Niederländischen Kartogra­
+phentag in Maastricht 1999.
+
+Anschrift der Verfasserin: Dr. Doris Dransch, Steinadler­
+pfad 15, D-13505 Berlin.
+
+Eine eigens entwickelte Klassifikations­
+
+software ermöglicht eine automatische 
+
+überwachte Klassifikation unterschied­
+
+licher Vegetationsflächen, Gewässer­
+
+flächen wie -linien oder auch die 
+
+Begrenzung von Siedlungsbereichen. 
+
+Die übrigen Kartenelemente, auch die 
+
+der Siedlungen, werden schließlich 
+
+durch eine Bildschirminterpretation 
+
+und -digitalisierung hinzugefügt. Je 
+
+nach Anforderungsprofil lassen sich 
+
+auf diese Weise aus SAR-Orthobildern 
+
+Karten in den Maßstäben 1 ¡5000 bis 
+
+1 :100000 in Form von SAR-Ortho-Bild- 
+
+karten, Planungskarten wie auch reinen 
+
+topographischen Karten ableiten.
+
+203
+
+fM/7 einer Kartenbeilage) Theodor Wintges, Nuri ATNakib, München
+
+a Einführung
+Größere Regionen in tropischen Län­
+
+dern mit hohem Wolkenbedeckungs- 
+
+9rad sind heutzutage noch immer 
+
+unzureichend oder in zu kleinen Maß­
+stäben kartographisch erfasst. Vielfach 
+können Kartierungskampagnen auf 
+
+Grund der Unzugänglichkeit des 
+
+Geländes und der fehlenden Trans­
+
+portwege nicht durchgeführt werden. 
+Die nahezu permanente Bewölkung 
+
+dieser Gebiete lässt es oftmals kaum 
+
+zu, größere Befliegungsprojekte mit 
+
+°Ptischen Sensoren in einem Durch- 
+
+9°ng zu planen und innerhalb kurzer 
+Zeit durchzuführen.
+
+Gegensatz hierzu erlauben flug- 
+
+Zeuggetragene hochauflösende Radar­
+
+sensoren wetterunabhängige Daten­
+aufnahmen innerhalb eines festgelegten 
+Zeitpla ns. Dies ermöglicht die kurz­
+fristige Bereitstellung von präzisen und
+
+aktuellen Geodäten insbesondere für 
+
+tropische Schwellenländer. Diese Ent­
+
+wicklung wurde nachhaltig durch die 
+
+ständig steigende Anzahl von hoch­
+
+auflösenden Radarsensoren beeinflusst, 
+
+zu denen auch das flugzeuggetragene 
+
+interferometrische SAR-System (Radar 
+
+mit synthetischer Apertur) AeS-1 gehört.
+
+Georeferenzierte digitale Höhen­
+
+modelle (DEMs) und SAR-Orthobilder 
+
+sind die beiden primären SAR-Daten- 
+
+produkte, aus denen weitere kartogra­
+
+phische Endprodukte erstellt werden. 
+
+Die georeferenzierten digitalen Höhen­
+
+modelle dienen der automatischen 
+
+Ableitung von Höhenlinien. Je nach 
+
+Aufgabenstellung haben diese Höhen­
+
+linien eine dem Zielmaßstab der Karte 
+
+entsprechende Genauigkeit. Darüber 
+
+hinaus ist aus dem DEM eine einfache 
+
+Geländeschummerung automatisch 
+
+ableitbar, so dass ein sehr detaillierter 
+
+Geländeeindruck der Landschaft ver­
+
+mittelt werden kann.
+
+2 Das AeS-1 System
+Anfang des Jahres 1996 wurde die 
+
+Entwicklung und der Bau des hochauf­
+
+lösenden interferometrischen SAR Sy­
+
+stems AeS-1, welches im X-Frequenz- 
+
+band operiert, realisiert. Nach ersten 
+
+Testflügen im August 1996 wurde das 
+
+System noch im gleichen Jahr Opera­
+
+tionen eingesetzt. Im Folgenden wird 
+
+auf den Aufbau des Systems näher 
+
+eingegangen.
+
+Das AeS-1 ist als ein single-pass- 
+
+interferometrisches SAR mit zwei 
+
+Antennen konzipiert, wobei die maxi­
+
+mal erzielbare räumliche Auflösung 
+
+bei 0,5 x 0,5 m und die maximal erziel­
+
+bare Höhengenauigkeit bei 5 cm liegt. 
+
+Das System besteht aus einem Flug- 
+
+und einem Bodensegment. Abbildung 1 
+
+zeigt die Bestandteile des Flugsegments, 
+
+während Abbildung 2 den Aufbau der 
+
+Radar-Antennenkonstruktion an einer 
+
+Gulfstream Commander darstellt. Das 
+
+Bodensegment besteht aus einem
+
+KN
+,5/2000

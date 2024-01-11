@@ -1,0 +1,132 @@
+_________________________________________________________________________________REFEXTRACT         [07min]
+
+1_update_pdfs.py                            ssoar_test 8000             --> 00min
+
+2_update_xml.py                             ssoar_test 8000         16  --> 01min
+
+3_update_fulltext.py                        ssoar_test                  --> 00min
+
+G_update_grobid_refs.py                     ssoar_test                  --> 01min
+
+C1a_update_cermine_layout.py                ssoar_test                  --> 08min               (optional)
+
+C1b_update_cermine_xml.py                   ssoar_test                  --> extremely slow...   (optional)
+
+C2_update_cermine_refs.py                   ssoar_test grobid       16  --> 07min               (optional)
+
+P_update_pdftotext_fulltext.py              ssoar_test                  --> 00min
+
+A1b_update_anystyle_refs_from_refstrings.py ssoar_test grobid       16  --> 01min
+
+A1a_update_anystyle_refs_from_fulltext.py   ssoar_test grobid       16  --> 01min
+
+A1a_update_anystyle_refs_from_fulltext.py   ssoar_test pdftotext    16  --> 01min
+
+R_update_references_by_matching.py          ssoar_test crossref         --> 01min
+
+R_update_references_by_matching.py          ssoar_test openalex         --> 01min
+_________________________________________________________________________________DATA MATCHING [should take on average ~0.05s for all queries related to one reference]
+
+update_sowiport.py                          ssoar_test                  -->  17min
+
+update_crossref.py                          ssoar_test                  --> 100min
+
+update_dnb.py                               ssoar_test                  -->  27min
+
+update_openalex.py                          ssoar_test                  -->  27min
+
+update_ssoar.py                             ssoar_test                  -->   4min
+
+update_arxiv.py                             ssoar_test                  -->   9min
+
+update_econbiz.py                           ssoar_test                  -->   6min / 1.5min
+
+update_gesis_bib.py                         ssoar_test                  -->   2min
+
+update_research_data.py                     ssoar_test                  -->   2min
+_________________________________________________________________________________DATA LINKING
+
+update_sowiport.py                          ssoar_test                  -->   0min
+
+update_crossref.py                          ssoar_test                  --> 8:28-??
+
+update_dnb.py                               ssoar_test                  -->   0min
+
+update_openalex.py                          ssoar_test                  -->   3min (with checking urls)
+
+update_ssoar.py                             ssoar_test                  -->   0min
+
+update_arxiv.py                             ssoar_test                  -->   0min
+
+update_econbiz.py                           ssoar_test                  -->   3min
+
+update_gesis_bib.py                         ssoar_test                  -->   0min
+
+update_research_data.py                     ssoar_test                  -->   0min
+
+update_target_dois.py                       ssoar_test  research_data   -->   0min
+
+update_target_dois.py                       ssoar_test  openalex        -->   0min
+
+update_target_dois.py                       ssoar_test  econbiz         -->   0min
+
+update_crossref_dois.py                     ssoar_test                  -->   0min
+
+_________________________________________________________________________________FULLTEXT [30min with all dois resolved and no url lookups]
+
+update_general_url.py                       ssoar_test  core      ssoar         -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall ssoar         -->   0min
+
+update_pdf_url.py                           ssoar_test  core      ssoar         -->   0min
+
+update_pdf_url.py                           ssoar_test  unpaywall ssoar         -->   0min
+
+update_general_url.py                       ssoar_test  core      arxiv         -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall arxiv         -->   0min
+
+update_pdf_url.py                           ssoar_test  core      arxiv         -->   0min
+
+update_pdf_url.py                           ssoar_test  unpaywall arxiv         -->   0min
+
+update_general_url.py                       ssoar_test  core      research_data -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall research_data -->   0min
+
+update_pdf_url.py                           ssoar_test  core      research_data -->   0min
+
+update_pdf_url.py                           ssoar_test  unpaywall research_data -->   0min
+
+update_general_url.py                       ssoar_test  core      openalex      -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall openalex      -->   0min
+
+update_pdf_url.py                           ssoar_test  core      openalex      -->   8min
+
+update_pdf_url.py                           ssoar_test  unpaywall openalex      -->   8min
+
+update_general_url.py                       ssoar_test  core      econbiz       -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall econbiz       -->   0min
+
+update_pdf_url.py                           ssoar_test  core      econbiz       -->   0min
+
+update_pdf_url.py                           ssoar_test  unpaywall econbiz       -->   0min
+
+update_general_url.py                       ssoar_test  core      crossref      -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall crossref      -->   0min
+
+update_pdf_url.py                           ssoar_test  core      crossref      -->  10min
+
+update_pdf_url.py                           ssoar_test  unpaywall crossref      -->   9min
+
+update_general_url.py                       ssoar_test  core                    -->   0min
+
+update_general_url.py                       ssoar_test  unpaywall               -->   0min
+
+update_pdf_url.py                           ssoar_test  core                    -->   3min
+
+update_pdf_url.py                           ssoar_test  unpaywall               -->   3min
+

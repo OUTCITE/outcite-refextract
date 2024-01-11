@@ -1,0 +1,137 @@
+GEOÖKO BAND/VOLUME XXI 173 - 184 BENSHEIM 2000
+
+THE CUBING OF GULLIES USING ‘GIS’ METHODOLOGY, 
+APPLIED TO A BADLAND IN SOUTH-EAST SPAIN.
+
+C. CONESA-GARClA & F. LÖPEZ-BERMÜDEZ, MURCIA/SPAIN
+
+SUMMARY
+
+The analysis of three-dimensional forms constitutes one of the most simple and important techniques 
+within the raster systems of geographical information in present use. In this way operations can be car­
+ried out relating to the calculation of volumes, which are very useful in geomorphology: the definition 
+of polygons of different elevations to estimate their volumetric relationships, the determination of the 
+volume included between the surfaces of two DTMs of identical references x, y, operations with the 
+field factor (exploration law) and interpolation of topographical profiles. In the case of gullied areas or 
+badlands, they offer a methodological solution suitable to the problem of quantifying the amount of 
+material lost through hydric erosion, since the high concentration of sediment and the frequent mud­
+slides make it difficult to obtain this data by the classic procedures (samplers of sediments in suspen­
+sion, and bed material load, sediments boxes, erosion pins, metal rods, etc.). In this work a methodol­
+ogy is put forward, using the IDRISI software, for the cubing of gullies in a south-eastern Spain). Over 
+the present DTM of this area a second one which has been deduced from the former is superimposed, 
+representing the morphology previous to the start of gullying. With the resulting meshes and by means 
+of "overlay" and "scalar" modules, maps of isodepths and degrees of excavation are drawn, at the 
+same time as files of values of partial cubing are created. Finally, the geometry of the forms of incision 
+is analysed, trying to establish correspondences between the types of profile and the geomorphic pro­
+cesses.
+
+Key words', badlands, gully, semiarid, GIS, ephemeral channel.
+
+ZUSAMMENFASSUNG
+
+Die Analyse dreidimensionaler Oberflächenformen stellt eine der einfachsten, zugleich aber auch eine 
+der wichtigsten Techniken dar, die im Rahmen systematischer, rasterbasierter Systeme geographischer 
+Informationsgewinnung derzeit genutzt wird. Damit können für die Geomorphologie sehr nützliche 
+Operationen zur Erfassung von Volumina durchgefuhrt werden. Dazu gehört die Bestimmung von 
+Polygonen unterschiedlicher Höhenlagen zur Abschätzung ihrer Volumina, die Erfassung des Raum­
+inhalts zwischen den Oberflächen von zwei DTM’s mit identischen x,y-Werten, Operationen mit dem 
+Feldfaktor (exploration-law) und die Interpolation topographischer Profile. In gullydurchsetzten Ober­
+flächen oder Badlands eröffnen diese Methoden Lösungen zur Bilanzierung von Materialverlusten
+
+
+
+THE CUBING OF GULLIES IN SOUTHEAST SPAIN (GIS-TECHNOLOGY) 183
+
+CONCLUSIONS
+
+Without being a GIS 3D, IDRISI, like the majority of the raster-based microcomputer GIS, which al­
+low the analysis of DTM images, provides a very useful tool for the calculation of volumes, by means 
+of its analytical ring modules. Its application to strongly eroded areas like badlands, to fmd the degree 
+of excavation and cube the total soil loss corresponding to its gullies, constitutes a satisfactory solution 
+in the morphological study of these areas of high erodibility where it might be complicated to carry out 
+an experimental evaluation.
+
+Again, the great detail found in DTM obtained from the digitalized cartographical basis (scale 1/100) 
+allows a correct estimation of the volume of terrain dismantled, in each gully, from the beginning of 
+the incision phase to be made, to know precisely the distribution of the excavation depths and to es­
+tablish possible conjectures about the geometry of the badlands.
+
+ACKNOWLEDGEMENTS
+
+The authors are grateful for funding received enabling this work to be carried out, under the auspices 
+of the National Plan of Research and Technical Development, the National Programme on Conserva­
+tion of the Natural Heritage and Processes of Environmental Damage. Project AMB93-0844-C06-03.
+
+REFERENCES
+
+BELCHER, R. C. & PARADIS, A. R. (1991): A mapping approach to three-dimensional modeling. In 
+Turner, A.K. (ed.) Three-Dimensional Modeling With Geo-Scientific information Systems, NATO 
+ASI Series C: Mathematical and Physical Sciences, Vol. 354, Dordrecht: Kluwer Academic Pub­
+lishers.
+
+CLARKE, K. C. (1986): Advances in Geographic information System. Computers, Environment and 
+Urban Systems, 10: 175-184.
+
+CONES A GARCÍA, LÓPEZ BERMÚDEZ, F. & ALONSO SARRIA, F. (1994. Morfometría de 
+grietas de retracción en un badland del sureste semiárido peninsular. In: Amáez,J., García Ruiz, 
+J.M. & Gómez Villar, A. (Eds), Geomorfología en España, Sociedad Española de Geomorfología, 
+Zaragoza, pp. 41-54.
+
+COWEN, D. J. (1988): GIS versus CAD versus DBMS: What are the Differences?. Photogrametric 
+Engineering & Remote Sensing, 54, 11: 1551-1555.
+
+EASTMAN, J. R. (1992): IDRISI (v.4.0), User's Guide. Clark University, Graduate School of Geog­
+raphy, Massachusetts, 178 p.
+
+FISHER, T. R. & WALLES, R. Q. (1991): Three-dimensional solid modelling of geo-objects using 
+non-uniform rational B-splines. In Turner, A. K. (ed.) Three-Dimensional Modelling With Geo- 
+Scientific Information Systems, NATO ASI Series C: Mathematical and Physical Sciences, Vol. 
+354, Dordrecht: Kluwer Academic Publishers.
+
+FISHER, T. R. (1993): Use of 3D Geographic Information Systems in Hazardous Waste Site Investi­
+gations. In Goodchild, M.F., Parks, B.O. & Steyaert, L.T. (eds.) Environmental Modelling with 
+GIS, Oxford University Press, Oxford, pp. 238-247.
+
+FRIED, D. C. & LEONARD, J. E. (1990): Petroleum 3-D models come in many flavors. Geobyte 
+5(1): 27-30
+
+GARCIA, J P. & DE LA CRUZ, A.( 1992): GIS tridimensional. La solución innovadora para las cien­
+cias de la tierra. Los Sistemas de Información Geográfica en la Gestión Territorial, AESIGIT, Ma­
+drid, pp. 55-67.
+
+
+
+184 CONESA & LÓPEZ BERMUDEZ
+
+HARVEY, A. M. (1984): Aggradation and dissection sequences on Spanish alluvial fans: influence on 
+morphological development. Catena,11: 289-304.
+
+KAVOURAS, M. (1987): A spatial information system for the geosciences. PhD Dissertation, 
+Frederiction: University of New Brunswick.
+
+LÓPEZ BERMÚDEZ, F, ALONSO SARRIA, F., ROMERO DIAZ, M. A., CONESA GARCIA, C., 
+MARTÍNEZ FERNÁNDEZ, JOSÉ, MARTÍNEZ FERNÁNDEZ, JULIA, (1992): Caracterización 
+y diseño del campo experimental de Los Guillermos (Murcia) para el estudio de los procesos de 
+erosión y desertification en litologías blandas. In: López Bermúdez, F., Conesa García, C. & Ro­
+mero Díaz, M.A. (Eds) Estudios de Geomorfología en España, T.l, Sociedad Española de Geo- 
+morfología, Murcia, pp. 151-160.
+
+MALLET, J-L. (1991): Gocad: a computer aided design program for geological applications. In 
+TURNER, A. K. (ed.) Three-Dimensional Modeling With Geo-Scientific Information Systems, 
+NATO ASI Series C: Mathematical and Physical Sciences, Vol. 354, Dordrecht: Kluwer Aca­
+demic Publishers.
+
+PURCELL, J. & VARBERG, D. (1987): Calculus with-Analytic Geometry, Prentice Hall, Mexico, 
+pp. 683-704.
+
+SAMET, H. (1990): Applications of Spatial Data Structures, New York, Addison-Wesley.
+SMITH, D. R. & PARADIS, A. R. (1990): Three-Dimensional GIS for the Earth Sciences. GIL/LIS,
+
+pp. 324-335.
+
+Eingang des Manuskripts: 11.2. 2000 
+Annahme des Manuskripts: 15. 4. 2000
+
+Adress of the authors:
+C. Conesa-Garcia, F. Lopez-Bermudez, Department of Physical Geography. University of 
+Murcia, E-30001 Murcia, Spain

@@ -1,0 +1,1118 @@
+field                                                      count    %
+-------------------------------------------------------  -------  ---
+anystyle_references_from_cermine_fulltext                   2105  100
+anystyle_references_from_cermine_fulltext.any_id               0    0
+anystyle_references_from_cermine_fulltext.any_ref             53   95
+anystyle_references_from_cermine_fulltext.any_url              0    0
+anystyle_references_from_cermine_refstrings                 1535  100
+anystyle_references_from_cermine_refstrings.any_id             0    0
+anystyle_references_from_cermine_refstrings.any_ref           39   70
+anystyle_references_from_cermine_refstrings.any_url            0    0
+anystyle_references_from_grobid_fulltext                    1903  100
+anystyle_references_from_grobid_fulltext.any_id                0    0
+anystyle_references_from_grobid_fulltext.any_ref              43   77
+anystyle_references_from_grobid_fulltext.any_url               0    0
+anystyle_references_from_grobid_refstrings                  1961  100
+anystyle_references_from_grobid_refstrings.any_id              0    0
+anystyle_references_from_grobid_refstrings.any_ref            43   77
+anystyle_references_from_grobid_refstrings.any_url             0    0
+anystyle_references_from_pdftotext_fulltext                 2270  100
+anystyle_references_from_pdftotext_fulltext.any_id             0    0
+anystyle_references_from_pdftotext_fulltext.any_ref           55   98
+anystyle_references_from_pdftotext_fulltext.any_url            0    0
+cermine_references_from_cermine_xml                         1535  100
+cermine_references_from_cermine_xml.any_id                     0    0
+cermine_references_from_cermine_xml.any_ref                   39   70
+cermine_references_from_cermine_xml.any_url                    0    0
+cermine_references_from_grobid_refstrings                   1961  100
+cermine_references_from_grobid_refstrings.any_id               0    0
+cermine_references_from_grobid_refstrings.any_ref             43   77
+cermine_references_from_grobid_refstrings.any_url              0    0
+exparser_references_from_cermine_layout                     2059  100
+exparser_references_from_cermine_layout.any_id                 0    0
+exparser_references_from_cermine_layout.any_ref               55   98
+exparser_references_from_cermine_layout.any_url                0    0
+grobid_references_from_grobid_xml                           1961  100
+grobid_references_from_grobid_xml.any_id                       0    0
+grobid_references_from_grobid_xml.any_ref                     43   77
+grobid_references_from_grobid_xml.any_url                      0    0
+has_anystyle_references_from_cermine_fulltext                 53   95
+has_anystyle_references_from_cermine_refstrings               39   70
+has_anystyle_references_from_grobid_fulltext                  43   77
+has_anystyle_references_from_grobid_refstrings                43   77
+has_anystyle_references_from_pdftotext_fulltext               55   98
+has_anystyle_refstrings_from_cermine_fulltext                 53   95
+has_anystyle_refstrings_from_grobid_fulltext                  43   77
+has_anystyle_refstrings_from_pdftotext_fulltext               55   98
+has_cermine_fulltext                                          56  100
+has_cermine_layout                                            56  100
+has_cermine_references_from_cermine_xml                       39   70
+has_cermine_references_from_grobid_refstrings                 43   77
+has_cermine_xml                                               40   71
+has_exparser_references_from_cermine_layout                   55   98
+has_fulltext                                                  54   96
+has_gold_refobjects                                           56  100
+has_gold_refstrings                                           56  100
+has_grobid_references_from_grobid_xml                         43   77
+has_pdf                                                       56  100
+has_pdftotext_fulltext                                        56  100
+has_results_anystyle_references_from_cermine_fulltext         53   95
+has_results_anystyle_references_from_cermine_refstrings       38   68
+has_results_anystyle_references_from_grobid_fulltext          43   77
+has_results_anystyle_references_from_grobid_refstrings        43   77
+has_results_anystyle_references_from_pdftotext_fulltext       55   98
+has_results_cermine_references_from_cermine_xml               38   68
+has_results_cermine_references_from_grobid_refstrings         43   77
+has_results_exparser_references_from_cermine_layout           53   95
+has_results_grobid_references_from_grobid_xml                 43   77
+has_xml                                                       54   96
+CHEM_11 17 17 17 anystyle_references_from_pdftotext_fulltext
+SOC-SCI_51 33 34 33 anystyle_references_from_pdftotext_fulltext
+MUL_40 61 62 61 anystyle_references_from_pdftotext_fulltext
+DEC-SCI_16 54 54 54 anystyle_references_from_pdftotext_fulltext
+IMM-MIC_32 45 61 52 anystyle_references_from_pdftotext_fulltext
+z_notes_test1 18 25 21 anystyle_references_from_pdftotext_fulltext
+z_notes_test2 44 44 44 anystyle_references_from_pdftotext_fulltext
+IMM-MIC_31 28 32 31 anystyle_references_from_pdftotext_fulltext
+CHE-ENG_10 18 18 51 anystyle_references_from_pdftotext_fulltext
+ENE_24 19 20 23 anystyle_references_from_pdftotext_fulltext
+CHEM_12 11 12 47 anystyle_references_from_pdftotext_fulltext
+MUL_39 38 42 59 anystyle_references_from_pdftotext_fulltext
+VET_54 4 4 21 anystyle_references_from_pdftotext_fulltext
+ENE_23 44 50 67 anystyle_references_from_pdftotext_fulltext
+ENV-SCI_28 77 77 87 anystyle_references_from_pdftotext_fulltext
+MATH_35 10 11 10 anystyle_references_from_pdftotext_fulltext
+VET_53 72 76 78 anystyle_references_from_pdftotext_fulltext
+PSY_49 41 41 43 anystyle_references_from_pdftotext_fulltext
+NEU_42 24 27 26 anystyle_references_from_pdftotext_fulltext
+PSY_50 58 63 59 anystyle_references_from_pdftotext_fulltext
+PHY-AST_48 44 45 44 anystyle_references_from_pdftotext_fulltext
+EAR-PLA-SCI_20 112 118 113 anystyle_references_from_pdftotext_fulltext
+PHA-TOX-PHA_45 66 87 87 anystyle_references_from_pdftotext_fulltext
+SOC-SCI_52 55 58 55 anystyle_references_from_pdftotext_fulltext
+NEU_41 48 50 63 anystyle_references_from_pdftotext_fulltext
+PHA-TOX-PHA_46 28 35 35 anystyle_references_from_pdftotext_fulltext
+PHY-AST_47 51 51 60 anystyle_references_from_pdftotext_fulltext
+MED_38 13 17 33 anystyle_references_from_pdftotext_fulltext
+ENV-SCI_27 63 66 63 anystyle_references_from_pdftotext_fulltext
+ART-HUM_3 96 98 99 anystyle_references_from_pdftotext_fulltext
+ENG_25 8 10 23 anystyle_references_from_pdftotext_fulltext
+ENG_26 19 21 19 anystyle_references_from_pdftotext_fulltext
+DEN_18 46 50 48 anystyle_references_from_pdftotext_fulltext
+BIO-GEN-MOL_6 51 63 74 anystyle_references_from_pdftotext_fulltext
+ECO-ECO-FIN_22 64 65 65 anystyle_references_from_pdftotext_fulltext
+BIO-GEN-MOL_5 23 32 31 anystyle_references_from_pdftotext_fulltext
+NUR_44 27 27 32 anystyle_references_from_pdftotext_fulltext
+MATH_36 24 25 24 anystyle_references_from_pdftotext_fulltext
+NUR_43 32 33 37 anystyle_references_from_pdftotext_fulltext
+AGR-BIO-SCI_1 19 20 34 anystyle_references_from_pdftotext_fulltext
+COM-SCI_14 4 6 12 anystyle_references_from_pdftotext_fulltext
+CHE-ENG_9 29 36 34 anystyle_references_from_pdftotext_fulltext
+ART-HUM_4 28 28 30 anystyle_references_from_pdftotext_fulltext
+ECO-ECO-FIN_21 41 41 41 anystyle_references_from_pdftotext_fulltext
+DEC-SCI_15 34 34 35 anystyle_references_from_pdftotext_fulltext
+MAT-SCI_34 16 17 25 anystyle_references_from_pdftotext_fulltext
+DEN_17 24 26 31 anystyle_references_from_pdftotext_fulltext
+MED_37 19 22 20 anystyle_references_from_pdftotext_fulltext
+MAT-SCI_33 26 32 30 anystyle_references_from_pdftotext_fulltext
+HEA-PRO_29 20 24 28 anystyle_references_from_pdftotext_fulltext
+EAR-PLA-SCI_19 40 43 57 anystyle_references_from_pdftotext_fulltext
+BUS-MAN-ACC_8 85 87 85 anystyle_references_from_pdftotext_fulltext
+AGR-BIO-SCI_2 21 22 36 anystyle_references_from_pdftotext_fulltext
+BUS-MAN-ACC_7 72 75 72 anystyle_references_from_pdftotext_fulltext
+COM-SCI_13 34 36 58 anystyle_references_from_pdftotext_fulltext
+------------------------------------------------------------
+---anystyle_references_from_pdftotext_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 92 REC: 83 F1: 87 TP: 2098 P: 2270 T: 2517
+        [AVG] PREC: 91 REC: 81 F1: 86
+REFOBJ: [ALL] PREC: 62 REC: 77 F1: 69 TP: 23514 P: 37747 T: 30342
+        [AVG] PREC: 62 REC: 76 F1: 68
+------------------------------------------------------------
+MUL_39 59 60 59 grobid_references_from_grobid_xml
+VET_54 21 21 21 grobid_references_from_grobid_xml
+MATH_35 10 11 10 grobid_references_from_grobid_xml
+VET_53 74 78 78 grobid_references_from_grobid_xml
+PSY_49 43 44 43 grobid_references_from_grobid_xml
+NEU_42 26 27 26 grobid_references_from_grobid_xml
+PSY_50 54 58 59 grobid_references_from_grobid_xml
+PHY-AST_48 43 43 44 grobid_references_from_grobid_xml
+EAR-PLA-SCI_20 113 113 113 grobid_references_from_grobid_xml
+PHA-TOX-PHA_45 67 89 87 grobid_references_from_grobid_xml
+SOC-SCI_52 51 52 55 grobid_references_from_grobid_xml
+NEU_41 63 64 63 grobid_references_from_grobid_xml
+PHA-TOX-PHA_46 31 51 35 grobid_references_from_grobid_xml
+PHY-AST_47 57 63 60 grobid_references_from_grobid_xml
+MED_38 31 39 33 grobid_references_from_grobid_xml
+HEA-PRO_30 19 19 19 grobid_references_from_grobid_xml
+ENV-SCI_27 63 65 63 grobid_references_from_grobid_xml
+ART-HUM_3 99 102 99 grobid_references_from_grobid_xml
+ENG_25 21 22 23 grobid_references_from_grobid_xml
+ENG_26 19 20 19 grobid_references_from_grobid_xml
+DEN_18 46 48 48 grobid_references_from_grobid_xml
+BIO-GEN-MOL_6 61 75 74 grobid_references_from_grobid_xml
+ECO-ECO-FIN_22 62 62 65 grobid_references_from_grobid_xml
+BIO-GEN-MOL_5 22 31 31 grobid_references_from_grobid_xml
+NUR_44 30 30 32 grobid_references_from_grobid_xml
+MATH_36 24 24 24 grobid_references_from_grobid_xml
+NUR_43 35 35 37 grobid_references_from_grobid_xml
+AGR-BIO-SCI_1 32 33 34 grobid_references_from_grobid_xml
+COM-SCI_14 12 12 12 grobid_references_from_grobid_xml
+CHE-ENG_9 28 34 34 grobid_references_from_grobid_xml
+ART-HUM_4 27 27 30 grobid_references_from_grobid_xml
+ECO-ECO-FIN_21 38 38 41 grobid_references_from_grobid_xml
+DEC-SCI_15 34 34 35 grobid_references_from_grobid_xml
+MAT-SCI_34 22 25 25 grobid_references_from_grobid_xml
+DEN_17 31 31 31 grobid_references_from_grobid_xml
+MED_37 19 22 20 grobid_references_from_grobid_xml
+MAT-SCI_33 22 30 30 grobid_references_from_grobid_xml
+HEA-PRO_29 22 28 28 grobid_references_from_grobid_xml
+EAR-PLA-SCI_19 57 57 57 grobid_references_from_grobid_xml
+BUS-MAN-ACC_8 85 86 85 grobid_references_from_grobid_xml
+AGR-BIO-SCI_2 33 34 36 grobid_references_from_grobid_xml
+BUS-MAN-ACC_7 70 70 72 grobid_references_from_grobid_xml
+COM-SCI_13 50 54 58 grobid_references_from_grobid_xml
+------------------------------------------------------------
+---grobid_references_from_grobid_xml---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 93 REC: 93 F1: 93 TP: 1826 P: 1961 T: 1948
+        [AVG] PREC: 93 REC: 93 F1: 93
+REFOBJ: [ALL] PREC: 69 REC: 91 F1: 78 TP: 21654 P: 31106 T: 23732
+        [AVG] PREC: 69 REC: 91 F1: 79
+------------------------------------------------------------
+MUL_39 58 59 59 anystyle_references_from_grobid_fulltext
+VET_54 20 20 21 anystyle_references_from_grobid_fulltext
+MATH_35 10 10 10 anystyle_references_from_grobid_fulltext
+VET_53 73 78 78 anystyle_references_from_grobid_fulltext
+PSY_49 42 43 43 anystyle_references_from_grobid_fulltext
+NEU_42 25 25 26 anystyle_references_from_grobid_fulltext
+PSY_50 53 57 59 anystyle_references_from_grobid_fulltext
+PHY-AST_48 42 42 44 anystyle_references_from_grobid_fulltext
+EAR-PLA-SCI_20 112 113 113 anystyle_references_from_grobid_fulltext
+PHA-TOX-PHA_45 67 89 87 anystyle_references_from_grobid_fulltext
+SOC-SCI_52 50 51 55 anystyle_references_from_grobid_fulltext
+NEU_41 62 63 63 anystyle_references_from_grobid_fulltext
+PHA-TOX-PHA_46 29 37 35 anystyle_references_from_grobid_fulltext
+PHY-AST_47 59 59 60 anystyle_references_from_grobid_fulltext
+MED_38 30 34 33 anystyle_references_from_grobid_fulltext
+HEA-PRO_30 17 17 19 anystyle_references_from_grobid_fulltext
+ENV-SCI_27 63 63 63 anystyle_references_from_grobid_fulltext
+ART-HUM_3 99 101 99 anystyle_references_from_grobid_fulltext
+ENG_25 19 21 23 anystyle_references_from_grobid_fulltext
+ENG_26 19 20 19 anystyle_references_from_grobid_fulltext
+DEN_18 46 47 48 anystyle_references_from_grobid_fulltext
+BIO-GEN-MOL_6 60 74 74 anystyle_references_from_grobid_fulltext
+ECO-ECO-FIN_22 61 61 65 anystyle_references_from_grobid_fulltext
+BIO-GEN-MOL_5 22 30 31 anystyle_references_from_grobid_fulltext
+NUR_44 29 29 32 anystyle_references_from_grobid_fulltext
+MATH_36 23 23 24 anystyle_references_from_grobid_fulltext
+NUR_43 34 34 37 anystyle_references_from_grobid_fulltext
+AGR-BIO-SCI_1 31 32 34 anystyle_references_from_grobid_fulltext
+COM-SCI_14 11 11 12 anystyle_references_from_grobid_fulltext
+CHE-ENG_9 28 33 34 anystyle_references_from_grobid_fulltext
+ART-HUM_4 25 25 30 anystyle_references_from_grobid_fulltext
+ECO-ECO-FIN_21 37 37 41 anystyle_references_from_grobid_fulltext
+DEC-SCI_15 33 33 35 anystyle_references_from_grobid_fulltext
+MAT-SCI_34 20 31 25 anystyle_references_from_grobid_fulltext
+DEN_17 30 30 31 anystyle_references_from_grobid_fulltext
+MED_37 18 21 20 anystyle_references_from_grobid_fulltext
+MAT-SCI_33 23 29 30 anystyle_references_from_grobid_fulltext
+HEA-PRO_29 22 27 28 anystyle_references_from_grobid_fulltext
+EAR-PLA-SCI_19 56 56 57 anystyle_references_from_grobid_fulltext
+BUS-MAN-ACC_8 84 85 85 anystyle_references_from_grobid_fulltext
+AGR-BIO-SCI_2 31 32 36 anystyle_references_from_grobid_fulltext
+BUS-MAN-ACC_7 69 69 72 anystyle_references_from_grobid_fulltext
+COM-SCI_13 49 52 58 anystyle_references_from_grobid_fulltext
+------------------------------------------------------------
+---anystyle_references_from_grobid_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 94 REC: 91 F1: 93 TP: 1791 P: 1903 T: 1948
+        [AVG] PREC: 93 REC: 91 F1: 92
+REFOBJ: [ALL] PREC: 68 REC: 89 F1: 77 TP: 21201 P: 30993 T: 23732
+        [AVG] PREC: 68 REC: 88 F1: 77
+------------------------------------------------------------
+SOC-SCI_51 28 28 33 exparser_references_from_cermine_layout
+MUL_40 35 35 61 exparser_references_from_cermine_layout
+DEC-SCI_16 50 50 54 exparser_references_from_cermine_layout
+IMM-MIC_32 42 48 52 exparser_references_from_cermine_layout
+z_notes_test1 13 16 21 exparser_references_from_cermine_layout
+z_notes_test2 42 42 44 exparser_references_from_cermine_layout
+IMM-MIC_31 21 25 31 exparser_references_from_cermine_layout
+CHE-ENG_10 21 21 51 exparser_references_from_cermine_layout
+ENE_24 15 18 23 exparser_references_from_cermine_layout
+CHEM_12 6 7 47 exparser_references_from_cermine_layout
+ENE_23 51 54 67 exparser_references_from_cermine_layout
+ENV-SCI_28 64 64 87 exparser_references_from_cermine_layout
+MATH_35 7 8 10 exparser_references_from_cermine_layout
+VET_53 71 76 78 exparser_references_from_cermine_layout
+PSY_49 41 43 43 exparser_references_from_cermine_layout
+NEU_42 22 26 26 exparser_references_from_cermine_layout
+PSY_50 57 60 59 exparser_references_from_cermine_layout
+PHY-AST_48 1 1 44 exparser_references_from_cermine_layout
+EAR-PLA-SCI_20 109 110 113 exparser_references_from_cermine_layout
+PHA-TOX-PHA_45 67 78 87 exparser_references_from_cermine_layout
+SOC-SCI_52 45 47 55 exparser_references_from_cermine_layout
+NEU_41 51 52 63 exparser_references_from_cermine_layout
+PHA-TOX-PHA_46 26 29 35 exparser_references_from_cermine_layout
+PHY-AST_47 50 50 60 exparser_references_from_cermine_layout
+MED_38 26 33 33 exparser_references_from_cermine_layout
+HEA-PRO_30 16 16 19 exparser_references_from_cermine_layout
+ENV-SCI_27 59 59 63 exparser_references_from_cermine_layout
+ART-HUM_3 88 90 99 exparser_references_from_cermine_layout
+ENG_25 11 12 23 exparser_references_from_cermine_layout
+ENG_26 14 16 19 exparser_references_from_cermine_layout
+DEN_18 33 33 48 exparser_references_from_cermine_layout
+BIO-GEN-MOL_6 59 71 74 exparser_references_from_cermine_layout
+ECO-ECO-FIN_22 61 62 65 exparser_references_from_cermine_layout
+BIO-GEN-MOL_5 20 27 31 exparser_references_from_cermine_layout
+NUR_44 28 29 32 exparser_references_from_cermine_layout
+MATH_36 23 27 24 exparser_references_from_cermine_layout
+NUR_43 30 31 37 exparser_references_from_cermine_layout
+AGR-BIO-SCI_1 29 36 34 exparser_references_from_cermine_layout
+COM-SCI_14 9 9 12 exparser_references_from_cermine_layout
+CHE-ENG_9 29 32 34 exparser_references_from_cermine_layout
+ART-HUM_4 25 26 30 exparser_references_from_cermine_layout
+ECO-ECO-FIN_21 36 46 41 exparser_references_from_cermine_layout
+DEC-SCI_15 32 32 35 exparser_references_from_cermine_layout
+MAT-SCI_34 20 25 25 exparser_references_from_cermine_layout
+DEN_17 30 31 31 exparser_references_from_cermine_layout
+MED_37 16 17 20 exparser_references_from_cermine_layout
+MAT-SCI_33 20 26 30 exparser_references_from_cermine_layout
+HEA-PRO_29 20 23 28 exparser_references_from_cermine_layout
+EAR-PLA-SCI_19 32 32 57 exparser_references_from_cermine_layout
+BUS-MAN-ACC_8 80 81 85 exparser_references_from_cermine_layout
+AGR-BIO-SCI_2 30 33 36 exparser_references_from_cermine_layout
+BUS-MAN-ACC_7 65 67 72 exparser_references_from_cermine_layout
+COM-SCI_13 45 47 58 exparser_references_from_cermine_layout
+------------------------------------------------------------
+---exparser_references_from_cermine_layout---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 93 REC: 78 F1: 85 TP: 1921 P: 2057 T: 2439
+        [AVG] PREC: 92 REC: 77 F1: 84
+REFOBJ: [ALL] PREC: 68 REC: 69 F1: 68 TP: 20467 P: 29808 T: 29553
+        [AVG] PREC: 66 REC: 67 F1: 66
+------------------------------------------------------------
+MUL_39 59 60 59 cermine_references_from_grobid_refstrings
+VET_54 21 21 21 cermine_references_from_grobid_refstrings
+MATH_35 10 11 10 cermine_references_from_grobid_refstrings
+VET_53 74 78 78 cermine_references_from_grobid_refstrings
+PSY_49 43 44 43 cermine_references_from_grobid_refstrings
+NEU_42 26 27 26 cermine_references_from_grobid_refstrings
+PSY_50 54 58 59 cermine_references_from_grobid_refstrings
+PHY-AST_48 43 43 44 cermine_references_from_grobid_refstrings
+EAR-PLA-SCI_20 113 113 113 cermine_references_from_grobid_refstrings
+PHA-TOX-PHA_45 67 89 87 cermine_references_from_grobid_refstrings
+SOC-SCI_52 51 52 55 cermine_references_from_grobid_refstrings
+NEU_41 63 64 63 cermine_references_from_grobid_refstrings
+PHA-TOX-PHA_46 31 51 35 cermine_references_from_grobid_refstrings
+PHY-AST_47 57 63 60 cermine_references_from_grobid_refstrings
+MED_38 31 39 33 cermine_references_from_grobid_refstrings
+HEA-PRO_30 19 19 19 cermine_references_from_grobid_refstrings
+ENV-SCI_27 63 65 63 cermine_references_from_grobid_refstrings
+ART-HUM_3 99 102 99 cermine_references_from_grobid_refstrings
+ENG_25 21 22 23 cermine_references_from_grobid_refstrings
+ENG_26 19 20 19 cermine_references_from_grobid_refstrings
+DEN_18 46 48 48 cermine_references_from_grobid_refstrings
+BIO-GEN-MOL_6 61 75 74 cermine_references_from_grobid_refstrings
+ECO-ECO-FIN_22 62 62 65 cermine_references_from_grobid_refstrings
+BIO-GEN-MOL_5 22 31 31 cermine_references_from_grobid_refstrings
+NUR_44 30 30 32 cermine_references_from_grobid_refstrings
+MATH_36 24 24 24 cermine_references_from_grobid_refstrings
+NUR_43 35 35 37 cermine_references_from_grobid_refstrings
+AGR-BIO-SCI_1 32 33 34 cermine_references_from_grobid_refstrings
+COM-SCI_14 12 12 12 cermine_references_from_grobid_refstrings
+CHE-ENG_9 28 34 34 cermine_references_from_grobid_refstrings
+ART-HUM_4 27 27 30 cermine_references_from_grobid_refstrings
+ECO-ECO-FIN_21 38 38 41 cermine_references_from_grobid_refstrings
+DEC-SCI_15 34 34 35 cermine_references_from_grobid_refstrings
+MAT-SCI_34 22 25 25 cermine_references_from_grobid_refstrings
+DEN_17 31 31 31 cermine_references_from_grobid_refstrings
+MED_37 19 22 20 cermine_references_from_grobid_refstrings
+MAT-SCI_33 22 30 30 cermine_references_from_grobid_refstrings
+HEA-PRO_29 22 28 28 cermine_references_from_grobid_refstrings
+EAR-PLA-SCI_19 57 57 57 cermine_references_from_grobid_refstrings
+BUS-MAN-ACC_8 85 86 85 cermine_references_from_grobid_refstrings
+AGR-BIO-SCI_2 33 34 36 cermine_references_from_grobid_refstrings
+BUS-MAN-ACC_7 70 70 72 cermine_references_from_grobid_refstrings
+COM-SCI_13 50 54 58 cermine_references_from_grobid_refstrings
+------------------------------------------------------------
+---cermine_references_from_grobid_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 93 REC: 93 F1: 93 TP: 1826 P: 1961 T: 1948
+        [AVG] PREC: 93 REC: 93 F1: 93
+REFOBJ: [ALL] PREC: 72 REC: 77 F1: 74 TP: 18487 P: 25669 T: 23732
+        [AVG] PREC: 72 REC: 76 F1: 74
+------------------------------------------------------------
+CHEM_11 17 17 17 cermine_references_from_cermine_xml
+SOC-SCI_51 33 33 33 cermine_references_from_cermine_xml
+MUL_40 18 18 61 cermine_references_from_cermine_xml
+DEC-SCI_16 54 54 54 cermine_references_from_cermine_xml
+IMM-MIC_32 26 30 52 cermine_references_from_cermine_xml
+IMM-MIC_31 27 31 31 cermine_references_from_cermine_xml
+CHE-ENG_10 51 51 51 cermine_references_from_cermine_xml
+ENE_24 21 23 23 cermine_references_from_cermine_xml
+CHEM_12 10 10 47 cermine_references_from_cermine_xml
+ENE_23 67 67 67 cermine_references_from_cermine_xml
+ENV-SCI_28 87 87 87 cermine_references_from_cermine_xml
+ENV-SCI_27 63 63 63 cermine_references_from_cermine_xml
+ART-HUM_3 96 96 99 cermine_references_from_cermine_xml
+ENG_25 22 23 23 cermine_references_from_cermine_xml
+ENG_26 18 20 19 cermine_references_from_cermine_xml
+DEN_18 46 47 48 cermine_references_from_cermine_xml
+BIO-GEN-MOL_6 61 75 74 cermine_references_from_cermine_xml
+ECO-ECO-FIN_22 28 28 65 cermine_references_from_cermine_xml
+BIO-GEN-MOL_5 24 33 31 cermine_references_from_cermine_xml
+NUR_44 32 32 32 cermine_references_from_cermine_xml
+MATH_36 24 24 24 cermine_references_from_cermine_xml
+NUR_43 37 37 37 cermine_references_from_cermine_xml
+AGR-BIO-SCI_1 32 39 34 cermine_references_from_cermine_xml
+COM-SCI_14 12 12 12 cermine_references_from_cermine_xml
+CHE-ENG_9 28 34 34 cermine_references_from_cermine_xml
+ART-HUM_4 30 30 30 cermine_references_from_cermine_xml
+ECO-ECO-FIN_21 41 42 41 cermine_references_from_cermine_xml
+DEC-SCI_15 35 35 35 cermine_references_from_cermine_xml
+MAT-SCI_34 25 25 25 cermine_references_from_cermine_xml
+DEN_17 25 34 31 cermine_references_from_cermine_xml
+MED_37 18 20 20 cermine_references_from_cermine_xml
+MAT-SCI_33 23 31 30 cermine_references_from_cermine_xml
+HEA-PRO_29 22 28 28 cermine_references_from_cermine_xml
+EAR-PLA-SCI_19 57 57 57 cermine_references_from_cermine_xml
+BUS-MAN-ACC_8 83 83 85 cermine_references_from_cermine_xml
+AGR-BIO-SCI_2 36 36 36 cermine_references_from_cermine_xml
+BUS-MAN-ACC_7 71 71 72 cermine_references_from_cermine_xml
+COM-SCI_13 55 58 58 cermine_references_from_cermine_xml
+------------------------------------------------------------
+---cermine_references_from_cermine_xml---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 94 REC: 87 F1: 90 TP: 1455 P: 1534 T: 1666
+        [AVG] PREC: 94 REC: 88 F1: 91
+REFOBJ: [ALL] PREC: 73 REC: 75 F1: 74 TP: 14740 P: 20032 T: 19510
+        [AVG] PREC: 73 REC: 78 F1: 76
+------------------------------------------------------------
+CHEM_11 17 17 17 anystyle_references_from_cermine_refstrings
+SOC-SCI_51 33 33 33 anystyle_references_from_cermine_refstrings
+MUL_40 18 18 61 anystyle_references_from_cermine_refstrings
+DEC-SCI_16 54 54 54 anystyle_references_from_cermine_refstrings
+IMM-MIC_32 26 30 52 anystyle_references_from_cermine_refstrings
+IMM-MIC_31 27 31 31 anystyle_references_from_cermine_refstrings
+CHE-ENG_10 51 51 51 anystyle_references_from_cermine_refstrings
+ENE_24 21 23 23 anystyle_references_from_cermine_refstrings
+CHEM_12 10 10 47 anystyle_references_from_cermine_refstrings
+ENE_23 67 67 67 anystyle_references_from_cermine_refstrings
+ENV-SCI_28 87 87 87 anystyle_references_from_cermine_refstrings
+ENV-SCI_27 63 63 63 anystyle_references_from_cermine_refstrings
+ART-HUM_3 96 96 99 anystyle_references_from_cermine_refstrings
+ENG_25 22 23 23 anystyle_references_from_cermine_refstrings
+ENG_26 18 20 19 anystyle_references_from_cermine_refstrings
+DEN_18 46 47 48 anystyle_references_from_cermine_refstrings
+BIO-GEN-MOL_6 61 75 74 anystyle_references_from_cermine_refstrings
+ECO-ECO-FIN_22 28 28 65 anystyle_references_from_cermine_refstrings
+BIO-GEN-MOL_5 24 33 31 anystyle_references_from_cermine_refstrings
+NUR_44 32 32 32 anystyle_references_from_cermine_refstrings
+MATH_36 24 24 24 anystyle_references_from_cermine_refstrings
+NUR_43 37 37 37 anystyle_references_from_cermine_refstrings
+AGR-BIO-SCI_1 32 39 34 anystyle_references_from_cermine_refstrings
+COM-SCI_14 12 12 12 anystyle_references_from_cermine_refstrings
+CHE-ENG_9 28 34 34 anystyle_references_from_cermine_refstrings
+ART-HUM_4 30 30 30 anystyle_references_from_cermine_refstrings
+ECO-ECO-FIN_21 41 42 41 anystyle_references_from_cermine_refstrings
+DEC-SCI_15 35 35 35 anystyle_references_from_cermine_refstrings
+MAT-SCI_34 25 25 25 anystyle_references_from_cermine_refstrings
+DEN_17 25 34 31 anystyle_references_from_cermine_refstrings
+MED_37 18 20 20 anystyle_references_from_cermine_refstrings
+MAT-SCI_33 23 31 30 anystyle_references_from_cermine_refstrings
+HEA-PRO_29 22 28 28 anystyle_references_from_cermine_refstrings
+EAR-PLA-SCI_19 57 57 57 anystyle_references_from_cermine_refstrings
+BUS-MAN-ACC_8 83 83 85 anystyle_references_from_cermine_refstrings
+AGR-BIO-SCI_2 36 36 36 anystyle_references_from_cermine_refstrings
+BUS-MAN-ACC_7 71 71 72 anystyle_references_from_cermine_refstrings
+COM-SCI_13 55 58 58 anystyle_references_from_cermine_refstrings
+------------------------------------------------------------
+---anystyle_references_from_cermine_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 94 REC: 87 F1: 90 TP: 1455 P: 1534 T: 1666
+        [AVG] PREC: 94 REC: 88 F1: 91
+REFOBJ: [ALL] PREC: 66 REC: 80 F1: 72 TP: 15764 P: 23781 T: 19510
+        [AVG] PREC: 66 REC: 84 F1: 74
+------------------------------------------------------------
+CHEM_11 17 17 17 anystyle_references_from_cermine_fulltext
+SOC-SCI_51 24 25 33 anystyle_references_from_cermine_fulltext
+MUL_40 61 64 61 anystyle_references_from_cermine_fulltext
+DEC-SCI_16 52 53 54 anystyle_references_from_cermine_fulltext
+IMM-MIC_32 45 60 52 anystyle_references_from_cermine_fulltext
+z_notes_test1 18 24 21 anystyle_references_from_cermine_fulltext
+z_notes_test2 44 44 44 anystyle_references_from_cermine_fulltext
+IMM-MIC_31 25 27 31 anystyle_references_from_cermine_fulltext
+CHE-ENG_10 20 20 51 anystyle_references_from_cermine_fulltext
+ENE_24 14 15 23 anystyle_references_from_cermine_fulltext
+CHEM_12 15 20 47 anystyle_references_from_cermine_fulltext
+MUL_39 7 8 59 anystyle_references_from_cermine_fulltext
+ENE_23 50 53 67 anystyle_references_from_cermine_fulltext
+ENV-SCI_28 77 77 87 anystyle_references_from_cermine_fulltext
+MATH_35 10 10 10 anystyle_references_from_cermine_fulltext
+VET_53 72 77 78 anystyle_references_from_cermine_fulltext
+PSY_49 42 44 43 anystyle_references_from_cermine_fulltext
+NEU_42 26 27 26 anystyle_references_from_cermine_fulltext
+PSY_50 58 62 59 anystyle_references_from_cermine_fulltext
+PHY-AST_48 44 45 44 anystyle_references_from_cermine_fulltext
+EAR-PLA-SCI_20 104 109 113 anystyle_references_from_cermine_fulltext
+PHA-TOX-PHA_45 66 87 87 anystyle_references_from_cermine_fulltext
+SOC-SCI_52 55 58 55 anystyle_references_from_cermine_fulltext
+NEU_41 45 48 63 anystyle_references_from_cermine_fulltext
+PHA-TOX-PHA_46 26 35 35 anystyle_references_from_cermine_fulltext
+PHY-AST_47 49 53 60 anystyle_references_from_cermine_fulltext
+ENV-SCI_27 63 64 63 anystyle_references_from_cermine_fulltext
+ART-HUM_3 94 95 99 anystyle_references_from_cermine_fulltext
+ENG_25 22 23 23 anystyle_references_from_cermine_fulltext
+ENG_26 19 19 19 anystyle_references_from_cermine_fulltext
+DEN_18 34 36 48 anystyle_references_from_cermine_fulltext
+BIO-GEN-MOL_6 59 75 74 anystyle_references_from_cermine_fulltext
+ECO-ECO-FIN_22 64 65 65 anystyle_references_from_cermine_fulltext
+BIO-GEN-MOL_5 18 24 31 anystyle_references_from_cermine_fulltext
+NUR_44 31 31 32 anystyle_references_from_cermine_fulltext
+MATH_36 24 24 24 anystyle_references_from_cermine_fulltext
+NUR_43 27 27 37 anystyle_references_from_cermine_fulltext
+AGR-BIO-SCI_1 15 15 34 anystyle_references_from_cermine_fulltext
+COM-SCI_14 12 13 12 anystyle_references_from_cermine_fulltext
+CHE-ENG_9 28 35 34 anystyle_references_from_cermine_fulltext
+ART-HUM_4 27 27 30 anystyle_references_from_cermine_fulltext
+ECO-ECO-FIN_21 41 41 41 anystyle_references_from_cermine_fulltext
+DEC-SCI_15 11 11 35 anystyle_references_from_cermine_fulltext
+MAT-SCI_34 1 3 25 anystyle_references_from_cermine_fulltext
+DEN_17 30 30 31 anystyle_references_from_cermine_fulltext
+MED_37 4 4 20 anystyle_references_from_cermine_fulltext
+MAT-SCI_33 25 31 30 anystyle_references_from_cermine_fulltext
+HEA-PRO_29 16 17 28 anystyle_references_from_cermine_fulltext
+EAR-PLA-SCI_19 36 37 57 anystyle_references_from_cermine_fulltext
+BUS-MAN-ACC_8 83 83 85 anystyle_references_from_cermine_fulltext
+AGR-BIO-SCI_2 5 7 36 anystyle_references_from_cermine_fulltext
+BUS-MAN-ACC_7 71 73 72 anystyle_references_from_cermine_fulltext
+COM-SCI_13 31 33 58 anystyle_references_from_cermine_fulltext
+------------------------------------------------------------
+---anystyle_references_from_cermine_fulltext---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 92 REC: 79 F1: 85 TP: 1957 P: 2105 T: 2463
+        [AVG] PREC: 91 REC: 77 F1: 84
+REFOBJ: [ALL] PREC: 64 REC: 74 F1: 69 TP: 22094 P: 34348 T: 29680
+        [AVG] PREC: 63 REC: 73 F1: 68
+------------------------------------------------------------
+MUL_39 59 60 59 anystyle_references_from_grobid_refstrings
+VET_54 21 21 21 anystyle_references_from_grobid_refstrings
+MATH_35 10 11 10 anystyle_references_from_grobid_refstrings
+VET_53 74 78 78 anystyle_references_from_grobid_refstrings
+PSY_49 43 44 43 anystyle_references_from_grobid_refstrings
+NEU_42 26 27 26 anystyle_references_from_grobid_refstrings
+PSY_50 54 58 59 anystyle_references_from_grobid_refstrings
+PHY-AST_48 43 43 44 anystyle_references_from_grobid_refstrings
+EAR-PLA-SCI_20 113 113 113 anystyle_references_from_grobid_refstrings
+PHA-TOX-PHA_45 67 89 87 anystyle_references_from_grobid_refstrings
+SOC-SCI_52 51 52 55 anystyle_references_from_grobid_refstrings
+NEU_41 63 64 63 anystyle_references_from_grobid_refstrings
+PHA-TOX-PHA_46 31 51 35 anystyle_references_from_grobid_refstrings
+PHY-AST_47 57 63 60 anystyle_references_from_grobid_refstrings
+MED_38 31 39 33 anystyle_references_from_grobid_refstrings
+HEA-PRO_30 19 19 19 anystyle_references_from_grobid_refstrings
+ENV-SCI_27 63 65 63 anystyle_references_from_grobid_refstrings
+ART-HUM_3 99 102 99 anystyle_references_from_grobid_refstrings
+ENG_25 21 22 23 anystyle_references_from_grobid_refstrings
+ENG_26 19 20 19 anystyle_references_from_grobid_refstrings
+DEN_18 46 48 48 anystyle_references_from_grobid_refstrings
+BIO-GEN-MOL_6 61 75 74 anystyle_references_from_grobid_refstrings
+ECO-ECO-FIN_22 62 62 65 anystyle_references_from_grobid_refstrings
+BIO-GEN-MOL_5 22 31 31 anystyle_references_from_grobid_refstrings
+NUR_44 30 30 32 anystyle_references_from_grobid_refstrings
+MATH_36 24 24 24 anystyle_references_from_grobid_refstrings
+NUR_43 35 35 37 anystyle_references_from_grobid_refstrings
+AGR-BIO-SCI_1 32 33 34 anystyle_references_from_grobid_refstrings
+COM-SCI_14 12 12 12 anystyle_references_from_grobid_refstrings
+CHE-ENG_9 28 34 34 anystyle_references_from_grobid_refstrings
+ART-HUM_4 27 27 30 anystyle_references_from_grobid_refstrings
+ECO-ECO-FIN_21 38 38 41 anystyle_references_from_grobid_refstrings
+DEC-SCI_15 34 34 35 anystyle_references_from_grobid_refstrings
+MAT-SCI_34 22 25 25 anystyle_references_from_grobid_refstrings
+DEN_17 31 31 31 anystyle_references_from_grobid_refstrings
+MED_37 19 22 20 anystyle_references_from_grobid_refstrings
+MAT-SCI_33 22 30 30 anystyle_references_from_grobid_refstrings
+HEA-PRO_29 22 28 28 anystyle_references_from_grobid_refstrings
+EAR-PLA-SCI_19 57 57 57 anystyle_references_from_grobid_refstrings
+BUS-MAN-ACC_8 85 86 85 anystyle_references_from_grobid_refstrings
+AGR-BIO-SCI_2 33 34 36 anystyle_references_from_grobid_refstrings
+BUS-MAN-ACC_7 70 70 72 anystyle_references_from_grobid_refstrings
+COM-SCI_13 50 54 58 anystyle_references_from_grobid_refstrings
+------------------------------------------------------------
+---anystyle_references_from_grobid_refstrings---
+------------------------------------------------------------
+REFSTR: [ALL] PREC: 93 REC: 93 F1: 93 TP: 1826 P: 1961 T: 1948
+        [AVG] PREC: 93 REC: 93 F1: 93
+REFOBJ: [ALL] PREC: 64 REC: 91 F1: 75 TP: 21597 P: 33326 T: 23732
+        [AVG] PREC: 64 REC: 90 F1: 75
+------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
+                                                                      str ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   92    87   83
+grobid_references_from_grobid_xml             93    93   93
+anystyle_references_from_grobid_fulltext      94    93   91
+exparser_references_from_cermine_layout       93    85   78
+cermine_references_from_grobid_refstrings     93    93   93
+cermine_references_from_cermine_xml           94    90   87
+anystyle_references_from_cermine_refstrings   94    90   87
+anystyle_references_from_cermine_fulltext     92    85   79
+anystyle_references_from_grobid_refstrings    93    93   93
+--------------------------------------------------------------------------------------------------
+                                                                      str ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   91    64   81
+grobid_references_from_grobid_xml             93    69   93
+anystyle_references_from_grobid_fulltext      93    69   91
+exparser_references_from_cermine_layout       92    63   77
+cermine_references_from_grobid_refstrings     93    69   93
+cermine_references_from_cermine_xml           94    68   88
+anystyle_references_from_cermine_refstrings   94    68   88
+anystyle_references_from_cermine_fulltext     91    63   77
+anystyle_references_from_grobid_refstrings    93    69   93
+--------------------------------------------------------------------------------------------------
+                                                                      obj ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   62    69   77
+grobid_references_from_grobid_xml             69    78   91
+anystyle_references_from_grobid_fulltext      68    77   89
+exparser_references_from_cermine_layout       68    68   69
+cermine_references_from_grobid_refstrings     72    74   77
+cermine_references_from_cermine_xml           73    74   75
+anystyle_references_from_cermine_refstrings   66    72   80
+anystyle_references_from_cermine_fulltext     64    69   74
+anystyle_references_from_grobid_refstrings    64    75   91
+--------------------------------------------------------------------------------------------------
+                                                                      obj ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   62    51   76
+grobid_references_from_grobid_xml             69    59   91
+anystyle_references_from_grobid_fulltext      68    58   88
+exparser_references_from_cermine_layout       66    49   67
+cermine_references_from_grobid_refstrings     72    56   76
+cermine_references_from_cermine_xml           73    57   78
+anystyle_references_from_cermine_refstrings   66    56   84
+anystyle_references_from_cermine_fulltext     63    51   73
+anystyle_references_from_grobid_refstrings    64    56   90
+--------------------------------------------------------------------------------------------------
+                                                                      _volume ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   88    83   79
+grobid_references_from_grobid_xml             92    92   91
+anystyle_references_from_grobid_fulltext      91    91   91
+exparser_references_from_cermine_layout       80    71   64
+cermine_references_from_grobid_refstrings     90    91   91
+cermine_references_from_cermine_xml           90    86   82
+anystyle_references_from_cermine_refstrings   91    85   80
+anystyle_references_from_cermine_fulltext     89    82   75
+anystyle_references_from_grobid_refstrings    92    92   93
+--------------------------------------------------------------------------------------------------
+                                                                      _volume ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   83    79   76
+grobid_references_from_grobid_xml             90    89   89
+anystyle_references_from_grobid_fulltext      89    88   88
+exparser_references_from_cermine_layout       65    63   61
+cermine_references_from_grobid_refstrings     89    89   90
+cermine_references_from_cermine_xml           87    84   83
+anystyle_references_from_cermine_refstrings   88    85   81
+anystyle_references_from_cermine_fulltext     85    77   72
+anystyle_references_from_grobid_refstrings    90    90   91
+--------------------------------------------------------------------------------------------------
+                                                                      editors_editor_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   15    26   81
+grobid_references_from_grobid_xml             28    37   52
+anystyle_references_from_grobid_fulltext      34    50   89
+exparser_references_from_cermine_layout       18    27   53
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   26    41   94
+anystyle_references_from_cermine_fulltext     16    27   76
+anystyle_references_from_grobid_refstrings    34    50   90
+--------------------------------------------------------------------------------------------------
+                                                                      editors_editor_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext    9    12   28
+grobid_references_from_grobid_xml             16    14   17
+anystyle_references_from_grobid_fulltext      19    23   35
+exparser_references_from_cermine_layout        6     4   14
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   12    17   33
+anystyle_references_from_cermine_fulltext     11    15   28
+anystyle_references_from_grobid_refstrings    19    24   36
+--------------------------------------------------------------------------------------------------
+                                                                      _start ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   87    78   72
+grobid_references_from_grobid_xml             89    90   91
+anystyle_references_from_grobid_fulltext      88    85   82
+exparser_references_from_cermine_layout       82    75   69
+cermine_references_from_grobid_refstrings     89    86   83
+cermine_references_from_cermine_xml           90    86   82
+anystyle_references_from_cermine_refstrings   87    82   78
+anystyle_references_from_cermine_fulltext     87    76   68
+anystyle_references_from_grobid_refstrings    89    86   84
+--------------------------------------------------------------------------------------------------
+                                                                      _start ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   84    76   71
+grobid_references_from_grobid_xml             90    91   92
+anystyle_references_from_grobid_fulltext      88    85   83
+exparser_references_from_cermine_layout       77    71   67
+cermine_references_from_grobid_refstrings     89    87   85
+cermine_references_from_cermine_xml           88    85   83
+anystyle_references_from_cermine_refstrings   87    83   80
+anystyle_references_from_cermine_fulltext     84    75   67
+anystyle_references_from_grobid_refstrings    88    86   85
+--------------------------------------------------------------------------------------------------
+                                                                      _title ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   91    85   79
+grobid_references_from_grobid_xml             92    92   91
+anystyle_references_from_grobid_fulltext      92    91   90
+exparser_references_from_cermine_layout       93    84   77
+cermine_references_from_grobid_refstrings     93    92   91
+cermine_references_from_cermine_xml           94    85   77
+anystyle_references_from_cermine_refstrings   95    88   83
+anystyle_references_from_cermine_fulltext     93    84   76
+anystyle_references_from_grobid_refstrings    93    92   92
+--------------------------------------------------------------------------------------------------
+                                                                      _title ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   86    81   77
+grobid_references_from_grobid_xml             91    91   91
+anystyle_references_from_grobid_fulltext      92    90   89
+exparser_references_from_cermine_layout       88    81   75
+cermine_references_from_grobid_refstrings     93    91   90
+cermine_references_from_cermine_xml           90    83   77
+anystyle_references_from_cermine_refstrings   91    87   84
+anystyle_references_from_cermine_fulltext     89    80   74
+anystyle_references_from_grobid_refstrings    92    92   92
+--------------------------------------------------------------------------------------------------
+                                                                      authors_author_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   56    64   75
+grobid_references_from_grobid_xml             66    77   91
+anystyle_references_from_grobid_fulltext      65    75   89
+exparser_references_from_cermine_layout       59    62   66
+cermine_references_from_grobid_refstrings     70    69   68
+cermine_references_from_cermine_xml           62    67   72
+anystyle_references_from_cermine_refstrings   62    69   77
+anystyle_references_from_cermine_fulltext     59    65   72
+anystyle_references_from_grobid_refstrings    65    76   91
+--------------------------------------------------------------------------------------------------
+                                                                      authors_author_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   58    65   76
+grobid_references_from_grobid_xml             67    77   92
+anystyle_references_from_grobid_fulltext      65    75   89
+exparser_references_from_cermine_layout       56    60   65
+cermine_references_from_grobid_refstrings     74    69   66
+cermine_references_from_cermine_xml           62    69   79
+anystyle_references_from_cermine_refstrings   63    72   86
+anystyle_references_from_cermine_fulltext     61    66   74
+anystyle_references_from_grobid_refstrings    66    76   91
+--------------------------------------------------------------------------------------------------
+                                                                      _year ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   91    85   80
+grobid_references_from_grobid_xml             93    92   92
+anystyle_references_from_grobid_fulltext      92    91   90
+exparser_references_from_cermine_layout       90    78   69
+cermine_references_from_grobid_refstrings     92    92   91
+cermine_references_from_cermine_xml           93    88   84
+anystyle_references_from_cermine_refstrings   94    89   85
+anystyle_references_from_cermine_fulltext     92    84   77
+anystyle_references_from_grobid_refstrings    93    93   92
+--------------------------------------------------------------------------------------------------
+                                                                      _year ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   88    82   77
+grobid_references_from_grobid_xml             92    92   92
+anystyle_references_from_grobid_fulltext      91    90   88
+exparser_references_from_cermine_layout       84    73   65
+cermine_references_from_grobid_refstrings     91    91   90
+cermine_references_from_cermine_xml           92    88   84
+anystyle_references_from_cermine_refstrings   92    89   85
+anystyle_references_from_cermine_fulltext     90    82   75
+anystyle_references_from_grobid_refstrings    92    92   92
+--------------------------------------------------------------------------------------------------
+                                                                      _end ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   89    84   80
+grobid_references_from_grobid_xml             91    91   90
+anystyle_references_from_grobid_fulltext      90    89   88
+exparser_references_from_cermine_layout       77    74   71
+cermine_references_from_grobid_refstrings     92    91   91
+cermine_references_from_cermine_xml           91    86   82
+anystyle_references_from_cermine_refstrings   89    85   81
+anystyle_references_from_cermine_fulltext     90    82   75
+anystyle_references_from_grobid_refstrings    91    90   90
+--------------------------------------------------------------------------------------------------
+                                                                      _end ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   82    74   70
+grobid_references_from_grobid_xml             87    87   87
+anystyle_references_from_grobid_fulltext      89    85   83
+exparser_references_from_cermine_layout       70    66   63
+cermine_references_from_grobid_refstrings     88    87   86
+cermine_references_from_cermine_xml           85    81   77
+anystyle_references_from_cermine_refstrings   82    79   76
+anystyle_references_from_cermine_fulltext     83    73   66
+anystyle_references_from_grobid_refstrings    89    87   85
+--------------------------------------------------------------------------------------------------
+                                                                      _reference ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   92    87   83
+grobid_references_from_grobid_xml             93    93   93
+anystyle_references_from_grobid_fulltext      94    93   91
+exparser_references_from_cermine_layout       93    85   78
+cermine_references_from_grobid_refstrings     93    93   93
+cermine_references_from_cermine_xml           94    90   87
+anystyle_references_from_cermine_refstrings   94    90   87
+anystyle_references_from_cermine_fulltext     92    85   79
+anystyle_references_from_grobid_refstrings    93    93   93
+--------------------------------------------------------------------------------------------------
+                                                                      _reference ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   91    85   81
+grobid_references_from_grobid_xml             93    93   93
+anystyle_references_from_grobid_fulltext      93    91   91
+exparser_references_from_cermine_layout       92    83   77
+cermine_references_from_grobid_refstrings     93    93   93
+cermine_references_from_cermine_xml           94    90   88
+anystyle_references_from_cermine_refstrings   94    90   88
+anystyle_references_from_cermine_fulltext     91    83   77
+anystyle_references_from_grobid_refstrings    93    93   93
+--------------------------------------------------------------------------------------------------
+                                                                      _place ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   65    74   86
+grobid_references_from_grobid_xml             66    70   75
+anystyle_references_from_grobid_fulltext      69    73   78
+exparser_references_from_cermine_layout       34    43   59
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   71    79   90
+anystyle_references_from_cermine_fulltext     67    74   83
+anystyle_references_from_grobid_refstrings    69    73   78
+--------------------------------------------------------------------------------------------------
+                                                                      _place ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   36    40   46
+grobid_references_from_grobid_xml             42    44   47
+anystyle_references_from_grobid_fulltext      43    47   53
+exparser_references_from_cermine_layout       23    27   37
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   41    45   51
+anystyle_references_from_cermine_fulltext     39    43   48
+anystyle_references_from_grobid_refstrings    40    44   51
+--------------------------------------------------------------------------------------------------
+                                                                      _doi ---> all
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     0    0     0
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    0    0     0
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      _doi ---> avg
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     0    0     0
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    0    0     0
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   76    76   77
+grobid_references_from_grobid_xml             85    72   63
+anystyle_references_from_grobid_fulltext      85    77   71
+exparser_references_from_cermine_layout       74    55   44
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   79    80   81
+anystyle_references_from_cermine_fulltext     77    75   73
+anystyle_references_from_grobid_refstrings    81    76   71
+--------------------------------------------------------------------------------------------------
+                                                                      publishers_publisher_string ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   54    52   53
+grobid_references_from_grobid_xml             57    51   48
+anystyle_references_from_grobid_fulltext      63    57   54
+exparser_references_from_cermine_layout       41    36   32
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings   52    52   52
+anystyle_references_from_cermine_fulltext     53    52   52
+anystyle_references_from_grobid_refstrings    57    53   52
+--------------------------------------------------------------------------------------------------
+                                                                      _source ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   80    80   81
+grobid_references_from_grobid_xml             86    87   89
+anystyle_references_from_grobid_fulltext      84    86   89
+exparser_references_from_cermine_layout       78    78   77
+cermine_references_from_grobid_refstrings     83    85   87
+cermine_references_from_cermine_xml           74    75   76
+anystyle_references_from_cermine_refstrings   76    79   83
+anystyle_references_from_cermine_fulltext     80    79   77
+anystyle_references_from_grobid_refstrings    85    88   91
+--------------------------------------------------------------------------------------------------
+                                                                      _source ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext   74    73   74
+grobid_references_from_grobid_xml             83    85   88
+anystyle_references_from_grobid_fulltext      81    85   88
+exparser_references_from_cermine_layout       73    72   72
+cermine_references_from_grobid_refstrings     79    82   85
+cermine_references_from_cermine_xml           68    70   72
+anystyle_references_from_cermine_refstrings   72    76   81
+anystyle_references_from_cermine_fulltext     74    72   72
+anystyle_references_from_grobid_refstrings    82    86   91
+--------------------------------------------------------------------------------------------------
+                                                                      _url ---> all
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     0    0     0
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    -    -     -
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      _url ---> avg
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  0    0     0
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     0    0     0
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    -    -     -
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  0    0     0
+anystyle_references_from_cermine_fulltext    0    0     0
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      _inline_id ---> all
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  -    -     -
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    0    0     0
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  -    -     -
+anystyle_references_from_cermine_fulltext    -    -     -
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      _inline_id ---> avg
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  -    -     -
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    0    0     0
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  -    -     -
+anystyle_references_from_cermine_fulltext    -    -     -
+anystyle_references_from_grobid_refstrings   0    0     0
+--------------------------------------------------------------------------------------------------
+                                                                      _issue ---> all
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext    0     0    0
+grobid_references_from_grobid_xml              0     0    0
+anystyle_references_from_grobid_fulltext       0     0    0
+exparser_references_from_cermine_layout        0     0    0
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings    0     0    0
+anystyle_references_from_cermine_fulltext      0     0    0
+anystyle_references_from_grobid_refstrings     0     0    0
+--------------------------------------------------------------------------------------------------
+                                                                      _issue ---> avg
+--------------------------------------------------------------------------------------------------
+method                                         P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext    0     0    0
+grobid_references_from_grobid_xml              0     0    0
+anystyle_references_from_grobid_fulltext       0     0    0
+exparser_references_from_cermine_layout        0     0    0
+cermine_references_from_grobid_refstrings      0     0    0
+cermine_references_from_cermine_xml            0     0    0
+anystyle_references_from_cermine_refstrings    0     0    0
+anystyle_references_from_cermine_fulltext      0     0    0
+anystyle_references_from_grobid_refstrings     0     0    0
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> all
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  -    -     -
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    -    -     -
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  -    -     -
+anystyle_references_from_cermine_fulltext    -    -     -
+anystyle_references_from_grobid_refstrings   -    -     -
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> avg
+--------------------------------------------------------------------------------------------------
+method                                       P    F1    R
+-------------------------------------------  ---  ----  ---
+anystyle_references_from_pdftotext_fulltext  -    -     -
+grobid_references_from_grobid_xml            0    0     0
+anystyle_references_from_grobid_fulltext     -    -     -
+exparser_references_from_cermine_layout      -    -     -
+cermine_references_from_grobid_refstrings    -    -     -
+cermine_references_from_cermine_xml          -    -     -
+anystyle_references_from_cermine_refstrings  -    -     -
+anystyle_references_from_cermine_fulltext    -    -     -
+anystyle_references_from_grobid_refstrings   -    -     -
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> avg
+--------------------------------------------------------------------------------------------------
+method           refstr        title         year          author        editor        publ          source        vol           issue         startp        endp
+---------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------  ------------
+cerm.txt--anyst  91 | 83 | 77  89 | 80 | 74  90 | 82 | 75  61 | 66 | 74  11 | 15 | 28  53 | 52 | 52  74 | 72 | 72  85 | 77 | 72   0 |  0 |  0  84 | 75 | 67  83 | 73 | 66
+cerm.ref--anyst  94 | 90 | 88  91 | 87 | 84  92 | 89 | 85  63 | 72 | 86  12 | 17 | 33  52 | 52 | 52  72 | 76 | 81  88 | 85 | 81   0 |  0 |  0  87 | 83 | 80  82 | 79 | 76
+grob.txt--anyst  93 | 91 | 91  92 | 90 | 89  91 | 90 | 88  65 | 75 | 89  19 | 23 | 35  63 | 57 | 54  81 | 85 | 88  89 | 88 | 88   0 |  0 |  0  88 | 85 | 83  89 | 85 | 83
+grob.ref--anyst  93 | 93 | 93  92 | 92 | 92  92 | 92 | 92  66 | 76 | 91  19 | 24 | 36  57 | 53 | 52  82 | 86 | 91  90 | 90 | 91   0 |  0 |  0  88 | 86 | 85  89 | 87 | 85
+pdftotxt--anyst  91 | 85 | 81  86 | 81 | 77  88 | 82 | 77  58 | 65 | 76   9 | 12 | 28  54 | 52 | 53  74 | 73 | 74  83 | 79 | 76   0 |  0 |  0  84 | 76 | 71  82 | 74 | 70
+cermine          94 | 90 | 88  90 | 83 | 77  92 | 88 | 84  62 | 69 | 79   0 |  0 |  0   0 |  0 |  0  68 | 70 | 72  87 | 84 | 83   0 |  0 |  0  88 | 85 | 83  85 | 81 | 77
+grob.ref--cerm   93 | 93 | 93  93 | 91 | 90  91 | 91 | 90  74 | 69 | 66   0 |  0 |  0   0 |  0 |  0  79 | 82 | 85  89 | 89 | 90   0 |  0 |  0  89 | 87 | 85  88 | 87 | 86
+cerm.layo--exp   92 | 83 | 77  88 | 81 | 75  84 | 73 | 65  56 | 60 | 65   6 |  4 | 14  41 | 36 | 32  73 | 72 | 72  65 | 63 | 61   0 |  0 |  0  77 | 71 | 67  70 | 66 | 63
+grobid           93 | 93 | 93  91 | 91 | 91  92 | 92 | 92  67 | 77 | 92  16 | 14 | 17  57 | 51 | 48  83 | 85 | 88  90 | 89 | 89   0 |  0 |  0  90 | 91 | 92  87 | 87 | 87
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> avg
+--------------------------------------------------------------------------------------------------
+\begin{tabular}{l|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|}
+\multicolumn{1}{c|}{\multirow{2}{*}{\textbf{CIOFFI}}} & \multicolumn{3}{c|}{\textbf{refstr}} & \multicolumn{3}{c|}{\textbf{title}} & \multicolumn{3}{c|}{\textbf{year}} & \multicolumn{3}{c|}{\textbf{author}} & \multicolumn{3}{c|}{\textbf{editor}} & \multicolumn{3}{c|}{\textbf{publ}} & \multicolumn{3}{c|}{\textbf{source}} & \multicolumn{3}{c|}{\textbf{vol}} & \multicolumn{3}{c|}{\textbf{issue}} & \multicolumn{3}{c|}{\textbf{startp}} & \multicolumn{3}{c|}{\textbf{endp}} \\
+\multicolumn{1}{c|}{}  & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} \\
+\hline
+cerm.txt--anyst & 91 & 83 & 77 & 89 & 80 & 74 & 90 & 82 & 75 & 61 & 66 & 74 & 11 & 15 & 28 & 53 & 52 & 52 & 74 & 72 & 72 & 85 & 77 & 72 & 0 & \textcolor{blue}{0} & 0 & 84 & 75 & 67 & 83 & 73 & 66 \\
+cerm.ref--anyst & 94 & 90 & 88 & 91 & 87 & 84 & 92 & 89 & 85 & 63 & 72 & 86 & 12 & 17 & 33 & 52 & 52 & 52 & 72 & 76 & 81 & 88 & 85 & 81 & 0 & \textcolor{blue}{0} & 0 & 87 & 83 & 80 & 82 & 79 & 76 \\
+grob.txt--anyst & 93 & 91 & 91 & 92 & 90 & 89 & 91 & 90 & 88 & 65 & 75 & 89 & 19 & 23 & 35 & 63 & \textcolor{blue}{57} & 54 & 81 & 85 & 88 & 89 & 88 & 88 & 0 & \textcolor{blue}{0} & 0 & 88 & 85 & 83 & 89 & 85 & 83 \\
+grob.ref--anyst & 93 & \textcolor{blue}{93} & 93 & 92 & \textcolor{blue}{92} & 92 & 92 & \textcolor{blue}{92} & 92 & 66 & 76 & 91 & 19 & \textcolor{blue}{24} & 36 & 57 & 53 & 52 & 82 & \textcolor{blue}{86} & 91 & 90 & \textcolor{blue}{90} & 91 & 0 & \textcolor{blue}{0} & 0 & 88 & 86 & 85 & 89 & \textcolor{blue}{87} & 85 \\
+pdftotxt--anyst & 91 & 85 & 81 & 86 & 81 & 77 & 88 & 82 & 77 & 58 & 65 & 76 & 9 & 12 & 28 & 54 & 52 & 53 & 74 & 73 & 74 & 83 & 79 & 76 & 0 & \textcolor{blue}{0} & 0 & 84 & 76 & 71 & 82 & 74 & 70 \\
+cermine & 94 & 90 & 88 & 90 & 83 & 77 & 92 & 88 & 84 & 62 & 69 & 79 & 0 & 0 & 0 & 0 & 0 & 0 & 68 & 70 & 72 & 87 & 84 & 83 & 0 & \textcolor{blue}{0} & 0 & 88 & 85 & 83 & 85 & 81 & 77 \\
+grob.ref--cerm & 93 & \textcolor{blue}{93} & 93 & 93 & 91 & 90 & 91 & 91 & 90 & 74 & 69 & 66 & 0 & 0 & 0 & 0 & 0 & 0 & 79 & 82 & 85 & 89 & 89 & 90 & 0 & \textcolor{blue}{0} & 0 & 89 & 87 & 85 & 88 & \textcolor{blue}{87} & 86 \\
+cerm.layo--exp & 92 & 83 & 77 & 88 & 81 & 75 & 84 & 73 & 65 & 56 & 60 & 65 & 6 & 4 & 14 & 41 & 36 & 32 & 73 & 72 & 72 & 65 & 63 & 61 & 0 & \textcolor{blue}{0} & 0 & 77 & 71 & 67 & 70 & 66 & 63 \\
+grobid & 93 & \textcolor{blue}{93} & 93 & 91 & 91 & 91 & 92 & \textcolor{blue}{92} & 92 & 67 & \textcolor{blue}{77} & 92 & 16 & 14 & 17 & 57 & 51 & 48 & 83 & 85 & 88 & 90 & 89 & 89 & 0 & \textcolor{blue}{0} & 0 & 90 & \textcolor{blue}{91} & 92 & 87 & \textcolor{blue}{87} & 87 \\
+\hline
+\end{tabular}
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> avg
+--------------------------------------------------------------------------------------------------
+method           refstr          title           year            author          editor          publ            source          vol             issue           startp          endp
+---------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------  --------------
+cerm.txt--anyst    -3| -10| -17    -4| -13| -19    -2| -10| -18   -17| -14| -19   -42| -37| -22   -15|  -8|  -3   -10| -16| -20    -5| -14| -20     0|   0|   0    -6| -17| -27    -6| -16| -24
+cerm.ref--anyst    94|  -3|  -5    -2|  -5|  -8    92|  -3|  -7   -14|  -6|  -6   -36| -29|  -8   -17|  -8|  -3   -13| -11| -10    -2|  -5| -10     0|   0|   0    -3|  -8| -13    -7|  -9| -12
+grob.txt--anyst    -1|  -2|  -2    -1|  -2|  -3    -1|  -2|  -4   -12|  -2|  -3    19|  -4|  -2    63|  56|  54    -2|  -1|  -3    -1|  -2|  -3     0|   0|   0    -2|  -6|  -9    89|  -2|  -4
+grob.ref--anyst    -1|  93|  93    -1|  92|  92    92|  92|  92   -10|  -1|  -1    19|  24|  36    -9|  -7|  -3    -1|  86|  91    90|  90|  91     0|   0|   0    -2|  -5|  -7    89|  87|  -2
+pdftotxt--anyst    -3|  -8| -12    -7| -11| -16    -4| -10| -16   -21| -15| -17   -52| -50| -22   -14|  -8|  -1   -10| -15| -18    -7| -12| -16     0|   0|   0    -6| -16| -22    -7| -14| -19
+cermine            94|  -3|  -5    -3|  -9| -16    92|  -4|  -8   -16| -10| -14  -100|-100|-100  -100|-100|-100   -18| -18| -20    -3|  -6|  -8     0|   0|   0    -2|  -6|  -9    -4|  -6| -11
+grob.ref--cerm     -1|  93|  93    93|  -1|  -2    -1|  -1|  -2    74| -10| -28  -100|-100|-100  -100|-100|-100    -4|  -4|  -6    -1|  -1|  -1     0|   0|   0    -1|  -4|  -7    -1|  87|  -1
+cerm.layo--exp     -2| -10| -17    -5| -11| -18    -8| -20| -29   -24| -22| -29   -68| -83| -61   -34| -36| -40   -12| -16| -20   -27| -30| -32     0|   0|   0   -14| -21| -27   -21| -24| -27
+grobid             -1|  93|  93    -2|  -1|  -1    92|  92|  92    -9|  77|  92   -15| -41| -52    -9| -10| -11    83|  -1|  -3    90|  -1|  -2     0|   0|   0    90|  91|  92    -2|  87|  87
+--------------------------------------------------------------------------------------------------
+                                                                      _arxiv ---> avg
+--------------------------------------------------------------------------------------------------
+\begin{tabular}{l|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|rrr|}
+\multicolumn{1}{c|}{\multirow{2}{*}{\textbf{CIOFFI}}} & \multicolumn{3}{c|}{\textbf{refstr}} & \multicolumn{3}{c|}{\textbf{title}} & \multicolumn{3}{c|}{\textbf{year}} & \multicolumn{3}{c|}{\textbf{author}} & \multicolumn{3}{c|}{\textbf{editor}} & \multicolumn{3}{c|}{\textbf{publ}} & \multicolumn{3}{c|}{\textbf{source}} & \multicolumn{3}{c|}{\textbf{vol}} & \multicolumn{3}{c|}{\textbf{issue}} & \multicolumn{3}{c|}{\textbf{startp}} & \multicolumn{3}{c|}{\textbf{endp}} \\
+\multicolumn{1}{c|}{}  & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{F1} & \multicolumn{1}{c|}{R} \\
+\hline
+cerm.txt--anyst & \textcolor{red}{3} & \textcolor{red}{10} & \textcolor{red}{17} & \textcolor{red}{4} & \textcolor{red}{13} & \textcolor{red}{19} & \textcolor{red}{2} & \textcolor{red}{10} & \textcolor{red}{18} & \textcolor{red}{17} & \textcolor{red}{14} & \textcolor{red}{19} & \textcolor{red}{42} & \textcolor{red}{37} & \textcolor{red}{22} & \textcolor{red}{15} & \textcolor{red}{8} & \textcolor{red}{3} & \textcolor{red}{10} & \textcolor{red}{16} & \textcolor{red}{20} & \textcolor{red}{5} & \textcolor{red}{14} & \textcolor{red}{20} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{6} & \textcolor{red}{17} & \textcolor{red}{27} & \textcolor{red}{6} & \textcolor{red}{16} & \textcolor{red}{24} \\
+cerm.ref--anyst & \textcolor{blue}{94} & \textcolor{red}{3} & \textcolor{red}{5} & \textcolor{red}{2} & \textcolor{red}{5} & \textcolor{red}{8} & \textcolor{blue}{92} & \textcolor{red}{3} & \textcolor{red}{7} & \textcolor{red}{14} & \textcolor{red}{6} & \textcolor{red}{6} & \textcolor{red}{36} & \textcolor{red}{29} & \textcolor{red}{8} & \textcolor{red}{17} & \textcolor{red}{8} & \textcolor{red}{3} & \textcolor{red}{13} & \textcolor{red}{11} & \textcolor{red}{10} & \textcolor{red}{2} & \textcolor{red}{5} & \textcolor{red}{10} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{3} & \textcolor{red}{8} & \textcolor{red}{13} & \textcolor{red}{7} & \textcolor{red}{9} & \textcolor{red}{12} \\
+grob.txt--anyst & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{3} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{4} & \textcolor{red}{12} & \textcolor{red}{2} & \textcolor{red}{3} & \textcolor{blue}{19} & \textcolor{red}{4} & \textcolor{red}{2} & \textcolor{blue}{63} & \textcolor{blue}{56} & \textcolor{blue}{54} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{3} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{3} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{2} & \textcolor{red}{6} & \textcolor{red}{9} & \textcolor{blue}{89} & \textcolor{red}{2} & \textcolor{red}{4} \\
+grob.ref--anyst & \textcolor{red}{1} & \textcolor{blue}{93} & \textcolor{blue}{93} & \textcolor{red}{1} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{red}{10} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{blue}{19} & \textcolor{blue}{24} & \textcolor{blue}{36} & \textcolor{red}{9} & \textcolor{red}{7} & \textcolor{red}{3} & \textcolor{red}{1} & \textcolor{blue}{86} & \textcolor{blue}{91} & \textcolor{blue}{90} & \textcolor{blue}{90} & \textcolor{blue}{91} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{2} & \textcolor{red}{5} & \textcolor{red}{7} & \textcolor{blue}{89} & \textcolor{blue}{87} & \textcolor{red}{2} \\
+pdftotxt--anyst & \textcolor{red}{3} & \textcolor{red}{8} & \textcolor{red}{12} & \textcolor{red}{7} & \textcolor{red}{11} & \textcolor{red}{16} & \textcolor{red}{4} & \textcolor{red}{10} & \textcolor{red}{16} & \textcolor{red}{21} & \textcolor{red}{15} & \textcolor{red}{17} & \textcolor{red}{52} & \textcolor{red}{50} & \textcolor{red}{22} & \textcolor{red}{14} & \textcolor{red}{8} & \textcolor{red}{1} & \textcolor{red}{10} & \textcolor{red}{15} & \textcolor{red}{18} & \textcolor{red}{7} & \textcolor{red}{12} & \textcolor{red}{16} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{6} & \textcolor{red}{16} & \textcolor{red}{22} & \textcolor{red}{7} & \textcolor{red}{14} & \textcolor{red}{19} \\
+cermine & \textcolor{blue}{94} & \textcolor{red}{3} & \textcolor{red}{5} & \textcolor{red}{3} & \textcolor{red}{9} & \textcolor{red}{16} & \textcolor{blue}{92} & \textcolor{red}{4} & \textcolor{red}{8} & \textcolor{red}{16} & \textcolor{red}{10} & \textcolor{red}{14} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{18} & \textcolor{red}{18} & \textcolor{red}{20} & \textcolor{red}{3} & \textcolor{red}{6} & \textcolor{red}{8} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{2} & \textcolor{red}{6} & \textcolor{red}{9} & \textcolor{red}{4} & \textcolor{red}{6} & \textcolor{red}{11} \\
+grob.ref--cerm & \textcolor{red}{1} & \textcolor{blue}{93} & \textcolor{blue}{93} & \textcolor{blue}{93} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{blue}{74} & \textcolor{red}{10} & \textcolor{red}{28} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{100} & \textcolor{red}{4} & \textcolor{red}{4} & \textcolor{red}{6} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{1} & \textcolor{red}{4} & \textcolor{red}{7} & \textcolor{red}{1} & \textcolor{blue}{87} & \textcolor{red}{1} \\
+cerm.layo--exp & \textcolor{red}{2} & \textcolor{red}{10} & \textcolor{red}{17} & \textcolor{red}{5} & \textcolor{red}{11} & \textcolor{red}{18} & \textcolor{red}{8} & \textcolor{red}{20} & \textcolor{red}{29} & \textcolor{red}{24} & \textcolor{red}{22} & \textcolor{red}{29} & \textcolor{red}{68} & \textcolor{red}{83} & \textcolor{red}{61} & \textcolor{red}{34} & \textcolor{red}{36} & \textcolor{red}{40} & \textcolor{red}{12} & \textcolor{red}{16} & \textcolor{red}{20} & \textcolor{red}{27} & \textcolor{red}{30} & \textcolor{red}{32} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{red}{14} & \textcolor{red}{21} & \textcolor{red}{27} & \textcolor{red}{21} & \textcolor{red}{24} & \textcolor{red}{27} \\
+grobid & \textcolor{red}{1} & \textcolor{blue}{93} & \textcolor{blue}{93} & \textcolor{red}{2} & \textcolor{red}{1} & \textcolor{red}{1} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{blue}{92} & \textcolor{red}{9} & \textcolor{blue}{77} & \textcolor{blue}{92} & \textcolor{red}{15} & \textcolor{red}{41} & \textcolor{red}{52} & \textcolor{red}{9} & \textcolor{red}{10} & \textcolor{red}{11} & \textcolor{blue}{83} & \textcolor{red}{1} & \textcolor{red}{3} & \textcolor{blue}{90} & \textcolor{red}{1} & \textcolor{red}{2} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{0} & \textcolor{blue}{90} & \textcolor{blue}{91} & \textcolor{blue}{92} & \textcolor{red}{2} & \textcolor{blue}{87} & \textcolor{blue}{87} \\
+\hline
+\end{tabular}
+{'anystyle_references_from_cermine_fulltext': {'refstr': 83, 'title': 80, 'year': 82, 'author': 66, 'editor': 15, 'publ': 52, 'source': 72, 'vol': 77, 'issue': 0, 'startp': 75, 'endp': 73}, 'anystyle_references_from_cermine_refstrings': {'refstr': 90, 'title': 87, 'year': 89, 'author': 72, 'editor': 17, 'publ': 52, 'source': 76, 'vol': 85, 'issue': 0, 'startp': 83, 'endp': 79}, 'anystyle_references_from_grobid_fulltext': {'refstr': 91, 'title': 90, 'year': 90, 'author': 75, 'editor': 23, 'publ': 57, 'source': 85, 'vol': 88, 'issue': 0, 'startp': 85, 'endp': 85}, 'anystyle_references_from_grobid_refstrings': {'refstr': 93, 'title': 92, 'year': 92, 'author': 76, 'editor': 24, 'publ': 53, 'source': 86, 'vol': 90, 'issue': 0, 'startp': 86, 'endp': 87}, 'anystyle_references_from_pdftotext_fulltext': {'refstr': 85, 'title': 81, 'year': 82, 'author': 65, 'editor': 12, 'publ': 52, 'source': 73, 'vol': 79, 'issue': 0, 'startp': 76, 'endp': 74}, 'cermine_references_from_cermine_xml': {'refstr': 90, 'title': 83, 'year': 88, 'author': 69, 'editor': 0, 'publ': 0, 'source': 70, 'vol': 84, 'issue': 0, 'startp': 85, 'endp': 81}, 'cermine_references_from_grobid_refstrings': {'refstr': 93, 'title': 91, 'year': 91, 'author': 69, 'editor': 0, 'publ': 0, 'source': 82, 'vol': 89, 'issue': 0, 'startp': 87, 'endp': 87}, 'exparser_references_from_cermine_layout': {'refstr': 83, 'title': 81, 'year': 73, 'author': 60, 'editor': 4, 'publ': 36, 'source': 72, 'vol': 63, 'issue': 0, 'startp': 71, 'endp': 66}, 'grobid_references_from_grobid_xml': {'refstr': 93, 'title': 91, 'year': 92, 'author': 77, 'editor': 14, 'publ': 51, 'source': 85, 'vol': 89, 'issue': 0, 'startp': 91, 'endp': 87}}

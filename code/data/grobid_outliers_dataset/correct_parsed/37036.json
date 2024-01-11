@@ -1,0 +1,150 @@
+[
+  {
+    "editor": [
+      {
+        "family": "Flemes",
+        "given": "Daniel"
+      },
+      {
+        "family": "Nabers",
+        "given": "Dirk"
+      },
+      {
+        "family": "Nolte",
+        "given": "Detlef"
+      }
+    ],
+    "title": "Macht, Führung und Regionale Ordnung",
+    "publisher": "The- orien und Forschungsperspektiven",
+    "language": "de",
+    "type": "book",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "publisher-place": "BadenBaden"
+  },
+  {
+    "author": [
+      {
+        "family": "Flemes",
+        "given": "Daniel"
+      },
+      {
+        "family": "Scholvin",
+        "given": "Sören"
+      },
+      {
+        "family": "Strüver",
+        "given": "Georg"
+      }
+    ],
+    "title": "Aufstieg der Netzwerkmächte",
+    "volume": "2",
+    "note": "online:",
+    "type": "article-journal",
+    "container-title": "GIGA Focus Global",
+    "language": "de",
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "URL": "\u003cwww.gigahamburg.de/gigafocus/global."
+  },
+  {
+    "author": [
+      {
+        "family": "Hess",
+        "given": "Nathalie M."
+      }
+    ],
+    "title": "EU Relations with \\\"Emerging\\\" Strategic Partners: Brazil, India and South Africa",
+    "volume": "4",
+    "note": "online:",
+    "type": "article-journal",
+    "container-title": "GIGA Focus International",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "URL": "\u003cwww.giga-hamburg.de/giga-focus/international-english-edition."
+  },
+  {
+    "author": [
+      {
+        "family": "Kappel",
+        "given": "Robert"
+      }
+    ],
+    "title": "Deutschland und die neuen Gestaltungsmächte",
+    "volume": "2",
+    "note": "online: \u003cwww. gigahamburg.de/gigafocus/global..",
+    "type": "article-journal",
+    "container-title": "GIGA Focus Global",
+    "language": "de",
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "author": [
+      {
+        "family": "Kappel",
+        "given": "Robert"
+      }
+    ],
+    "title": "Der Aufstieg der BRICS und Europas Zukunft in der Weltwirtschaft",
+    "volume": "2",
+    "type": "article-journal",
+    "container-title": "Wirtschafts- politische Blätter",
+    "language": "de",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "193208"
+  },
+  {
+    "author": [
+      {
+        "family": "Kappel",
+        "given": "Robert"
+      },
+      {
+        "family": "Pfeiffer",
+        "given": "Birte"
+      }
+    ],
+    "title": "Der wirtschaftliche Aufstieg der BRICS",
+    "volume": "1",
+    "note": "online:",
+    "type": "article-journal",
+    "container-title": "GIGA Focus Global",
+    "language": "de",
+    "issued": {
+      "date-parts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "URL": "\u003cwww.gigahamburg.de/gigafocus/global."
+  }
+]

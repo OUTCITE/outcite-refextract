@@ -1,0 +1,347 @@
+Dickmann, Geodäten im Netz
+
+tion System) ermöglicht den Zugriff auf 
+das umfangreiche DLR-Satellitendaten- 
+archiv (Abb. 3). über ein Infoboard 
+lassen sich zahlreiche Informationen 
+aus verschiedensten Bereichen der 
+Fernerkundung abrufen, z. B. über ein­
+gesetzte Satelliten, Archive und Daten­
+verarbeitungsverfahren. Kernstück bil­
+det die elektronische Datenbank, in der 
+die Suche nach Datensätzen (Bildern) 
+strukturiert, d.h. interaktiv und nach 
+bestimmten Suchkriterien erfolgen 
+kann. Dabei handelt es sich um die 
+Auswahl eines Sensors, eines Aufnahme­
+zeitpunktes bzw. -Zeitraumes und des 
+räumlichen Ausschnitts (geographische 
+Lage). Beispielsweise ist die Eingabe­
+möglichkeit eines geographischen 
+Namens vorgesehen, z. B. eine Stadt 
+oder ein Fluss. Das System ermittelt die 
+zugehörigen Koordinaten auf der Basis 
+der Digital Chart of the World und des 
+Geographischen Namenbuchs der 
+Bundesrepublik ILotz-lwen et. al. 1995). 
+Unterstützt wird die Suche dabei durch 
+die schon 1995 eingerichtete grafische 
+Schnittstelle (GISIS), die auf einer 
+Client-Server Architektur beruht (Abb. 3). 
+Die Client-Software lässt sich in der je­
+weils aktuellen Version herunterladen 
+(http://isis.dlr.de/services/ISIS/ISIS. 
+html). Um geographische Suchbereiche 
+festzulegen, kann dabei auch mit einem 
+auf der Technik des Xerox PARC Map 
+Viewers basierenden Mapbrowser 
+gearbeitet werden.
+
+Wie andere Anbieter von Satelliten­
+daten arbeitet das DFD in seinem elek­
+tronischen Katalogen mit so genannten 
+"Quicklooks", d. h. datenreduzierten 
+Kopien der Originaldatensätze, die 
+zum Browser des Nutzers übertragen 
+werden. Bereits in der Ergebnisliste 
+einer Suchabfrage wird angegeben,
+
+ob ein Datensatz mit Hilfe eines Quick­
+looks visualisiert werden kann. Es han­
+delt sich dabei um ein JPG-Format, 
+das sich auf Grund seiner geringen 
+Größe (30-200 kByte) in kurzer Zeit 
+herunterladen lässt. Interessenten wird 
+somit vor einer langwierigen und zu­
+meist kostenpflichtigen Bestellung die 
+Datensichtung ermöglicht. Dadurch 
+kann vorab die Verwendbarkeit eines 
+Satellitenbildes z. B. hinsichtlich der 
+Wolkenbedeckung geprüft werden 
+(Stahl 1995). Der zentrale Katalog von 
+SPOT-Bildern enthält mittlerweile über 
+2,2 Mio Quicklooks. Bei GISIS sind die 
+Quicklooks darüber hinaus geeignet, 
+interaktiv Ausschnitte von Satelliten­
+szenen auszuwählen. Durch das Auf­
+ziehen von Rechtecken können somit 
+Teildatensätze für die Übertragung 
+festgelegt werden.
+
+4 Ausblick
+Geodatenserver können heute die 
+
+Beschaffung bzw. die Bereitstellung 
+von Daten für die Kartographie und 
+Fernerkundung vereinfachen. Hierzu 
+tragen die grundsätzlichen Vorzüge 
+internetbasierter Client/Server-Systeme 
+bei: plattformübergreifendes Abruf- 
+Verfahren, unmittelbarer und durch­
+gehender, d. h. von Öffnungszeiten 
+unabhängiger Zugriff, Benutzerfreund­
+lichkeit und die Möglichkeit zu Inter­
+aktion und Datenmodellierung. Die 
+dialog-orientierte Form der Informa­
+tionsvermittlung versetzt Nutzer in die 
+Lage, sehr individuelle und zielgerich­
+tete Abfragen vorzunehmen. Die Ein­
+richtung geeigneter Visualisierungs­
+systeme kommt dabei dem stärker multi­
+medial beeinflussten Wahrnehmungs­
+
+verhalten der Nutzer entgegen und 
+erweitert den Kreis potenzieller An­
+wender. Aus der Sicht vieler Datenan­
+bieter zeigt sich, dass Geodatenserver 
+ein geeignetes Präsentationsmedium 
+bilden. Dies gilt nicht nur für die Ver­
+marktung von Geodäten selbst (Satel­
+litenbilder, Geobasisdaten), sondern 
+auch für die Vermittlung komplexer 
+raumbezogener Sachverhalte in den 
+Bereichen Bildung und Öffentlichkeits­
+arbeit, z. B. karten gestützte Umweltinfor­
+mationssysteme. In der Kartographie 
+und Fernerkundung lassen sich infolge 
+des schnellen und vergleichsweise 
+unkomplizierten Zugriffs auf entfernte 
+Datensammlungen oder Metainforma­
+tionen einige Arbeitsschritte (Daten­
+suche und -erfassung) effizienter ge­
+stalten. Allerdings bleibt das Problem 
+mangelnder Kompatibilität (GIS-For- 
+mate) und Qualität von Geodäten für 
+die externe Weiterverarbeitung beste­
+hen. Geodatenserver bieten hier allein 
+noch keine Lösung.
+
+Literatur
+
+Alisch, M. (1997): Surfing Internet.- Datenfrust? Infolust!, 
+in: GeoBIT, 3, S. 6-8.
+Beckert, A, Wagner, A., Wenninger, H. (1998): Geo­
+däten im Internet. Aufbau eines flächendeckenden 
+Geoinformationssystems für bayerische Katasterdaten, 
+in: Der Vermessungsingenieur, 49. J., H. 2, S. 69—74. 
+Dickmann, F. (1997): Kartographie im Internet. Grenzen 
+und Möglichkeiten der neuen Informationstechnologie 
+für die kartographische Praxis, in: Kartographische 
+Nachrichten, 47. Jg., H. 3, S. 87-96.
+Dickmann, F. (1999): Internet Map Server - Zur Funk­
+tionalität und Anwendung eines neuen kartographi­
+schen Mediums, in: Erdkunde — Archiv für wissen­
+schaftliche Geographie, Bd.53, S. 65-75.
+Drießen, S. (1999): Gewusst wo — Der Weg zu Geo­
+däten über das Internet, in: GeoBIT 3/1999, S. 27-29. 
+Figura, J. (1999): Geodäten für alle? Möglichkeiten 
+und Grenzen der Normierung komplexer Daten­
+modelle, in: GeoBit, 4, S. 30-32.
+Friedrich, J. (1999): Modellierung von geodätischen 
+Anwendungen für Client/Server-Computernetzwerke 
+mittels Web-Technologie, in: Allgemeine Vermessungs­
+nachrichten, 4, S. 123-127.
+
+KN
+4/2000
+
+http://isis.dlr.de/services/ISIS/ISIS
+
+
+Leppin et al., Berührungsloses Scannen
+
+Friedrich, J. (1997): Nutzung und Vermarktung geo­
+dätischer Dienstleistungen über Computernetzwerke - 
+Grundideen, Grundlagen und Verwirklichung, in: Zeit- 
+schr. f. Vermessungswesen, 12, S. 574-581.
+Huber, M. (1998): High Tech - Entwicklungstrends bei 
+Geodaten-Servern, in: GeoBIT, 3, S. 18-20. 
+liiert, A.: MEGRIN: Kooperation der Amtlichen Karto­
+
+graphie in Europa, in: Deutsche Gesellschaft für Karto­
+graphie (Hrsg.) (1997): GIS und Kartographie im multi­
+medialen Umfeld — Grundlagen, Anwendungen und 
+Entwicklungstrends, Kartographische Schriften Bd. 2, 
+Bonn, S. 78-82.
+Jiang, ß. / Ormeling, F.J. (1997): Cybermap-. The Map 
+for Cyberspace, in: Cartoqraphic Journal, Bd. 34, 
+H.2,S. 111-116.
+Lotz-Iwen, H.J., Gäbe,, R., Markwitz, W. (1995): ISIS- 
+Fernerkundung für ¡edermann, Heidelberg.
+Seeberger, S. (1998): Moderne Architekturen - Anbin­
+dung von GIS an das WWW, in: GeoBIT, 5, S. 18—21.
+
+Berührungsloses Scannen zur Nutzung 
+historischer Karten für den 
+Eigentumsnachweis an Liegenschaften
+
+Dierk Leppin, Rainer Rausch, Schwerin; Stephan Zinndorf, Diepoldsau
+
+a Zur Rechtslage
+Erbpachtländereien wurden in Meck­
+
+lenburg im Zeitraum von 1751 bis 1896 
+
+an Rittergutsbesitzer, das Großherzog­
+liche Forst Collegio oder die Kloster- 
+
+9üter (ab 1920 im Landeseigentum) 
+
+verpachtet. In Mecklenburg existieren 
+280 Erbpachtverträge über Kirchen- 
+
+Ur|d Pfarrländereien. Die als Bestand­
+
+teil des Vertrages erstellten Kommissions- 
+
+Und Bonitierungsprotokolle weisen 
+Größe und Qualität dieser Flächen 
+
+aus.
+
+Obwohl kircheneigenes Land nach 
+den Bestimmungen über die Boden­
+
+reform im Lande Mecklenburg vom 
+5. September 1945 nicht in die Boden­
+
+reform hätte einbezogen werden dürfen, 
+
+lsL ein Viertel der Kirchenländereien
+
+Stahl, R. (1995): Aufbau einer digitalen, vernetzten 
+Informationsstruktur über Geoinformationssysteme im 
+Internet, in: Buziek (Hrsg.): GIS in Forschung und 
+Praxis, Stuttgart, S. 76-90.
+Stahl, R. (1994): GIS-Ressourcen im Internet. Salzburger 
+Geographische Materialien, Nr. 21, Salzburg (http:// 
+www.laum.uni-hannover.de/ilr/veroef/inlernet.html). 
+Strobl, J. (1998): Heiße Quellen — GIS-lnformationen 
+im Internet, in: GeoBIT, 3, S. 22-24.
+Wenninger, H., Beckert, A. (1998): Geodäten im Inter­
+net. Aufbau eines flächendeckenden GIS für bayeri­
+sche Katasterdaten und neue Anwendungen, in: GIS 
+— Zeitschrift für raumbezogene Informationen und Ent­
+scheidungen, 1, S. 9-11.
+
+Anschrift des Verfassers: Doz. Dr. Frank Dickmann, Tech­
+nische Universität Dresden, Institut für Kartographie, 
+Mommsenstr. 13, D-01062 Dresden, E-Mail: dickmann 
+@karst8.geo.tu-dresden.de
+
+widerrechtlich enteignet worden. Nach 
+
+1990 haben die Treuhandanstalt in 
+
+Berlin (BvS), ihre Tochtergesellschaften 
+
+oder die Oberfinanzdirektion Rostock 
+
+diese rund 6600 Hektar umfassenden 
+
+Flächen zur Verwaltung übertragen er­
+
+halten, soweit nicht inzwischen Privat­
+
+eigentümer im Grundbuch eingetragen 
+
+sind. Der Ausweis des kirchlichen 
+
+Eigentums über die Grundbücher ist 
+
+nicht möglich, weil die Kirche in Meck­
+
+lenburg grundbuchbefreit war. Deshalb 
+
+ist auf den ersten Blick nicht zu erkennen, 
+
+dass das Land der Kirche gehört.
+
+Wenn die Kirche den Nachweis ihres 
+
+Eigentums an den Erbpachtländereien 
+
+führen kann, ordnet die BvS diese 
+
+Ländereien der jeweiligen örtliche 
+
+Kirche zu. Von ca. 6600 ha betroffener 
+
+Fläche sind inzwischen 1200 ha zuge­
+
+ordnet worden. Bei bereits verkauften
+
+Flächen ist die Naturalrestitution aus­
+
+geschlossen. Für diese Flächen gibt 
+
+es Erlösauskehr in Höhe des Verkaufs­
+
+erlöses.
+
+Bearbeitungs­
+procedere1 22
+
+2.1 Liegenschaftsdokumentation
+
+Die BvS verlangt eine vollständige Kopie 
+
+des in den Archiv- und Registratur­
+
+akten des Oberkirchenrates aufge­
+
+fundenen handschriftlichen Original­
+
+vertrages sowie eine „Übersetzung" 
+
+(Abschrift) des in altdeutscher Sprache 
+
+des 17 und 18. Jahrhunderts abge­
+
+faßten Vertrages in heutigem Deutsch. 
+
+Um einen lückenlosen Nachweis über 
+
+die Liegenschaftsgeschichte zu erstellen, 
+
+ist es erforderlich, jede Seite der um­
+
+175
+
+fangreichen Akten bis zur Enteignung 
+
+durch die Bodenreform zu prüfen.
+
+2.2 Nachweis der heutigen Lage 
+der Erbpachtländereien
+
+Zum Nachweis der Erbpachtländereien 
+
+ist deren Lage in der Gemarkung unter 
+
+Bezugnahme auf historisches Karten­
+
+material zur Zeit des Vertragsabschlus­
+
+ses zu zeigen. Da bereits damals der 
+
+Grundbesitz besteuert werden sollte, 
+
+wurde anno 1755 im „Landesgrund­
+
+gesetzlichen Erbvergleich" festgehalten, 
+
+dass hierfür die Direktorialvermessung 
+
+als grundlegendes Kartenwerk dienen 
+
+sollte. Die Geistlichen Ländereien
+
+1 Rainer Rausch
+2 Dierk Leppin
+
+KN
+4/2000
+
+http://www.laum.uni-hannover.de/ilr/veroef/inlernet.html
+dresden.de

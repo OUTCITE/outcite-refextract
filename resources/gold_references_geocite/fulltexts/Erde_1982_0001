@@ -1,0 +1,818 @@
+Die amerikanische Golf-Küste: Ein neuer industrieller Schwerpunkt
+
+
+DIE ERDE 113 1982 Pp. 1-20
+
+Wilfried Endlicher (Freiburg im Breisgau)
+
+Der peripher-zentrale Wandel des Ökotopengefüges 
+im Hudson-Bay-Tiefland
+
+analysiert mit Hilfe von Fernerkundungsmethoden*)
+
+Mit 8 Luftbildern und 4 Figuren, davon 1 mehrfarbige digitale Karte als Beilage
+
+Das Ökotopengefüge des Hudson/James-Bay-Tieflandes, einer Sumpflandschaft in Nordontario, 
+wird in seinem Wandel von der James-Bay-Küste zum Zentralteil um die Sutton Ridges vorgestellt. 
+Dieses Luftbildprofil zeigt im Rückblick, wie sich der Naturraum seit seinem isostatischen Auftau­
+chen aus der Tyrrell See verändert hat. Die Sukzession geht dabei von Marsch über Niedermoor zum 
+Hochmoor und bei Permafrosteinfluß bis zu Torfplateaus. Eine flächendeckende Klassifizierung der 
+Ökotope eines Testgebietes aus einem LANDSAT-Bild wurde mit Hilfe digitaler Bildverarbeitungs­
+methoden versucht. Methodik und Problematik dieses Verfahrens werden diskutiert.
+
+Summary: The ecotopic pattems of the Hudson Bay Lowlands and their peripheric-central change 
+shown by means of remote sensing.
+
+The ecotopic pattems of the Hudson Bay Lowlands, a wetland in northern Ontario, are shown in 
+their change from the James Bay coast to its central part near the Sutton Ridges. This air photo pro- 
+file shows how the natural landscape has changed since its isostatic uplift out of the Tyrrell Sea. The 
+succession goes from marsh to fen, from fen to bog, and, by permafrost occurrence, to peat plateaus.
+
+The Classification and mapping of the ecotops around Opinnagau Lake was possible with digital 
+LANDSAT-image Interpretation and ink jet printing. This method and its critical points are discus- 
+sed.
+
+1. Einleitung
+Die Hudson/James Bay wird im Westen und Süden von einem wechselnd breiten Tief­
+
+landstreifen eingerahmt, der mit 324 000 km2 die Ausdehnung der Bundesrepublik um % 
+übertrifft und der zu 20 % der Provinz Manitoba, zu 80 °/o der Provinz Ontario zuge­
+rechnet wird. Das Tiefland wird von den anstehenden Gesteinen des Präkambrischen 
+Schildes begrenzt. Seine Physiographie wird von mehreren Faktoren bestimmt.
+
+Die ungefalteten paläozoischen Sedimente, zumeist Kalke, Dolomite und Sand­
+steine, sind flachlagernd und fallen nahezu unmerklich zum Zentrum der Hudson Bay ein. 
+Nur an wenigen Stellen, z. B. am Attawapiskat River, sind die Kalke angeschnitten und 
+Verkarstungserscheinungen festzustellen. Fast ausnahmslos fehlt jegliche Reliefierung, so
+
+*) Herrn Dr. Simsek Pala, Ontario Centre for Remote Sensing, Toronto, bin ich für seine zuvor­
+kommenden Auskünfte und immerwährende Unterstützung zu ganz besonderem Dank verpflich­
+tet. Das gleiche gilt auch für Herrn John Riley vom Royal Ontario Museum, Toronto. Meinen 
+Dank möchte ich auch der Deutschen Forschungsgemeinschaft für die großzügig gewährte Reise­
+beihilfe aussprechen.
+
+Dr. Wilfried Endlicher, Geographisches Institut I der Universität Freiburg, Werderring 4, D—7800 
+Freiburg.
+
+
+
+W. Endlicher Die Erde2
+
+daß die Höhenlage von der Küste bis zum Präkambrischen Schild auf kaum 200 m 
+ansteigt. Zu den Ausnahmen zählen die präkambrischen Auslieger der Sutton Ridges. Die 
+ordovizischen Dolomite und Kalke sind hier entfernt und präkambrische Diabase und 
+metamorphe Sedimente treten als spektakuläre Landstufe mit Höhen bis 275 m in Erschei­
+nung.
+
+Auf das Fundament des Anstehenden ist zweitens eine z. T. 50 m und mehr mächtige 
+Decke von quartären Sedimenten aufgelagert. Hierzu rechnen zum einen das Grund- 
+moränenmaterial (glacial tili) der verschiedenen Eiszeiten in meist feinkörnig-lehmiger 
+Ausbildung als Verwitterungsprodukt der relativ weichen Sedimente. Zu einem geringeren 
+Teil sind aber auch lakustrische Sedimente verbreitet. Das Eis der Hudson Bay blockierte 
+am Ende der Wisconsin-Vereisung die Flüsse und staute sie zu kurzlebigen Seen auf, was 
+zur Sedimentation von Beckentonen führte.
+
+Als drittes Element ist der Meereseinbruch der Tyrrell See nach dem Ende der 
+Wisconsin-Vereisung, ca. 8000—7500 vor heute, zu nennen. Der Bereich dieser marinen 
+Ingression im durch die Eislast isostatisch abgesenkten Tiefland ist durch den Verlauf fos­
+siler Küstenlinien gut markiert und stimmt etwa mit der Grenze zum Präkambrischen 
+Schild überein [Craig 1969, p. 67]. Zur glazialen und lakustrischen Fazies tritt nun eine 
+litoral-neritische, zumeist lehmige Schluffe. In dem sich seither langsam hebenden Tief­
+land bilden dabei die große Zahl der Strandwälle (Beach Ridges) eine wichtige Land­
+schaftskomponente. Sie zeigen den jeweiligen temporären Küstenverlauf bei der anhalten­
+den Hebung an. Ihr Substrat setzt sich überwiegend aus gewaschenem Sand und Kies mit 
+hohem Quarzanteil zusammen.
+
+Das fehlende Gefälle (ca. 0,5—1,0 m/km), die Versiegelung des Untergrundes durch 
+die Ton-Schluff-Sedimente und die Zergliederung durch die meist quer zur Hauptabfluß­
+richtung verlaufenden Strandwälle sind die Hauptgründe dafür, daß das Hudson/James- 
+Bay-Tiefland eine extrem schlecht drainierte Sumpflandschaft darstellt. Sie wird entweder 
+einfach als ein Wetland oder mit dem indianischen Begriff als Muskeg (etwa „Sumpfwald“) 
+bezeichnet. „ The main characteristic of the lowland during the summer is wetness. When seen 
+from the air, the land looks as if it has risen recently out of Hudson Äry“[BiRD 1980, p. 218].
+
+Dieses edaphische Gerüst wird durch klimatische Parameter modifiziert. Die Jahres­
+niederschläge nehmen vom kontinentaleren Nordwesten zum maritimeren Südosten von 
+510 mm auf 760 mm zu [Chapman & Thomas 1968]. Die mittleren täglichen Maxima der 
+Lufttemperatur liegen im Juli im Süden (Moosonee) bei ca. +22°C, die mittleren tägli­
+chen Minima im Januar bei ca. — 27 °C. Die Isothermen verlaufen in west-östlicher Rich­
+tung. In der James Bay hält sich eine Eisdecke von November bis Mai, und das Tiefland ist 
+fast gänzlich dem Permafrostbereich zuzuordnen. Die Südgrenze diskontinuierlichen Per­
+mafrostes wird von Brown [1973, pp. 35 sq.] mit ca. 51° N angegeben und erreicht an der 
+Südspitze der James Bay ihre südlichste Lage in Kanada außerhalb der Kordilleren. Das 
+gleiche gilt für die Zone kontinuierlichen Permafrostes, die einen schmalen Streifen ent­
+lang der Hudson Bay einnimmt und am Nordende der James Bay ebenfalls die südlichste 
+Lage in Kanada aufweist. Eine Abgrenzung dieser Zonen aufgrund von klimatologischen 
+Meßwerten ist bei nur zwei langjährig betriebenen Klimastationen nicht möglich. Deshalb 
+muß auf die Interpretation von Permafrostmustern anhand von Luftbildern und ergänzend 
+dazu auf Bohrkampagnen, die allerdings nur mit Hubschraubereinsatz möglich sind, 
+zurückgegriffen werden. Derartige Untersuchungen von Riley [1981 b] erlauben eine 
+detailliertere Untergliederung insbesondere der breiten Übergangszone, in der Permafrost 
+nur noch sporadisch auftritt (Fig. 1).
+
+
+
+1982/1 Hudson-Bay-Tiefland 3
+
+Legende
+Hydrographie
+
+| | Untersuchungsgebiet
+
+k 1 Grenze der Tyrrell See
+
+kontinuierlichem 
+Südgrenzen ( weitverbreitetemE3
+
+ES I sporadischem 
+
+Permafrost
+
+I | Subarktische Tundra
+I 1 Offenes Sumpfland mit Torfplateaus
+
+Offenes und bewaldetes Sumpfland 
+Boreales Sumpfland
+Küstenmarsch
+
+| x x | Präkambrische Auslieger 100 200 km0
+
+Fig. 1; Vegetationsgliederung und Permafrostverteilung im Hudson-Bay-Tiefland (unter Verwen­
+dung von Riley 1981 b; Grenze der Tyrrell See nach Craig 1969).
+
+
+
+4 W. Endlicher Die Erde
+
+2. Das Ökotopengefüge des Tieflandes
+Das Ökotopengefüge des Hudson/James-Bay-Tieflandes, also die charakteristische 
+
+Anordnung homogener Standorteinheiten, ist wesentlich reicher, als es die Topographi­
+sche Karte im größten bisher vorliegenden Maßstab 1 : 250 000 vermuten läßt. Aus ihr läßt 
+sich praktisch nur die Untergliederung in einen Küstenstreifen und in eine Inlandsumpf­
+zone (Muskeg) durchführen.
+
+Die ersten Schritte zu einer Physiographie des Tieflandes wurden in den 50er Jahren 
+von Coombs [1954], Hustich [1957] und Sjörs [1959] unternommen. Schon in ihren 
+Untersuchungen bildeten Luftaufnahmen das tragende Gerüst. Radforth [1969] gliederte 
+mit ihrer Hilfe „airform pattems“ aus, doch erwies sich dieser Weg als wenig gangbar, da 
+hier die ökologischen Zusammenhänge kaum Berücksichtigung fanden. Der Einsatz von 
+Hubschraubern seit den 60er- und die LANDSAT-Satellitenbilder seit den 70er-Jahren 
+ließen die Komplexität der Landschaft immer deutlicher werden. Mit diesen neuen Hilfs­
+mitteln konnten nun neue Landschaftsgliederungen nach physiognomisch-ökologischen 
+Einheiten entwickelt werden [Jeglum et al. 1974; Riley 1981 a, b; Sims & Wickware 
+1981]. Als wichtigste Ökotope der Sumpflandschaft wären danach aufgrund morphologi­
+scher Form, Vegetationszusammensetzung (u. a. Zeigerpflanzen), pH-Wert, Tiefe des 
+Grundwasserspiegels, Torfmächtigkeit und eventuell Permafrostmuster die folgenden zu 
+nennen:
+
+1. Torffreie, höherliegende Landschaftseinheiten (Upland)
+1.1 Ausbeißende Felsburgen des Anstehenden (Bedrock Outcrops)
+1.2 Erosionsformen im Grundmoränenlehm
+
+1.2.1 Rinnentäler (Subglacial Channels)
+1.2.2 Flußanschnitte (River Cuts)
+
+1.3 Akkumulationsformen verschiedenen Alters
+1.3.1 Sanderflächen (Glacial Outwash)
+1.3.2 Strandwälle (Beach Ridges)
+1.3.3 Rezente Hochufer (RiverLevees)
+
+2. Sumpfland (Muskeg)
+2.1 Offene Wasserflächen
+
+2.1.1 Hochmoorblänken (Bog Pools)
+2.1.2 Niedermoorblänken (Fen Pools, Flarks)
+2.1.3 Randsümpfe (Laggs)
+2.1.4 Mergelseen (Marl Lakes)
+
+2.2 Hochmoore (Bogs)
+2.2.1 Wiesenhochmoore (Open Bogs)
+2.2.2 Waldhochmoore (Treed Bogs)
+
+2.3 Niedermoore (Fens)
+2.3.1 Strangniedermoore (Pattemed Fens)
+2.3.2 Waldniedermoore (TreedFens)
+
+2.4 Sonstige Sumpfformen (Swamps)
+
+2.5 Marsch (Marsh)
+2.5.1 Watt (Tidal Marsh)
+2.5.2 Springflutsalzmarsch (Supertidal Marsh)
+2.5.3 Süßwasseraltmarsch (Freshwater Marsh)
+
+
+
+1982/1 Hudson-Bay-Tiefland 5
+
+2.6 Torfformen mit Permafrostkern
+2.6.1 Palsas
+2.6.2 Torfplateaus (Peat Plateaus)
+
+In den folgenden Abschnitten sollen nun nicht die Abgrenzungskriterien dieser Öko- 
+tope beschrieben und begründet werden. Vielmehr soll der auffällige Landschaftswandel, 
+der auf Luft- und Satellitenbildern vom Tieflandsrand an der James Bay bis zum Zentral­
+teil um den Sutton Lake verfolgt werden kann, vorgestellt und begründet werden.
+
+3. Landschaftsökologisches Ost-West-Profil 
+entlang des Lakitusaki Rivers (54° 20' N)
+
+In seiner Übersichtskarte des Ontario-Teiles des Tieflandes gliedert Riley [1981 b] 
+fünf Zonen aus (Fig. 1):
+
+Das Boreale Sumpfland (Boreal Wetland oder Boreal Muskeg} im Süden bildet den 
+praktisch permafrostfreien Südsaum zum Borealen Nadelwald. Die Komponente des 
+geschlossenen Waldes ist hier noch vergleichsweise stark vertreten (vgl. Pala & Weischet 
+1981). Sie tritt im den sich nordwärts anschließenden offenen und bewaldeten 
+Sumpfland (open and treed Wetland oder open Wetland/Muskeg} zurück. Das offene 
+Torfplateau-Sumpfland mit weitverbreitetem Permafrost und dementsprechend 
+zahlreichen Torfplateaus wird durch die Baumgrenze von der maritim induzierten sub­
+arktischen Tundra getrennt. Aus floristischen und klimatischen Gründen ist der über­
+wiegende Teil der James-Bay-Küste dagegen als Marsch aufzufassen. Die Vegetation ist 
+wesentlich artenreicher als in der Tundra, und Permafrostmuster fehlen.
+
+Neben diesem planetarischen ist der peripher-zentrale Wandel von der James Bay ins 
+Landesinnere besonders interessant, da er gleichzeitig einen Rückblick auf die Entwick­
+lung des Naturraumes in den letzten 8000 Jahren erlaubt. Vor dieser Zeit lag das Tiefland 
+unter der Tyrrell See und höchstens die Spitzen der Sutton Ridges bildeten kleine Inseln. 
+Für die Untersuchung standen flächendeckende LANDSAT-Farbkompositen (Juli 1974) 
+im Maßstab ca. 1 : 250 000 und Schwarz-Weiß-Stereo-Luftbildpaare (Juni 1976) im Maß­
+stab 1 : 60 000 zur Verfügung. Ein charakteristischer, ca. 170 km langer Abschnitt in der 
+Breitenlage von Kiel (ca. 54° 20' N) wurde ausgewählt, entlang dem typische Landschafts­
+ausschnitte in Form von interpretierten Luftbildern vorgestellt werden (Fig. 2).
+
+3.1 James Bay
+Bild 1 zeigt die Küste südlich der Mündung des Lakitusaki Rivers. Die James Bay ist 
+
+hier wie überall extrem flach, im Mittel nur 28 m tief. Die hohe Süßwasserzufuhr im Som­
+merhalbjahr führt bei dieser geringen Tiefe zu einem sehr niedrigen Salzgehalt und einem 
+hohen Mineralreichtum des Wassers. Die Tide reicht oft mehrere Kilometer weit.
+
+3.2 Küstenmarsch
+Auf Bild 1 können weiter deutlich 3 küstenparallele Streifen unterschieden werden: Ein 
+
+heller, von dunkleren Bachmündungen durchsetzter Streifen direkt an der Küste. Hierbei 
+handelt es sich um das regelmäßig bei Flut von Salzwasser überspülte Watt mit halophiler 
+Vegetation. An sie schließt sich ein mittelgrauer, gesprenkelter Streifen an. Er dürfte nur 
+noch bei Springfluten von Salzwasser erreicht werden und deshalb zur Springflutsalz­
+marsch zählen. Das fleckige Mikrorelief deutet auf vegetationsfreie Stellen hin. Sie ent­
+stehen häufig dann, wenn die Vegetationsdecke an Eisschollen festfriert und später durch 
+Brandungsvorgänge mit losgerissen wird. Der dritte, innere Streifen wird durch die senk­
+recht auf die Küste zulaufenden, dunkelgrauen Drainagerinnen in unterschiedlich breite
+
+
+
+84° 45 W 
+54° 20* N West Ost
+
+82° 00 W 
+54° 20" N
+
+Hudson Bay Tiefland
+
+Subgtaziale Sutton 
+Schmelzwasser- Ringes
+
+rinnen Schichtstufe
+Grundmoränenplatten 
+
+mit Hochmooren, 
+Niedermooren und 
+
+Moorblänken
+
+Strangniedermoore und 
+interfluviale Wiesenhochmoore
+
+Strangnieder moore Waldniedermoore
+Marsch
+
+Strandwalldurchbruch
+
+'’r^,a?t>r'scher i—rA—r-
+z" - Schild - ■ 1 ~-l s /Z' /,
+
+Strandwalle mit
+Mergelseen und
+Flußdurchbruch
+
+Sußwasser- Watt und 
+Wiesenmarsch r Salzmarsch
+
+Rezente
+Strandlinie
+
+Überhohungsfaktor 50
+
+Fig. 2: Landschaftsgliederung entlang des Lakitusaki Rivers (54° 20'N) von der James-Bay-Küste 
+zum Sutton Lake; Lage des Profils A—B s. fig. 1.
+
+. Endlicher 
+D
+
+ie Erde
+
+
+
+1982/1 Hudson-Bay-Tiefland 7
+
+Bild 1: Küstenmarsch an der James Bay ca. 54° 20', 82° 30'W; CCRS Luftbild No. A 24482—89 
+vom Juni 1976.
+
+Bänder aufgeteilt. Es ist die nicht mehr von der Flut erreichte Süßwasseralt- oder 
+Wiesenmarsch. Der Verlauf der alten Küstenlinien ist noch deutlich in den küsten­
+parallelen Linien nachzuweisen. Die dunklen Streifen entlang der autochthonen Wasser­
+läufe lassen auf eine einsetzende Dickicht- oder Buschformation schließen. Permafrost­
+muster sind nicht erkennbar, da die Torfauflage noch zu gering für eine Abblockung des 
+Bodenwärmestromes ist.
+
+3.3 Waldniedermoore
+Wenige Kilometer landeinwärts zeigt Bild 2 den Wechsel des Marschlandes in ein land­
+
+überziehendes, einförmiges, bewaldetes Niedermoor. Charakteristischer Baum ist die 
+Lärche (Larix laricina; Tamarack), so daß man geradezu von einem „Tamarack-Fen“spre­
+chen kann. Der fleckige Marschcharakter paust sich stellenweise durch den noch sehr fla­
+chen Torf durch. Die Flüsse werden von Schwarzfichtengalerien gesäumt. Diese Galerien 
+werden in der Literatur stellenweise mit einer eigenen Klasse „ Swamp “ belegt. Sie besitzen 
+eine scharfe Grenze zu den Niedermooren. Die Schwarzfichtengalerien sind aber auch 
+schon als Torfplateaus zu interpretieren. Hierfür sprechen die hellen Flecken inmitten 
+der Schwarzfichtensäume. Es sind kollabierte, baumfreie Teile, auf denen Sphagnen, 
+Flechten und Labrador Tea ein höheres Reflexionsvermögen besitzen. Anzahl und Fläche 
+der kollabierten Torfplateaus nimmt landeinwärts zu. Dies weist auf die zyklische Ent­
+wicklung von Palsen und Torfplateaus hin. Folgende Sequenz erscheint möglich: Ein 
+Sphagnum-Kissen beginnt sich auf einer unmerklich besser drainierten Stelle, wie sie z. B. 
+ein Hochuferabschnitt oder ein Niedermoorrand darstellen, zu entwickeln. Kleine 
+Schwarzfichtenstämme siedeln sich auf ihnen an. Unter diesen Stämmen ist die Schnee­
+akkumulation im Winter geringer, so daß das beginnende Hochmoor tiefer durchfriert. 
+Die schattenwerfenden Bäume verzögern dann den Tauvorgang im Sommer bzw. ver­
+brauchen die eingestrahlte Energie für ihre Transpiration. Permafrost läßt eine Palsa ent­
+stehen, durch die wiederum eine Verbesserung der Drainage erreicht wird und über weite­
+res Moos- und Baumwachstum ein Selbstverstärkungseffekt eintritt. Der Kulminations­
+punkt sind zusammengewachsene, bis zu 8 m hohe Torfplateaus. Die Degradation zum
+
+
+
+W. Endlicher Die Erde8
+
+Kollaps wird durch randliche Erosion (Regen, Wind) hervorgerufen, durch die die isolie­
+rende Torfschicht entfernt wird [Brown 1973, p. 155], Als charakteristischen Zeitraum für 
+eine maximale Peat Plateau-Entwicklung nennen Railton & Sparling [1973] 200 Jahre.
+
+3.4 Strangniedermoore und Strandwallkomplexe
+Mit zunehmender Entfernung von der Küste wächst auch die Torfmächtigkeit. Damit 
+
+geht eine selektive Permafrostverstärkung in den Niedermooren einher. Das charakteristi­
+sche Muster bilden ausgedehnte Strangniedermoore (Bild3). Es ist noch immer unge­
+klärt, weshalb letztendlich die so augenfällige Gliederung dieses Niedermoortyps in eher 
+ombrotrophe, von Schwarzfichten bestandene, ca. 2 m hohe Torf-Stränge und mine- 
+rotrophe, flache, wasserverfüllte Niedermoorblänken entsteht. In den Strängen steht 
+Permafrost, die Moorseen sind permafrostfrei.
+
+Entlang der Flüsse fällt folgende Weiterentwicklung auf: Zwischen die Schwarzfich­
+tengalerien und die Niedermoore hat sich eine Hochmoorzone geschoben, die an der 
+helleren, durch die Sphagnen hervorgerufenen Tönung und den ombrogenen Hochmoor­
+blänken zu erkennen ist. Die Riffelung der Hochmooroberfläche läßt Palsaentwicklung 
+vermuten. Es ist deutlich zu erkennen, daß die Entwässerungsrichtung des Hochmoors auf 
+das Niedermoor ausgerichtet ist. Das Hochmoor ist also asymmetrisch gebaut und hat 
+seine Kulminationslinie in Flußnähe.
+
+Im Westen wird das Niedermoor von neuen Texturen und Mustern begrenzt. Sie wei­
+sen auf veränderte ökologische Bedingungen hin! Es handelt sich um den ersten größeren, 
+fossilen Strandwallkomplex (Beach Ridges) landeinwärts. Seine nord-südliche Erstrek- 
+kung verläuft parallel zur heutigen Küstenlinie. Die Strandwälle bestehen aus einem Sub­
+strat von Grobsand und Geröll und bilden damit relativ trockene, gut drainierte, mineral­
+reiche Standorte, selbst wenn sie nur wenige Meter über die Niedermoore hinausreichen. 
+Die Pfeffer- und Salz-Textur ist charakteristisch für einen lichten Schwarzfichtenwald 
+(Woodland) über flechtenbesetztem Untergrund. Zwischen den einzelnen Strandwällen 
+werden kleine Seen aufgestaut. Sie heben sich mit ihrer helleren Wasserfarbe deutlich als 
+Weißwasserseen von den Blänken des Hochmoors ab. Es sind sog. Mergelseen, d. h. auf­
+grund ihrer Lage inmitten der Strandwälle extrem minerotrophe Niedermoorblänken. 
+Durch ihre Vegetation sind sie selbst im Satellitenbild leicht zu erkennen.
+
+Der Lakitusaki River hat den Strandwallkomplex offenbar in Form eines Uberlauf­
+durchbruchs zerschnitten. Die geringe Gefällserhöhung genügte zur Tiefenerosion und 
+Anschneiden der Grundmoränenunterlage (glacial tili). An den Talhängen stockt ein offe­
+ner Wald, wobei für derartige mineralreiche, geschützte Standorte neben den Schwarz­
+fichten (Picea mariana) auch Weißfichten (Picea glauca), Kiefern (Pinus banksiana) und 
+Pappeln (Populus spp.) charakteristisch sind. Bei dem im Luftbild wiedergegebenen Fluß­
+abschnitt handelt es sich um rezentes Akkumulationsgebiet, kenntlich an den zahlreichen 
+Totarmen, dem mäandrierenden Lauf und den hellen, vegetationslosen Sand- oder Schot­
+terbänken.
+
+3.5 Interfluviale Wiesenhochmoore
+Flußaufwärts dieses Strandwallkomplexes schließt sich eine weitere Entwicklungsstufe 
+
+an. Der Lakitusaki River hat hier eine junge Erosionsstrecke in der Grundmoränenauflage 
+geschaffen (Bild 4). Sie ist an der schütteren Vegetation der zerrunsten Talhänge und dem 
+relativ gestreckten Flußlauf zu erkennen. Es ist auffallend, daß die drei parallel zum Laki­
+tusaki River verlaufenden Gerinne kein derartiges Kerbtal geschaffen haben. Sie entwäs­
+sern auch nicht in die James Bay, sondern in die Hudson Bay, so daß wir hier einen
+
+
+
+1982/1 Hudson-Bay-Tiefland 9
+
+Bild 2: Waldniedermoore am Lakitusaki River westlich der Mündung in die James Bay ca. 54° 25' N, 
+82° 50' W; CCRS Luftbild No. A 24482-93 vom Juni 1976.
+
+Bild 3: Strandwallkomplex im Strangniedermoorgebiet am Lakitusaki River ca. 54° 20'N, 
+83° 20' W; CCRS Luftbild No. A 24482-99 vom Juni 1976; Legende s. Bild 6.
+
+
+
+10 W. Endlicher Die Erde
+
+Bild 4: Interfluviale Wiesenhochmoore am Lakitusaki River ca. 54° 15' N, 83° 40' W; CCRS Luftbild 
+No. A 24471 —17 vom Juni 1976; Legende s. Bild 6.
+
+Abschnitt der Hauptwasserscheide des Hudson/James-Bay-Tieflandes vor uns haben. 
+Diese unterschiedliche Eintiefung erklärt sich aus der Tatsache, daß die Gerinne den oben 
+genannten Strandwallkomplex nicht durchbrechen, sondern ihn nördlich umfließen. Aus 
+der dadurch längeren Laufstrecke erklärt sich ihr geringeres Gefälle und damit die feh­
+lende Energie zur Tiefenerosion. Auffallend sind die interfluvialen Wiesenhoch­
+moore mit ihrem netzförmigen Entwässerungssystem, dessen Rillen von Sjörs [1959] als 
+„Seepages“ bezeichnet wurden. Der Flächenanteil der Niedermoore ist stark zurückgetre­
+ten. Insgesamt ist eine komplexe Mischung aus Hoch- und Niedermooren festzustellen.
+
+3.6 Hochmoore, Niedermoore, Strandwälle und Seen 
+im zentralen Tiefland
+
+Mit Annäherung an die Sutton Ridges nimmt die physiographische Komplexität zu. Es 
+dominiert eine scheinbar regellose Mischung von Hochmooren, Torfplateaus, Moorseen, 
+Strandwällen mit Mergelseen und dazwischengeschalteten Niedermoordrainagerinnen 
+(Bild 5). Dieses für das zentrale Tiefland charakteristische, komplexe Ökotopengefüge 
+entwickelte sich in dem hier bereits relativ langen Zeitraum seit dem Rückzug der Tyrrell 
+See. Wahrscheinlich gehen auch Einflüsse vom unterlagernden Grundmoränenmaterial 
+und vom Anstehenden aus, worauf auch die große Anzahl von Strandwällen schließen
+
+
+
+1982/1 Hudson-Bay-Tiefland 11
+
+Bild 5: Hochmoore, Torfplateaus, Niedermoordrainagerinnen und Strandwälle am Kinushseo River 
+südöstlich der Sutton Ridges ca. 54° 20' N, 84° 05'W; CCRS Luftbild No. A 24471—23 vom Juni 
+
+1976; Legende s. Bild 6.
+
+läßt. Der nördlichste von ihnen zeichnet sich durch sehr helle Grauwerte ohne Sprenke- 
+lung aus. Dies ist ein deutlicher Hinweis auf Vernichtung des Waldes durch Feuer, das 
+eine wichtige Funktion für die Vegetationszusammensetzung ausübt. Weiter muß auf die 
+große Zahl von Mergelseen in der Nähe der Strandwälle hingewiesen werden. Sie zeigen 
+stark minerotrophe Bedingungen in der Nähe der Strandwälle an, sofern ein Grundwas­
+serstrom von den Strandwällen ausgeht. Behindern dagegen Strandwälle einen derartigen 
+Strom, so begünstigen sie damit die oligotrophen Sphagnen und die Bildung von Hoch­
+mooren, wie dies ebenfalls auf Bild 5 mehrfach zu beobachten ist.
+
+3.7 Die Sutton Ridges
+Die Sutton Ridges sind schräggestellte, nach Nordosten einfallende Blöcke metamor- 
+
+pher, präkambrischer Gesteine, die über dem kristallinen Sockel des Laurentischen Schil­
+des aufragen. Sie bilden Teile der südwest-nordost streichenden, präkambrischen Cape- 
+Henrietta-Maria-Antiklinale, die nicht nur das Hudson-vom Moose River-Sedimenta­
+tionsbecken, sondern auch Hudson und James Bay voneinander trennt. Sie haben einen 
+deutlichen, nach Südwesten gerichteten Steilabfall und bilden mit ihren hangenden, relativ 
+harten magmatischen Gesteinen (Diorit, Diabase) und den liegenden, relativ weichen
+
+
+
+W. Endlicher Die Erde12
+
+metamorphen Sedimenten (Grauwacke, Tonschiefer) eine Schichtstufe. Die Sutton Ridges 
+kulminieren in ca. 275 m und sind in einzelne Blöcke zerlegt, zwischen denen sich zahlrei­
+che, meist in nord-südlicher Richtung gestreckte Seen befinden. Besonders zwei fallen 
+durch ihre Breite und Länge auf: Sutton Lake und Hawley Lake. Nach Bird [1980, p. 216] 
+und Cumming [1969, pp. 145 sq.] sollen sie Reste eines alten, Süd-Nord gerichteten tertiä­
+ren Entwässerungssystems sein. Ein bis in die Rocky Mountains reichender Fluß müßte 
+somit nach der Entfernung der ordovizischen Kalke und Dolomite einen epigenetischen 
+Durchbruch durch die Sutton Ridges geschaffen haben. Allerdings darf man dieses Durch­
+bruchstal nicht mit den rezenten Sutton Narrows, die Sutton und Hawley Lake trennen, 
+verwechseln (Bild 6). Die schluchtartige Eintiefung der Sutton Narrows ist wohl durch mit 
+der isostatischen, postglazialen Heraushebung schritthaltende Tiefenerosion antezedent 
+zu erklären. Die Gipfel der Sutton Ridges dürften noch als kleine Inseln aus der Tyrrell 
+See herausgeschaut haben, wie ein Höhenvergleich zwischen ihnen und den höchstgelege­
+nen Strandwällen des Tieflandes ergibt. Die große Tiefe der genannten Seen — nach 
+Dowling (zit. bei Cumming 1969, p. 145) soll der Boden des Sutton Lakes 94 m unter dem 
+umgebenden Grundmoränenplateau liegen — kann nicht tertiärer Herkunft sein, da 
+Hawley und Sutton Lake ein enges Kastental einnehmen. Es ist vielmehr wahrscheinlich, 
+daß es sich hier um in Grundmoränenlehm eingetiefte subglaziale Schmelzwasser­
+rinnen handelt. Dies bedeutet aber eine Umkehrung der Fließrichtung im Vergleich zu 
+einem eventuellen tertiären System, wobei das Uberfließen der Sutton Ridges durch den 
+hydrostatischen Druck problemlos zu erklären wäre. Es ist erstaunlich, daß die Transgres- 
+sion der Tyrrell See nicht zur Verschüttung der Seen führte. Während des langsamen Auf­
+tauchens bildete sich die rezente, nun wieder nach Norden gerichtete Entwässerungsrich­
+tung entsprechend dem allgemeinen Einfallen des Laurentischen Schildes aus.
+
+Bild 6 zeigt den südexponierten Steilabfall der Sutton Ridges mit den Sutton Narrows 
+und dem Überlauf des Sutton Lake in den nördlich anschließenden Hawley Lake. Die 
+Hochflächen der Diabas-Felsburgen sind aufgrund ihrer windexponierten Lage fast vege­
+tationslos. Dagegen trägt die Hangschleppe der Schichtstufe geschlossenen Schwarzfich­
+tenwald, der auch in den jungen, von den Ridges steil herabführenden Kerbtälchen zu fin­
+den ist. Die auf die Ridges aufgelagerten Strandwallreste zeigen den Höchststand der 
+Tyrrell See vor dem Aufsteigen des Tieflandes an. Trocken und relativ mineralreich sind 
+sie bevorzugte Standorte von Kiefern und Fichten. Brennen derartige Waldstücke aber ab, 
+so sind Moose und Flechten die Pionierbesiedlung vor der Wiederbewaldung. Ihr hohes 
+Reflexionsvermögen läßt sie als einheitlich helle Muster erkennbar werden. Die mittel­
+grauen Niedermoore besitzen dagegen eine gesprenkelte Struktur. Die dunklen Tupfen 
+sind Schwarzfichteninseln, die sich auf Blockwerk oder allgemein auf höheren Grundmo­
+ränenakkumulationen entwickeln können. Sie zeigen immer eine geringmächtige Torfauf­
+lage von wenigen Dezimetern an. In den Schwarzfichteninseln wird man mit großer 
+Wahrscheinlichkeit mit Permafrost rechnen können; auch sind zahlreiche Torfplateaus 
+vorhanden. Die Felsbereiche dürften dagegen aufgrund der fehlenden Isolationsschicht 
+und ihrer höheren Wärmekapazität permafrostfrei sein.
+
+3.8 Die subglazialen Schmelzwasserrinnen im Gebiet der Sutton Ridges
+Das Gebiet der Sutton Ridges wird noch durch ein weiteres, morphologisch interessan­
+
+tes Landschaftsmuster ausgezeichnet. Es handelt sich dabei um ca. 200—500 m breite und 
+mehrere Kilometer lange Kastentäler. Sie sind z. T. von flachen, langgestreckten Seen 
+erfüllt, die aber kleiner als Sutton und Hawley Lake dimensioniert sind. Das gesamte Aus­
+maß dieses teilweise kommunizierenden, NNE-SSW streichenden Kastentalsystems wird 
+erst auf Satellitenbildern deutlich. Das geringe Reflexionsvermögen von Wasserflächen in 
+den LANDSAT-Kanälen 6 und 7 und das deutliche Signal des auf den Talhängen stok-
+
+
+
+1982/1 Hudson-Bay-Tiefland 13
+
+LEGENDE
+| I | Wasser 0
+
+1 2 1 Fels
+| 3 | Hochmoor
+
+| 4 | Niedermoor
+
+| 5 | Torfplateau
+
+| 6 | Fossiler Strandwall
+
+| 7 | Grundmoräne
+
+Nr. 24482-57
+
+CCRS
+Luftbild
+
+Bild 6: Die Schichtstufe der Sutton Ridges mit den Sutton Narrows zwischen Sutton Lake und Haw- 
+ley Lake ca. 54° 25' N, 84° 40' W; CCRS Luftbild No. A 24482-57 vom Juni 1976.
+
+
+
+14 W. Endlicher Die Erde
+
+Bild 7: Die Rinnentäler am Südende des Sutton Lake ca. 54° 10' N, 84° 40' W; CCRS Luftbild No. A 
+24470—243 vom Juni 1976.
+
+
+
+1982/1 Hudson-Bay-Tiefland 15
+
+Fig. 3: Skizze der subglazialen Schmelzwasserrinnen und der hydrographischen Verhältnisse um den 
+Sutton Lake (nach Top. Karte 1 : 250 000 Blatt 43 K und LANDSAT-Farbkomposite ca. 1 : 250 000 
+
+vom 2. Juli 1976).
+
+
+
+W. Endlicher Die Erde16
+
+kenden, lockeren Schwarzfichtenwaldes ermöglicht eine zusammenhängende Kartierung 
+(Fig. 3). Der Umfang und die Streichrichtung des Kastentalsystems schließen eine Bildung 
+nach dem Rückzug der Tyrrell See aus. Somit muß es sich also um ausgedehnte subgla­
+ziale Schmelzwasserrinnen handeln. Zwar können solche Formen an vielen Stellen des 
+Tieflandes aufgrund des hydrographischen Netzes vermutet werden, seltener treten sie 
+aber als morphologische Formen in derart klassischer Ausprägung auf. Ihre gute Konser­
+vierung dürfte mit der relativ großen Höhenlage im Bereich der Kap-Henrietta-Maria- 
+Antiklinale und der daraus resultierenden, nur kurzzeitigen postglazialen Meeresbedek- 
+kung zu erklären sein. Die zerrunsten Talhänge bilden mit dem hohen Mineralgehalt des 
+Grundmoränenlehms, mit der guten Drainage und mit dem Talverlauf quer zur Haupt­
+windrichtung ökologische Nischen und ermöglichen einen lockeren Schwarzfichtenwald 
+mit Flechtenunterwuchs.
+
+Das gesamte System der Rinnentäler ist nur ca. 20—30 m in das mit Hoch- und Nie­
+dermooren sowie Strandwällen besetzte Grundmoränenplateau eingetieft (Bild 7). Die 
+Höhendifferenz von ca. 20 m zum Spiegel des Sutton Lakes als dem Vorfluterniveau hat 
+eine rückschreitende Anzapfung der Rinnentäler zur Folge. Während in ihnen noch die 
+subglaziale Entwässerungsrichtung nach Süden erhalten ist, entwässert der Sutton Lake 
+über den Hawley Lake und den Sutton River in die Hudson Bay nach Norden. Die 
+Hauptwasserscheide liegt somit nicht wie zu erwarten wäre an den Sutton Ridges, son­
+dern in Form einer Talwasserscheide in der breiten Sutton-Schmelzwasserrinne wenige 
+Kilometer südlich des Sees (Fig. 3). Der in die James Bay entwässernde Ekman River 
+benutzt diese vorgegebene Entwässerungsleitlinie dann wieder in ihrer ursprünglichen 
+Richtung.
+
+4. Ökotopenkartierung mit Hilfe von LANDSAT-Daten
+Aus der vorangehenden Interpretation exemplarischer Landschaftsausschnitte geht her­
+
+vor, daß trotz des großen Informationsgehalts von panchromatischen Luftbildern mit 
+ihnen allein eine in jedem Fall eindeutige und flächendeckende Klassifizierung der Ökoto- 
+penstruktur im Hudson-Bay-Tiefland noch nicht zu bewerkstelligen ist. Erst der multi­
+spektrale Informationsgehalt von Satellitenbildern und die digitale Auswertung der vier 
+LANDSAT-Kanäle ermöglicht meistens eine klare Trennung zwischen den eingangs 
+genannten Ökotopen. Die physiographisch-ökologische Ausgliederung der dominierenden 
+Ökotope bei punktuellen Geländeuntersuchungen, ihre Abgrenzung und Interferenz in 
+verschiedenen Testgebieten mit Hilfe von Luftbildern und eine flächenhafte Kartierung 
+anhand der Satellitendaten sind mit einander gekoppelte Arbeitsschritte.
+
+4.1 Methodik der digitalen Ökotopenkartierung
+Die als Fig. 4 wiedergegebene Ökotopenkarte vom Opinnagau Lake wurde mit dem 
+
+„Ontario Centre for Remote Sensing Image Analysis System“ (OIAS) in Toronto durchge­
+führt. Das vierkanalige, in digitalen Bildelementen auf Magnetband gespeicherte LAND- 
+SAT-Bild wird in den Plattenspeicher des OIAS eingelesen. Die Daten des betreffenden 
+Landschaftsausschnittes werden einer geometrischen Korrektur unterworfen, so daß eine 
+spätere Ausgabe in einem gewählten Kartenmaßstab paßgenau möglich ist. Hierfür wird 
+die Bildszene auf den Bildschirm gespielt, besonders gut zu identifizierende Bildpunkte 
+mehrfach vergrößert und ihre Bildkoordination mit Hilfe eines Lichtschreibers bestimmt. 
+Die UTM-Gitterkoordinaten dieser Punkte werden einer großmaßstäbigen Karte entnom­
+men und den Bildkoordinaten zugeordnet. Je nach Größe der Bildszene und der Relief­
+komplexität werden zur Umrechnung aller Bildelemente auf das UTM-Gitternetz ca. 
+30—50 derartige Paßpunkte eingespeist. Als Klassifizierungsprogramm steht im OIAS die
+
+
+
+1982/1 Hudson-Bay-Tiefland 17
+
+Bild 8: Ökotopengefüge westlich des Opinnagau Lake im Luftbild zum Vergleich mit der digitalen 
+Karte Fig. 4, östliche Hälfte; ca. 53° 55' N, 84° 35' W.
+
+
+
+W. Endlicher Die Erde18
+
+„Supervised-Maximum-Likelibood-Method“ zur Verfügung. Als wichtiger Verarbeitungs­
+schritt werden dabei interaktiv am Bildschirm Trainingsgebiete ausgezeichnet und dem 
+OIAS als Lernfeld für eine bestimmte Ökotopen-Klasse mitgeteilt. Die Festlegung dieser 
+Trainingsgebiete geschieht unter Heranziehung von Luftbildern und eventuell vorhande­
+nen Bodeninventuren, so daß mit größtmöglicher Genauigkeit eine bestimmte, spektral 
+einheitliche Signatur auch einem bestimmten Ökotop zuzuordnen ist. Je sorgfältiger und 
+detaillierter diese Trainingsflächen festgelegt werden, um so exakter wird die spätere 
+Klassifizierung ausfallen. Hier liegt auch eine erste Problematik bei der Bildauswertung, 
+wobei Fehlinterpretationen bei der Lernfeldbestimmung mit zunehmender Erfahrung des 
+Experimentators geringer werden. Die Anzahl der Klassen wird je nach physiographischer 
+Komplexität wechseln. Für die vorliegende Klassifizierung wurden 12 Klassen ausgewählt, 
+die für die Kartendarstellung aber zu 9 Klassen zusammengelegt wurden. Das OIAS ord­
+net nun nach der größtmöglichen Wahrscheinlichkeit Bildelement für Bildelement in die 
+vorgegebenen Klassen ein. Wiederholte Vergleiche der Klassifizierungsergebnisse mit der 
+LANDSAT-Farbkomposite, den Luftbildern und der Karteninformation gestatten dem 
+Experimentator eine qualitative Bewertung und eventuelle Abänderung der Klassifizie­
+rung. Weitere Bildverarbeitungsschritte wie die Entfernung singulärer Bildelemente oder 
+die Festlegung von Mindestflächengrößen für die Kartenwiedergabe dienen der Generali­
+sierung.
+
+Am Schluß steht die kartographische Darstellung der Klassifizierungsergebnisse. Die 
+einzelnen Klassen der Bildszene werden mit Farben belegt, einer Legende versehen und in 
+den gewünschten Kartenmaßstab umgerechnet. Die Ausgabe erfolgt über einen Peripher­
+computer am „Applicon Color Plotting System“ nach dem Prinzip des „Ink-Jet-Printing“ 
+[Kuhn & Myers 1979]. Die graphische Information wird dabei digital gesteuert durch 
+mikroskopisch feine Farbstrahlen in den Primärfarben magenta, gelb und cyan auf einen 
+Papierbogen gesprüht. Innerhalb weniger Minuten kann man die fertige Karte mit eventu­
+ell einigen Millionen von Bildelementen von der Trommel nehmen.
+
+4.2 Das Gebiet des Opinnagau Lake in der digitalen Ökotopenkarte
+Mit der ausschnittweise vorgestellten Karte vom Gebiet des Opinnagau Lake und den 
+
+Karten, die Pala & Boissonneau [1981] vom Gebiet des Albany River angefertigt haben, 
+liegen erste Landnutzungsklassifikationen aus dem Hudson-Bay-Tiefland vor. Das kar­
+tierte und auf das UTM-Gitternetz entzerrte Gebiet schließt sich im Süden an die oben 
+beschriebenen subglazialen Schmelzwasserrinnen des Sutton Lake an. Zum Vergleich ist 
+ein entsprechender Luftbildausschnitt von der südöstlichen Kartenecke (Bild 8) dargestellt 
+worden. Die breiten, NNW-SSE verlaufenden Fichtenwaldstreifen zeigen gut drainierte 
+Standorte an. Es ist dies die südliche Fortsetzung des Sutton-Lake-Schmelzwasserrinnen- 
+Systems. Die großflächigen Waldareale in der Bildmitte stellten sich im Geländetest sogar 
+als Sanderakkumulationen (outwash) heraus. Um den Opinnagau Lake dominieren sonst 
+aber die Feucht-Ökotope in Form der Wald- und Wiesenhochmoore. Bei letzteren konn­
+ten noch die Untergruppen der Strang- und Blänken-Hochmoore unterschieden werden. 
+Niedermoore treten dagegen nur vereinzelt auf. Die Torfplateaus beweisen, daß bereits 
+mit sporadischem Permafrost gerechnet werden muß. Charakteristisch sind auch die im 
+Gegensatz zu den Schmelzwasserrinnen sehr schmalen Schwarzfichtengalerien entlang 
+der Flüsse, wie z. B. am North Washagami River in der linken Bildhälfte. Vereinzelt sind 
+auch Gebüschformationen auszumachen. Zusammen betrachtet stellt das kartierte Gebiet 
+ein typisches Beispiel des Ökotopenmosaiks im zentralen Tiefland dar.
+
+
+
+1982/1 Hudson-Bay-Tiefland 19
+
+5. Ausblick und Kritik der digitalen Satellitenbildauswertung
+Die digitale Auswertung multispektraler Satellitendaten steht noch am Anfang ihrer 
+
+Möglichkeiten. Trotzdem ist aber klar, daß sie in einer derart unzugänglichen und weit­
+räumigen Landschaft, wie sie das Hudson-Bay-Tiefland darstellt, ein unverzichtbares 
+Hilfsmittel für die Landschaftsökologie darstellt. Nachdem sowohl die geometrische Ent­
+zerrung der Satellitenbilder als auch die Wiedergabe der Ergebnisse in Kartenform gelöst 
+ist, wird nun an einer weiteren Verkürzung der Rechenzeiten, der Erhöhung der Spei­
+cherkapazität und der Überlagerung verschiedener Informationsebenen gearbeitet. Pro­
+bleme treten zum einen noch bei der Festlegung der Trainingsgebiete auf. Werden hier 
+dem Rechner nur wenige falsche Bildelemente vorgegeben, so erhöht sich sofort die Feh­
+lerquote bei der sich anschließenden Klassifizierung. Je besser die Geländekenntnis des 
+Experimentators im Trainingsgebiet ist, um so genauer wird auch die Computerklassifizie­
+rung sein. Fehlbeurteilungen treten dann auf, wenn verschiedene Ökotope mit dem glei­
+chen Vegetationsmuster bestanden sind, wie dies z. B. bei Strandwällen und Waldhoch­
+mooren der Fall sein kann. Auch hier zeichnen sich aber Lösungsmöglichkeiten ab, indem 
+z. B. anhand einer vorausgehenden Luftbildinterpretation bereits alle Strandwälle ausge­
+schieden und als Vorinformation dem Rechner mitgeteilt werden. Die Frage einer zu gro­
+ben Bildelementgröße von 56 x 79 m2 ist für kanadische Größenverhältnisse weniger rele­
+vant als für mitteleuropäische. Die Bildauflösung wird außerdem mit dem vorgesehenen 
+Start von LANDSAT-D im Sommer 1982 auf ca. 30 m verbessert werden.
+
+Eine flächendeckende Ökotopenklassifikation des gesamten Hudson/James-Bay-Tief- 
+landes im Maßstab 1 : 250 000 und damit ein beträchtlicher Gewinn für das Verständnis 
+des ökologischen Beziehungsgefüges an der nordhemisphärischen Waldgrenze ist in den 
+Bereich des Möglichen gerückt.
+
+Literatur
+Bird, J. B. 1980: The Natural Landscapes of Canada. 2nd ed. — Toronto etc.
+Bostock, H. H. 1969: Precambrian Sedimentary Rocks of the Hudson Bay Lowlands. — 
+
+Pp. 206 — 214 in: Earth Science Symp. on Hudson Bay. — Ottawa. —Geol. Survey of Canada, 
+Paper. 68 — 53.
+
+Brown, R. J. E. 1973: Permafrost-distribution and relation to environmental factors in the Hudson 
+Bay Lowland. — Pp. 35—68 in: Proc. Symp. Physical. Environment of the Hudson Bay Lowland. 
+Univ. Guelph, March 30—31, 1973. — Guelph.
+
+Brown, R. J. E. 1977: Muskeg and Permafrost. — Pp. 148 — 163 in: Muskeg and the Northern Envi­
+ronment in Canada. Ed. by N. W. Radforth & C. O. Brawner. — Toronto, Buffalo.
+
+Chapman, L. J., & M. K. Thomas 1968: The Climate of Northern Ontario, Canada. — Dept. of 
+Transport, Meteorol. Branch, Climatological Studies. 6 (1968), pp. 1 — 58.
+
+Coombs, D. B. 1954: The Physiographic Subdivisions of the Hudson Bay Lowlands South of 60 
+Degrees North. — Geographical Bull., Ottawa. 6 (1954), pp. 1 — 16.
+
+Craig, B. G. 1969: Late-Glacial and Postglacial History of the Hudson Bay Region. — Pp. 63—77 
+in: Earth Science Symp. on Hudson Bay. — Ottawa. — Geol. Survey of Canada, Paper 68 — 53.
+
+Cumming, L. M. 1969: Rivers of the Hudson Bay Lowlands. — Pp. 144—164 in: Earth Science Symp. 
+on Hudson Bay. — Ottawa. — Geol. Survey of Canada, Paper 68 — 53.
+
+Hare, F. K. 1950: Climate and zonal divisions of the boreal forest formation in eastern Canada. — 
+Geogr. Rev. 40 (1950), pp. 615 — 635.
+
+Hare, F. K. 1954: The boreal conifer Zone. — Geogr. Studies, London. 1 (1954), pp. 4—18.
+Hustich, I. 1957: On the phytogeography of the subarctic Hudson Bay Lowland. - Acta Geogr.
+
+Fenn. 16 (1957), pp. 1-48.
+Jeglum, J. K., A. N. Boissonneau Sc V. F. Haavisto 1974: Toward a Wetland Classification for 
+
+Ontario. — Sault Ste. Marie. — Great Lakes Forest Research Centre Sault Ste. Marie, Informa­
+tion Report 0 —X —215, Canadian Forestry Service, Departm. of the Environment, Dec. 1974.
+
+
+
+W. Endlicher Die Erde20
+
+Kozlovic, N. J., & P. J. Howarth 1977: Biophysical Mapping in Northwestern Ontario from Air- 
+craft and Satellite Remote Sensing Data. 4th Canad. Symp. on Remote Sensing, May 16—18, 
+1977.-Quebec. Pp. 27-36.
+
+Kuhn, L., & R. A. Myers 1979: Ink-Jet Printing. — Scientific American. 240 (1979), pp. 162—178. 
+Pala, S., & A. Boissonneau 1981: Production of Wetland Classification Maps for the Hudson Bay/
+
+James Bay Lowlands. — Guelph. — Proc. Hudson/James Bay Symp., Univ. of Guelph, April 
+28-30, 1981. - . . .
+
+Pala, S., & W. Weischet 1981: A Model for the Physiographic Analysis of the Hudson Bay/James 
+Bay Lowlands. — Guelph. — Proc. Hudson/James Bay Symp., Univ. of Guelph, April 28 — 30, 
+1981.
+
+Radforth, N. W. 1969: Classification of muskeg. — In: Muskeg Engineering Handbook, ed. by I. C. 
+Farlane. — Toronto.
+
+Radforth, N. W., & C. O. Brawner (Eds.) 1977: Muskeg and the Northern Environment in Canada. 
+— Toronto, Buffalo.
+
+Railton, J. B., & J. H. Sparling 1973: Preliminary studies on the ecology of palsa mounds in nor- 
+thern Ontario. — Canad. J. Botany. 51 (1973), pp. 1037—1044.
+
+Riley, J. 1981 a: The Flora of the Hudson Bay Lowland. — Guelph. — Proc. Hudson/James Bay 
+Symp., Guelph, April 28 — 30, 1981.
+
+Riley, J. 1981 b: Provisional Wetland Classification for the Hudson Bay Lowland and the Major 
+Regional Themes. Parks and Recreation Section, Ontario Ministry of Natural Resources, Nor­
+thern Region. — Cochrane (Ontario).
+
+Shilts, W. 1981: Quaternary Evolution of the Hudson/James Bay Region. — Guelph. — Proc. Hud­
+son/James Bay Symp., Guelph, April 28 — 30, 1981.
+
+Sims, R. A., & G. M. Wickware 1981: Using Vegetational Physiognomy to Classify Treed Peatlands 
+Near Southern James Bay, Ontario. — Guelph. — Proc. Hudson/James Bay Symp., Guelph, 
+April 28-30, 1981. ’ '
+
+Sjörs, H. 1959: Bogs and Fens in the Hudson Bay Lowlands. — Arctic. 12 (1959), 
+pp. 1-19.
+
+Sjörs, H. 1961: Oberflächenmuster in den borealen Torfgebieten. — Endeavour. 20 (1961), 
+pp. 217—224.
+
+Sjörs, H. 1963: Bogs and Fens on Attawapiskat River, Northern Ontario. — National Museum of 
+Canada. Bull. 186 (1963), pp. 45—133.
+
+Thie, J. 1976: An Evaluation of Remote Sensing Techniques for Ecological (Biophysical) Land Clas­
+sification in Northern Canada. — Petawawa. — Proc. Ist. Meeting Canad. Comm. on Ecological 
+(Bio-physical) Land Classification. Petawawa, May 25 —28, 1976. Pp. 129—147.
+
+Zoltai, S. C. 1973: Vegetation, surficial deposits and permafrost reiationships in the Hudson Bay 
+Lowlands. — Guelph. — Proc. Symp. on the Physical Environment of the Hudson Bay Lowland, 
+Guelph, March 30 — 31, 1973. Pp. 17—34.

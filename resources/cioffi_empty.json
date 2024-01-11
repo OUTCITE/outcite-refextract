@@ -1,0 +1,18 @@
+{
+    "@id":        null,
+
+    "@type":      "Publication",
+
+    "authors":    [],
+
+    "editors":    [],
+
+    "publishers": [],
+
+    "genre":      "various",
+
+    "issue":      0,
+
+    "note":       "for reference extraction evaluation purposes"
+
+}

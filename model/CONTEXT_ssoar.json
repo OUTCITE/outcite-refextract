@@ -1,0 +1,348 @@
+{
+  "@context": {
+    "@base": "https://data.gesis.org/skg/ssoar/",
+    "skg": {
+      "@id": "@graph",
+      "@type": "https://schema.org/identifier"
+    },
+    "ssoar": {
+      "@id": "https://schema.org/hasPart",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "id": {
+      "@id": "https://schema.org/identifier",
+      "@type": "https://schema.org/Text"
+    },
+    "url": {
+      "@id": "https://schema.org/url",
+      "@type": "@id"
+    },
+    "title": {
+      "@id": "https://schema.org/title",
+      "@type": "https://schema.org/Text"
+    },
+    "version": {
+      "@id": "https://schema.org/version",
+      "@type": "https://schema.org/Integer"
+    },
+    "abstract": {
+      "@id": "https://schema.org/abstract",
+      "@type": "https://schema.org/Text"
+    },
+    "authors": {
+      "@id": "https://schema.org/author",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "contributors": {
+      "@id": "https://schema.org/contributor",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_authors": {
+      "@id": "https://schema.org/author",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_editors": {
+      "@id": "https://schema.org/editor",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "keyword_list": {
+      "@id": "https://schema.org/keywords",
+      "@type": "https://schema.org/Text"
+    },
+    "keywords": {
+      "@id": "https://schema.org/keywords",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "topics": {
+      "@id": "https://schema.org/about",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "constructs": {
+      "@id": "https://schema.org/about",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "desc_overview": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "desc_criteria": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "desc_instrument": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "desc_theory": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "desc_development": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "desc_summary": {
+      "@id": "https://schema.org/description",
+      "@type": "https://schema.org/Text"
+    },
+    "status": {
+      "@id": "https://schema.org/status",
+      "@type": "https://schema.org/Text"
+    },
+    "content-type": {
+      "@id": "https://schema.org/publicationType",
+      "@type": "https://schema.org/Text"
+    },
+    "notes": {
+      "@id": "https://schema.org/comment",
+      "@type": "https://schema.org/Text"
+    },
+    "annotation": {
+      "@id": "https://schema.org/comment",
+      "@type": "https://schema.org/Text"
+    },
+    "language": {
+      "@id": "https://schema.org/inLanguage",
+      "@type": "https://schema.org/Text"
+    },
+    "doi": {
+      "@id": "https://schema.org/identifier",
+      "@type": "https://schema.org/Text"
+    },
+    "urn": {
+      "@id": "https://schema.org/identifier",
+      "@type": "https://schema.org/Text"
+    },
+    "issn": {
+      "@id": "https://schema.org/issn",
+      "@type": "https://schema.org/Text"
+    },
+    "isbn": {
+      "@id": "https://schema.org/isbn",
+      "@type": "https://schema.org/Text"
+    },
+    "langs_doc": {
+      "@id": "https://schema.org/inLanguage",
+      "@type": "https://schema.org/Text"
+    },
+    "langs_content": {
+      "@id": "https://schema.org/inLanguage",
+      "@type": "https://schema.org/Text"
+    },
+    "date_inclusion": {
+      "@id": "https://schema.org/datePublished",
+      "@type": "https://schema.org/Date"
+    },
+    "url_doc": {
+      "@id": "https://schema.org/url",
+      "@type": "https://schema.org/URL"
+    },
+    "url_response": {
+      "@id": "https://schema.org/url",
+      "@type": "https://schema.org/URL"
+    },
+    "url_scale": {
+      "@id": "https://schema.org/url",
+      "@type": "https://schema.org/URL"
+    },
+    "url_website_scale": {
+      "@id": "https://schema.org/url",
+      "@type": "https://schema.org/URL"
+    },
+    "url_dataset_scale": {
+      "@id": "https://schema.org/url",
+      "@type": "https://schema.org/URL"
+    },
+    "references": {
+      "@id": "https://schema.org/citation",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "locations": {
+      "@id": "https://schema.org/location",
+      "@container": "@index",
+      "@type": "https://schema.org/Text"
+    },
+    "dates": "@nest",
+    "issue_date": {
+      "@id": "https://schema.org/datePublished",
+      "@type": "https://schema.org/Date"
+    },
+    "source_info": "@nest",
+    "src_volume": {
+      "@id": "https://schema.org/volumeNumber",
+      "@type": "https://schema.org/Date"
+    },
+    "src_issue": {
+      "@id": "https://data.gesis.org/rkg/schema/sourceIssue",
+      "@type": "https://schema.org/Date"
+    },
+    "src_journal": {
+      "@id": "https://data.gesis.org/rkg/schema/sourceJournal",
+      "@type": "https://schema.org/Date"
+    },
+    "publisher": {
+      "@id": "https://schema.org/publisher",
+      "@type": "https://schema.org/Organization"
+    },
+    "name": {
+      "@id": "https://schema.org/name",
+      "@type": "https://schema.org/Text"
+    },
+    "volume": {
+      "@id": "https://schema.org/volumeNumber",
+      "@type": "https://schema.org/Integer"
+    },
+    "doc_type": {
+      "@id": "https://schema.org/publicationType",
+      "@type": "https://schema.org/Text"
+    },
+    "type": {
+      "@id": "https://schema.org/publicationType",
+      "@type": "https://schema.org/Text"
+    },
+    "id_mention": {
+      "@id": "https://schema.org/identifier",
+      "@type": "https://schema.org/Text"
+    },
+    "name_string": {
+      "@id": "https://schema.org/name",
+      "@type": "https://schema.org/Text"
+    },
+    "term": {
+      "@id": "https://schema.org/name",
+      "@type": "https://schema.org/Text"
+    },
+    "surname": {
+      "@id": "https://schema.org/familyName",
+      "@type": "https://schema.org/Text"
+    },
+    "firstnames": {
+      "@id": "https://schema.org/givenName",
+      "@type": "https://schema.org/Text"
+    },
+    "firstinits": {
+      "@id": "https://data.gesis.org/rkg/schema/initsFirst",
+      "@type": "https://schema.org/Text"
+    },
+    "num_items": {
+      "@id": "https://data.gesis.org/rkg/schema/numberOfItems",
+      "@type": "https://schema.org/Text"
+    },
+    "validity": {
+      "@id": "https://data.gesis.org/rkg/schema/validity",
+      "@type": "https://schema.org/Text"
+    },
+    "has_socialsurveyitems": {
+      "@id": "https://data.gesis.org/rkg/schema/hasSocialSurveyItems",
+      "@type": "https://schema.org/Integer"
+    },
+    "weight": {
+      "@id": "https://data.gesis.org/rkg/schema/termWeight",
+      "@type": "https://schema.org/Float"
+    },
+    "note": {
+      "@id": "https://data.gesis.org/rkg/schema/note",
+      "@type": "https://schema.org/Text"
+    },
+    "from_page": {
+      "@id": "https://data.gesis.org/rkg/schema/fromPage",
+      "@type": "https://schema.org/Integer"
+    },
+    "to_page": {
+      "@id": "https://data.gesis.org/rkg/schema/toPage",
+      "@type": "https://schema.org/Integer"
+    },
+    "alt_id": {
+      "@id": "https://schema.org/identifier",
+      "@type": "https://schema.org/Text"
+    },
+    "score": {
+      "@id": "https://data.gesis.org/rkg/schema/linkScore",
+      "@type": "https://schema.org/Integer"
+    },
+    "reason": {
+      "@id": "https://data.gesis.org/rkg/schema/linkReason",
+      "@type": "https://schema.org/Integer"
+    },
+    "to_src": {
+      "@id": "https://data.gesis.org/rkg/schema/toSource",
+      "@type": "https://schema.org/Integer"
+    },
+    "name_de": {
+      "@id": "https://schema.org/name",
+      "@language": "de"
+    },
+    "name_en": {
+      "@id": "https://schema.org/name",
+      "@language": "en"
+    },
+    "mapped": {
+      "@id": "https://schema.org/mainEntity",
+      "@container": "@id",
+      "@type": "https://schema.org/identifier"
+    },
+    "expanded": {
+      "@id": "https://schema.org/workExample",
+      "@container": "@id",
+      "@type": "https://schema.org/identifier"
+    },
+    "duplicates": {
+      "@id": "https://data.gesis.org/rkg/schema/duplicate",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_studies": "@nest",
+    "ref_study_titles": {
+      "@id": "https://schema.org/citation",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_study_numbers": {
+      "@id": "https://schema.org/citation",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_dataset_doi": {
+      "@id": "https://schema.org/doi",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "ref_dataset_year": {
+      "@id": "https://schema.org/year",
+      "@container": "@index",
+      "@type": "https://schema.org/Text"
+    },
+    "subject_info": "@nest",
+    "subject_info_other": "@nest",
+    "subjects_other_de": {
+      "@id": "https://schema.org/keywords",
+      "@container": "@index",
+      "@type": "https://schema.org/identifier"
+    },
+    "Instrument": "https://rdf-vocabulary.ddialliance.org/discovery.html#Instrument",
+    "Identifier": "https://rdf-vocabulary.ddialliance.org/discovery.html#Instrument",
+    "Person": "https://schema.org/Person",
+    "GESIS_collection": "https://schema.org/Collection",
+    "Reference": "https://data.gesis.org/rkg/schema/Reference",
+    "PublicationReference": "https://data.gesis.org/rkg/schema/PublicationReference",
+    "DatasetReference": "https://data.gesis.org/rkg/schema/DatasetReference",
+    "Journal": "https://schema.org/Periodical",
+    "Series": "https://schema.org/CreativeWorkSeries",
+    "Publisher": "https://schema.org/Organization",
+    "Keyword": "https://schema.org/DefinedTerm",
+    "Topic": "https://schema.org/DefinedTerm",
+    "Research_data": "https://schema.org/Dataset",
+    "Publication": "https://schema.org/CreativeWork",
+    "Location": "https://schema.org/Place",
+    "Construct": "https://schema.org/DefinedTerm"
+  }
+}

@@ -1,0 +1,1165 @@
+Wissenschaftlicher Beitrag
+
+Eingegangen: 6. Mai 2014 / Angenommen: 8. Oktober 2014 / Online publiziert: 28. November 2014
+© Springer-Verlag Berlin Heidelberg 2014
+
+Geoinformation in der kommunalen Abfallentsorgungs 
+- und strategischen räumlichen Planung
+
+Tine Köhler
+
+Raumforsch Raumordn (2014) 72:491–501
+DOI 10.1007/s13147-014-0320-9
+
+Schlüsselwörter Geoinformation in der Planung · Abfall- 
+entsorgung · Zusammenspiel Fach- und Gesamtplanung · 
+ländlicher Raum · Schrumpfung
+
+Geo-information in waste disposal planning and 
+strategic spatial planning
+
+Abstract The declining growth and the resulting “perfora-
+tion” of settlements cause high charges for infrastructure 
+use and decreasing municipal tax revenue, which may be 
+regarded as a “second rent”. Besides, property values de-
+crease due to vacancy rate, the decay of rural settlements 
+could be initiated. In order to both keep the costs for 
+waste disposal constant as well as to develop a sustain-
+able, compact settlement structure despite of shrinkage, 
+synergies of overall and sectoral spatial planning should 
+be improved. This paper points out a potential strategy to 
+reduce expenses for the cost driver “collection of residual 
+waste” as well as to use the waste disposal as a manage-
+ment tool of the settlement development. Throughout the 
+entire process—from local migration analyses to vacancy 
+rate and possibilities of inner urban development to waste 
+disposal management—geo- and attribute-data were used, 
+provided by different institutions. The data were managed, 
+analysed and visualised by an open source geo-informa-
+tion and geo-database-software. Thus, the information of 
+sectoral and overall spatial planning was overlaid and in 
+result a sustainable, resource-efficient strategic planning 
+is improved using a geo-information tool. Consequently, 
+a centralisation of waste disposal could be improved by a 
+GIS-assisted analysis of location and accessibility of cen-
+tral garbage containers. This centralisation is expected to 
+allow a resource-efficient urban planning.
+
+Zusammenfassung In Gemeinden mit schrumpfender Be-
+völkerungszahl und in der Folge einer ‚Perforierung‘ der 
+Siedlungsstruktur entwickeln sich die Gebühren für Infra-
+strukturen, Abgaben und Steuern mehr und mehr zu einer 
+„zweiten Miete“. Zudem verlieren Immobilien aufgrund 
+der dispersen Schrumpfung der Siedlungen an Wert, wo-
+durch eine Trading-down-Spirale angestoßen werden kann. 
+Um einerseits die Kosten für die Abfallentsorgung zumin-
+dest konstant zu halten und andererseits eine kompakte 
+Siedlungsform zu forcieren, sollte trotz Schrumpfung ei-
+ner dispersen Ausdünnung gegengesteuert werden. In die-
+sem Sinne wird in diesem Beitrag aufgezeigt, wie sich die 
+Kosten für die Sammlung der Restmüllfraktion reduzieren 
+und gleichzeitig die Abfallentsorgung als Steuerungsinst-
+rument für die Siedlungsentwicklung einsetzen ließe. Über 
+den gesamten Prozess hinweg – von der Untersuchung 
+von lokalen Wanderungen, der Verteilung von Wohnein-
+heiten und Innenentwicklungspotenzial innerhalb des Ge-
+meindegebietes bis zur Abfallentsorgungsplanung – wurde 
+auf Geodaten verschiedenster Stellen zurückgegriffen, die 
+zusammen mit unterschiedlichen beschreibenden Daten in 
+einer freien Geoinformationssoftware verarbeitet wurden. 
+Durch Überlagerung der Gesamt- und Fachplanungen lässt 
+sich beispielsweise über eine GIS-gestützte Standort- und 
+Erreichbarkeitspotenzialanalyse von Abfallsammelinseln 
+eine Teilzentralisierung der Abfallentsorgung realisieren. 
+Diese Zentralisierung kann eine ressourcenschonende und 
+strategische Gesamtplanung unterstützen.
+
+Dr.-Ing. T. Köhler ()
+ILS – Institut für Landes- und Stadtentwicklungsforschung,
+Karmeliterstraße 6,
+52064 Aachen, Deutschland
+E-Mail: tine.koehler@ils-forschung.de
+
+
+
+492 T. Köhler
+
+Keywords Geo-information in planning process · Waste 
+disposal management · Synergies of spatial sectoral and 
+overall planning · Rural areas · Declining growth
+
+1  Einführung
+
+Während in größeren Städten in schrumpfenden Regionen 
+Stadtumbau und Infrastrukturauslastung bereits umfas-
+send untersucht und Strategien erfolgreich in die Praxis 
+umgesetzt wurden, ist dies für ländliche Regionen noch 
+ein Forschungsrandthema (Beetz 2012: 45 ff.). Entwick-
+lungsinstrumente setzen noch zu stark einseitig auf die 
+Diversifizierung der Landwirtschaft, die Unterstützung der 
+Tourismusfunktion sowie auf den Erhalt des Status-quo 
+anstelle auf Anpassung und Umbau von Strukturen. Zudem 
+folgen in ländlich geprägten Gemeinden Schrumpfung und 
+Siedlungsumbau anderen Logiken, als dies in der Stadt der 
+Fall ist, da andere Eigentumsstrukturen vorherrschen, die 
+ortsbildprägende und identitätsstiftende gebaute Umwelt 
+örtlich begrenzter ist und Funktionsverluste weniger gut 
+kompensierbar und damit ‚schmerzlicher‘ sind. Die strategi-
+sche Planung eines Siedlungsumbaus im ländlich geprägten, 
+peripheren Raum unter Schrumpfungsbedingungen bedarf 
+deshalb einer langfristigen Perspektive, der Unterstützung 
+formeller Planungsinstrumente (für Planungssicherheit und 
+Rechtsverbindlichkeit) sowie einer Nutzung von Synergien 
+verschiedener raumbedeutsamer Planungen.
+
+Die hier beschriebene Forschungsarbeit möchte an einem 
+Beispiel aufzeigen, wie den räumlich-planerischen Heraus-
+forderungen durch die Verknüpfung von Siedlungsstruktur 
+und Infrastrukturausstattung begegnet werden könnte. Ziel 
+ist neben dieser allgemeinwohlorientierten Unterstützung 
+der Siedlungskonzentration und der Innenentwicklung der 
+Ortskerne die Verhinderung des Kostenanstiegs beispiels-
+weise für Abfallentsorgung in Räumen mit schrumpfenden 
+Bevölkerungszahlen für den einzelnen Bewohner. Es sol-
+len konkrete Hinweise für ein methodisches Vorgehen von 
+Kommunen bezüglich der Datenverwendung und -zusam-
+menführung zur Unterstützung der langfristigen räumlichen 
+und abfalltechnischen Planung gegeben werden. So sollen 
+an einem Beispiel mithilfe eines Geoinformationssystems 
+durchgeführte Untersuchungen zu Standortpotenzialen und 
+Erreichbarkeitsqualität von Abfallsammelinseln – gemein-
+same Container anstelle von einzelnen Abfalltonnen –, 
+Leerstandsrate und -risiko von Häusern und Wohnungen 
+sowie Innenentwicklungspotenzial dargestellt werden, die 
+auch von anderen Kommunen durchgeführt werden können.
+
+In der Forschungsarbeit, die Teil einer Dissertation war 
+(Köhler 2011), wurde außerdem dem Umstand Beachtung 
+geschenkt, dass ein Siedlungsumbau nur unter Einbezug der 
+jeweils Betroffenen funktionieren kann. Durch die räumli-
+che Darstellung von georeferenzierten Meldedaten zusam-
+
+men mit Geobasisdaten können den Gebäudeeigentümern 
+und Einwohnern die technischen, wirtschaftlichen und 
+sozialen Folgen von Schrumpfung und mögliche Wirkun-
+gen von Maßnahmen sowie deren Zusammenspiel visuali-
+siert und damit verständlicher gemacht werden (Schaffert 
+2011). So können partizipativ Konzepte erarbeitet wer-
+den. Da viele Daten frei verfügbar oder zumindest für die 
+Gemeinden als Träger der Bauleitplanung grundsätzlich 
+nutzbar sind, ist hier eine kostengünstige Möglichkeit der 
+Unterstützung sowohl von Planung als auch von Partizipa-
+tion vorhanden, wenn Fragen des Datenschutzes und der 
+Zugangsberechtigungen zu sensiblen Daten innerhalb der 
+Verwaltung geklärt sind.
+
+2  Hintergrund
+
+Ein erheblicher Bevölkerungsrückgang führt zwangsläufig 
+zu wirtschaftlichen Zwängen und in der Folge zu einer Ver-
+schlechterung der infrastrukturellen, sozialen und gesell-
+schaftlichen Strukturen einer Kommune (vgl. Linke/Köhler 
+2010). Bei einer „flächenhaften Ausdünnung der Besied-
+lungsstruktur“ werden dichte Netze technischer Infrastruk-
+tur zunehmend in Frage gestellt (Scherf 2007: 13), da diese 
+schwer „auf rückläufige Bevölkerungszahlen mit einer an 
+der Kundenzahl orientierten Reduktion der Kosten“ reagie-
+ren kann (Schiller/Siedentop 2005: 87). So steigen einerseits 
+die Unterhaltungskosten für nicht ausgelastete Infrastruktur, 
+andererseits sinkt die Anzahl derer, die über ihre Gebühren 
+die Infrastruktur finanzieren (demographische Kostenfalle) 
+(vgl. Schmied/Henkel 2007). Dies wurde am Bespiel der 
+Abwasserkanalisationen hinreichend untersucht (u.a. ILS/
+Planersocietät 2009). Es lässt sich jedoch auch für den 
+Bereich der Abfallentsorgung, und hier insbesondere für 
+Aufwand und Kosten für Sammlung und Transport, fort-
+führen, da hier die Kosten pro Abfalltonne bei sinkender 
+Anzahl von Abfalltonnen pro 100 m Straße (Tonnendichte) 
+steigen. Die dazu angestellten Untersuchungen werden in 
+Kap. 3.2 beschrieben.
+
+Neben den Auswirkungen auf die Infrastrukturen ist der 
+Umgang mit dem strukturellen Leerstand1 eine Aufgabe 
+der Gemeinden unter Schrumpfungsbedingungen. Struktu-
+reller Leerstand ist ein städtebauliches und sozioökonomi-
+sches Problem zugleich (vgl. Schmied/Henkel 2007; Kötter 
+2009), da eine hohe Leerstandsquote einen Attraktivitätsver-
+lust und sinkende Immobilienwerte (Hahne 2013) bedeutet. 
+Zukünftig besonders betroffen sein werden voraussichtlich 
+Wohnbaugebiete der 1960er und 1970er Jahre (Berndgen-
+
+1 Die Ursachen für Leerstände sind vielfältig und komplex (qualitative 
+bauliche Mängel, Mieterwechsel, Arbeiten im Bestand, soziokulturelle 
+Nachfrageveränderungen) und können hier nicht behandelt werden. Es 
+geht hier jedoch um strukturellen, das heißt dauerhaften Leerstand.
+
+
+
+493Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+
+halb vermieden und nur zur Verifizierung der Ergebnisse 
+stichprobenartig durchgeführt. Stattdessen wurde auf beste-
+henden Datensätzen aufgebaut, die aus unterschiedlichen 
+Datenquellen zusammengetragen und aufbereitet wurden 
+und die schließlich durch den gemeinsamen Raumbezug die 
+Analyse mittels eines Geoinformationssystems (GIS) erlau-
+ben. Dazu wurden frei verfügbare und (gemeindeeigene) 
+vertrauliche Daten integriert, in einer OpenSource (OS)-
+Geo-Datenbank (PostgreSQL/PostGIS) modelliert und in 
+einer ebenfalls OS-GIS-Umgebung (Quantum GIS) verar-
+beitet und räumlich analysiert.
+
+3.1  Datengrundlage
+
+Die räumlichen Auswertungen basieren auf dem Amtlichen 
+Liegenschaftskataster Informationssystem ALKIS, das vom 
+Hessischen Landesamt für Bodenmanagement und Geo-
+information (HLBG) für Forschungszwecke zugänglich 
+gemacht wurde.
+
+Für die Auswertung der Abfallentsorgung und ihrer 
+Determinanten (Kap. 3.2) wurden frei verfügbare Sachdaten 
+wie die durchschnittliche Schüttmenge Restmüll pro Kopf 
+sowie die Gebührenhöhe im Untersuchungsgebiet heran-
+gezogen. Um die zeitliche Dimension für Sammlung und 
+Transport sowie ein mögliches Einzugsgebiet einer Sammel-
+insel untersuchen zu können, war zudem eine Unterteilung 
+der Straßenzüge in 100-m-Abschnitte (zur Ermittlung der 
+Anzahl der Abfalltonnen pro 100 m, sogenannte Tonnen-
+dichte) und die Darstellung der Erreichbarkeit der Sammel-
+insel notwendig.
+
+Für die Leerstandsuntersuchungen sowie die Darstellung 
+der Tonnendichte wurde auf Daten der Untersuchungs-
+gemeinden zurückgegriffen. Diese stellten einerseits das 
+aktuelle Melderegister in anonymisierter Form zur Ver-
+fügung sowie andererseits die Adressen der Personen mit 
+Anschluss an das Abfallentsorgungssystem (die Zahl der 
+Restmülltonnen war entscheidend). Die als Sachdaten vor-
+liegenden Adressdaten wurden datenbankseitig verknüpft 
+und anschließend geokodiert.
+
+Die Methodik der einzelnen Untersuchungsschritte wird 
+im folgenden Kap. 3.2 konkretisiert und ist für andere Kom-
+munen entsprechend anwendbar.
+
+3.2  Abfallentsorgung
+
+Die Abfallentsorgung beinhaltet die Sammlung, den Trans-
+port, die Verwertung oder Entsorgung von Abfällen. Dabei 
+können Abfälle im Bring- oder Holsystem gesammelt wer-
+den. Bringsysteme können in Form von Sammelinseln oder 
+zentralen Sammelstellen (Recyclinghof) eingerichtet wer-
+den, im Holsystem werden die Abfälle direkt dort abgeholt, 
+wo sie anfallen. Die öffentlich-rechtlichen Entsorgungsträ-
+ger (Kommunen) regeln durch eine Satzung den Anschluss 
+
+Kaiser/Bläser/Fox-Kämper et al. 2014) und kleine Ortsteile 
+ohne Versorgungseinrichtungen. Analysen zu Leerstands-
+quote und -risiko werden in Kap. 3.3 dargestellt.
+
+Gleichzeitig ist in vielen Gemeinden ein ‚Entwicklungs-
+paradoxon‘ zu beobachten, das heißt die Ausweitung der 
+Siedlungsfläche durch Neubaugebiete auf der einen und die 
+Leerstandsproblematik insbesondere in den Ortskernen auf 
+der anderen Seite. Im Sinne einer nachhaltigen Siedlungs-
+entwicklung ist auf eine Vermeidung perforierter Siedlun-
+gen und eine Zentrierung von Wohnnutzung hinzuwirken. In 
+diesem Sinne schließt der vorliegende Beitrag mit der Iden-
+tifizierung von Innenentwicklungspotenzialen (Kap. 4.1) als 
+Voraussetzung für die Zentrierung sowie der Darstellung 
+von Steuerungsmöglichkeiten durch die Verknüpfung von 
+Abfall- und Siedlungsplanung (Kap. 4.2). Die politische 
+Dimension der Thematik wird in diesem Beitrag zugunsten 
+der Sicht der Geoinformationsverarbeitung und der rein tech-
+nischen Überlegungen vernachlässigt. Es steht jedoch außer 
+Frage, dass eine Konzepterarbeitung und -umsetzung nur 
+konsensual erfolgen kann (Hagemeister/Haller 2009), was 
+partizipatorische, dialogorientierte, innovationsfördernde 
+Maßnahmen bedingt (Renner 2007: 7). Eine im Sinne von 
+Siebel (2006: 11) nicht-hierarchische Entwicklungsplanung 
+ermöglicht erst die konstruktive Auseinandersetzung der 
+betroffenen Bürger und Eigentümer mit den Erfordernis-
+sen, neue Wege in der Schrumpfung zu gehen, und ist Basis 
+für Innovation und Lernprozesse von innen. Top-down dik-
+tierte, hoheitliche Maßnahmen werden gerade in einem so 
+sensiblen Bereich wie dem Siedlungsumbau oder auch der 
+Einschränkung der Serviceleistungen im Bereich der Abfall-
+entsorgung kaum im Sinne einer allumfassenden nachhalti-
+gen Siedlungsentwicklung umsetzbar sein.
+
+3  Untersuchungsschritte und Methodik
+
+Den Untersuchungsraum bilden vier Ortsteile zweier 
+Gemeinden im südhessischen Odenwaldkreis, die zum 
+Teil sehr peripher gelegen sind, nur über eine Straßenver-
+bindung verfügen („Sackgassendörfer“) und (fast) reine 
+Wohnstandorte sind. Die Ortsteile wurden, neben dieser aus 
+der Sicht des Abfallmanagements ungünstigen Eigenschaf-
+ten, aufgrund der hohen Leerstandsraten und -risiken (vgl. 
+Kap. 3.3) ausgewählt. Alle Odenwälder Gemeinden gehö-
+ren dem Müllabfuhrzweckverband Odenwald (MZVO) an, 
+wodurch sich hinsichtlich der Gebühren einheitliche Rah-
+menbedingungen ergeben.
+
+In methodischer Hinsicht wurde ein Ansatz gewählt, 
+der auf eine möglichst automatisierte Auswertung zielt. 
+Aufwendige Datenneuerfassungen durch Begehung, wie 
+sie bei Leerstandsuntersuchungen im ländlichen Raum in 
+Deutschland infolge der Abwesenheit eines flächendecken-
+den Leerstandkatasters noch die Regel sind, wurden des-
+
+
+
+494 T. Köhler
+
+Als weiterer kostenbestimmender Faktor ist die Abfall-
+mischung zu nennen, weil die Abfallfraktionen (Restmüll, 
+Grünschnitt, Altholz, Metalle etc.) unterschiedliche Entsor-
+gungswege haben und die Verwertbarkeit stark differiert. 
+Vergleicht man die Kosten pro Tonne Abfall und deren frak-
+tionelle Anteile von Rest-, Biomüll und Altpapier, ergibt 
+sich der Restmüllanteil trotz Reduzierung des Aufkommens 
+durch Eigenkompostierung als kostenbestimmender Fak-
+tor.3 So ist beispielsweise von Art und Menge der Restmüll-
+fraktion neben der Auslastung auch der energetische Output 
+der Müllverwertungsanlage abhängig (Miofsky/Souren 
+2010: 7). Bei der Erarbeitung möglicher Kosteneinspar-
+konzepte sollte ein besonderes Augenmerk demnach auf der 
+Restmüllfraktion liegen.
+
+Neben der Reduzierung des Restmülls ist in den letzten 
+zehn Jahren in ganz Deutschland das Abfallaufkommen pro 
+Kopf insgesamt deutlich gesunken.4 Maßnahmen zur Ände-
+rung im Abfallverhalten sind wegen des (im ländlichen 
+Raum besonders hohen) Erfassungsgrades5 (Salhofer 2001: 
+126) nicht erforderlich. Vielmehr sind Versuche zu unter-
+nehmen, die Fixkosten in der Entsorgung des Restmülls zu 
+senken. Bilitewski (2007: 48) gibt allein für die Sammlung 
+des Restmülls einen 23-prozentigen Anteil an den Abfall-
+gebühren in Deutschland an.
+
+Die aufgezeigte Abhängigkeit der Pro-Kopf-Kosten und 
+der Einwohnerdichte zeigt, dass sich eine Kostenreduktion 
+durch eine räumliche Konzentration des Einsammelns errei-
+
+3 Daten des Hessischen Rechnungshofes (2009), eigener Vergleich der 
+Daten der Abfallzweckverbände Vogelsbergkreis, Darmstadt-Dieburg, 
+Bergstraße und Odenwaldkreis.
+4 Zwischen 2002 und 2005 um 18 % (Statistisches Bundesamt 2014).
+5 Der Erfassungsgrad gibt den Anteil an, mit dem ein getrennt zu sam-
+melnder Altstoff tatsächlich erfasst wird, ohne mit anderen Stoffen 
+vermischt zu sein, z. B. getrennte Altpapiersammlung.
+
+der Grundstücke an die Sammelsysteme, Einrichtungen 
+und Anlagen zur Abfallentsorgung und deren Benutzung. 
+Sie regeln ferner, unter welchen Voraussetzungen, in wel-
+cher Weise, an welchem Ort und zu welcher Zeit ihnen die 
+Abfälle zu überlassen sind. Dabei kann ein Mindestbehäl-
+tervolumen oder eine Mindestanzahl von Einsammlungen 
+festgelegt werden.
+
+Der Bereich Sammlung–Umschlag–Transport spielt 
+innerhalb der Abfallwirtschaft eine wichtige, aber häufig 
+unterschätzte Rolle (vgl. Bilitewski/Härdtle/Marek 2000: 
+675; Förstner 2008). Immerhin verursacht dieser Bereich 
+30 bis 40 % der Gesamtkosten der Abfallbeseitigung und 
+bietet damit bei Verbesserungen in Organisation und Durch-
+führung erhebliche Einsparmöglichkeiten (Rahmeyer 2004: 
+21). Transport und Sammlung sind voneinander abzu-
+grenzen, denn der Transport umfasst die Beförderung der 
+Abfallarten zu Deponien, Müllverbrennungsanlagen, Auf-
+bereitungsanlagen, Wertstoffhöfen etc., während die Samm-
+lung alle Vorgänge des Ladens der einzelnen Behälter sowie 
+den Weg zwischen den Ladepunkten beinhaltet (Cord-
+Landwehr 2002: 121).
+
+In Räumen mit schrumpfender Bevölkerungszahl, einer 
+großen flächigen Ausdehnung und geringer Bevölkerungs-
+dichte sind trotz konstant bleibender Abfallaufkommen 
+pro Kopf steigende Kosten und damit höhere Gebühren zu 
+beobachten,2 da zwar die Zahl der Beitragspflichtigen sowie 
+die Schüttmenge der (gewinnbringenden) Sekundärroh-
+stoffe sinken, die Wegstrecken und die für die Sammlung 
+benötigte Zeit jedoch – beinahe – konstant bleiben. In der 
+Abfallentsorgung ist wie bei den meisten technischen Infra-
+strukturen die Kostenremanenz sehr groß, da eine sinkende 
+Bevölkerungszahl nicht automatisch sinkende Ausgaben 
+bedeutet. Abfallentsorgung ist somit demographiesensitiv 
+und weist zudem eine sehr geringe Demographieelasti-
+zität auf. Bei einer Perforierung der Siedlung steigt bei-
+spielsweise die Sammelzeit je Behälter bei weniger als vier 
+Behältern pro 100 m exponentiell an (Cord-Landwehr 2002: 
+122), die Entsorgung des Abfalls der verbliebenen Anwoh-
+ner muss jedoch weiterhin gewährleistet sein.
+
+Der Zusammenhang zwischen Sammlungs- und Trans-
+portkosten und der Einwohnerdichte zeigt sich bei der 
+Gegenüberstellung von Daten der Entsorgungszweck-
+verbände, beispielsweise für den Zweckverband Abfall-
+wirtschaft Vogelsbergkreis (ZAV) 145 €/t bei einer 
+Einwohnerdichte von 79 Personen/km2, den Müllabfuhr-
+zweckverband Odenwaldkreis (MZVO) 103 €/t bei 160 
+Personen/km2, den Zweckverband Abfallwirtschaft Kreis 
+Bergstraße (ZAKB) 89 €/t bei 374 Personen/km2 und den 
+Kreis Darmstadt-Dieburg (ZAW) 67 €/t bei einer Besied-
+lungsdichte von 441 Personen/km2 (vgl. Abb. 1).
+
+2 So auch im Untersuchungsgebiet nach Angaben des Müllabfuhr-
+zweckverbandes Odenwald (MZVO).
+
+Abb. 1 Relation zwischen Sammlungs- und Transportkosten und Ein-
+wohnerdichte. (Quelle: Eigene Berechnung auf der Grundlage der Ein-
+wohnerzahlen des Hessischen Statistischen Landesamtes (2013: 12), 
+der Gebührenordnungen und Satzungen der Abfallzweckverbände 
+sowie Hessischer Rechnungshof (2009: 47))
+
+ 
+
+
+
+495Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+
+ebene Strecken. Als Entfernung wurde zunächst in Anleh-
+nung an die empfohlene Erreichbarkeit von Haltestellen des 
+öffentlichen Personennahverkehrs von 600 m bzw. maxi-
+mal zehn Minuten Gehzeit (Prinz 1999: 71; OREG 2012: 
+31) angenommen, wobei aufgrund des mitzuführenden
+Restmülls keine Überschreitung der 600-m-Distanz zuge-
+lassen wurde. So ergibt sich die für einen wirtschaftlichen
+Betrieb einer Sammelinsel erforderliche Siedlungsdichte.
+Zur zusätzlichen Berücksichtigung der Steigungen auf der
+Grundlage des digitalen Höhenmodells wurde die Routing-
+analyse mithilfe eines Knoten-Kanten-Modells, ausgehend
+von dem Knoten, auf dem die Sammelinsel geplant ist, mit
+einer Begrenzung der Gesamtkosten (Schwellenwert 500)
+durchgeführt. Für die Berechnung der Gesamtkosten wurde
+neben dem Abstandsgewicht auch die Steigung (je Kante)
+durch Einführung von Steigungsgewichten berücksichtigt.
+
+3.3  Verteilung der Wohneinheiten im Raum
+
+Die Untersuchung stellt eine Status-quo-Analyse dar. Für 
+eine nachhaltige Planung müssen jedoch auch zukünf-
+tige Entwicklungen einbezogen werden. Dazu muss eine 
+Annahme der zukünftigen Verteilung von Wohneinheiten im 
+Gemeindegebiet getroffen werden. Da dies auf der Gemein-
+deebene mit großen Unsicherheiten verbunden ist, wurde 
+dabei einerseits eine Mixed-Method-Untersuchung für eine 
+Gemeinde vorgenommen, bei der die zunächst durchge-
+führte quantitative Datenauswertung durch Ortsbegehun-
+gen und Expertengespräche verifiziert wurde. Andererseits 
+wurden zum Teil aggregierte Aussagen für Wohngebiete 
+(anstelle von einzelnen Gebäuden) getroffen.
+
+Für die Verteilung von genutzten Wohneinheiten im 
+Raum sind Sterbefälle, Wegzüge und innerörtliche Umzüge 
+von Interesse. Diese können die Gemeinden anhand der amt-
+lichen Melderegister einsehen. Aus datenschutzrechtlichen 
+Gründen ist dies Dritten nicht möglich. Im Forschungs-
+projekt lagen jedoch amtliche Melderegister über einen 
+Zeitraum von zehn Jahren in anonymisierter Form vor, ein-
+schließlich der gebäudebezogenen Daten über Zuzug, Weg-
+
+chen ließe. Zudem benötigt ein Entsorgungsunternehmen 
+gewisse Volumina an Abfall, um wirtschaftlich arbeiten 
+zu können. Um dies zu erreichen, kann zwischen Bring- 
+und Holsystem unterschieden werden. Als Kriterium für 
+das Holsystem wird im Allgemeinen eine Mindestanzahl 
+an Entleerungen bei einer gegebenen (kleinstmöglichen) 
+Behältergröße herangezogen (Salhofer 2001: 130). Für Alt-
+stoffe wurde bei einer Behältergröße von 60 l ein Entlee-
+rungsintervall von 13 Entleerungen pro Jahr und für biogene 
+Reststoffe mindestens 39 Entleerungen pro Jahr errechnet, 
+um sowohl für Nutzer als auch für Sammler ein praktikab-
+les Verhältnis zu erreichen. Ergibt sich rechnerisch aufgrund 
+nicht ausreichender anfallender Mengen eine geringere 
+Anzahl an Entleerungen, ist die betreffende Abfallart für die 
+Sammlung im Holsystem aus der Sicht des Abfallmanage-
+ments nicht geeignet und eine Umstellung auf das Bring-
+system zu diskutieren. Diese Diskussion ist gegebenenfalls 
+gemeinsam mit den Betroffenen zu führen, da eine rein 
+rechnerische Betrachtung die tatsächlichen Gegebenheiten 
+und Bedürfnisse nicht abbilden kann und allein noch keine 
+Systemveränderung begründet. Zudem werden die Einwoh-
+ner über die Beteiligung möglichst frühzeitig sensibilisiert, 
+womit ein wichtiger Grundstein für die Akzeptanz der Maß-
+nahme gelegt wird (vgl. IÖR 2001).
+
+Fußläufig erreichbare Sammelinseln, die gegenüber den 
+zentralen Sammelstellen den größeren Komfort für Nutzer 
+bieten, eignen sich jedoch nicht für jedes Abfallaufkom-
+men. Für die Berechnung der maximalen Entfernung für 
+Sammelinseln in Abhängigkeit zur Siedlungsdichte muss 
+eine Mindestgröße der Behälter und ein praktikables Entlee-
+rungsintervall zugrunde gelegt werden. Aus der Gegenüber-
+stellung der pro Einwohner durchschnittlich anfallenden und 
+der entleerten Volumina ergibt sich eine Anzahl an Einwoh-
+nern im Einzugsbereich der Sammelinsel. Unter Annahme 
+einer gleichmäßigen Verteilung der Einwohner im Gebiet 
+wird diese Einwohnerzahl auf die Siedlungsdichte in einer 
+Fläche (Gemeinde oder Landkreis) umgelegt. Der Radius 
+des entstehenden Kreises stellt die maximale Entfernung zu 
+einer Sammelinsel dar (vgl. Abb. 2).
+
+Die Unschärfe, welche die Annahme einer gleichmäßi-
+gen Verteilung von Einwohnern mit sich bringt, kann von 
+Gemeinden mithilfe eines GIS vermieden werden. Zur Ver-
+deutlichung wurde beispielhaft für einen Ortsteil, in dem 
+die Abfallsammlung aufgrund geringer Behälterdichte und 
+enger Gassen ohne Wendemöglichkeit mit hohem logis-
+tischem Aufwand verbunden ist, eine Sammelinsel vor-
+geschlagen und mithilfe einer Erreichbarkeitsanalyse der 
+Einzugsbereich der Sammelinsel festgestellt (vgl. Abb. 3). 
+Letzteres erfolgte über eine Kürzeste-Wege-Routingana-
+lyse. Einbezogen wurden dabei außerdem ein digitales 
+Geländemodell, um topographische Gegebenheiten berück-
+sichtigen zu können, da steile Anstiege insbesondere für 
+weniger mobile Personen schlechter zu bewältigen sind als 
+
+Abb. 2 Einzugsgebiet von Sammelinseln (Systemskizze). (Quelle: 
+Eigener Entwurf in Anlehnung an Salhofer (2001: 134))
+
+
+
+496 T. Köhler
+
+Neben der Verteilung der Wohneinheiten wurde die damit 
+direkt in Zusammenhang stehende Leerstandsrate eruiert 
+und eine Einschätzung zur Entwicklung der Leerstands-
+quote vorgenommen. Die Leerstandsquote lässt sich auf 
+der Grundlage des datenbankseitig mit den Geobasisdaten 
+verknüpften Melderegisters feststellen und mithilfe eines 
+GIS visualisieren: Wird das Melderegister der Kommunen 
+zugrunde gelegt, lassen sich mithilfe der Altersangaben 
+und der Anzahl der Bewohner pro Haus Wohnbaugebiete 
+mit hoher Leerstandsrate ermitteln. Zur Prognose, welche 
+Gebäude innerhalb eines bestimmten Zeitraumes leerfallen 
+(Leerstandsrisiko), werden Gebäude mit nur einem ver-
+bliebenen Bewohner im Hochbetagtenalter abgefragt. Im 
+Vergleich mit dem statistisch anzunehmenden Todesjahr 
+der Person kann der Zeithorizont bis zum Leerfallen einer 
+Immobilie abgeschätzt werden. Ob diese Immobilie jedoch 
+auch von strukturellem Leerstand betroffen sein wird, 
+beeinflussen unterschiedlichste Kriterien der Nachfrage. 
+Dazu gehören direkte Einflussfaktoren wie Preisgestaltung, 
+Bauzustand, Wohnumfeld, Eigentumsverhältnisse, Markt-
+verhalten der Eigentümer, aber auch indirekte wie mögliche 
+finanzielle Förderungen eines Umbaus oder einer Renovie-
+rung, Arbeitsmarkt, gesellschaftliche Rahmenbedingungen, 
+die soziale Struktur des Umfelds und Identifikation damit 
+(vgl. Köhler 2011; Schmied 2007: 12 ff.; Schöfl/Schöfl/
+Speidel 2009: 273 ff.).
+
+zug oder Tod eines Bewohners. Die Daten wurden über 
+einen Geokodierungsdienst des Hessischen Landesamtes 
+für Bodenmanagement und Geoinformation (HLBG) geo-
+referenziert, welcher die Hauskoordinaten im amtlichen 
+Koordinatensystem aus dem ALKIS zurückgibt.
+
+Für eine Aussage über die zukünftig zu erwartende Ver-
+teilung im Raum wurde das gesamte Siedlungsgebiet der 
+Untersuchungsgemeinden in Baualtersklassen unterteilt, 
+um die Wanderungsbewegungen zwischen den Baugebie-
+ten untersuchen zu können (vgl. Kap. 4). Dabei konnte 
+neben den Auswertungen des Schwarzplans auf Unterstüt-
+zung eines ortsansässigen Experten (Vertreter des Regio-
+nalmuseumsvereins) zurückgegriffen werden. Der Experte 
+bekam über den Web-Map-Service (WMS) des Hessischen 
+Landesamtes für Bodenmanagement und Geoinformation 
+die Automatisierte Liegenschaftskarte (ALK) als Karten-
+grundlage zur Verfügung gestellt, in der er mithilfe der 
+OS-Software Quantum GIS nach kurzer Einweisung selbst 
+Baualtersklassen als Flächen einzeichnen konnte. Die Daten 
+des Mikrozensus 2010 eignen sich für eine solche Untersu-
+chung nicht, da sie zwar für weite Teile des Bundesgebietes 
+eine Einteilung in Baualtersklassen enthalten, nicht jedoch 
+für Gemeinden des ländlichen Peripherraumes.
+
+Als weitere Informationsquelle konnten die Bauleitpläne 
+der Untersuchungsgemeinden herangezogen werden, die 
+über die kommunale Geodateninfrastruktur (GDI) abrufbar 
+sind.
+
+Abb. 3 Sammelinsel und Angabe 
+der fußläufigen Erreichbarkeit. 
+(Quelle: Eigene Darstellung auf 
+Basis der ALKIS-Daten des Hes-
+sischen Landesamtes für Boden-
+management und Geoinformation 
+(HLBG))
+
+ 
+
+
+
+497Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+
+Als weiteres Ergebnis konnte eine zweite innerörtliche 
+‚Umzugswelle‘ festgestellt werden, da die durch die ersten 
+Umzüge frei gewordenen Gebäude wenigstens zum Teil von 
+Einwohnern der peripheren Ortsteile nachgenutzt wurden 
+(vgl. Abb. 5, gebäudescharfe Darstellung aus Datenschutz-
+gründen nicht möglich). Diese Konzentration in der Kern-
+gemeinde wurde begünstigt durch finanzielle Förderung wie 
+dem Stadtumbauprogramm des Landes Hessen.
+
+4.1  Innenentwicklungspotenzial als Voraussetzung für 
+Zentrierung
+
+Die für die Schaffung einer kompakten Siedlung zu unterstüt-
+zende (Re)Zentrierung der Einwohner ist nur möglich, wenn in 
+der zentralen Siedlung genügend Innenentwicklungspotenzial 
+vorhanden ist. Die Feststellung dieses Potenzials ist jedoch mit 
+Unsicherheiten verbunden. „Innenentwicklungspotentiale fal-
+len selten in größerer Anzahl zu einem bestimmten Zeitpunkt 
+an“ (Dahm 2007: 60), sondern tauchen vielmehr in unregel-
+mäßigen Abständen, beispielsweise nach Schließungen größe-
+rer Unternehmen oder aber auch durch die Altersentwicklung 
+der Bevölkerung und dadurch bedingten Erbschafts- und 
+Verkaufsfällen mit einer gewissen Kontinuität auf. In Hau-
+fendörfern ist das „theoretische Innenentwicklungspotential“ 
+(Bleher/Buchert 2008: 56) anhand einer Abfrage
+
+● der Baulücken: Das Grundstück liegt innerhalb der im
+Zusammenhang bebauten Ortsteile oder im Geltungsbe-
+reich eines Bebauungsplanes, direkt angrenzend an eine
+öffentliche Erschließungsstraße, die Größe beträgt min-
+destens 350 m2,6
+
+● der geringfügig genutzten Flächen: Lage innerhalb der
+im Zusammenhang bebauten Ortsteile oder im Geltungs-
+bereich eines Bebauungsplanes und mit einer Grundflä-
+chenzahl < 0,1,
+
+6 Kleinste Grundstücksfläche für eine Doppelhaushälfte laut Amt für 
+Bodenmanagement (2007: 56); ähnliche Festlegungen bezüglich der 
+Flächengröße bei Preuß und Floeting (2009: 63).
+
+4  Ergebnisse
+
+Die empirischen Untersuchungen zu innerörtlichen Wan-
+derungen und der Leerstandsproblematik in vier peripher 
+gelegenen Ortsteilen zweier Gemeinden mit etwa 13.000 
+bzw. 9000 Einwohnern im Odenwaldkreis zeigen, dass 
+insgesamt ein Trend zur Konzentration der Bevölkerung 
+in der jeweiligen heutigen Kerngemeinde vorliegt. Diese 
+(Re)Zentrierung ist aus infrastrukturtechnischer und hygi-
+enischer (Korrosions- und Verkeimungsrisiko bei langen 
+Standzeiten von Abwasser bzw. Trinkwasser) – und damit 
+letztlich finanzieller – Sicht zu begrüßen, da so kompakte 
+Siedlungen entstehen (Linke/Köhler 2010).
+
+Da sich bei der automatisierten Leerstandsuntersuchung 
+Unsicherheiten ergeben (bezüglich Leerstandsdauer, Kor-
+rektheit der amtlichen Geobasisdaten, tatsächliche Nutzung 
+des Gebäudes, Fehler im Melderegister etc., vgl. Köhler 
+2011), wurden die Erkenntnisse mit qualitativen Untersu-
+chungen ergänzt. Dazu gehörten Ortsbegehungen, Gesprä-
+che mit Ortskundigen und Experten aus Verwaltung und 
+Politik. So konnte beispielsweise eine in den ALKIS-Daten 
+als Wohnnutzung dargestellte Siedlung, die nach Verschnei-
+dung mit den Melderegisterdaten komplett leer stehen 
+müsste, als Ferienhausgebiet identifiziert werden. Eine Veri-
+fizierung ist daher unerlässlich.
+
+In Bezug auf die Standort- und Erreichbarkeitsunter-
+suchungen von Sammelinseln sind zwei unterschiedliche 
+Ergebnisse möglich: Entweder kann eine Entsorgung über 
+eine Sammelinsel wegen der Erreichung der notwendigen 
+Schüttmenge durch eine ausreichende Einwohnerdichte 
+im Einzugsbereich der Insel empfohlen werden oder aber 
+die Einwohnerdichte reicht nicht aus und eine Sammelin-
+sel kann nicht sinnvoll platziert werden (vgl. Kap. 4.2). Im 
+in Abb. 3 dargestellten Beispiel ist die Sammelinsel von 
+99 % der Einwohner über einen Fußweg von unter den als 
+Obergrenze festgelegten 600 m bzw. zehn Minuten (vgl. 
+Kap. 3.2) erreichbar, wobei – bei konstantem Pro-Kopf-
+Aufkommen – die notwendige Schüttmenge erreicht würde. 
+Mit dieser Lösung wäre gleichzeitig der Spagat zwischen 
+möglichst wendigen (kleinen) Fahrzeugen für die Samm-
+lung in schmalen Straßen und Sackgassen und möglichst 
+großen Fahrzeugen zur Einsparung mehrfacher An- und 
+Abtransporte (Fahrten zwischen Betriebshof und Sammel-
+gebiet) (Cord-Landwehr 2002: 125) gelungen, da die Sam-
+melinsel an einer Stelle aufgestellt werden würde, die ein 
+Rangieren mit großen Fahrzeugen zuließe.
+
+Für die Untersuchung des Zusammenhangs zwischen 
+Umzügen und Leerstand wurden Bewohner eines Bauge-
+bietes der 1990er Jahre am Rande der Kerngemeinde (98 % 
+Einheimische) zu deren vorherigen Wohngebäuden zuge-
+ordnet, wobei eine innerörtliche Wanderung insbesondere 
+aus der Baualtersklasse vor 1919 in das neuere Baugebiet 
+zu beobachten war (vgl. Abb. 4 und 5).
+
+Abb. 4 Von Fortzügen in ein neues Baugebiet betroffene Baugebiete 
+nach Baualtersklassen. (Quelle: Eigene Erhebung)
+
+
+
+498 T. Köhler
+
+erwartenden Nachfrage bezüglich Standards abgeleitet wer-
+den. Geht man davon aus, dass die Bevölkerung im Unter-
+suchungsgebiet in den kommenden zehn Jahren dem Trend 
+entsprechend um weitere 2 % zurückgeht (Hessen Agen-
+tur 2010: 38) und der Bedarf an Wohnfläche pro Kopf (im 
+Untersuchungsgebiet 47 m2) stagniert, ist hier mit einem 
+Rückgang um etwa 12 ha zu rechnen. Das mithilfe des GIS 
+aufgezeigte Innenentwicklungspotenzial von 22 ha könnte 
+demnach – zumindest theoretisch – den Bedarf an anderem 
+als dem bestehenden Wohnraum decken.
+
+ ● der Brachflächen und leer stehenden Gebäude: Für 
+Wohngebäude über das Melderegister, für gewerbliche 
+Flächen mithilfe des Gewerberegisters und durch Über-
+schneidung der Daten aus dem ALKIS nach der Objekt-
+kennung für die Nutzung
+
+feststellbar. Stets ergänzend ist das Wissen der Einwohner 
+und insbesondere der Kommunalpolitiker einzubeziehen, 
+da beispielsweise landwirtschaftlich genutzte Gebäude 
+weder im Melde- noch im Gewerberegister geführt werden. 
+Das theoretische Potenzial entspricht zudem aus diversen 
+Gründen wie stadtökologischer Aspekte, unterschiedlicher 
+Eigentümerinteressen oder der spezifischen kommunalpoli-
+tischen Interessenlagen und Kapazitäten nicht dem tatsäch-
+lichen Bauland.
+
+In einer Gemeinde im Untersuchungsgebiet stehen heute 
+beispielsweise durchschnittlich 8 % der Wohngebäude leer 
+(mit großen Schwankungen zwischen den Ortsteilen sowie 
+den Baualtersklassen, vgl. Abb. 6), etwa ein Fünftel der 
+bebauten Grundstücke sind mindergenutzt. Die Gesamt-
+fläche der unbebauten, aber grundsätzlich für eine Wohn-
+bebauung nutzbaren Grundstücke, wurde auf etwa 22 ha 
+bilanziert.
+
+In Dörfern mit der Siedlungsstruktur von Anger-, Stra-
+ßendörfern oder Einzelhofreihungen gestaltet sich die 
+Feststellung des Innenentwicklungspotenzials deutlich 
+schwieriger als in Haufendörfern. Eine Nachverdichtung ist 
+in vielen Teilen solcher Gemeinden einer Neuausweisung 
+gleichzusetzen, die oben genannten Abfragekriterien grei-
+fen nicht. Hier ist fast ausschließlich auf die tatsächliche 
+Vorortsituation abzustellen.
+
+In einem zweiten Schritt sollte eine Wohnbedarfspro-
+gnose aufgrund der vorliegenden Bevölkerungsvoraus-
+berechnungen, der bisherigen Entwicklungen und der zu 
+
+Abb. 6 Heutige Leerstandsraten (prozentualer Anteil nicht genutzter 
+Wohneinheiten am Gesamtbestand der Wohneinheiten) einer Untersu-
+chungsgemeinde. (Quelle: Eigene Erhebung, Darstellung auf Basis der 
+ALKIS-Daten des HLBG sowie des Melderegisters der Gemeinde)
+
+ 
+
+Abb. 5 Unterteilung einer Ge-
+meinde in Baualtersklassen und 
+innerörtliche Wanderungen aus 
+diesen Gebieten in ein Neubau-
+gebiet nach dessen Ausweisung. 
+(Quelle: Eigene Erhebung auf 
+Basis des Web Map Services 
+(WMS) des HLBG, vgl. http://
+www.gds-srv.hessen.de/cgi-bin/
+lika-services/ogc-free-maps.ows? 
+(27.08.2014))
+
+ 
+
+http://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-maps.ows?
+http://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-maps.ows?
+http://www.gds-srv.hessen.de/cgi-bin/lika-services/ogc-free-maps.ows?
+
+
+499Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+
+aus der heutigen Tonnendichte von 2,5 t je 100 m Straße) 
+gegenüber. Über 10 % der Einwohner über 70 Jahre leben 
+alleine, der überwiegende Teil der Gebäude gehört zu den 
+Baualtersklassen bis 1919, 1920er bis 1940er Jahre und 
+1950er bis 1960er Jahre. Der Ortsteil weist bereits heute 
+eine Leerstandsquote von etwa 18,6 % auf, wobei im nördli-
+chen Teil eine Leerstandsquote von etwa 33 % erreicht wird. 
+In der Zusammenschau der funktionalen und strukturellen 
+sowie der demographischen Merkmale (vgl. dazu ausführ-
+lich Köhler 2011) ist mit vernachlässigbaren Wanderungs-
+gewinnen zu rechnen. In Verbindung mit der Sterbetafel 
+und den Einwohnermeldedaten ergibt sich für das Jahr 2025 
+eine Verringerung der Tonnendichte auf durchschnittlich 
+1,9 t pro 100 m. Die Sammelzeit wird sich rein rechnerisch 
+jedoch um lediglich etwa elf Minuten verringern.7 Da – bis 
+auf eine Ausnahme – alle Straßen Stichstraßen sind und die 
+Straßenbreite durchschnittlich 9,5 m beträgt, sind die logis-
+tischen Voraussetzungen zudem nicht optimal. Zukünftig 
+könnte die Restmüllentsorgung in diesem Stadtteil deshalb 
+im Bringsystem erfolgen.
+
+Auch hier wurde deshalb der Standort für eine Sammel-
+insel vorgeschlagen (vgl. Abb. 7). Allerdings liegt diese 
+aufgrund örtlicher Gegebenheiten nicht in fußläufiger 
+Erreichbarkeit aller Einwohner. Eine zweite Sammelinsel 
+rentiert sich jedoch wegen des geringen Abfallaufkommens 
+nicht. Die betroffenen Anwohner müssten ihren Restmüll 
+über eine weitere Strecke transportieren, beispielsweise 
+zum nächsten Wertstoffhof (etwa 12 km). Bei einem sol-
+chen Eingriff in das bisherige Entsorgungssystem ist auf die 
+
+7 Bei einem dem Trend entsprechenden durchschnittlichen Bevölke-
+rungsrückgang in der Gemeinde um 2 % und konstanter Schüttmenge 
+pro Kopf.
+
+4.2  Verbindung von Abfallplanung und 
+Siedlungsentwicklung
+
+Für eine strategische Planung ließen sich die bisher vor-
+gestellten Untersuchungen vereinen und gegenseitig nut-
+zen. Die in Kap. 3.2 dargestellte Umstellung von Hol- auf 
+Bringsystem in der Abfallentsorgung könnte abhängig 
+gemacht werden von der tatsächlichen Schüttmenge und 
+Behälterdichte sowie von deren zu erwartender zukünfti-
+ger Entwicklung. Das Holsystem könnte auf dichter besie-
+delte Ortsteile beschränkt und in weniger dicht besiedelten 
+Teilen auf das Bringsystem umgestellt werden. Straßen-
+züge mit wenig Leerstand würden auch zukünftig von den 
+Sammelfahrzeugen wie bisher bedient, in den Straßen, die 
+einen hohen Leerstandsanteil haben, würden die Anwoh-
+ner verpflichtet, ihren Abfall zu Sammelstellen zu bringen. 
+Aufgrund der geringen Menge Restmüll pro Kopf ist zu 
+erwarten, dass dies auch älteren Menschen möglich ist (ent-
+sprechend zu Altglas und Papier), wobei die Machbarkeit 
+im Einzelfall geprüft werden sollte. Allerdings ist im Hin-
+blick auf Studien zur Akzeptanz von verursachergerechten 
+Abfallgebühren darauf hinzuweisen, dass eine Änderung 
+des Tagesablaufes eine geringere Akzeptanz erwarten lässt, 
+der finanzielle Anreiz nicht mehr steigender Abfallgebüh-
+ren dies jedoch – zumindest teilweise – ausgleichen kann 
+(Schütz 1991; IÖR 2001). Entscheidend für die Akzeptanz 
+ist die Sensibilisierung für die Notwendigkeit der Umstel-
+lung (IÖR 2001: 33).
+
+Durch die teilweise Aufgabe des Sammelns im Holsys-
+tem würde die Abfallentsorgung nicht nur kostengünstiger 
+werden, sondern könnte gleichzeitig als Steuerungsmittel 
+der Siedlungsentwicklung dienen. Der Benutzerkomfort 
+wäre für die Betroffenen selbstredend eingeschränkt, gerade 
+diese Einschränkung wäre als weicher Standortfaktor auch 
+gleichzeitig Einflussfaktor für die Zuwanderung bzw. den 
+Neubezug von Immobilien. Die nicht mehr angeschlosse-
+nen Straßenzüge verlieren an Attraktivität. Sollen nun ein-
+zelne Quartiere zur Entwicklung einer kompakten Siedlung 
+nicht weiterentwickelt werden, kann dieser Attraktivitäts-
+verlust von der Gemeinde gezielt eingesetzt werden. So 
+würde der Abfallservice als Instrument der räumlichen Pla-
+nung die oben beschriebene Zentrierung unterstützen. Poli-
+tisch gesehen ist die Wirksamkeit sicherlich zu relativieren, 
+da ein solches Vorgehen als zu großer Eingriff in das private 
+Eigentum gewertet werden wird, wird doch die Wertminde-
+rung von Immobilien regelrecht aufgezwungen.
+
+Anhand der Daten eines Stadtteils mit 373 Einwohnern 
+(Stand 2010) mit einer Entfernung vom benachbarten Stadt-
+teil von etwa sechs Kilometern und einer Stichstraße als ein-
+zigem Zugang wurde eine Beispielrechnung durchgeführt. 
+Der Stadtteil gehört zur Stadt Erbach im Odenwald. Zur-
+zeit steht eine ungefähre Transportzeit (Weg in den Ortsteil) 
+von acht Minuten einer Sammelzeit von 61 min (errechnet 
+
+Abb. 7 Erreichbarkeit einer Sammelinsel. (Quelle: Eigene Darstel-
+lung auf Basis der ALKIS-Daten des HLBG)
+
+
+
+500 T. Köhler
+
+Gemeinde ist dies jedoch grundsätzlich rechtlich unpro-
+blematisch, da sie die datenhaltende Behörde ist. Ledig-
+lich für Dritte (z. B. Planungsbüros) muss eine Regelung 
+zu Zugangsmöglichkeiten, z. B. durch Anonymisierung, 
+gefunden werden.
+
+Durch die Verknüpfung der Meldedaten und der Adress-
+sätze der Abfallentsorgung konnten die beiden Datensätze 
+verglichen und so Fehler identifiziert werden, da jeder 
+Haushalt über eine Restmülltonne verfügen muss. Im 
+Zuge der Untersuchung zeigten sich Fehler in den beiden 
+Datenbeständen, was als Nebeneffekt zu einer Identifizie-
+rung von gemeldeten Personen ohne Restmülltonne führte. 
+Gleichzeitig wurde deutlich, dass auch bei gemeindlichen 
+Daten weiterer Harmonisierungsbedarf besteht und Ortsbe-
+gehungen oft unvermeidbar waren. Durch die wachsende 
+Menge an Daten, beispielsweise über die Geodateninfra-
+struktur Deutschland (GDI-DE)9, werden sich voraussicht-
+lich zukünftig jedoch auch deren Qualität und Verfügbarkeit 
+verbessern.
+
+Im Ergebnis kann sich die Verknüpfung von räumlicher 
+Gesamtplanung und Abfallentsorgungsservice als sinnvoll 
+erweisen, wobei durch den Einsatz von Geodaten aufge-
+zeigt werden kann, wo Entwicklung möglich ist, wo eine 
+Umstellung auf das Bringsystem technisch sinnvoll sein 
+kann und wo eine Sammelinsel platziert werden kann. Die 
+zum Teil herausfordernde Datensituation würde jedoch eine 
+Einbeziehung von Ortsbegehungen, Befragungen etc. für 
+eine tatsächliche Umsetzung der Maßnahmen unabdingbar 
+machen. Unabhängig von den technischen und quantitativ 
+messbaren Voraussetzungen sind dabei der gesellschaftliche 
+Konsens, ein großer politischer Wille sowie eine starke Bür-
+gergemeinschaft zur Umsetzung und eine einzelfallbezo-
+gene Untersuchung der sozialen Verträglichkeit notwendig. 
+Zudem ist die zeitliche Komponente zu beachten, da sowohl 
+eine überstürzte Einführung des Bringsystems als auch die 
+kurzfristige Konzeption der Rückbaugebiete systematische 
+Fehler darstellen könnten, die von vornherein eine Umset-
+zung verhindern.
+
+Literatur
+
+Amt für Bodenmanagement (2007): Grundstücksmarktbericht Südhes-
+sen. Daten des Immobilienmarktes Südhessen. Wiesbaden.
+
+Beetz, S. (2012): Besonderheiten in der Entwicklung kleiner Städte 
+in ländlichen Räumen. In: Engel, A.; Harteisen, U.; Kaschlik, A. 
+(Hrsg.): Kleine Städte in peripheren Regionen – Prozesse, Teil-
+habe und Handlungsbefähigung, integriertes Stadtentwicklungs-
+management. Detmold, 45–66.
+
+Berndgen-Kaiser, A.; Bläser, K.; Fox-Kämper, R.; Siedentop, S.; Za-
+krzewski, P. (2014): Demography-driven suburban decline? At the 
+crossroads: mature single-family housing estates in Germany. In: 
+Journal of Urbanism 7 (3), 286–306.
+
+9 http://www.geoportal.de/DE/GDI-DE/gdi-de.html?lang = de 
+(30.09.2014).
+
+Bedeutung eines funktionierenden Gemeinschaftssystems 
+oder die Etablierung privater Dienste (wie z. B. DORV-Zen-
+tren8) hinzuweisen: Ebenso wie die Versorgung mit Lebens-
+mitteln, Medikamenten und ärztlicher Betreuung könnte bei 
+immobilen Menschen die Möglichkeit zur Entsorgung des 
+Restmülls im Bringsystem so gewährleistet werden.
+
+Mit Einführung des Bringsystems würde das betroffene 
+Quartier unattraktiver und könnte bei weiterer ‚Entleerung‘ 
+im Sinne eines Siedlungsumbaus schlussendlich rückgebaut 
+werden. Diese Überlegungen betreffen sehr langfristige 
+Entwicklungen und implizieren keine Zwangsumsiedlun-
+gen. Zudem fehlen bisher planungsrechtliche Umsetzungs-
+möglichkeiten, über die beispielsweise ein Zuzugsverbot 
+ausgesprochen werden könnte.
+
+Folgende Kriterien zur Entscheidung über Bring- oder 
+Holsystem werden vorgeschlagen:
+
+ ● Abfallaufkommen (Tonnendichte über Einwohner-
+dichte), zu ermitteln über Einwohnermelde- und 
+Routingdaten,
+
+ ● Höhe der Leerstandsquote (ergibt sich aus Meldedaten, 
+ALKIS, aber auch aus Ortsbegehungen und Befragun-
+gen); nur in Gebieten mit sehr hohem Leerstandsanteil 
+ist die Abkopplung vom bisher angebotenen Holsystem 
+sozialstaatlich denkbar,
+
+ ● Lange Anfahrtswege für die Sammelfahrzeuge im Ver-
+hältnis zu den Bedienten (Transportzeit zu Sammelzeit 
+bzw. Anteil des Abfallaufkommens),
+
+ ● Logistische Voraussetzungen: Stichstraßen ohne Wen-
+demöglichkeit und Straßen mit einer Breite unter neun 
+Metern.
+
+Die Entscheidung über die Anbindung an das Holsystem 
+oder die Abkopplung kann allerdings nur von den Kommu-
+nen selbst – einschließlich der Einwohner – erarbeitet und 
+getroffen werden.
+
+5  Fazit und Ausblick
+
+Für eine nachhaltige räumliche Planung, die die Schaffung 
+einer kompakten Siedlung trotz Schrumpfungsbedingun-
+gen zum Ziel hat, sollten raumbezogene Rahmendaten wie 
+Leerstandsrate, Leerstandsrisiko, Innenentwicklungspoten-
+zial, bevorzugter Wohnort, Wohnbedarf etc. bekannt sein. 
+Geodaten in Verknüpfung mit beschreibenden Daten liefern 
+hier gute Grundlagen und ermöglichen eine Visualisierung 
+von Entwicklungen. Frei verfügbare Daten wie OpenStreet-
+Map (OSM)-Daten und Schüttmengen allein sind dafür 
+unter Umständen allerdings nicht ausreichend und müssen 
+um teils sensible Daten ergänzt werden. Für die planende 
+
+8 DORV: Dienstleistung und Ortsnahe Rundum Versorgung; http://
+www.dorv.de (27.08.2014).
+
+
+
+501Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+
+Miofsky, D.; Souren, R. (2010): Einflussfaktoren auf die Höhe der 
+Hausmüllgebühren. Ilmenau. = Ilmenauer Schriften zur Betriebs-
+wirtschaftslehre 2/2010.
+
+OREG – Odenwald-Regional-Gesellschaft (2012): Nahverkehrs-
+plan des Odenwaldkreises. Schlussbericht in der Fassung des 
+Kreistagsbeschlusses vom 25. Juni 2012. Erbach. http://www.
+odenwaldmobil.de/uploads/media/Nahverkehrsplan_2013-17.pdf 
+(27.08.2014).
+
+Preuß, T.; Floeting, H. (2009): Folgekosten der Siedlungsentwicklung. 
+Bewertungsansätze, Modelle und Werkzeuge der Kosten-Nutzen-
+Betrachtung. Berlin. = Beiträge aus der REFINA-Forschung 3.
+
+Prinz, D. (1999): Städtebau. Band 1: Städtebauliches Entwerfen. 
+Stuttgart.
+
+Rahmeyer, F. (2004): Abfallwirtschaft zwischen Entsorgungsnotstand 
+und Überkapazitäten. Augsburg. = Volkswirtschaftliche Diskussi-
+onsreihe Universität Augsburg, Beitrag 266.
+
+Renner, M. (2007): Mitwirkung der Bürgerinnen und Bürger an der 
+Stadtentwicklung – ein Überblick mit Beispielen aus Projekten. 
+In: Informationen zur Raumentwicklung 1, 1–16.
+
+Salhofer, S. (2001): Kommunale Entsorgungslogistik. Planung, Ge-
+staltung und Bewertung entsorgungslogistischer Systeme für 
+kommunale Abfälle. Berlin. = Abfallwirtschaft in Forschung und 
+Praxis 121.
+
+Schaffert, M. (2011): Szenariotechnik und GIS – Ein Beitrag zur de-
+mographierobusten Planung in Kommunen. Darmstadt. = Schrif-
+tenreihe des Geodätischen Instituts der Technischen Universität 
+Darmstadt 32.
+
+Scherf, C. (2007): Der sozioökonomische Wandel in Schrumpfungs-
+räumen und Folgen für den Wirtschaftsverkehr. Berlin. = IVP-
+Schriften 14.
+
+Schiller, G.; Siedentop, S. (2005): Infrastrukturfolgekosten der Sied-
+lungsentwicklung unter Schrumpfungsbedingungen. In: DISP 
+160, 83–93.
+
+Schmied, D. (2007): Leerstände in Dörfern. Ausmaß und Ursachen. 
+In: Schmied, D.; Henkel, G. (Hrsg.): Leerstand von Gebäuden in 
+Dörfern – Beginn der Dorfauflösung oder Chancen durch Umnut-
+zung? Göttingen, 1–18.
+
+Schmied, D.; Henkel, G. (Hrsg.) (2007): Leerstand von Gebäuden in 
+Dörfern – Beginn der Dorfauflösung oder Chancen durch Umnut-
+zung? Göttingen.
+
+Schöfl, G.; Schöfl, M.; Speidel, S. (2009): Kommunales Flächenma-
+nagement im Ländlichen Raum – die Aktivierung ungenutzter 
+Gebäude und Bauflächen am Beispiel MELAP. In: Flächenmana-
+gement und Bodenordnung 71 (6), 271–276.
+
+Schütz, H. (1991): Individuelles Entsorgungsverhalten und Akzeptanz 
+von Entsorgungstechnologien. Jülich. = Arbeiten zur Risiko-Kom-
+munikation 22.
+
+Siebel, W. (2006): Wandel, Rationalität und Dilemmata der Planung. 
+In: PND online 4, 1–22.
+
+Statistisches Bundesamt (2014): Umwelt – Zeitreihe zum Abfallaufkom-
+men. https://www.destatis.de/DE/ZahlenFakten/Gesamtwirtschaf-
+tUmwelt/Umwelt/UmweltstatistischeErhebungen/Abfallwirtschaft/
+Tabellen/ZeitreiheAbfallaufkommen.pdf?__blob=publicationFile 
+(27.08.2014).
+
+Bilitewski, B. (2007): Verursachergerechte Gebührensysteme im Ver-
+gleich. Aufwand, Kosten, Nutzen. Vortrag vom 20. November 
+2007, Praxisforum Verursachergerechte Gebührensysteme in der 
+Praxis. Hamburg.
+
+Bilitewski, B.; Härdtle, G.; Marek, K. (2000): Abfallwirtschaft – 
+Handbuch für Praxis und Lehre. Berlin, Heidelberg, New York.
+
+Bleher, D.; Buchert, M. (2008): Die Zukunft liegt im Bestand. Innen-
+entwicklung als unterschätzte Chance für kleine und große Ge-
+meinden. Ergebnisse des Forschungsprojektes komreg. In: Institut 
+für Wasserbau der Universität Stuttgart (Hrsg.): VEGAS-Kollo-
+quium 2008. Ressource-Fläche III. Tagungsband zur Veranstal-
+tung am 01. Oktober 2008 an der Universität Stuttgart. Stuttgart, 
+55–63. = Mitteilungen des Instituts für Wasserbau 174.
+
+Cord-Landwehr, K. (2002): Einführung in die Abfallwirtschaft. 
+Stuttgart.
+
+Dahm, S. (2007): Bau- und Wohnflächenreserven in kleinen Kommu-
+nen Baden-Württembergs – Innenentwicklungspotenziale vor dem 
+Hintergrund einer sich ändernden Bevölkerungsstruktur. Karlsru-
+he = Schriftenreihe des Instituts für Städtebau und Landesplanung 
+der Universität Karlsruhe 36.
+
+Förstner, U. (2008): Umweltschutztechnik. Berlin, Heidelberg.
+Hagemeister, U.; Haller, C. (2009): Bürgermitwirkung im Stadtumbau. 
+
+In: Altrock, U.; Kunze, R.; Pahl-Weber, E.; von Petz, U.; Schubert, 
+D. (Hrsg.): Jahrbuch Stadterneuerung 2009. Schwerpunkt „Mega-
+cities und Stadterneuerung“. Berlin, 261–280.
+
+Hahne, U. (2013): Auswirkungen des Demographischen Wandels 
+auf den Immobilienmarkt in ländlichen Räumen. In: Rüppel, U. 
+(Hrsg.): 2. Darmstädter Ingenieurkongress Bau und Umwelt. Aa-
+chen, 339–344.
+
+Hessen Agentur (2010): Bevölkerungsvorausschätzung für die hessi-
+schen Landkreise und kreisfreien Städte. Eine Projektion für den 
+Zeitraum von 2010 bis 2030 und eine Trendfortschreibung bis 
+2050. Wiesbaden.
+
+Hessischer Rechnungshof (2009): Neunzehnter Zusammenfassender 
+Bericht 2009. Darmstadt.
+
+Hessisches Statistisches Landesamt (2013): Hessische Kreiszahlen. 
+Ausgewählte neue Daten für Landkreise und kreisfreie Städte. 
+Band 1, 2013. Wiesbaden.
+
+ILS – Institut für Landes- und Stadtentwicklungsforschung; Planerso-
+cietät (2009): Stadtumbau und Infrastruktursysteme in Nordrhein-
+Westfalen – Wege zur kosteneffizienten Anpassung des Bestandes. 
+Dortmund.
+
+IÖR – Leibniz-Institut für ökologische Raumentwicklung (2001): 
+Chancen und Barrieren eines verursachergerechten Abfallgebüh-
+rensystems in der Individualisierungsgesellschaft. Dresden.
+
+Köhler, T. (2011): Verwaltungsreform im ländlichen Raum. Ein Dis-
+kussionsbeitrag. Darmstadt. = Schriftenreihe des Geodätischen 
+Instituts der Technischen Universität Darmstadt 34.
+
+Kötter, T. (2009): Innenentwicklung der Dörfer und Revitalisierung 
+der Dorfkerne – von der Dorferneuerung zum Dorfumbau. In: 
+DLKG – Deutsche Landeskulturgesellschaft (Hrsg.): Dörfer ohne 
+Menschen!? Zwischen Abriss, Umnutzung und Vitalisierung. o.O., 
+6–28. = Schriftenreihe der Deutschen Landeskulturgesellschaft, 
+Sonderheft 02.
+
+Linke, H. J.; Köhler, T. (2010): Ansätze zum Siedlungsumbau bei sin-
+kenden Bevölkerungszahlen im ländlichen Raum. In: Flächenma-
+nagement und Bodenordnung 72 (3), 102–109.
+
+http://www.odenwaldmobil.de/uploads/media/Nahverkehrsplan_2013-17.pdf
+http://www.odenwaldmobil.de/uploads/media/Nahverkehrsplan_2013-17.pdf
+https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltstatistischeErhebungen/Abfallwirtschaft/Tabellen/ZeitreiheAbfallaufkommen.pdf?__blob=publicationFile
+https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltstatistischeErhebungen/Abfallwirtschaft/Tabellen/ZeitreiheAbfallaufkommen.pdf?__blob=publicationFile
+https://www.destatis.de/DE/ZahlenFakten/GesamtwirtschaftUmwelt/Umwelt/UmweltstatistischeErhebungen/Abfallwirtschaft/Tabellen/ZeitreiheAbfallaufkommen.pdf?__blob=publicationFile
+
+	﻿Geoinformation in der kommunalen Abfallentsorgungs- und strategischen räumlichen Planung
+	﻿Zusammenfassung
+	﻿Abstract
+	﻿1﻿ ﻿﻿﻿Einführung
+	﻿2﻿ ﻿﻿﻿Hintergrund
+	﻿3﻿ ﻿﻿﻿Untersuchungsschritte und Methodik
+	﻿3.1﻿ ﻿﻿﻿Datengrundlage
+	﻿3.2﻿ ﻿﻿﻿Abfallentsorgung
+	﻿3.3﻿ ﻿﻿﻿Verteilung der Wohneinheiten im Raum
+
+	﻿4﻿ ﻿﻿﻿Ergebnisse
+	﻿4.1﻿ ﻿﻿﻿Innenentwicklungspotenzial als Voraussetzung für Zentrierung
+	﻿4.2﻿ ﻿﻿﻿Verbindung von Abfallplanung und Siedlungsentwicklung
+
+	﻿5﻿ ﻿﻿﻿Fazit und Ausblick
+	﻿Literatur

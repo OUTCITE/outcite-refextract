@@ -1,0 +1,506 @@
+Zeitschrift für Geographiedidaktik ZGD 1 118, S. 33-60 ISSN 2198-4298
+
+Akteurszentriert, problemorientiert, situiert -
+Design-basierte Entwicklung der Unternehmensfallstudie 
+als Unterrichtsmethode des Geographieunterrichts
+
+Actor-Centered, Problem-Based, Situated - Design-Based Development of the
+Company Case Study as a Teaching Method in Geography Education
+Jan Hiller
+
+Zusammenfassung
+Die Unternehmensfallstudie stellt als Unterrichtsmethode geeignete Rahmenbedingungen her, mithilfe derer wirtschafts­
+geographische Konzepte auf einem induktiven Erkenntnisweg erlernt werden können. Den theoretischen Rahmen bilden 
+Ansätze einer postmodernen, akteurszentrierten Wirtschaftsgeographie und Konzepte zur Fallstudienmethode. Damit ist 
+die Unternehmensfallstudie in der Lage, einen Beitrag zur Überwindung eines bislang ungelösten Praxisproblems des 
+Geographieunterrichts zu lösen: Die schulische Wirtschaftsgeographie befindet sich in einer nicht zufriedenstellenden 
+Situation. Die Wirtschaftsgeographie ist bislang kaum Gegenstand fachdidaktischer Forschung; wirtschaftsgeographische 
+Unterrichtsinhalte erzeugen nur begrenztes Schülerinteresse; der fachwissenschaftliche Paradigmenpluralismus behin­
+dert die Adaption neuer Erkenntnisse für den Schulunterricht; letztlich ist die Stellung der Wirtschaftsgeographie innerhalb 
+der Schulfächer nicht abschließend geklärt. Ziel dieses Beitrags ist die Artikulation der design-basierten Entwicklung der 
+Unternehmensfallstudie. Der zyklisch-iterative Forschungsprozess nutzt Design-Based Research (DBR) als methodologi­
+schen Rahmen und verbindet Unterrichtsentwicklung mit empirischer Lehr-Lernforschung. Design-Prinzipien definieren die 
+Unternehmensfallstudie als methodische Großform. Dabei konkretisiert ein mehrstufiger Operationalisierungsprozess die 
+vier zunächst abstrakt formulierten Design-Prinzipien Akteurszentrierung, Problemorientierung, situiertes Lernen und regi­
+onale Verankerung. Eine qualitative Lernprozessanalyse entschlüsselt die individuelle Wissenskonstruktion zentraler wirt­
+schaftsgeographischer Konzepte. Durch die Kombination von problemzentrierten Einzelinterviews, videographierten Ver­
+mittlungsexperimenten und mehreren Zwischenerhebungen entsteht ein in Teilsegmenten analysierbarer Lernprozess. Das 
+Kernergebnis der Studie ist ein sog. Designrahmen, welcher die weiterentwickelten Design-Prinzipien der prototypischen 
+Unternehmensfallstudie und die aus der Lernprozessanalyse gezogenen Konsequenzen enthält. Diese Konsequenzen verall­
+gemeinern die kontextgebundenen Ergebnisse der empirischen Erhebungen in Form von Aussagen über die Strukturierung 
+von Lernprozessen, die wirtschaftsgeographischen Spezifika des Wissenserwerbs und die Rolle des Schülerinteresses. 
+
+Schlüsselwörter: Wirtschaftsgeographie, Fallstudie, Design-Based Research, Lernprozess, Vermittlungsexperiment
+
+Abstract
+The company case study establishes suitable frameworks for use as a teaching method which will assist the learning of economic 
+geographic concepts on an inductive knowledge path. The theoretical framework is formed by employing postmodern, actor- 
+centered Economic Geography approaches, along with concepts for the case study method. Therefore, the company case study 
+can help overcome an unsolved practical problem of Geography Education: school-based Economic Geography is in an unsatisfac­
+tory situation. Economic Geography has so far hardly featured as a topic of Geography Education; Economic Geography education 
+captures pupils' interest only to a very limited extent; the pluralism of paradigms in Economic Geography hinders the adaptation of 
+new insights for school teaching; and ultimately, the position of Economic Geography within school subjects has not been conclu­
+sively clarified. The aim of this paper is to articulate the design-based development of the company case study. The cyclic-iterative 
+research process uses design-based research (DBR) as a methodological framework and combines teaching development with 
+empirical research. Design principles characterize the company case study as a teaching method. Throughout, a multi-stage pro­
+cess of operationalization concretizes the four abstract formulated design principles of actor centering, problem-based learning, 
+situated learning and regional anchoring. The qualitative analysis of the learning process decodes the individual knowledge const­
+ruction of central economic geographic concepts. The combination of problem-centered interviews, videographed teaching expe­
+riments and several intermediate surveys creates a learning process that can be analyzed in sub-segments. The core result of the 
+study is a so-called design framework, which contains the further developed design principles of the prototypical company case 
+study, as well as consequences drawn from the learning process analysis. These consequences generalize the context-related 
+results of the empirical surveys, in the form of statements about the structuring of learning processes, the economic geographic 
+specificities of knowledge acquisition, and the role of the pupil's interest.
+
+Keywords: Economic Geography, case study, design-based research, learning process, teaching experiment
+
+Autor: Dr. Jan Hiller | Pädagogische Hochschule Ludwigsburg | jan.hiller@ph-ludwigsburg.de 33
+
+mailto:jan.hiller%40ph-ludwigsburg.de
+
+
+ZGD 1 | 18 Design-basierte Entwicklung der Unternehmensfallstudie als Unterrichtsmethode
+
+Hierfür hält die Geographiedidaktik einige an­
+knüpfungsfähige Ansätze parat.
+Der abschließende Blick auf DBR als me­
+thodologischen Rahmen für geographie­
+didaktische Forschung stellt das Potenzial 
+zukünftiger DBP-Forschungen heraus: Die 
+unmittelbare Verbindung von Entwicklung 
+und Erforschung von Unterricht bringt evi­
+denzbasierte Innovationen inklusive fachdi­
+daktischer Theoriebildung hervor und leistet 
+damit einen Beitrag zur Überwindung des 
+viel zitierten Theorie-Praxis-Problems (Euler, 
+2014b). Konkret wird am Beispiel des vorlie­
+genden Projekts deutlich, wie der unterricht­
+liche Einsatz von Unternehmensfallstudien 
+dazu beitragen kann, die anfangs als nicht 
+zufriedenstellend bezeichnete Situation der 
+schulischen Wirtschaftsgeographie zu ver­
+bessern.
+
+Literatur
+Bathelt, H., Coe, N.M., Kerr, W., & Robert- 
+
+Nicoud, F. (2017). Editorial: Economic 
+Geography IMPULSES. Journal of 
+Economic Geography, 36(5), 927-933.
+DOI 10.1093/jeg/lbx028
+
+Bathelt, H. & Glöckler, J. (32012). Wirtschafts­
+geographie. Stuttgart: Ulmer UTB.
+
+Barnes, T.J. (2009). Economic Geography. In 
+R. Kitchin & N. Thrift (Hg.), International 
+Encyclopedia of Human Geography 
+(S. 315-327). Oxford: Elsevier.
+
+Braun, B. & Schulz, C. (2012). Wirtschafts­
+geographie. Stuttgart: Ulmer UTB.
+
+Brugger, P. & Kyburz-Graber, R. (2016). Un­
+terrichtssituationen meistern - 20 Fallstudien 
+aus der Sekundarstufe II. Bern: hep.
+
+Darlington, E. & Dünn, K. (2015). Motivations 
+for Case Study Selection in GCSE Geography. 
+Teaching Geography, 40(1), 20-21.
+
+DBRC (Design-Based Research Collective) 
+(2003). Design-Based Research: An Emer­
+ging Paradigm for Educational Inquiry. 
+Educational Researcher, 32(1), 5-8.
+DOI 10.3102/0013189X032001005.
+
+DGfG (Deutsche Gesellschaft für Geographie) 
+(Hg.) (92017). Bildungsstandards im Fach Geo­
+graphie für den Mittleren Schulabschluss mit 
+Aufgabenbeispielen. Bonn: Selbstverlag des 
+DGfG.
+
+Duda, C. (2014). Ganztagsbildung und das Kon­
+zept des Regionalen Lernens 21+ - Empiri­
+sche Studie zur Entwicklung fächerübergrei­
+fender Bildungsangebote zum Thema Globali­
+sierung. Geographiedidaktische Forschungen 
+(Band 52). Münster: MV-Verlag.
+
+Edelson, D.C. (2002). Design Research: What 
+We Learn When We Engage in Design. The 
+Journal of the Learning Sciences, 77(1), 10S- 
+121. DOI 10.1207/S15327809JLS1101_4.
+
+Einsiedler, W. (2011): Unterrichtsentwicklung 
+und didaktische Entwicklungs forschung. Bad 
+Heilbrunn: Klinkhardt.
+
+Essletzbichler, J. & Rigby, L.G. (2010). 
+Generalized Darwinism and Evolutionary 
+Economic Geography. In R. Boschma & R. 
+Martin (Hg.), The Handbook of Evolutionary 
+Economic Geography (S. 43-61). Chelten­
+ham: Edward Elgar.
+
+Euler, D. (2014a). Design-Research - A Para­
+digm Under Development. In D. Euler &
+P.F.E. Sloane (Hg.), Design-Based Research 
+(S. 15-44), Stuttgart: Franz Steiner.
+
+Euler, D. (2014b). Design Principles als Kristal­
+lisationspunkt für Praxisgestaltung und wis­
+senschaftliche Erkenntnisgewinnung. In D. 
+Euler & P.F.E. Sloane (Hg.), Design-Based 
+Research (S. 97-112). Stuttgart: Franz Steiner.
+
+Feulner, B., Ohl, U. & Hörmann, I. (2015). 
+Design-Based Research - ein Ansatz empiri­
+scher Forschung und seine Potenziale für die 
+Geographiedidaktik. Zeitschrift für Geogra­
+phiedidaktik | Journal of Geography Educa­
+tion, 43(3), 205-231.
+
+57
+
+
+
+Jan Hiller ZGD 1 I 18
+
+Flick, U. (52012). Qualitative Sozialforschung - Ei­
+ne Einführung. Reinbek bei Hamburg: Rowohlt.
+
+Frey, K. & Frey-Eiling, A. (2010). Ausgewählte 
+Methoden der Didaktik. Zürich: VDF/UTB.
+
+Glückler, J., Schmidt, A.M. & Wuttke, C. 
+(2015). Zwei Erzählungen regionaler Entwick­
+lung in Süddeutschland - vom Sektorenmo­
+dell zum Produktionssystem. Zeitschrift für 
+Wirtschaftsgeographie, 59(3), 171-187.
+DOI 10.1515/zfw-2015-0303
+
+Gmelch, A. (2001). Fallmethode. In G. Schweizer 
+& H.M. Selzer (Hg.), Methodenkompetenz 
+lehren und lernen - Beiträge zur Methoden­
+didaktik in Arbeitslehre, Wirtschaftslehre und 
+Wirtschaftsgeographie (S. 113-119). Dettel- 
+bach: Roll.
+
+Goeke, P. (2013). Wirtschaftsgeographische 
+Probleme im Unterricht: Das Beispiel Markt.
+In M. Rolfes & A. Uhlenwinkel (Hg.), Metzler
+Handbuch 2.0- Geographieunterricht
+(S. 544-551). Braunschweig: Westermann.
+
+Gräsel, C. (2011a). Die Kooperation von For­
+schung und Lehrer/innen bei der Realisierung 
+didaktischer Innovationen. In W. Einsiedler 
+(Hg.), Unterrichtsentwicklung und Didaktische 
+Entwicklungsforschung (S. 88-104). Bad Heil­
+brunn: Klinkhardt.
+
+Gräsel, C. (2011b). Die Verbreitung von Innova­
+tionen als Aufgabe der Unterrichtsforschung. 
+In O. Zlatkin-Troitschanskaia (Hg.), Stationen 
+Empirischer Bildungsforschung - Traditions­
+linien und Perspektiven (S. 320-328). Wies­
+baden: VS Verlag.
+
+Gräsel, C. & I. Parchmann, (2004). Die Ent­
+wicklung und Implementation von Konzep- 
+tensituierten, selbstgesteuerten Lernens. 
+Zeitschrift für Erziehungswissenschaft, 7 
+(3, Beiheft), 171-184.
+
+Gropengiesser, H. (2008). Qualitative Inhalts­
+analyse in der fachdidaktischen Lehr-Lernfor- 
+schung. In P. Mayring & M. Gläser-Zikuda 
+(Hg.), Die Praxis der Qualitativen Inhaltsanaly­
+se (S. 172-189). Weinheim, Basel: Beltz.
+
+Haversath, J.-B. (2006): „Ende des Transfers - 
+Alles aussteigen!". Geographie und ihre 
+Didaktik 34(2), 49-62.
+
+Hemmer, I. & Hemmer, M. (2010). Interesse 
+von Schülerinnen und Schülern an einzelnen 
+Themen, Regionen und Arbeitsweisen des 
+Geographieunterrichts - ein Vergleich zweier 
+Studien aus den Jahren 1995 und 2005. In I. 
+Hemmer & M. Hemmer (Hg.), Schülerinteres­
+se an Themen, Pegionen und Arbeitsweisen 
+des Geographieunterrichts. Geographiedidak­
+tische Forschungen (Band46) (S. 65-145). 
+Weingarten: Selbstverlag des HGD.
+
+Herrington, J., McKenney, S., Reeves, T.
+& Oliver, R. (2007). Design-Based Re­
+search and Doctoral Students: Guidelines 
+for Preparing a Dissertation Proposal. In C. 
+Montgomerie & J. Seale (Hg.), Proceedings 
+of World Conference on Educational Multi- 
+media, Hypermedia and Telecommunications 
+2007 (S. 4089-4097). Chesapeake: AACE.
+
+Hiller, J. & Kirchner, P. (2015). Vernetzte und 
+systemische Wirtschaft - Perspektiven für 
+eine ganzheitliche und akteursbezogene 
+Wirtschaftsgeographie, geographie heute 
+36(323), 2-11.
+
+Hiller, J. (2017). Die Unternehmensfallstudie als 
+Unterrichtsmethode für den Geographieunter­
+richt - Eine Design-Based-Research-Studie. 
+Geographiedidaktische Forschungen, Band 
+67. Münster: readbox unipress.
+
+Hüttermann, A. (2006). Geographie und Wirt­
+schaft - Synergien oder Konkurrenz im 
+Unterricht? In E. Kulke, H. Monheim & P. 
+Wittmann (Hg.), GrenzWerte. Tagungsberich­
+te und wissenschaftliche Abhandlungen. 55. 
+Deutscher Geographentag Trier 2005 
+(S. 341-350). Berlin: DGfG.
+
+Kaiser, F-J. & Kaminski, H. (42012). Methodik 
+des Ökonomieunterrichts - Grundlagen eines 
+handlungsorientierten Lernkonzepts mit Bei­
+spielen. Bad Heilbrunn: Klinkhardt.
+
+Kirchner, P. (2007). Die Didaktik gesellschafts­
+wissenschaftlicher Fächerverbünde und 
+die Umsetzung historisch-geographischer
+
+58
+
+
+
+ZGD 1 | 18 Design-basierte Entwicklung der Unternehmensfallstudie als Unterrichtsmethode
+
+Forschung. In G. Fritz & E. Wittneben (Hg.), 
+Landesgeschichte in Forschung und Unter­
+richt 3 (S. 85-96). Stuttgart: Kohlhammer.
+
+Kirchner, P. (2011). Die Cluster-Fegion Heil­
+bronn-Franken. Ubstadt-Weiher: Regional­
+kultur.
+
+Kirchner, P. & Hiller, J. (2016): Lernen mit der 
+Fegion - Unterrichtsmaterialien Heilbronn- 
+Franken. Ubstadt-Weiher: Regionalkultur.
+
+Köck, H. (2008). Exemplarik und Transfer in der 
+Geographie - Erkenntnis- und lerntheoreti­
+sche Grundlagen. Geographie und Schule, 
+30(176), 11-18.
+
+Krüger, M. (2010). Das Lernszenario VideoLern: 
+Selbstgesteuertes und kooperatives Lernen 
+mit Vorlesungsaufzeichnungen. Eine Design- 
+Based-Fesearch Studie. Aufgerufen am 
+18.09.2017 unter: http://athene-forschung. 
+unibw.de/doc/ 88469/88469.pdf
+
+Kuckartz, U. (22014). Qualitative Inhaltsanalyse. 
+Methoden, Praxis, Computerunterstützung. 
+Weinheim, Basel: Beltz Juventa.
+
+Lee, J. & Catling, S. (2016). What Do Geography 
+Textbook Authors in England Consider When 
+They Design Content and Select Case Stu­
+dies? International Fesearch in Geographical 
+and Environmental Education, 26(4), 342-356. 
+DOI 10.1080/10382046.2016.1220125
+
+Liefner, I. & Schätzl, L. (112017). Theorien der 
+Wirtschaftsgeographie. Paderborn: Ferdinand 
+Schöningh.
+
+Mandl, H., Gruber, H. & Renkl, A. (2002). 
+Situiertes Lernen in multimedialen Lernum­
+gebungen. In L. Issing & P. Klimsa (Hg.), 
+Information und Lernen mit Multimedia und 
+Internet - Lehrbuch für Studium und Praxis (S. 
+139-148). Weinheim: Beltz.
+
+Massing, P. (2006). Ökonomische Bildung in der 
+Schule. Positionen und Kontroversen. In G. 
+Weisseno (Hg.), Politik und Wirtschaft unter­
+richten (S. 80-92). Wiesbaden: VS Verlag für 
+Sozialwissenschaften.
+
+Mathes, K. (72011). Wirtschaft unterrichten. 
+Haam-Gruiten: Europa-Lehrmittel.
+
+Mayring, P. (112010). Qualitative Inhaltsanalyse - 
+Grundlagen und Techniken. Weinheim, Basel: 
+Beltz.
+
+McKenney, S. & Reeves, T. (2012). Conducting 
+Educational Design Fesearch. London, New 
+York: Routledge.
+
+Meier, B. (2013). Wirtschaft und Technik 
+unterrichten lernen. München: Oldenbourg.
+
+MKJS (Ministerium für Kultus, Jugend und 
+Sport Baden-Württemberg) (2004a). Bil­
+dungsplan Fealschule Baden-Württemberg 
+2004. Aufgerufen am 09.01.2018 unter: 
+http://www.bildungsplaene-bw.de/, Lde/LS/ 
+BP2004-2015
+
+MKJS (Ministerium für Kultus, Jugend und 
+Sport Baden-Württemberg) (2004b). Bil­
+dungsplan allgemein bildende Gymnasien 
+Baden-Württemberg 2004. Aufgerufen am 
+09.01.2018 unter: http://www.bildungsplae- 
+ne-bw.de/, Lde/LS/BP2004-2015
+
+MKJS (Ministerium für Kultus, Jugend und 
+Sport Baden-Württemberg) (2012). Bil­
+dungsplan Werkrealschule Baden-Württem­
+berg 2012. Aufgerufen am 09.01.2018 unter: 
+http://www.bildungsplaene-bw.de/ , Lde/LS/ 
+BP2004-2015
+
+MKJS (Ministerium für Kultus, Jugend 
+und Sport Baden-Württemberg) (2016). 
+Bildungsplan 2016. Aufgerufen am 
+09.01.2018 unter: http://www.bildungsplae- 
+ne-bw.de
+
+Petri, J. (2014). Fallstudien zur Analyse von 
+Lernpfaden. In D. Krüger, I. Parchmann & H. 
+Schecker (Hg.), Methoden in der naturwissen­
+schaftsdidaktischen Forschung (S. 95-105). 
+Berlin, Heidelberg: Springer Spektrum.
+
+Plomp, T. (2013). Educational Design Research: 
+An Introduction. In T. Plomp & N. Nieveen 
+(Hg.), Educational Design Fesearch - Part A 
+(S. 10-51). Enschede: SLO - Netherlands Ins­
+titute for Curriculum Development.
+
+59
+
+http://athene-forschung
+unibw.de/doc/
+http://www.bildungsplaene-bw.de/
+http://www.bildungsplae-ne-bw.de/
+http://www.bildungsplae-ne-bw.de/
+http://www.bildungsplaene-bw.de/
+http://www.bildungsplae-ne-bw.de
+http://www.bildungsplae-ne-bw.de
+
+
+Jan Hiller ZGD 1 | 18
+
+Reinfried, S. (2015a). Der Einfluss kognitiver 
+und motivationaler Faktoren auf die Konstruk­
+tion hydrologischen Wissens - eine Analyse 
+individueller Lernpfade. Zeitschrift für Geogra­
+phiedidaktik | Journal of Geography Education 
+43(2), 107-138.
+
+Reinfried, S. (2015b). Direkte Instruktion. In S. 
+Reinfried & H. Haubrich (Hg.), Geographie 
+unterrichten lernen - Die Didaktik der Geogra­
+phie (S. 134-141). Berlin: Cornelsen.
+
+Reinfried, S. & Tempelmann, S. (2014). Wie 
+Vorwissen das Lernen beeinflusst - Eine 
+Lernprozessstudie zur Wissenskonstruktion 
+des Treibhauseffekt-Konzepts. Zeitschrift für 
+Geographiedidaktik J Journal of Geography 
+Education, 42(V), 31-56.
+
+Reinmann, G. (2005). Innovation ohne For­
+schung? Ein Plädoyer für den Design-Based 
+Research Ansatz. Unterrichtswissenschaft, 
+33(1), 52-69.
+
+Reinmann, G. & Kahlert, J. (Hg.) (2007). Der 
+Nutzen wird vertagt - Bildungswissenschaf­
+ten im Spannungs feld zwischen wissen­
+schaftlicher Profilbildung und praktischem 
+Mehrwert. Lengerich: Pabst.
+
+Riemeier, T. (2005). Biologie verstehen: Die 
+Zelltheorie. Beiträge zur Didaktischen 
+Rekonstruktion, Band 7. Oldenburg: Didakti­
+sches Zentrum Carl von Ossietzky Universi­
+tät.
+
+Schneider, A. (2013). Problemorientierung und 
+Reflexivität. In D. Kanwischer (Hg.). Geo­
+graphiedidaktik (S. 34-45), Stuttgart: Gebr. 
+Borntraeger.
+
+Schockemöhle, J. (2009). Außerschulisches 
+regionales Lernen als Bildungsstrategie für 
+eine nachhaltige Entwicklung des Konzeptes 
+„Regionales Lernen 21+“. Geographiedidak­
+tische Forschungen, Band 44. Weingarten: 
+Selbstverlag des HGD.
+
+Steffe, L. & D'Ambrosio, B. (1996). Using 
+Teaching Experiments to Enhance Under- 
+standing of Students' Mathematics. In D. 
+Treagust, R. Duit & B. Fraser (Hg.),
+
+Improving Teaching and Learning in Science 
+and Mathematics (S. 65-78). Columbia Uni­
+versity: Teachers College Press.
+
+Tekrob GmbH (2015). Firmenhomepage. Auf­
+gerufen am 09.01.2018 unter http://www. 
+tekrob.de
+
+Thomi, W. (2012). Neue Wirtschaftsgeogra­
+phien? - Zum fachwissenschaftlichen 
+Entwicklungs(zu)stand der Wirtschaftsgeo­
+graphie. Zeitschrift für Wirtschaftsgeographie, 
+56(4), 274-283.
+
+Van den Akker, J. (1999). Principles and Me­
+thods of Development Research. In J. van 
+den Akker, R. Branch, K. Gustafson, N. 
+Nieveen & T. Plomp (Hg.), Design Approaches 
+and Tools in Education and Training (S. 1-14), 
+Dordrecht: Kluwer Academic Publishers.
+
+Weber, A. (2012): Problemorientiertes Lernen 
+- Was ist das, und wie geht das? Pädagogik, 
+64(7/8), 32-35.
+
+Weitz, B. O. (2007). Fallstudien im Ökonomie­
+unterricht. In T. Retzmann (Hg.), Methoden­
+training für den Ökonomieunterricht 
+(S. 101-120). Schwalbach: Wochenschau.
+
+Wilbers, J. & Duit, R. (2001). Untersuchun­
+gen zur Mikro-Struktur des analogischen 
+Denkens in Teaching Experiments. In S. von 
+Aufschnaiter & M. Welzel (Hg.), Nutzung 
+von Videodaten zur Untersuchung von Lehr- 
+Lern-Prozessen (S. 143-156). Münster: 
+Waxmann.
+
+Wilhelm, T. & Hopf, M. (2014). Design-For­
+schung. In: D. Krüger, I. Parchmann & H. 
+Schecket (Hg.), Methoden in der naturwissen­
+schaftsdidaktischen Forschung (S. 31-42). 
+Berlin, Heidelberg: Springer Spektrum.
+
+Witzel, A. (2000). Das problemzentrierte
+Interview. Forum Qualitative Sozialforschung. 
+Aufgerufen am 09.01.2018 unter: http:// 
+www.qualitative-research. net/index.php/fqs/ 
+article/view/%201132/2519
+
+60
+
+tekrob.de
+http://www.qualitative-research

@@ -1,0 +1,172 @@
+Mitteilungen der Österreichischen Geographischen Gesellschaft, 
+151.Jg. (Jahresband), Wien 2009, S. 277-290
+
+Kartographie und GIS
+
+Web Mapping 2.0
+
+Georg Gartner, Wien*
+
+mit 3 Abb. und 3 Tab. im Text
+
+Inhalt
+
+Summary........................................................................................................................277
+Zusammenfassung........................................................................................................ 278
+1 Einleitung.................................................................................................................278
+2 Web 2.0 und Web Mapping 2.0.............................................................................. 279
+3 Die Bedeutung von Web Mapping 2.0...................................................................284
+4 Kartographische Kommunikationsprozesse und Semiotik
+
+im Bereich von Web Mapping 2.0.........................................................................287
+5 Schluss...................................................................................................................... 289
+6 Literaturverzeichnis................................................................................................289
+
+Summary
+
+Web Mapping 2.0
+The following paper addresses some major aspects of the transformation of current 
+
+web mapping. Based on the idea, that collaborative and volunteer-led information 
+collections and dissemination systems are efficient, the so called Web 2.0 has become 
+very popular. These new ways of using the web alter the way in which information is 
+accessed and are applied in web mapping as well. Users often become map produc­
+ers and assemble data from many discrete and dispersed sites. Although these new 
+ways of using web mapping services have become very popular, many challenges and 
+problems exist. Some of them will be discussed in this paper.
+
+* Univ.-Prof. Dr. Georg Gartner, Institut für Geoinformation und Kartographie, Technische Universi­
+tät Wien. Erzherzog-Johann-Platz 1/127-2, A-1040 Wien; e-mail: georg.gartner@tuwien.ac.at, http:// 
+cartography .tuwien .ac .at
+
+mailto:georg.gartner%40tuwien.ac.at
+
+
+Web Mapping 2.0 289
+
+Es kann also gesagt werden, dass die Kartographie im Zeitalter partizipativer kar­
+tographischer Informationssysteme herausgefordert ist, ihre Regeln, Methoden und 
+Techniken so anzubieten, dass sie auf kollaborative Datensätze angewandt werden 
+können. Themen wie Generalisierung, Symbolisierung und Visualisierung werden 
+auch im Web Mapping 2.0 eine entscheidende Rolle spielen. Daneben wird aber dem 
+pragmatischen Aspekt der kartographischen Kommunikation noch größere Bedeutung 
+zukommen.
+
+5 Schluss
+
+In diesem Beitrag wurden Technologien vorgestellt, die für die Entwicklung des 
+Web 2.0 von Bedeutung sind, Charakteristika des Web Mapping 2.0 beschrieben und 
+Folgerungen für die Kartographie abgeleitet. Als entscheidend dafür, ob das Potenzial 
+des Web Mapping 2.0 ausgeschöpft werden kann, erwiesen sich eine geeignete kol­
+laborative und partizipative Nutzung, die Verfüg- und Übertragbarkeit von Standards 
+sowie die Entwicklung und Anwendung geeigneter Methoden der kartographischen 
+Gestaltung.
+
+Das Web 2.0 ermöglicht neue Anwendungen im Bereich der Kartographie. Es 
+ermöglicht neue Wege der Akquisition, Zusammenstellung und Publikation von raum­
+bezogenen Daten. Ein Nutzer kommentierte die Möglichkeiten und Chancen sowie 
+den Status quo des Web Mapping 2.0 in einem der dafür eingerichteten Internetdis­
+kussionsforen wie folgt: “Well, I know we are not quite there yet, but on the other 
+hand, isn’t it a weird situation where strangers do maps about my area? I mean, who 
+knows a region better than a local?“2)
+
+6 Literaturverzeichnis
+
+Berners-Lee T. (2000), Semantic Web - XML2000. - http://www.w3.org/2000/Talks/1206- 
+xml2k-tbl/slide 10-0.hmtl
+
+Berners-Lee T., Hendler J., Lassila O. (2001), The Semantic Web (= Scientific American 
+Magazine, 17).
+
+Bertin J. (1974), Graphische Sémiologie. Berlin - New York, De Gruyter.
+Best D. (2006), Web 2.0 Next Big Thing or Next Big Internet Bubble? Lecture Web Information 
+
+Systems. Eindhoven, Techn. Univ. Eindhoven.
+Cardoso J. (2007), The Semantic Web Vision: Where are We? In: IEEE Intelligent Systems, 
+
+September/October, S. 22-26.
+Cartwright W. (2009), Moving from map and geospatial information provision with the Web 
+
+to collaborative publishing using Web 2.0. In: Kriz K., Kainz W., Riedl A. (Hrsg.)
+
+!) http://highearthorbit.eom/cartographic-perspectives-on-the-doom-of-web-mapping/#comments
+
+http://www.w3.org/2000/Talks/1206-xml2k-tbl/slide
+http://www.w3.org/2000/Talks/1206-xml2k-tbl/slide
+http://highearthorbit.eom/cartographic-perspectives-on-the-doom-of-web-mapping/%2523comments
+
+
+290 Georg Gartner
+
+(2009), Geokommunikation im Umfeld der Geographie. Tagungsband zum Deutschen 
+Geographentag in Wien (= Wiener Schriften z. Geogr. u. Kartogr., 19), S. 9-22.
+
+Dransch D. (2004), Kartographie und Handlungstheorie. In: Koch W. (Hrsg.), Theorie 2003 
+(= Kartogr. Bausteine, 26). Dresden.
+
+Freitag U. (2008), Von der Physiographik zur kartographischen Kommunikation. In: KN, 58, 
+2, S. 59-67.
+
+Gibson R., Earle S. (2006), Google Map Hacks. Sebastopol, O’Reilly.
+Goodchild M.F. (2007), Citizens as Voluntary Sensors: Spatial Data Infrastructure in the World 
+
+of Web 2.0. In: Intern. Journal of Spatial Data Infrastructures Research, 2, S. 24-32. - 
+http://ijsdir.jrc .it/index.php/ijsdir/article/view File/28/22
+
+Gould P., White R. (1974), Mental Maps. Harmondsworth, Pelican Books.
+Greenmeier L., Gaudin S. (2008), Amid The Rush To Web 2.0, Some Words Of Warning. Web 
+
+2.0 - InformationWeek. - http://www.informationweek.com
+Jobst M. (2008), Ein semiotisches Modell für die kartographische Kommunikation mit 3D. 
+
+Wien, Techn. Univ. Wien, Diss.
+Kolacny A. (1970), Kartographische Informationen - ein Grundbegriff und Grundterminus der 
+
+modernen Kartographie. In: Intern. Jahrbuch f. Kartogr., Bd. X, S. 186-193.
+Kraak M.-J., Brown A. (Hrsg.) (2001), Web Cartography - Developments and Prospects. 
+
+London, Taylor & Francis.
+Kuhn T. (1962), The Structure of Scientific Revolutions. Chicago, The Univ. of Chicago Press. 
+MacEachren A.M. (1995), How Maps Work. New York, Guilford Press.
+Monmonier M. (1985), Technological Transitions in Cartography. Madison, Univ. of Wisconsin
+
+Press.
+Ogrissek R. (1987), Theoretische Kartographie. Gotha, Haack.
+O’Reilly T. (2005), What Is Web 2.0 - Design Patterns and Business Models for the Next Ge­
+
+neration of Software. - http://www.oreillynet.eom/pub/a/oreilly/tim/news/2005/09/30/  
+what-is-web-20 .html
+
+Peterson M.P. (Hrsg.) (2003), Maps and the Internet. Amsterdam, Elsevier.
+Robinson A., Petchenik B. (1975), The map as a communication system. In: The Cartographic 
+
+Journal, 12, 1, S. 7-15.
+Scholz T. (2008), Market Ideology and the Myths of Web 2.0 (= First Monday, 13,2).
+Sui D. (2007), Volunteered Geographic Information: A tetradic analysis using McLuhan’s law
+
+of the media. Workshop on Volunteered Geographic Information, December 13-14, 
+2007. - http://www.ncgia.ucsb.edu/projects/vgi/products.html
+
+Thrower N.J.W. (1999), Maps & Civilization: Cartography in Culture and Society. Chicago, 
+Univ. of Chicago Press.
+
+Turner A. (2006), Introduction to Neogeography. Sebastopol, O’Reilly Short Cuts.
+van Elzakker C., Nivala A.M., Pucher A., Forrest D. (Hrsg.) (2008), Caring for the Users:
+
+theme issue. In: The Cartographic Journal, 45, 2, S. 84-86.
+Wache H., Vögele T., Visser U., Stuckenschmidt H., Schuster G., Neumann S., Hübner S. 
+
+(2001), Ontology-Based Integration of Information. A Survey of Existing Approaches, 
+IJCAI-01 Workshop Ontologies and Information Sharing, 2001, Seattle.
+
+Wolodtschenko A. (2003), Cartography and Cartosemiotics: Interaction and Competition. 
+In: Proc. of the 21st Intern. Cartogr. Conf. (ICC), Durban, South Africa, 10-16 August 
+2003, S.197-198.
+
+Wood D. (2003), Cartography is Dead (Thank God!). In: Cartographic Perspectives, 45, S. 4-7.
+
+http://ijsdir.jrc
+http://ijsdir.jrc
+http://www.informationweek.com
+http://www.oreillynet.eom/pub/a/oreilly/tim/news/2005/09/30/
+http://www.ncgia.ucsb.edu/projects/vgi/products.html
