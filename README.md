@@ -15,3 +15,5 @@ Of particular interest should be the functions
 The gold data is in
 
 - resources/gold_references_...
+
+[![DOI](https://zenodo.org/badge/741889064.svg)](https://zenodo.org/doi/10.5281/zenodo.10985783)
